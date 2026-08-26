@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-26T16:59:54+00:00",
-  "duration_seconds": 5.5,
+  "generated_at": "2026-08-26T19:55:44+00:00",
+  "duration_seconds": 39.4,
   "sources_ok": 17,
   "sources_total": 20,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 816,
-    "unique_ids": 640,
-    "carried_over": 0,
+    "fetched": 815,
+    "unique_ids": 643,
+    "carried_over": 4,
     "expired_dropped": 0,
-    "duplicates_collapsed": 209,
-    "published": 431,
-    "gate_rejected": 130
+    "duplicates_collapsed": 208,
+    "published": 435,
+    "gate_rejected": 131
   },
   "sources": {
     "greenhouse:dimagi": "ok: 1 postings",
