@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-26T19:55:44+00:00",
-  "duration_seconds": 39.4,
+  "generated_at": "2026-08-26T21:46:25+00:00",
+  "duration_seconds": 40.1,
   "sources_ok": 17,
   "sources_total": 20,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 815,
-    "unique_ids": 643,
-    "carried_over": 4,
+    "fetched": 819,
+    "unique_ids": 657,
+    "carried_over": 12,
     "expired_dropped": 0,
-    "duplicates_collapsed": 208,
-    "published": 435,
-    "gate_rejected": 131
+    "duplicates_collapsed": 213,
+    "published": 444,
+    "gate_rejected": 126
   },
   "sources": {
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 3 postings",
-    "greenhouse:resolvetosavelives": "ok: 5 postings",
+    "greenhouse:resolvetosavelives": "ok: 4 postings",
     "rss:LSHTM all vacancies": "ok: 17 entries",
     "rss:LSHTM epidemiology and population health": "ok: 4 entries",
     "rss:LSHTM infectious and tropical diseases": "ok: 4 entries",
