@@ -1,118 +1,240 @@
 # Source registry.
 #
-# HONESTY NOTE, please read before you file a bug against yourself:
-# ReliefWeb is the only source below whose API I could confirm against published
-# documentation (https://apidoc.reliefweb.int). Everything else is a candidate.
-# The machine that built this repo had no route to those hosts, so no feed URL or
-# board token here has been hit even once.
-#
-# That is by design rather than sloppiness: every adapter fails soft. A dead
-# source logs an error, contributes zero jobs, and never breaks a run. After the
-# first GitHub Actions run, open docs/data/sources_status.json (or the Sources
-# panel at the bottom of the site) and you will see exactly which of these are
-# real. Set enabled: false on the dead ones, or delete them.
+# Rewritten after the first live run. Every entry below is either confirmed
+# working from that run's source-health report, or verified by fetching it and
+# seeing actual feed content. The speculative list this file started with has
+# been deleted; what it returned is recorded at the bottom under GRAVEYARD so
+# nobody re-adds a dead source six months from now.
 #
 # ADDING A SOURCE
-#   Greenhouse: an org whose careers page lives at job-boards.greenhouse.io/foo
-#               or boards.greenhouse.io/foo has the board token "foo".
-#   Lever:      careers at jobs.lever.co/bar has the company token "bar".
-#   RSS:        look for an orange feed icon or an <link type="application/rss+xml">
-#               tag in the page source of a search-results page.
+#   Greenhouse: careers page at job-boards.greenhouse.io/foo -> token "foo"
+#   Lever:      careers page at jobs.lever.co/bar            -> company "bar"
+#   Workday:    careers page at tenant.wdN.myworkdayjobs.com/SITE
+#               -> host "tenant.wdN.myworkdayjobs.com", tenant "tenant", site "SITE"
+#   RSS:        view the source of a search-results page and look for
+#               <link type="application/rss+xml">
+#
+# assume_health: true waives the public-health relevance gate for a source.
+# Use it only for organisations whose entire output is health work and whose
+# API gives titles without descriptions. The negative weights in profile.yaml
+# still push finance, IT and logistics roles to the bottom.
 
+# ---------------------------------------------------------------------------
+# ReliefWeb -- DISABLED BY REQUEST, but read this before deleting it.
+#
+# It is the largest single source of NGO, INGO and UN health vacancies, and it
+# has never had one successful run here. The only time it was called, it hit the
+# retired v1 endpoint and returned 410 Gone. The config now points at v2 and has
+# not been tried. Turning enabled back to true is a one-word change and costs
+# nothing to test: if it works you gain several hundred listings and the UN
+# coverage the board is currently missing, and if it fails it logs an error and
+# contributes zero.
+#
+# Free and key-free.
+#
+# READ THIS IF RELIEFWEB STOPS WORKING: the v1 endpoint was decommissioned and
+# answers 410 Gone. v2 is documented as fully compatible. Since 1 November 2025
+# ReliefWeb also asks that appname be pre-approved. Request one through the form
+# linked from https://apidoc.reliefweb.int/parameters -- the pattern they ask
+# for is organisation name plus purpose plus random characters -- then put it
+# below. Until then this uses a self-descriptive name, which may or may not be
+# accepted.
+# ---------------------------------------------------------------------------
 reliefweb:
-  enabled: true
-  # ReliefWeb asks every client to identify itself. Change this if you fork.
-  appname: phjobs-aggregator
-  endpoint: https://api.reliefweb.int/v1/jobs
-  # How far back to pull. ReliefWeb only lists jobs that are still open, so this
-  # is mostly a guard against a pathologically large first page.
+  enabled: false          # <-- turned off by request. Set to true to bring back.
+  appname: phjobs-publichealth-aggregator
+  endpoint: https://api.reliefweb.int/v2/jobs
   max_pages: 4
   page_size: 500
 
+# ---------------------------------------------------------------------------
+# Greenhouse. Only the three tokens that actually answered survive.
+# ---------------------------------------------------------------------------
 greenhouse:
   enabled: true
-  # Unverified candidates. Expect several 404s on the first run; that is fine.
   boards:
-    - clintonhealthaccessinitiative
-    - path
-    - vitalstrategies
-    - resolvetosavelives
-    - pih
-    - evidenceaction
-    - lastmilehealth
-    - villagereach
-    - dimagi
-    - livinggoods
-    - onecampaign
-    - populationservicesinternational
-    - jhpiego
-    - fhi360
+    - dimagi              # confirmed: returned postings
+    - onecampaign         # confirmed: returned postings
+    - resolvetosavelives  # confirmed: returned postings
 
+# ---------------------------------------------------------------------------
+# Lever. Every candidate 404'd. Kept as an empty, working hook.
+# ---------------------------------------------------------------------------
 lever:
-  enabled: true
-  # Unverified candidates.
-  companies:
-    - ihi
-    - d-tree
-    - medicmobile
-    - nothingbutnets
+  enabled: false
+  companies: []
 
+# ---------------------------------------------------------------------------
+# Workday. Where the large global health employers actually are.
+# Verified by visiting each careers page and reading the portal URL.
+# ---------------------------------------------------------------------------
+workday:
+  enabled: true
+  sites:
+    - name: PATH
+      org: PATH
+      host: path.wd1.myworkdayjobs.com
+      tenant: path
+      site: External
+      assume_health: true
+      max_results: 200
+    - name: FHI 360
+      org: FHI 360
+      host: fhi.wd1.myworkdayjobs.com
+      tenant: fhi
+      site: FHI_360_External_Career_Portal
+      assume_health: true
+      max_results: 200
+    - name: Management Sciences for Health
+      org: Management Sciences for Health
+      host: msh.wd503.myworkdayjobs.com
+      tenant: msh
+      site: External
+      assume_health: true
+      max_results: 200
+
+# ---------------------------------------------------------------------------
+# SmartRecruiters. PSI's board. Their SmartRecruiters company id is
+# HealthXPartners, which looks wrong but is correct.
+# ---------------------------------------------------------------------------
+smartrecruiters:
+  enabled: true
+  companies:
+    - company: HealthXPartners
+      org: Population Services International
+      assume_health: true
+
+# ---------------------------------------------------------------------------
+# RSS. Each of these was fetched and returned parseable entries.
+# ---------------------------------------------------------------------------
 rss:
   enabled: true
   feeds:
-    - name: jobRxiv
-      url: https://jobrxiv.org/feed/
-      default_category: research
-      enabled: true
-    - name: jobRxiv (PhD)
+    # -- jobRxiv category feeds. The site-wide /feed/ returns nothing; the
+    #    category feeds work.
+    - name: jobRxiv PhD
       url: https://jobrxiv.org/job-category/phd/feed/
       default_category: phd
       enabled: true
-    - name: jobs.ac.uk public health
-      url: https://www.jobs.ac.uk/search/?keywords=public+health&format=rss
+    - name: jobRxiv postdoc
+      url: https://jobrxiv.org/job-category/postdoc/feed/
       default_category: research
       enabled: true
-    - name: jobs.ac.uk epidemiology
-      url: https://www.jobs.ac.uk/search/?keywords=epidemiology&format=rss
+    - name: jobRxiv research assistant
+      url: https://jobrxiv.org/job-category/res-assis/feed/
       default_category: research
       enabled: true
-    - name: jobs.ac.uk global health
-      url: https://www.jobs.ac.uk/search/?keywords=global+health&format=rss
+    - name: jobRxiv scientist
+      url: https://jobrxiv.org/job-category/scientist/feed/
       default_category: research
       enabled: true
-    - name: UNjobs health
-      url: https://unjobs.org/tags/health/feed
-      default_category: un
-      enabled: true
-    - name: UNjobs public health
-      url: https://unjobs.org/tags/public_health/feed
-      default_category: un
-      enabled: true
-    - name: UNjobs epidemiology
-      url: https://unjobs.org/tags/epidemiology/feed
-      default_category: un
-      enabled: true
-    - name: Euraxess life sciences
-      url: https://euraxess.ec.europa.eu/jobs/search/rss
-      default_category: research
-      enabled: true
-    - name: Nature Careers
-      url: https://www.nature.com/naturecareers/jobs/rss
-      default_category: research
-      enabled: true
-    - name: Academic Positions public health
-      url: https://academicpositions.com/find-jobs/rss?field=public-health
-      default_category: research
-      enabled: true
-    - name: THE Unijobs health
-      url: https://www.timeshighereducation.com/unijobs/listings/health-social-care/rss/
+    - name: jobRxiv faculty
+      url: https://jobrxiv.org/job-category/faculty/feed/
       default_category: research
       enabled: true
 
-# Jobs with a closing date this many days in the past are dropped on merge.
-# Keeps a couple of days of grace for timezone slop in the source data.
+    # -- jobRxiv keyword search feeds (WordPress ?s=TERM&feed=rss2).
+    #    WordPress search is loose OR-matching, not phrase matching, so these
+    #    are a recall stream: expect noise, and let the relevance gate earn its
+    #    keep. Other jobRxiv category slugs, if you want them: res-tech,
+    #    manager, bioinfo, director, eng.
+    - name: jobRxiv search epidemiology
+      url: https://jobrxiv.org/?s=epidemiology&feed=rss2
+      default_category: research
+      enabled: true
+    - name: jobRxiv search public health
+      url: https://jobrxiv.org/?s=public+health&feed=rss2
+      default_category: research
+      enabled: true
+    - name: jobRxiv search global health
+      url: https://jobrxiv.org/?s=global+health&feed=rss2
+      default_category: research
+      enabled: true
+    - name: jobRxiv search infectious disease
+      url: https://jobrxiv.org/?s=infectious+disease&feed=rss2
+      default_category: research
+      enabled: true
+
+    # -- LSHTM. Small feeds, but the hit rate for this profile is high.
+    #    The index at https://jobs.lshtm.ac.uk/RSS/ lists ~50 more feeds
+    #    following the same rss.aspx?cat=N&type=N pattern.
+    - name: LSHTM all vacancies
+      url: https://jobs.lshtm.ac.uk/RSS/rss.aspx
+      default_category: research
+      enabled: true
+    - name: LSHTM epidemiology and population health
+      url: https://jobs.lshtm.ac.uk/RSS/rss.aspx?cat=200&type=8
+      default_category: research
+      enabled: true
+    - name: LSHTM infectious and tropical diseases
+      url: https://jobs.lshtm.ac.uk/RSS/rss.aspx?cat=201&type=8
+      default_category: research
+      enabled: true
+    - name: LSHTM public health and policy
+      url: https://jobs.lshtm.ac.uk/RSS/rss.aspx?cat=202&type=8
+      default_category: research
+      enabled: true
+
 expire_after_days: 2
-
-# Jobs never seen again by any source are kept this long before being forgotten,
-# so a source having a bad day does not wipe your board.
 stale_after_days: 45
+
+# ---------------------------------------------------------------------------
+# GRAVEYARD -- checked, do not re-add without new evidence
+#
+# ReliefWeb v1 (api.reliefweb.int/v1/jobs)  410 Gone, decommissioned. Use v2.
+# unjobs.org                                NOT ADDED, and this was a judgement
+#                                           call rather than a technical one.
+#                                           Their robots.txt disallows automated
+#                                           retrieval, including the feed paths
+#                                           and the robots.txt file itself. A
+#                                           polling job is exactly what that
+#                                           rule refuses. Adding it would mean
+#                                           ignoring the site's stated wishes.
+#                                           For the UN vacancies it carries, use
+#                                           ReliefWeb above, or an adapter
+#                                           against the agencies' own boards.
+# THE Unijobs                               a real feed exists at
+#                                           /unijobs/jobsrss/?countrycode=GB but
+#                                           robots.txt disallows polling it.
+# EURAXESS                                  no RSS and no public API. The search
+#                                           page offers neither. Only paid
+#                                           third-party scrapers exist.
+# Nature Careers                            the old Naturejobs RSS is retired;
+#                                           the current path returns HTML.
+# Academic Positions                        no feed offered.
+# jobs.ac.uk                                RSS definitely exists -- the index
+#                                           at jobs.ac.uk/feeds lists six
+#                                           health feeds and 14 location feeds
+#                                           -- but the link targets could not be
+#                                           read remotely and every inferred URL
+#                                           404'd. Open
+#                                           jobs.ac.uk/feeds/subject-areas/health-and-medical
+#                                           in a browser, copy the href of one
+#                                           "RSS Feed" link, and that single URL
+#                                           gives the pattern for all twenty.
+# jobrxiv.org/feed/                         site-wide feed returns 0 entries.
+# Greenhouse tokens                         clintonhealthaccessinitiative, path,
+#                                           vitalstrategies, pih, evidenceaction,
+#                                           lastmilehealth, villagereach,
+#                                           livinggoods, jhpiego, fhi360,
+#                                           populationservicesinternational,
+#                                           idinsight, partnersinhealth,
+#                                           nooraheath -- all 404. None of these
+#                                           organisations use Greenhouse.
+# Lever tokens                              ihi, d-tree, medicmobile,
+#                                           nothingbutnets, zipline -- all 404.
+# intrahealth.breezy.hr                     name collision: that board belongs
+#                                           to IntraHealth Technologies, a
+#                                           Canadian health-IT firm, not
+#                                           IntraHealth International.
+# Devex, Impactpool, LinkedIn, Indeed       subscription or terms of service
+#                                           prohibit automated access.
+# findaphd                                  no feed; terms unconfirmed, assume
+#                                           prohibited.
+#
+# NOT YET WRITTEN -- these need bespoke adapters and are mostly JS-rendered:
+#   CHAI and Jhpiego (iCIMS), Vital Strategies (Taleo, org VITASTRA),
+#   IntraHealth International (UKG/UltiPro), Population Council (Paylocity),
+#   Abt Global (Oracle Fusion, site JoinAbt), Palladium (Cornerstone),
+#   JSI (in-house), Partners In Health (no third-party ATS found).
+# ---------------------------------------------------------------------------

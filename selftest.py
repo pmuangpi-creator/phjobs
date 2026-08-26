@@ -108,6 +108,18 @@ check("keeps nutrition via the ReliefWeb theme tag", "Nutrition Coordinator" in 
 check("drops the driver", "Driver" not in titles)
 check("drops the fundraising manager", "Fundraising Manager" not in titles, str(titles))
 
+# assume_health waives the gate for sources that give a title and nothing else
+bare = job(source="Workday:PATH", title="Senior Program Officer", org="PATH",
+           url="https://example.org/wd/1", summary="Seattle, WA",
+           extra={"assume_health": True})
+check("assume_health waives the gate", classify.passes_gate(bare, gate))
+bare_no_flag = job(source="Workday:PATH", title="Senior Program Officer", org="PATH",
+                   url="https://example.org/wd/2", summary="Seattle, WA")
+check("without assume_health the same record is dropped",
+      not classify.passes_gate(bare_no_flag, gate))
+check("assume_health is stripped before publishing",
+      "assume_health" not in classify.enrich(dict(bare), PROFILE))
+
 print("\nclassification")
 enriched = [classify.enrich(dict(k), PROFILE) for k in kept]
 by_title = {e["title"]: e for e in enriched}
@@ -150,6 +162,19 @@ with tempfile.TemporaryDirectory() as tmp:
     path.write_text(json.dumps({"jobs": first}), encoding="utf-8")
     prev = merge.load_previous(path)
     check("previous run reloads", len(prev) == len(first))
+
+    # Regression: demo rows were carried into the first live run as "unconfirmed"
+    with_demo = [dict(j) for j in first] + [
+        {"id": "demo1", "title": "Fake", "url": "https://example.invalid/1", "demo": True},
+        {"id": "demo2", "title": "Fake 2", "url": "https://example.invalid/2", "demo": True},
+    ]
+    path.write_text(json.dumps({"jobs": with_demo}), encoding="utf-8")
+    cleaned = merge.load_previous(path)
+    check("demo rows are discarded when reloading previous data",
+          len(cleaned) == len(first) and not any(j.get("demo") for j in cleaned.values()),
+          f"{len(cleaned)} vs {len(first)}")
+    path.write_text(json.dumps({"jobs": first}), encoding="utf-8")
+    prev = merge.load_previous(path)
 
     for j in first:
         j["first_seen"] = None

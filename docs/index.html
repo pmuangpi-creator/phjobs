@@ -120,12 +120,6 @@ footer{margin-top:26px;color:var(--ink-2);font-size:12px;line-height:1.7}
 <body>
 <div class="wrap">
 
-<div id="demoBanner" hidden style="background:var(--warn);color:#fff;padding:10px 16px;border-radius:9px;margin:14px 0 0;font-size:13.5px">
-  <b>Demo data.</b> These six postings are invented so you can see the layout before
-  the first real fetch. Run <code>python3 run_refresh.py</code>, or let GitHub Actions
-  run once, and they are replaced by live listings.
-</div>
-
 <header class="top">
   <div class="top-row">
     <h1>Public Health Jobs</h1>
@@ -257,8 +251,9 @@ $("themeBtn").onclick = function(){
 fetch("data/jobs.json", {cache:"no-store"})
   .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
   .then(function(payload){
-    state.all = (payload.jobs || []).filter(function(j){ return j && j.title && j.url; });
-    if(payload.demo) $("demoBanner").hidden = false;
+    state.all = (payload.jobs || []).filter(function(j){
+      return j && j.title && j.url && !j.demo;
+    });
     var when = payload.generated_at ? new Date(payload.generated_at) : null;
     $("stamp").textContent = state.all.length + " open positions · updated " +
       (when ? when.toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}) : "unknown");

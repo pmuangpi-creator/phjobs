@@ -42,11 +42,14 @@ def load_yaml(name: str) -> dict:
 def main() -> int:
     ap = argparse.ArgumentParser(description="Refresh the public health jobs board")
     ap.add_argument("--dry-run", action="store_true", help="fetch and report, write nothing")
-    ap.add_argument("--only", default="", help="reliefweb | greenhouse | lever | rss")
+    # No demo mode. It existed so the page could be looked at before the first
+    # real fetch, and its fabricated rows then survived that fetch as
+    # "unconfirmed" listings. The board has real data now; the generator is gone
+    # and merge.load_previous still discards any demo row it finds.
     ap.add_argument(
-        "--demo",
-        action="store_true",
-        help="write six fabricated postings so the page can be viewed offline",
+        "--only",
+        default="",
+        help="reliefweb | greenhouse | lever | workday | smartrecruiters | rss",
     )
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
@@ -64,14 +67,6 @@ def main() -> int:
 
     raw: list[dict] = []
     status: dict[str, str] = {}
-
-    if args.demo:
-        from pipeline import demo
-
-        raw = demo.samples()
-        status["demo"] = f"ok: {len(raw)} fabricated postings"
-        log.warning("DEMO MODE: writing invented postings, not real vacancies")
-        only = "__demo__"
 
     # --- ReliefWeb -------------------------------------------------------
     rw = sources.get("reliefweb") or {}
@@ -95,6 +90,20 @@ def main() -> int:
     lv = sources.get("lever") or {}
     if lv.get("enabled", True) and only in ("", "lever"):
         got, st = boards.fetch_lever(lv.get("companies") or [])
+        raw.extend(got)
+        status.update(st)
+
+    # --- Workday ---------------------------------------------------------
+    wd = sources.get("workday") or {}
+    if wd.get("enabled", True) and only in ("", "workday"):
+        got, st = boards.fetch_workday(wd.get("sites") or [])
+        raw.extend(got)
+        status.update(st)
+
+    # --- SmartRecruiters -------------------------------------------------
+    sr = sources.get("smartrecruiters") or {}
+    if sr.get("enabled", True) and only in ("", "smartrecruiters"):
+        got, st = boards.fetch_smartrecruiters(sr.get("companies") or [])
         raw.extend(got)
         status.update(st)
 
@@ -124,8 +133,7 @@ def main() -> int:
     log.info("relevance gate: kept %s, dropped %s as not public health", len(kept), rejected)
 
     # --- merge -----------------------------------------------------------
-    # Demo mode starts from nothing so fabricated rows never mix with real ones.
-    previous = {} if args.demo else merge.load_previous(JOBS_PATH)
+    previous = merge.load_previous(JOBS_PATH)
     jobs, stats = merge.merge(
         kept,
         previous,
@@ -153,7 +161,6 @@ def main() -> int:
     DATA.mkdir(parents=True, exist_ok=True)
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "demo": bool(args.demo),
         "count": len(jobs),
         "by_category": counts,
         "stats": stats,

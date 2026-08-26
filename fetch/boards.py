@@ -4,9 +4,15 @@ Both run open, key-free JSON endpoints that exist so that an employer's own
 website can render its careers page. Reading them is the intended use, and each
 call is one request per organisation per run.
 
-Worth adding later: Workday (POST to /wday/cxs/{tenant}/{site}/jobs), SmartRecruiters
-(api.smartrecruiters.com/v1/companies/{id}/postings) and Ashby. Several large
-INGOs sit on those three, and each is maybe forty lines in this same shape.
+Workday and SmartRecruiters are here too, for the same reason. A survey of where
+the large global health employers actually keep their vacancies found almost none
+of them on Greenhouse or Lever: PATH, FHI 360 and Management Sciences for Health
+are on Workday, PSI is on SmartRecruiters, and CHAI, Jhpiego, Vital Strategies,
+IntraHealth, Population Council, Abt and Palladium are spread across iCIMS,
+Taleo, UKG, Paylocity, Oracle Fusion and Cornerstone. Workday and SmartRecruiters
+were worth adapters because one adapter each covers several employers. The rest
+are JS-rendered and would need a browser, which is out of scope for a static
+build.
 """
 from __future__ import annotations
 
@@ -18,6 +24,8 @@ log = logging.getLogger("phjobs.boards")
 
 GREENHOUSE = "https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
 LEVER = "https://api.lever.co/v0/postings/{company}?mode=json&limit=200"
+WORKDAY = "https://{host}/wday/cxs/{tenant}/{site}/jobs"
+SMARTRECRUITERS = "https://api.smartrecruiters.com/v1/companies/{company}/postings"
 
 
 def _pretty(token: str) -> str:
@@ -114,5 +122,122 @@ def fetch_lever(companies: list[str]) -> tuple[list[dict], dict[str, str]]:
                 )
             )
         status[f"lever:{company}"] = f"ok: {len(data)} postings"
+
+    return results, status
+
+
+def fetch_workday(sites: list[dict]) -> tuple[list[dict], dict[str, str]]:
+    """Workday's own careers-page backend.
+
+    Undocumented but stable and identical across tenants: a POST returning
+    {total, jobPostings:[{title, externalPath, locationsText, postedOn}]}. The
+    list carries no description, so the relevance gate would see only the title.
+    That is what assume_health in the config is for -- these are health
+    organisations, so their whole board is in scope and the negative weights in
+    profile.yaml push the finance and IT roles to the bottom on their own.
+    """
+    results: list[dict] = []
+    status: dict[str, str] = {}
+
+    for site in sites:
+        name = site.get("name") or site.get("tenant", "?")
+        host, tenant, path = site.get("host"), site.get("tenant"), site.get("site")
+        if not (host and tenant and path):
+            status[f"workday:{name}"] = "error: needs host, tenant and site"
+            continue
+
+        url = WORKDAY.format(host=host, tenant=tenant, site=path)
+        found = 0
+        try:
+            for offset in range(0, int(site.get("max_results", 200)), 20):
+                data = post(
+                    url,
+                    json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": ""},
+                    headers={"Content-Type": "application/json", "Accept": "application/json"},
+                ).json()
+                postings = data.get("jobPostings") or []
+                if not postings:
+                    break
+                for p in postings:
+                    ext = p.get("externalPath") or ""
+                    loc = p.get("locationsText") or ""
+                    countries, city = _split_location(loc.split(" and ")[0])
+                    bullets = " ".join(str(b) for b in (p.get("bulletFields") or []))
+                    results.append(
+                        job(
+                            source=f"Workday:{name}",
+                            title=p.get("title") or "",
+                            org=site.get("org") or _pretty(tenant),
+                            url=f"https://{host}/{path}{ext}" if ext else f"https://{host}/{path}",
+                            countries=countries,
+                            city=city,
+                            posted=parse_date(p.get("startDate") or p.get("postedOn")),
+                            summary=f"{loc}. {bullets}".strip(". "),
+                            extra={"assume_health": bool(site.get("assume_health"))},
+                        )
+                    )
+                    found += 1
+                if len(postings) < 20 or found >= int(data.get("total") or 0):
+                    break
+            status[f"workday:{name}"] = f"ok: {found} postings"
+        except Exception as exc:  # noqa: BLE001
+            status[f"workday:{name}"] = f"error: {exc}"
+            log.info("workday %s unavailable (%s)", name, exc)
+
+    return results, status
+
+
+def fetch_smartrecruiters(companies: list[dict]) -> tuple[list[dict], dict[str, str]]:
+    """SmartRecruiters' documented, key-free postings API.
+
+    The list endpoint gives title and location but no description. Fetching each
+    posting's detail would mean one request per vacancy per run, which is more
+    traffic than this is worth, so assume_health carries these the same way it
+    carries Workday.
+    """
+    results: list[dict] = []
+    status: dict[str, str] = {}
+
+    for entry in companies:
+        if isinstance(entry, str):
+            entry = {"company": entry}
+        company = entry.get("company")
+        if not company:
+            status["smartrecruiters:?"] = "error: no company id"
+            continue
+
+        try:
+            data = get(
+                SMARTRECRUITERS.format(company=company),
+                params={"limit": 100, "offset": 0},
+            ).json()
+        except Exception as exc:  # noqa: BLE001
+            status[f"smartrecruiters:{company}"] = f"error: {exc}"
+            log.info("smartrecruiters %s unavailable (%s)", company, exc)
+            continue
+
+        postings = data.get("content") or []
+        for p in postings:
+            loc = p.get("location") or {}
+            city = loc.get("city") or ""
+            country = loc.get("country") or ""
+            ref = p.get("ref") or ""
+            uuid = p.get("id") or ""
+            results.append(
+                job(
+                    source=f"SmartRecruiters:{company}",
+                    title=p.get("name") or "",
+                    org=entry.get("org") or _pretty(company),
+                    url=p.get("applyUrl")
+                    or (f"https://jobs.smartrecruiters.com/{company}/{uuid}" if uuid else ref),
+                    countries=[country] if country else [],
+                    city=city,
+                    posted=parse_date(p.get("releasedDate") or p.get("createdOn")),
+                    summary=", ".join(x for x in [city, country, loc.get("region") or ""] if x),
+                    contract=(p.get("typeOfEmployment") or {}).get("label", ""),
+                    extra={"assume_health": bool(entry.get("assume_health"))},
+                )
+            )
+        status[f"smartrecruiters:{company}"] = f"ok: {len(postings)} postings"
 
     return results, status

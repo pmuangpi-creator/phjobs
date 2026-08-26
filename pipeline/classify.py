@@ -214,6 +214,13 @@ def _any(patterns: list[str], text: str) -> bool:
 
 
 def passes_gate(rec: dict, gate_terms: list[str]) -> bool:
+    # Some sources hand over a title and a city and nothing else. When the
+    # employer is itself a health organisation, judging its whole board on the
+    # title alone throws away real vacancies, so the config can waive the gate
+    # per source. The negative weights still sink the finance and IT roles.
+    if rec.get("assume_health"):
+        return True
+
     text = _haystack(rec)
     # ReliefWeb's own taxonomy is a strong positive signal on its own.
     for tag in (rec.get("rw_themes") or []) + (rec.get("rw_categories") or []):
@@ -355,6 +362,6 @@ def enrich(rec: dict, profile: dict) -> dict:
     rec["language_flags"] = language_flags_for(rec, profile.get("language_flags") or [])
     # Source-specific scratch fields have done their work by now; keeping them
     # would roughly double the size of jobs.json for no benefit to the page.
-    for key in ("_body", "hint_category", "rw_categories", "rw_themes"):
+    for key in ("_body", "hint_category", "rw_categories", "rw_themes", "assume_health"):
         rec.pop(key, None)
     return rec

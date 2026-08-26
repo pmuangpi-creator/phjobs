@@ -59,7 +59,22 @@ def load_previous(path: Path) -> dict[str, dict]:
         log.warning("could not read previous data (%s); starting fresh", exc)
         return {}
     jobs = payload.get("jobs") if isinstance(payload, dict) else payload
-    return {j["id"]: j for j in (jobs or []) if j.get("id")}
+
+    # Fabricated placeholder rows must never survive into a real run. Without
+    # this, the carry-forward rule below treats them as postings a source had a
+    # bad day on and keeps them alive for 45 days, which is exactly what
+    # happened on the first live fetch.
+    kept, dropped = {}, 0
+    for j in jobs or []:
+        if not j.get("id"):
+            continue
+        if j.get("demo"):
+            dropped += 1
+            continue
+        kept[j["id"]] = j
+    if dropped:
+        log.info("discarded %s demo rows from the previous data file", dropped)
+    return kept
 
 
 def _is_expired(rec: dict, grace_days: int) -> bool:

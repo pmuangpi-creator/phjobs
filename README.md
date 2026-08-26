@@ -35,32 +35,41 @@ on your phone.
 
 ## Sources
 
-| Source | How it is read | Confidence |
+| Source | Covers | How it is read |
 |---|---|---|
-| ReliefWeb | Documented public API, no key ([apidoc.reliefweb.int](https://apidoc.reliefweb.int)) | Confirmed against the docs |
-| Greenhouse boards | `boards-api.greenhouse.io`, the endpoint employers' own careers pages call | Endpoint pattern is well known; the specific board tokens in the config are guesses |
-| Lever boards | `api.lever.co/v0/postings`, same idea | Same |
-| RSS and Atom feeds | Whatever `config/sources.yaml` lists | Every feed URL is a guess |
+| ReliefWeb | NGO, INGO and UN humanitarian health vacancies. The largest single source. | Documented public API v2, no key ([apidoc.reliefweb.int](https://apidoc.reliefweb.int)) |
+| Workday | PATH, FHI 360, Management Sciences for Health | The JSON endpoint each employer's own careers page calls |
+| SmartRecruiters | Population Services International | Documented public postings API, no key |
+| Greenhouse | Dimagi, ONE Campaign, Resolve to Save Lives | `boards-api.greenhouse.io`, no key |
+| RSS | jobRxiv (PhD, postdoc, RA, scientist, faculty, plus keyword searches) and LSHTM | Plain feeds listed in `config/sources.yaml` |
 
-Read that last column carefully. **ReliefWeb is the only source whose API I could
-confirm.** The machine that wrote this repo had no network route to any of the
-others, so no feed URL and no board token here has ever been fetched. They are
-plausible candidates, not verified ones.
+Every entry in `config/sources.yaml` has now either returned data in a live run
+or been verified by fetching it. The speculative list this project started with
+is gone; what each candidate actually returned is recorded in the GRAVEYARD
+comment at the bottom of that file, so nobody re-adds a dead source in six
+months.
 
-This is why every adapter fails soft. A dead source logs an error, contributes
-zero jobs, and never breaks a run. After your first run, open the **Source
-health** panel at the bottom of the page, or `docs/data/sources_status.json`, and
-you will see exactly which ones are real. Delete the dead ones or set
-`enabled: false`.
+Two things worth knowing about the ReliefWeb entry. Its v1 endpoint was
+decommissioned mid-project and now answers 410 Gone, which is why the config
+points at v2. And since 1 November 2025 ReliefWeb asks that the `appname`
+parameter be pre-approved through a short form linked from
+[their parameter docs](https://apidoc.reliefweb.int/parameters). Request one and
+put it in the config; the self-descriptive name in there now may or may not keep
+working.
 
-ReliefWeb alone carries a large share of the NGO, INGO and UN humanitarian
-listings, so the board is useful even if every other source turns out to be
-wrong. The academic and PhD side is the fragmented part and will need the most
-pruning.
+Every adapter fails soft. A dead source logs an error, contributes zero jobs, and
+never breaks a run. The **Source health** panel at the bottom of the page, and
+`docs/data/sources_status.json`, show what each one returned on the last run.
 
-Deliberately not included: Devex and Impactpool (subscription), LinkedIn and
-Indeed (terms of service prohibit this), FindAPhD (same). Adding them would mean
-scraping against their terms.
+Deliberately not included, on terms rather than on capability: Devex and
+Impactpool (subscription), LinkedIn and Indeed (terms prohibit it), FindAPhD
+(same), unjobs.org and Times Higher Education Unijobs (both have feeds, both
+disallow automated retrieval in robots.txt).
+
+Still missing, and each needing its own adapter: CHAI and Jhpiego are on iCIMS,
+Vital Strategies on Taleo, IntraHealth on UKG, Population Council on Paylocity,
+Abt on Oracle Fusion, Palladium on Cornerstone. All are JS-rendered, so they
+would need a headless browser rather than an HTTP call.
 
 ---
 

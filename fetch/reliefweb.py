@@ -10,6 +10,13 @@ Deliberately no server-side theme filter. ReliefWeb's taxonomy puts plenty of
 health-adjacent work under Coordination, Protection or Education, and the
 relevance gate in pipeline/classify.py is both broader and easier to tune than
 their facet list. Fetch wide, filter locally.
+
+VERSION HISTORY, because this bit us once already: the v1 endpoint was
+decommissioned and now answers 410 Gone. v2 is documented as fully compatible
+with v1, so the field names and request shape below are unchanged; only the base
+URL moved. Since 1 November 2025 ReliefWeb also asks that the appname be
+pre-approved through a form linked from https://apidoc.reliefweb.int/parameters.
+See the note in config/sources.yaml.
 """
 from __future__ import annotations
 
@@ -61,7 +68,7 @@ def _first(value) -> str:
 
 
 def fetch(cfg: dict) -> list[dict]:
-    endpoint = cfg.get("endpoint", "https://api.reliefweb.int/v1/jobs")
+    endpoint = cfg.get("endpoint", "https://api.reliefweb.int/v2/jobs")
     appname = cfg.get("appname", "phjobs-aggregator")
     page_size = int(cfg.get("page_size", 500))
     max_pages = int(cfg.get("max_pages", 4))
