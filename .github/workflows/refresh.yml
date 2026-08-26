@@ -1,0 +1,69 @@
+name: Refresh jobs
+
+on:
+  schedule:
+    # Four times a day, UTC. 01:00 UTC is 08:00 in Bangkok, so the morning run
+    # has finished by the time you open the page.
+    - cron: "0 1,7,13,19 * * *"
+  workflow_dispatch:        # the "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "fetch/**"
+      - "pipeline/**"
+      - "run_refresh.py"
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and rebuild the board
+        run: python run_refresh.py -v
+
+      - name: Report source health in the run summary
+        if: always()
+        run: |
+          echo "## Source health" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          cat docs/data/sources_status.json >> $GITHUB_STEP_SUMMARY || echo "{}" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Commit the updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --staged --quiet; then
+            echo "No change in listings, nothing to commit."
+          else
+            git commit -m "data: refresh listings ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
+
+      - name: Upload data as an artifact for debugging
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jobs-data
+          path: docs/data/
+          retention-days: 7

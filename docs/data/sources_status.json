@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-26T15:29:41+00:00",
+  "duration_seconds": 0.0,
+  "sources_ok": 1,
+  "sources_total": 1,
+  "wrote_data": true,
+  "dry_run": false,
+  "stats": {
+    "fetched": 6,
+    "unique_ids": 6,
+    "carried_over": 0,
+    "expired_dropped": 0,
+    "duplicates_collapsed": 0,
+    "published": 6,
+    "gate_rejected": 0
+  },
+  "sources": {
+    "demo": "ok: 6 fabricated postings"
+  }
+}

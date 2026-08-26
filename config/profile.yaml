@@ -1,0 +1,213 @@
+# Relevance profile. Edit freely -- no code changes needed.
+#
+# The public-health GATE decides whether a job appears at all.
+# The SCORE decides what floats to the top. Score never removes a job.
+
+# ---------------------------------------------------------------------------
+# GATE: a job must match at least one of these to be counted as public health.
+# Matched case-insensitively against title + organisation + summary.
+# Substrings, so "epidemiolog" catches epidemiology / epidemiologist / epidemiological.
+# ---------------------------------------------------------------------------
+health_gate:
+  - public health
+  - global health
+  - health system
+  - health polic
+  - health econom
+  - health promotion
+  - health service
+  - health research
+  - one health
+  - planetary health
+  - epidemiolog
+  - biostatistic
+  - health statistic
+  - disease
+  - outbreak
+  - epidemic
+  - pandemic
+  - surveillance
+  - tuberculosis
+  - " tb "
+  - hiv
+  - aids
+  - malaria
+  - hepatitis
+  - cholera
+  - measles
+  - polio
+  - dengue
+  - zoonot
+  - antimicrobial
+  - vaccin
+  - immunis
+  - immuniz
+  - nutrition
+  - malnutrition
+  - stunting
+  - maternal
+  - newborn
+  - child health
+  - reproductive health
+  - sexual and reproductive
+  - srhr
+  - family planning
+  - mental health
+  - psychosocial
+  - substance use
+  - harm reduction
+  - drug use
+  - noncommunicable
+  - non-communicable
+  - " ncd"
+  - diabetes
+  - cardiovascular
+  - hypertension
+  - cancer
+  - clinical trial
+  - clinical research
+  - implementation research
+  - implementation science
+  - health financing
+  - universal health coverage
+  - primary health care
+  - primary care
+  - community health
+  - medical officer
+  - medical coordinator
+  - health coordinator
+  - health manager
+  - health advisor
+  - health specialist
+  - health officer
+  - health delegate
+  - nurse
+  - nursing
+  - midwif
+  - physician
+  - clinician
+  - pharmac
+  - laborator
+  - diagnostic
+  - water sanitation
+  - wash
+  - hygiene
+  - environmental health
+  - occupational health
+  - climate and health
+  - health and climate
+  - infection
+  - infectious
+  - medicine
+  - medical
+
+# ---------------------------------------------------------------------------
+# SCORE: points added when a term is found. Higher = closer to your profile.
+# ---------------------------------------------------------------------------
+theme_weights:
+  tuberculosis: 12
+  " tb ": 10
+  hiv: 10
+  harm reduction: 12
+  drug use: 6
+  opioid: 6
+  implementation research: 12
+  implementation science: 12
+  operational research: 8
+  noncommunicable: 8
+  non-communicable: 8
+  " ncd": 8
+  climate: 8
+  humanitarian: 8
+  conflict-affected: 10
+  fragile: 6
+  displaced: 6
+  refugee: 6
+  epidemiolog: 9
+  biostatistic: 8
+  mixed methods: 8
+  qualitative: 5
+  cohort: 5
+  systematic review: 5
+  surveillance: 6
+  case finding: 8
+  active case finding: 10
+  community health worker: 6
+  mobile clinic: 8
+  health system: 5
+  monitoring and evaluation: 6
+  " m&e": 6
+  maternal: 4
+  reproductive: 4
+  mental health: 5
+  one health: 5
+  global health: 4
+  low- and middle-income: 5
+  lmic: 5
+
+country_weights:
+  myanmar: 15
+  thailand: 12
+  bangladesh: 8
+  singapore: 12
+  netherlands: 8
+  germany: 8
+  united kingdom: 8
+  australia: 8
+  sweden: 6
+  finland: 6
+  canada: 6
+  norway: 5
+  denmark: 5
+  belgium: 5
+  switzerland: 5
+  portugal: 6
+  cambodia: 6
+  laos: 6
+  viet nam: 5
+  vietnam: 5
+  indonesia: 5
+  philippines: 5
+  nepal: 5
+  india: 4
+  kenya: 4
+  home based: 6
+  remote: 6
+
+category_weights:
+  phd: 14
+  research: 12
+  un: 8
+  ngo: 6
+  gov: 4
+  other: 0
+
+# Penalties. Applied when found in the title. Keeps obvious mismatches low.
+negative_weights:
+  intern: -8
+  volunteer: -4
+  fundraising: -6
+  sales: -10
+  marketing: -8
+  driver: -15
+  security guard: -15
+  accountant: -10
+  finance officer: -8
+  logistics assistant: -6
+  it officer: -8
+  receptionist: -15
+  cleaner: -15
+
+# Languages you do not read. A job whose title or summary demands one of these
+# gets flagged (not removed) so you can spot it at a glance.
+language_flags:
+  - fluency in french
+  - french is required
+  - french speaking
+  - fluent in arabic
+  - fluent in spanish
+  - fluent in portuguese
+  - fluent in russian
+  - native german
+  - fluent in vietnamese
+  - fluent in thai

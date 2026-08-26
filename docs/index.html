@@ -1,0 +1,579 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Public Health Jobs Board</title>
+<meta name="description" content="Aggregated public health, global health and research vacancies from ReliefWeb, employer boards and academic feeds.">
+<style>
+:root{
+  --bg:#f7f7f5; --panel:#ffffff; --panel-2:#fbfbfa; --ink:#16211f; --ink-2:#5b6866;
+  --line:#e3e4e0; --line-2:#d3d5d0; --accent:#0f6d5f; --accent-ink:#ffffff;
+  --warn:#a8500f; --danger:#a3282b; --good:#22664f;
+  --chip:#eef1ef; --shadow:0 1px 2px rgba(20,30,28,.06),0 4px 16px rgba(20,30,28,.05);
+  --radius:10px; --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#121514; --panel:#191d1c; --panel-2:#1f2422; --ink:#e8ebe9; --ink-2:#98a4a1;
+    --line:#2a2f2e; --line-2:#3a413f; --accent:#3fae96; --accent-ink:#08201c;
+    --warn:#d98b45; --danger:#e07b7e; --good:#5fc4a3; --chip:#232827;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121514; --panel:#191d1c; --panel-2:#1f2422; --ink:#e8ebe9; --ink-2:#98a4a1;
+  --line:#2a2f2e; --line-2:#3a413f; --accent:#3fae96; --accent-ink:#08201c;
+  --warn:#d98b45; --danger:#e07b7e; --good:#5fc4a3; --chip:#232827;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.25);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+button,select,input{font:inherit;color:inherit}
+
+/* ---------- layout ---------- */
+.wrap{max-width:1500px;margin:0 auto;padding:0 20px 80px}
+header.top{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 0 12px;margin-bottom:18px}
+.top-row{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+h1{font-size:19px;margin:0;letter-spacing:-.01em;font-weight:650}
+.meta{color:var(--ink-2);font-size:12.5px;font-family:var(--mono)}
+.spacer{flex:1}
+.iconbtn{background:var(--panel);border:1px solid var(--line-2);border-radius:8px;padding:6px 11px;cursor:pointer;font-size:12.5px;color:var(--ink-2)}
+.iconbtn:hover{border-color:var(--accent);color:var(--ink)}
+
+.searchbar{display:flex;gap:9px;margin-top:12px;flex-wrap:wrap}
+.searchbar input[type=search]{flex:1;min-width:240px;background:var(--panel);border:1px solid var(--line-2);border-radius:9px;padding:10px 13px;outline:none}
+.searchbar input[type=search]:focus{border-color:var(--accent)}
+.searchbar select{background:var(--panel);border:1px solid var(--line-2);border-radius:9px;padding:10px 11px;cursor:pointer}
+
+.tabs{display:flex;gap:5px;margin-top:12px;flex-wrap:wrap}
+.tab{background:transparent;border:1px solid transparent;border-radius:999px;padding:5px 13px;cursor:pointer;font-size:13.5px;color:var(--ink-2)}
+.tab:hover{background:var(--chip)}
+.tab.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:560}
+.tab .n{opacity:.65;font-family:var(--mono);font-size:11.5px;margin-left:5px}
+
+.cols{display:grid;grid-template-columns:250px 1fr;gap:26px;align-items:start}
+@media (max-width:900px){.cols{grid-template-columns:1fr}aside.filters{position:static !important;max-height:none !important}}
+
+/* ---------- filters ---------- */
+aside.filters{position:sticky;top:172px;max-height:calc(100vh - 195px);overflow-y:auto;padding:2px 6px 0 0}
+.fgroup{margin-bottom:20px}
+.fgroup h3{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-2);margin:0 0 9px;font-weight:600}
+.fgroup label{display:flex;align-items:center;gap:8px;padding:3px 0;cursor:pointer;font-size:13.5px}
+.fgroup label:hover{color:var(--accent)}
+.fgroup input[type=checkbox]{accent-color:var(--accent);width:14px;height:14px;flex:none}
+.fgroup .cnt{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--ink-2)}
+.fgroup select,.fgroup input[type=text]{width:100%;background:var(--panel);border:1px solid var(--line-2);border-radius:8px;padding:7px 9px}
+.scrolly{max-height:190px;overflow-y:auto;padding-right:4px}
+.linkbtn{background:none;border:none;color:var(--accent);cursor:pointer;font-size:12px;padding:0;text-decoration:underline}
+
+/* ---------- cards ---------- */
+.jobs{display:flex;flex-direction:column;gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow);position:relative}
+.card.saved{border-color:var(--accent)}
+.card.isnew::before{content:"";position:absolute;left:0;top:12px;bottom:12px;width:3px;border-radius:3px;background:var(--accent)}
+.card h2{font-size:15.5px;margin:0 0 5px;font-weight:600;line-height:1.35;padding-right:80px}
+.card h2 a{text-decoration:none}
+.card h2 a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+.org{color:var(--ink-2);font-size:13.5px;margin-bottom:8px}
+.org b{color:var(--ink);font-weight:560}
+.facts{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:9px}
+.pill{background:var(--chip);border-radius:999px;padding:2.5px 9px;font-size:11.5px;color:var(--ink-2);white-space:nowrap}
+.pill.cat{background:var(--accent);color:var(--accent-ink);font-weight:560}
+.pill.soon{background:transparent;border:1px solid var(--warn);color:var(--warn);font-weight:560}
+.pill.urgent{background:var(--danger);color:#fff;font-weight:600}
+.pill.newbadge{background:transparent;border:1px solid var(--accent);color:var(--accent);font-weight:600}
+.pill.flag{background:transparent;border:1px dashed var(--warn);color:var(--warn)}
+.snippet{color:var(--ink-2);font-size:13px;line-height:1.55;margin:0 0 10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card.open .snippet{-webkit-line-clamp:unset;display:block;white-space:pre-wrap}
+.actions{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.act{background:transparent;border:1px solid var(--line-2);border-radius:7px;padding:4px 10px;font-size:12px;cursor:pointer;color:var(--ink-2)}
+.act:hover{border-color:var(--accent);color:var(--accent)}
+.act.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.act.apply{border-color:var(--accent);color:var(--accent);font-weight:560;text-decoration:none;display:inline-block}
+.act.apply:hover{background:var(--accent);color:var(--accent-ink)}
+.scorebadge{position:absolute;top:14px;right:16px;font-family:var(--mono);font-size:11px;color:var(--ink-2);background:var(--chip);border-radius:6px;padding:2px 7px}
+
+.empty{text-align:center;padding:70px 20px;color:var(--ink-2)}
+.empty h2{color:var(--ink);font-size:17px;margin:0 0 8px}
+.more{display:block;width:100%;margin-top:14px;padding:11px;background:var(--panel);border:1px dashed var(--line-2);border-radius:9px;cursor:pointer;color:var(--ink-2)}
+.more:hover{border-color:var(--accent);color:var(--accent)}
+.more[hidden]{display:none}   /* display:block above would otherwise beat [hidden] */
+
+/* ---------- sources panel ---------- */
+details.sources{margin-top:34px;border-top:1px solid var(--line);padding-top:18px}
+details.sources summary{cursor:pointer;color:var(--ink-2);font-size:13px}
+.srcgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:5px;margin-top:14px;font-family:var(--mono);font-size:11.5px}
+.srcrow{display:flex;gap:8px;padding:5px 8px;background:var(--panel);border-radius:6px;border:1px solid var(--line)}
+.srcrow .dot{width:7px;height:7px;border-radius:50%;flex:none;margin-top:5px}
+.dot.ok{background:var(--good)}.dot.bad{background:var(--danger)}.dot.off{background:var(--line-2)}
+.srcrow .nm{flex:1;color:var(--ink);word-break:break-word}
+.srcrow .st{color:var(--ink-2);text-align:right;max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+footer{margin-top:26px;color:var(--ink-2);font-size:12px;line-height:1.7}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:9px;font-size:13.5px;transition:transform .22s ease;z-index:60}
+.toast.show{transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div id="demoBanner" hidden style="background:var(--warn);color:#fff;padding:10px 16px;border-radius:9px;margin:14px 0 0;font-size:13.5px">
+  <b>Demo data.</b> These six postings are invented so you can see the layout before
+  the first real fetch. Run <code>python3 run_refresh.py</code>, or let GitHub Actions
+  run once, and they are replaced by live listings.
+</div>
+
+<header class="top">
+  <div class="top-row">
+    <h1>Public Health Jobs</h1>
+    <span class="meta" id="stamp">loading…</span>
+    <span class="spacer"></span>
+    <button class="iconbtn" id="csvBtn" title="Download the current list in your tracker's column order">Export CSV</button>
+    <button class="iconbtn" id="themeBtn">Theme</button>
+  </div>
+
+  <div class="searchbar">
+    <input type="search" id="q" placeholder="Search title, organisation, description, country…" autocomplete="off">
+    <select id="sort">
+      <option value="score">Sort: best match</option>
+      <option value="new">Sort: newest first</option>
+      <option value="deadline">Sort: closing soonest</option>
+      <option value="org">Sort: organisation</option>
+    </select>
+  </div>
+
+  <div class="tabs" id="tabs"></div>
+</header>
+
+<div class="cols">
+  <aside class="filters" id="filters"></aside>
+  <main>
+    <div class="jobs" id="jobs"></div>
+    <button class="more" id="moreBtn" hidden>Show more</button>
+
+    <details class="sources">
+      <summary>Source health &mdash; which feeds are actually working</summary>
+      <div class="srcgrid" id="srcgrid"></div>
+      <footer>
+        A source marked red returned nothing on the last run. That is usually a
+        wrong URL or board token in <code>config/sources.yaml</code>, not an
+        outage. Fix it or set <code>enabled: false</code>.
+      </footer>
+    </details>
+
+    <footer>
+      Listings are fetched from public feeds and link straight back to the
+      original posting. Always confirm the deadline on the source page before
+      you rely on it; several boards publish dates in local time without saying
+      which locale.
+      <br>Saved and hidden jobs are kept in this browser only. Nothing is uploaded.
+    </footer>
+  </main>
+</div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+"use strict";
+
+/* ------------------------------------------------------------------ *
+ * storage: localStorage where available, memory when it is not
+ * ------------------------------------------------------------------ */
+var mem = {};
+var store = {
+  get: function(k, d){
+    try { var v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); }
+    catch(e){ return (k in mem) ? mem[k] : d; }
+  },
+  set: function(k, v){
+    try { localStorage.setItem(k, JSON.stringify(v)); }
+    catch(e){ mem[k] = v; }
+  }
+};
+
+var CATS = {
+  phd:      "PhD",
+  research: "Research",
+  ngo:      "NGO / INGO",
+  un:       "UN / multilateral",
+  gov:      "Government",
+  other:    "Other health"
+};
+
+var state = {
+  all: [], view: [], tab: "all", q: "", sort: "score", limit: 40,
+  cats: {}, regions: {}, sources: {}, seniorities: {}, themes: {},
+  deadline: "any", remoteOnly: false, hideStale: false,
+  saved: store.get("ph.saved", {}),
+  hidden: store.get("ph.hidden", {}),
+  lastVisit: store.get("ph.lastVisit", null)
+};
+
+var $ = function(id){ return document.getElementById(id); };
+var esc = function(s){
+  return String(s == null ? "" : s)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;");
+};
+
+function daysUntil(iso){
+  if(!iso) return null;
+  var d = new Date(iso + "T23:59:59Z");
+  if(isNaN(d)) return null;
+  return Math.ceil((d - new Date()) / 86400000);
+}
+function daysSince(iso){
+  if(!iso) return null;
+  var d = new Date(iso + "T00:00:00Z");
+  if(isNaN(d)) return null;
+  return Math.floor((new Date() - d) / 86400000);
+}
+function toast(msg){
+  var t = $("toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toast._t); toast._t = setTimeout(function(){ t.classList.remove("show"); }, 2200);
+}
+
+/* ------------------------------------------------------------------ *
+ * theme
+ * ------------------------------------------------------------------ */
+var savedTheme = store.get("ph.theme", null);
+if(savedTheme) document.documentElement.setAttribute("data-theme", savedTheme);
+$("themeBtn").onclick = function(){
+  var cur = document.documentElement.getAttribute("data-theme");
+  var next = cur === "dark" ? "light" : cur === "light" ? "" : "dark";
+  if(next) document.documentElement.setAttribute("data-theme", next);
+  else document.documentElement.removeAttribute("data-theme");
+  store.set("ph.theme", next);
+};
+
+/* ------------------------------------------------------------------ *
+ * load
+ * ------------------------------------------------------------------ */
+fetch("data/jobs.json", {cache:"no-store"})
+  .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  .then(function(payload){
+    state.all = (payload.jobs || []).filter(function(j){ return j && j.title && j.url; });
+    if(payload.demo) $("demoBanner").hidden = false;
+    var when = payload.generated_at ? new Date(payload.generated_at) : null;
+    $("stamp").textContent = state.all.length + " open positions · updated " +
+      (when ? when.toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}) : "unknown");
+    buildFilters(); buildTabs(); render();
+    store.set("ph.lastVisit", new Date().toISOString().slice(0,10));
+  })
+  .catch(function(err){
+    $("jobs").innerHTML = '<div class="empty"><h2>No data file yet</h2><p>' +
+      'Could not load <code>data/jobs.json</code> (' + esc(err.message) + ').</p>' +
+      '<p>Run <code>python3 run_refresh.py</code>, or wait for the first ' +
+      'GitHub Actions run to finish.</p></div>';
+    $("stamp").textContent = "no data";
+  });
+
+fetch("data/sources_status.json", {cache:"no-store"})
+  .then(function(r){ return r.ok ? r.json() : null; })
+  .then(function(s){ if(s) renderSources(s); })
+  .catch(function(){});
+
+/* ------------------------------------------------------------------ *
+ * filters
+ * ------------------------------------------------------------------ */
+function tally(key){
+  var counts = {};
+  state.all.forEach(function(j){
+    var vals = key === "theme" ? (j.themes || [])
+             : key === "source" ? [(j.source || "").split(":")[0]]
+             : [j[key]];
+    vals.forEach(function(v){ if(v) counts[v] = (counts[v] || 0) + 1; });
+  });
+  return Object.keys(counts).sort(function(a,b){ return counts[b] - counts[a]; })
+    .map(function(k){ return [k, counts[k]]; });
+}
+
+function checkboxGroup(title, key, entries, bucket, cap){
+  var open = entries.slice(0, cap || 999);
+  var html = '<div class="fgroup"><h3>' + esc(title) + '</h3>' +
+    (entries.length > (cap || 999) ? '<div class="scrolly">' : '');
+  entries.forEach(function(e){
+    var id = key + "|" + e[0];
+    html += '<label><input type="checkbox" data-b="' + esc(bucket) + '" data-v="' + esc(e[0]) + '"' +
+      (state[bucket][e[0]] ? " checked" : "") + '>' +
+      '<span>' + esc(key === "category" ? (CATS[e[0]] || e[0]) : e[0]) + '</span>' +
+      '<span class="cnt">' + e[1] + '</span></label>';
+  });
+  html += (entries.length > (cap || 999) ? '</div>' : '') + '</div>';
+  return html;
+}
+
+function buildFilters(){
+  var h = "";
+  h += checkboxGroup("Category", "category", tally("category"), "cats");
+  h += checkboxGroup("Region", "region", tally("region"), "regions", 8);
+  h += '<div class="fgroup"><h3>Closing date</h3><select id="dl">' +
+       '<option value="any">Any</option>' +
+       '<option value="7">Within 7 days</option>' +
+       '<option value="14">Within 14 days</option>' +
+       '<option value="30">Within 30 days</option>' +
+       '<option value="has">Has a stated deadline</option>' +
+       '<option value="none">No deadline given</option>' +
+       '</select></div>';
+  h += checkboxGroup("Seniority", "seniority", tally("seniority"), "seniorities", 8);
+  h += checkboxGroup("Theme", "theme", tally("theme"), "themes", 10);
+  h += checkboxGroup("Source", "source", tally("source"), "sources", 8);
+  h += '<div class="fgroup"><h3>Options</h3>' +
+       '<label><input type="checkbox" id="remoteOnly"><span>Remote / home based</span></label>' +
+       '<label><input type="checkbox" id="hideStale"><span>Hide unconfirmed (not seen last run)</span></label>' +
+       '<p style="margin:10px 0 0"><button class="linkbtn" id="clearBtn">Clear all filters</button></p>' +
+       '</div>';
+  $("filters").innerHTML = h;
+
+  $("filters").addEventListener("change", function(ev){
+    var el = ev.target;
+    if(el.dataset && el.dataset.b){
+      var bucket = el.dataset.b, v = el.dataset.v;
+      if(el.checked) state[bucket][v] = 1; else delete state[bucket][v];
+    } else if(el.id === "dl"){ state.deadline = el.value; }
+    else if(el.id === "remoteOnly"){ state.remoteOnly = el.checked; }
+    else if(el.id === "hideStale"){ state.hideStale = el.checked; }
+    state.limit = 40; render();
+  });
+  $("clearBtn").onclick = function(){
+    state.cats = {}; state.regions = {}; state.sources = {};
+    state.seniorities = {}; state.themes = {};
+    state.deadline = "any"; state.remoteOnly = false; state.hideStale = false;
+    state.q = ""; $("q").value = ""; buildFilters(); state.limit = 40; render();
+  };
+}
+
+function buildTabs(){
+  var newCount = state.all.filter(isNew).length;
+  var savedCount = Object.keys(state.saved).length;
+  var hiddenCount = Object.keys(state.hidden).length;
+  $("tabs").innerHTML =
+    tabBtn("all", "All", state.all.length - hiddenCount) +
+    tabBtn("new", "New since last visit", newCount) +
+    tabBtn("closing", "Closing in 7 days", state.all.filter(function(j){
+      var d = daysUntil(j.deadline); return d !== null && d >= 0 && d <= 7; }).length) +
+    tabBtn("saved", "Saved", savedCount) +
+    tabBtn("hidden", "Hidden", hiddenCount);
+  Array.prototype.forEach.call($("tabs").children, function(b){
+    b.onclick = function(){ state.tab = b.dataset.t; state.limit = 40; buildTabs(); render(); };
+  });
+}
+function tabBtn(id, label, n){
+  return '<button class="tab' + (state.tab === id ? " on" : "") + '" data-t="' + id + '">' +
+    esc(label) + '<span class="n">' + n + '</span></button>';
+}
+
+function isNew(j){
+  if(!state.lastVisit) return false;
+  return (j.first_seen || "") > state.lastVisit;
+}
+
+/* ------------------------------------------------------------------ *
+ * filtering + render
+ * ------------------------------------------------------------------ */
+$("q").addEventListener("input", function(e){
+  state.q = e.target.value.trim().toLowerCase();
+  state.limit = 40;
+  clearTimeout($("q")._t); $("q")._t = setTimeout(render, 140);
+});
+$("sort").addEventListener("change", function(e){ state.sort = e.target.value; render(); });
+$("moreBtn").onclick = function(){ state.limit += 60; render(); };
+
+function anyChecked(bucket){ return Object.keys(state[bucket]).length > 0; }
+
+function matches(j){
+  if(state.tab === "hidden") { if(!state.hidden[j.id]) return false; }
+  else if(state.hidden[j.id]) return false;
+
+  if(state.tab === "saved" && !state.saved[j.id]) return false;
+  if(state.tab === "new" && !isNew(j)) return false;
+  if(state.tab === "closing"){
+    var d = daysUntil(j.deadline);
+    if(d === null || d < 0 || d > 7) return false;
+  }
+
+  if(anyChecked("cats") && !state.cats[j.category]) return false;
+  if(anyChecked("regions") && !state.regions[j.region]) return false;
+  if(anyChecked("seniorities") && !state.seniorities[j.seniority]) return false;
+  if(anyChecked("sources") && !state.sources[(j.source||"").split(":")[0]]) return false;
+  if(anyChecked("themes") && !(j.themes||[]).some(function(t){ return state.themes[t]; })) return false;
+  if(state.remoteOnly && !j.remote) return false;
+  if(state.hideStale && j.stale) return false;
+
+  if(state.deadline !== "any"){
+    var dd = daysUntil(j.deadline);
+    if(state.deadline === "has" && !j.deadline) return false;
+    if(state.deadline === "none" && j.deadline) return false;
+    if(/^\d+$/.test(state.deadline)){
+      if(dd === null || dd < 0 || dd > parseInt(state.deadline,10)) return false;
+    }
+  }
+
+  if(state.q){
+    var hay = (j.title + " " + j.org + " " + (j.summary||"") + " " +
+      (j.countries||[]).join(" ") + " " + (j.city||"") + " " +
+      (j.themes||[]).join(" ")).toLowerCase();
+    var terms = state.q.split(/\s+/);
+    for(var i=0;i<terms.length;i++){ if(hay.indexOf(terms[i]) === -1) return false; }
+  }
+  return true;
+}
+
+function sortFn(a,b){
+  if(state.sort === "new") return (b.first_seen||"") < (a.first_seen||"") ? -1 : 1;
+  if(state.sort === "org") return (a.org||"").localeCompare(b.org||"");
+  if(state.sort === "deadline"){
+    var da = a.deadline || "9999-12-31", db = b.deadline || "9999-12-31";
+    return da < db ? -1 : da > db ? 1 : 0;
+  }
+  return (b.score||0) - (a.score||0);
+}
+
+function render(){
+  state.view = state.all.filter(matches).sort(sortFn);
+  var slice = state.view.slice(0, state.limit);
+  if(!slice.length){
+    $("jobs").innerHTML = '<div class="empty"><h2>Nothing matches</h2>' +
+      '<p>Loosen a filter, or clear them all in the sidebar.</p></div>';
+    $("moreBtn").hidden = true;
+    return;
+  }
+  $("jobs").innerHTML = slice.map(card).join("");
+  $("moreBtn").hidden = state.view.length <= state.limit;
+  $("moreBtn").textContent = "Show more (" + (state.view.length - state.limit) + " remaining)";
+  wireCards();
+}
+
+function card(j){
+  var dd = daysUntil(j.deadline);
+  var loc = [(j.city||""), (j.countries||[]).join(", ")].filter(Boolean).join(" · ") || "Location not stated";
+  var facts = [];
+  facts.push('<span class="pill cat">' + esc(CATS[j.category] || j.category) + '</span>');
+  if(isNew(j)) facts.push('<span class="pill newbadge">new</span>');
+  if(dd !== null){
+    var cls = dd <= 3 ? "urgent" : dd <= 10 ? "soon" : "";
+    var txt = dd < 0 ? "closed" : dd === 0 ? "closes today" : "closes in " + dd + "d";
+    facts.push('<span class="pill ' + cls + '">' + txt + '</span>');
+  }
+  if(j.seniority) facts.push('<span class="pill">' + esc(j.seniority) + '</span>');
+  if(j.contract) facts.push('<span class="pill">' + esc(j.contract) + '</span>');
+  if(j.remote) facts.push('<span class="pill">remote</span>');
+  if(j.stale) facts.push('<span class="pill flag">unconfirmed</span>');
+  (j.language_flags||[]).slice(0,2).forEach(function(f){
+    facts.push('<span class="pill flag">' + esc(f) + '</span>');
+  });
+  (j.themes||[]).slice(0,4).forEach(function(t){
+    facts.push('<span class="pill">' + esc(t) + '</span>');
+  });
+
+  var ago = daysSince(j.first_seen);
+  var seen = ago === null ? "" : ago === 0 ? "found today" : "found " + ago + "d ago";
+
+  return '<article class="card' + (state.saved[j.id] ? " saved" : "") +
+    (isNew(j) ? " isnew" : "") + '" data-id="' + esc(j.id) + '">' +
+    '<span class="scorebadge" title="Relevance score against your profile">' + (j.score||0) + '</span>' +
+    '<h2><a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + '</a></h2>' +
+    '<div class="org"><b>' + esc(j.org || "Organisation not stated") + '</b> &nbsp;·&nbsp; ' +
+      esc(loc) + '</div>' +
+    '<div class="facts">' + facts.join("") + '</div>' +
+    (j.summary ? '<p class="snippet">' + esc(j.summary) + '</p>' : '') +
+    '<div class="actions">' +
+      '<a class="act apply" href="' + esc(j.url) + '" target="_blank" rel="noopener">Open posting</a>' +
+      '<button class="act js-save' + (state.saved[j.id] ? " on" : "") + '">' +
+        (state.saved[j.id] ? "Saved" : "Save") + '</button>' +
+      '<button class="act js-hide">' + (state.hidden[j.id] ? "Unhide" : "Not relevant") + '</button>' +
+      '<button class="act js-expand">Full text</button>' +
+      '<button class="act js-copy">Copy tracker row</button>' +
+      '<span class="pill" style="background:transparent">' + esc(j.source) + '</span>' +
+      (seen ? '<span class="pill" style="background:transparent">' + seen + '</span>' : '') +
+    '</div></article>';
+}
+
+function wireCards(){
+  Array.prototype.forEach.call(document.querySelectorAll(".card"), function(el){
+    var id = el.dataset.id;
+    var j = state.all.find(function(x){ return x.id === id; });
+    el.querySelector(".js-save").onclick = function(){
+      if(state.saved[id]) delete state.saved[id]; else state.saved[id] = new Date().toISOString().slice(0,10);
+      store.set("ph.saved", state.saved); buildTabs(); render();
+    };
+    el.querySelector(".js-hide").onclick = function(){
+      if(state.hidden[id]) delete state.hidden[id]; else state.hidden[id] = 1;
+      store.set("ph.hidden", state.hidden); buildTabs(); render();
+    };
+    el.querySelector(".js-expand").onclick = function(){ el.classList.toggle("open"); };
+    el.querySelector(".js-copy").onclick = function(){
+      var row = trackerRow(j).join("\t");
+      navigator.clipboard.writeText(row).then(
+        function(){ toast("Row copied. Paste into the tracker."); },
+        function(){ toast("Copy blocked by the browser."); }
+      );
+    };
+  });
+}
+
+/* ------------------------------------------------------------------ *
+ * export -- column order matches the existing job application tracker
+ * ------------------------------------------------------------------ */
+var TRACKER_COLS = ["no.","applied date","organisation","job title","seniority/grade",
+  "contract type","country","duty station","JD link","portal link","closing date",
+  "reply date","reply status","days waiting","follow-up due","next action","remarks"];
+
+function trackerRow(j, n){
+  return [
+    n == null ? "" : n,
+    "",
+    j.org || "",
+    j.title || "",
+    j.seniority || "",
+    j.contract || "",
+    (j.countries||[]).join("; "),
+    j.city || "",
+    j.url || "",
+    "",
+    j.deadline || "",
+    "", "", "", "", "",
+    "found via " + (j.source||"") + (j.themes && j.themes.length ? "; " + j.themes.join(", ") : "")
+  ];
+}
+
+$("csvBtn").onclick = function(){
+  if(!state.view.length){ toast("Nothing to export."); return; }
+  var q = function(v){ return '"' + String(v == null ? "" : v).replace(/"/g,'""') + '"'; };
+  var lines = [TRACKER_COLS.map(q).join(",")];
+  state.view.forEach(function(j, i){ lines.push(trackerRow(j, i+1).map(q).join(",")); });
+  var blob = new Blob(["﻿" + lines.join("\r\n")], {type:"text/csv;charset=utf-8"});
+  var a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "ph-jobs-" + new Date().toISOString().slice(0,10) + ".csv";
+  document.body.appendChild(a); a.click(); a.remove();
+  toast("Exported " + state.view.length + " rows.");
+};
+
+/* ------------------------------------------------------------------ *
+ * source health
+ * ------------------------------------------------------------------ */
+function renderSources(s){
+  var rows = Object.keys(s.sources || {}).map(function(k){
+    var v = String(s.sources[k]);
+    var cls = v.indexOf("ok") === 0 ? "ok" : v === "disabled" ? "off" : "bad";
+    return '<div class="srcrow"><span class="dot ' + cls + '"></span>' +
+      '<span class="nm">' + esc(k) + '</span>' +
+      '<span class="st" title="' + esc(v) + '">' + esc(v.replace(/^ok: /,"").slice(0,40)) + '</span></div>';
+  });
+  $("srcgrid").innerHTML = rows.join("") ||
+    '<div class="srcrow"><span class="nm">no status file yet</span></div>';
+  var sum = document.querySelector("details.sources summary");
+  sum.textContent = "Source health — " + (s.sources_ok||0) + " of " +
+    (s.sources_total||0) + " feeds returning data";
+}
+
+})();
+</script>
+</body>
+</html>

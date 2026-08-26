@@ -1,0 +1,118 @@
+# Source registry.
+#
+# HONESTY NOTE, please read before you file a bug against yourself:
+# ReliefWeb is the only source below whose API I could confirm against published
+# documentation (https://apidoc.reliefweb.int). Everything else is a candidate.
+# The machine that built this repo had no route to those hosts, so no feed URL or
+# board token here has been hit even once.
+#
+# That is by design rather than sloppiness: every adapter fails soft. A dead
+# source logs an error, contributes zero jobs, and never breaks a run. After the
+# first GitHub Actions run, open docs/data/sources_status.json (or the Sources
+# panel at the bottom of the site) and you will see exactly which of these are
+# real. Set enabled: false on the dead ones, or delete them.
+#
+# ADDING A SOURCE
+#   Greenhouse: an org whose careers page lives at job-boards.greenhouse.io/foo
+#               or boards.greenhouse.io/foo has the board token "foo".
+#   Lever:      careers at jobs.lever.co/bar has the company token "bar".
+#   RSS:        look for an orange feed icon or an <link type="application/rss+xml">
+#               tag in the page source of a search-results page.
+
+reliefweb:
+  enabled: true
+  # ReliefWeb asks every client to identify itself. Change this if you fork.
+  appname: phjobs-aggregator
+  endpoint: https://api.reliefweb.int/v1/jobs
+  # How far back to pull. ReliefWeb only lists jobs that are still open, so this
+  # is mostly a guard against a pathologically large first page.
+  max_pages: 4
+  page_size: 500
+
+greenhouse:
+  enabled: true
+  # Unverified candidates. Expect several 404s on the first run; that is fine.
+  boards:
+    - clintonhealthaccessinitiative
+    - path
+    - vitalstrategies
+    - resolvetosavelives
+    - pih
+    - evidenceaction
+    - lastmilehealth
+    - villagereach
+    - dimagi
+    - livinggoods
+    - onecampaign
+    - populationservicesinternational
+    - jhpiego
+    - fhi360
+
+lever:
+  enabled: true
+  # Unverified candidates.
+  companies:
+    - ihi
+    - d-tree
+    - medicmobile
+    - nothingbutnets
+
+rss:
+  enabled: true
+  feeds:
+    - name: jobRxiv
+      url: https://jobrxiv.org/feed/
+      default_category: research
+      enabled: true
+    - name: jobRxiv (PhD)
+      url: https://jobrxiv.org/job-category/phd/feed/
+      default_category: phd
+      enabled: true
+    - name: jobs.ac.uk public health
+      url: https://www.jobs.ac.uk/search/?keywords=public+health&format=rss
+      default_category: research
+      enabled: true
+    - name: jobs.ac.uk epidemiology
+      url: https://www.jobs.ac.uk/search/?keywords=epidemiology&format=rss
+      default_category: research
+      enabled: true
+    - name: jobs.ac.uk global health
+      url: https://www.jobs.ac.uk/search/?keywords=global+health&format=rss
+      default_category: research
+      enabled: true
+    - name: UNjobs health
+      url: https://unjobs.org/tags/health/feed
+      default_category: un
+      enabled: true
+    - name: UNjobs public health
+      url: https://unjobs.org/tags/public_health/feed
+      default_category: un
+      enabled: true
+    - name: UNjobs epidemiology
+      url: https://unjobs.org/tags/epidemiology/feed
+      default_category: un
+      enabled: true
+    - name: Euraxess life sciences
+      url: https://euraxess.ec.europa.eu/jobs/search/rss
+      default_category: research
+      enabled: true
+    - name: Nature Careers
+      url: https://www.nature.com/naturecareers/jobs/rss
+      default_category: research
+      enabled: true
+    - name: Academic Positions public health
+      url: https://academicpositions.com/find-jobs/rss?field=public-health
+      default_category: research
+      enabled: true
+    - name: THE Unijobs health
+      url: https://www.timeshighereducation.com/unijobs/listings/health-social-care/rss/
+      default_category: research
+      enabled: true
+
+# Jobs with a closing date this many days in the past are dropped on merge.
+# Keeps a couple of days of grace for timezone slop in the source data.
+expire_after_days: 2
+
+# Jobs never seen again by any source are kept this long before being forgotten,
+# so a source having a bad day does not wipe your board.
+stale_after_days: 45
