@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-27T20:06:01+00:00",
-  "duration_seconds": 38.8,
+  "generated_at": "2026-08-27T22:55:40+00:00",
+  "duration_seconds": 43.3,
   "sources_ok": 35,
   "sources_total": 46,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 364,
+    "fetched": 360,
     "unique_ids": 605,
-    "carried_over": 283,
+    "carried_over": 288,
     "expired_dropped": 0,
     "duplicates_collapsed": 27,
     "published": 578,
-    "gate_rejected": 379,
+    "gate_rejected": 383,
     "lmic_duty_station": 61,
     "lmic_focus": 231,
     "with_location": 172,
-    "digest_items": 0
+    "digest_items": 2
   },
   "sources": {
     "bamboohr:idinsight": "ok: 22 postings",
