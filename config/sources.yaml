@@ -190,19 +190,19 @@ rss:
     - name: jobRxiv search epidemiology
       url: https://jobrxiv.org/?s=epidemiology&feed=rss2
       default_category: research
-      enabled: true
+      enabled: false
     - name: jobRxiv search public health
       url: https://jobrxiv.org/?s=public+health&feed=rss2
       default_category: research
-      enabled: true
+      enabled: false
     - name: jobRxiv search global health
       url: https://jobrxiv.org/?s=global+health&feed=rss2
       default_category: research
-      enabled: true
+      enabled: false
     - name: jobRxiv search infectious disease
       url: https://jobrxiv.org/?s=infectious+disease&feed=rss2
       default_category: research
-      enabled: true
+      enabled: false
 
     # -- NGO Jobs in Africa. The single best LMIC-duty-station source found.
     #    Country feeds follow /job-location/<slug>/feed/ and the site's own
