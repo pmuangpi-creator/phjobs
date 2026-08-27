@@ -22,14 +22,17 @@ from pathlib import Path
 
 import yaml
 
-from fetch import boards, reliefweb, rssfeeds
-from pipeline import classify, income, merge
+from fetch import boards, pagefetch, reliefweb, rssfeeds
+from pipeline import classify, income, merge, outputs
 
 ROOT = Path(__file__).resolve().parent
 CONFIG = ROOT / "config"
 DATA = ROOT / "docs" / "data"
 JOBS_PATH = DATA / "jobs.json"
 STATUS_PATH = DATA / "sources_status.json"
+ICS_PATH = DATA / "deadlines.ics"
+DIGEST_PATH = DATA / "digest.md"
+DIGEST_TITLE = DATA / "digest_title.txt"
 INCOME_CACHE = CONFIG / "income_groups.json"
 
 log = logging.getLogger("phjobs")
@@ -52,8 +55,19 @@ def main() -> int:
         default="",
         help="reliefweb | greenhouse | lever | workday | smartrecruiters | rss",
     )
+    ap.add_argument(
+        "--discover",
+        metavar="URL",
+        default="",
+        help="print the link shapes on a page, to help write a link_pattern",
+    )
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
+
+    if args.discover:
+        logging.basicConfig(level=logging.INFO, format="%(message)s")
+        print(pagefetch.discover(args.discover))
+        return 0
 
     logging.basicConfig(
         level=logging.DEBUG if args.verbose else logging.INFO,
@@ -129,12 +143,30 @@ def main() -> int:
         raw.extend(got)
         status.update(st)
 
+    # --- listing pages with no feed --------------------------------------
+    pg = sources.get("pages") or {}
+    if pg.get("enabled", True) and only in ("", "pages"):
+        got, st = pagefetch.harvest(pg.get("sites") or [])
+        raw.extend(got)
+        status.update(st)
+
     log.info("fetched %s raw postings from %s source slots", len(raw), len(status))
 
     if not raw:
         log.error("every source returned nothing. Leaving existing data in place.")
         _write_status(status, {}, started, wrote=False, dry=args.dry_run)
         return 1
+
+    # --- full descriptions -----------------------------------------------
+    # Done before the gate, deliberately. A feed gives two lines, and judging
+    # relevance, category and LMIC focus on two lines is how listings end up in
+    # the wrong bucket. Only postings not seen on an earlier run are fetched.
+    previous = merge.load_previous(JOBS_PATH)
+    bodies = sources.get("full_descriptions") or {}
+    if bodies.get("enabled", True):
+        status["full-descriptions"] = pagefetch.add_bodies(
+            raw, set(previous), limit=int(bodies.get("max_per_run", 120))
+        )
 
     # --- income classification -------------------------------------------
     # Fetched, never remembered. The World Bank re-classifies every July and a
@@ -155,7 +187,6 @@ def main() -> int:
     log.info("relevance gate: kept %s, dropped %s as not public health", len(kept), rejected)
 
     # --- merge -----------------------------------------------------------
-    previous = merge.load_previous(JOBS_PATH)
     jobs, stats = merge.merge(
         kept,
         previous,
@@ -204,6 +235,36 @@ def main() -> int:
         encoding="utf-8",
     )
     log.info("wrote %s (%s jobs, %.1f KB)", JOBS_PATH, len(jobs), JOBS_PATH.stat().st_size / 1024)
+
+    # --- calendar feed ---------------------------------------------------
+    alerts = sources.get("alerts") or {}
+    cal = sources.get("calendar") or {}
+    if cal.get("enabled", True):
+        ICS_PATH.write_text(
+            outputs.build_ics(
+                jobs,
+                min_score=int(cal.get("min_score", 0)),
+                horizon_days=int(cal.get("horizon_days", 120)),
+            ),
+            encoding="utf-8",
+        )
+        log.info("wrote %s", ICS_PATH)
+
+    # --- digest ----------------------------------------------------------
+    # Written to a file rather than sent from here. The workflow decides how it
+    # reaches you, which keeps credentials out of this script entirely.
+    if alerts.get("enabled", True):
+        title, body, n = outputs.build_digest(
+            jobs,
+            set(previous),
+            min_score=int(alerts.get("min_score", 30)),
+            closing_days=int(alerts.get("closing_days", 3)),
+            site_url=alerts.get("site_url", ""),
+        )
+        DIGEST_PATH.write_text(body, encoding="utf-8")
+        DIGEST_TITLE.write_text(title, encoding="utf-8")
+        stats["digest_items"] = n
+        log.info("digest: %s items%s", n, "" if n else " (nothing worth sending)")
 
     _write_status(status, stats, started, wrote=True, dry=False)
     return 0

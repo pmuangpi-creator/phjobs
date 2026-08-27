@@ -127,6 +127,8 @@ footer{margin-top:26px;color:var(--ink-2);font-size:12px;line-height:1.7}
     <h1>Public Health Jobs</h1>
     <span class="meta" id="stamp">loading…</span>
     <span class="spacer"></span>
+    <button class="iconbtn" id="shareBtn" title="Copy a link that reopens exactly this filter set">Copy view link</button>
+    <button class="iconbtn" id="calBtn" title="Subscribe to closing dates in your calendar">Calendar</button>
     <button class="iconbtn" id="csvBtn" title="Download the current list in your tracker's column order">Export CSV</button>
     <button class="iconbtn" id="themeBtn">Theme</button>
   </div>
@@ -243,6 +245,57 @@ function toast(msg){
 }
 
 /* ------------------------------------------------------------------ *
+ * filter state in the URL, so a view can be bookmarked and shared
+ * ------------------------------------------------------------------ */
+var SETS = ["cats","regions","sources","seniorities","themes","incomes"];
+var FLAGS = ["lmicDuty","lmicFocus","remoteOnly","hideStale"];
+
+function stateToHash(){
+  var p = [];
+  if(state.tab !== "all") p.push("tab=" + state.tab);
+  if(state.q) p.push("q=" + encodeURIComponent(state.q));
+  if(state.sort !== "score") p.push("sort=" + state.sort);
+  if(state.deadline !== "any") p.push("dl=" + state.deadline);
+  if(state.minScore) p.push("min=" + state.minScore);
+  FLAGS.forEach(function(f){ if(state[f]) p.push(f + "=1"); });
+  SETS.forEach(function(k){
+    var keys = Object.keys(state[k]);
+    if(keys.length) p.push(k + "=" + encodeURIComponent(keys.join("~")));
+  });
+  return p.join("&");
+}
+
+function hashToState(){
+  var raw = (location.hash || "").replace(/^#/, "");
+  if(!raw) return false;
+  var any = false;
+  raw.split("&").forEach(function(pair){
+    var i = pair.indexOf("=");
+    if(i < 0) return;
+    var k = pair.slice(0, i), v = decodeURIComponent(pair.slice(i + 1));
+    if(k === "tab"){ state.tab = v; any = true; }
+    else if(k === "q"){ state.q = v; any = true; }
+    else if(k === "sort"){ state.sort = v; any = true; }
+    else if(k === "dl"){ state.deadline = v; any = true; }
+    else if(k === "min"){ state.minScore = parseInt(v, 10) || 0; any = true; }
+    else if(FLAGS.indexOf(k) >= 0){ state[k] = v === "1"; any = true; }
+    else if(SETS.indexOf(k) >= 0){
+      state[k] = {};
+      v.split("~").forEach(function(x){ if(x) state[k][x] = 1; });
+      any = true;
+    }
+  });
+  return any;
+}
+
+function syncHash(){
+  var h = stateToHash();
+  var target = h ? "#" + h : location.pathname + location.search;
+  if(h) history.replaceState(null, "", "#" + h);
+  else history.replaceState(null, "", location.pathname + location.search);
+}
+
+/* ------------------------------------------------------------------ *
  * theme
  * ------------------------------------------------------------------ */
 var savedTheme = store.get("ph.theme", null);
@@ -267,7 +320,10 @@ fetch("data/jobs.json", {cache:"no-store"})
     var when = payload.generated_at ? new Date(payload.generated_at) : null;
     $("stamp").textContent = state.all.length + " open positions · updated " +
       (when ? when.toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}) : "unknown");
+    hashToState();
     buildFilters(); buildTabs(); render();
+    $("q").value = state.q;
+    $("sort").value = state.sort;
     store.set("ph.lastVisit", new Date().toISOString().slice(0,10));
   })
   .catch(function(err){
@@ -476,6 +532,7 @@ function sortFn(a,b){
 }
 
 function render(){
+  syncHash();
   state.view = state.all.filter(matches).sort(sortFn);
   var slice = state.view.slice(0, state.limit);
   if(!slice.length){
@@ -595,6 +652,24 @@ function trackerRow(j, n){
     ].filter(Boolean).join("; ")
   ];
 }
+
+$("shareBtn").onclick = function(){
+  var link = location.origin + location.pathname + (stateToHash() ? "#" + stateToHash() : "");
+  navigator.clipboard.writeText(link).then(
+    function(){ toast("View link copied. It reopens these exact filters."); },
+    function(){ toast("Copy blocked. The address bar already holds the link."); }
+  );
+};
+
+$("calBtn").onclick = function(){
+  var ics = location.origin + location.pathname.replace(/[^/]*$/, "") + "data/deadlines.ics";
+  navigator.clipboard.writeText(ics).then(
+    function(){
+      toast("Calendar URL copied. Google Calendar: Other calendars, + , From URL.");
+    },
+    function(){ window.open(ics, "_blank"); }
+  );
+};
 
 $("csvBtn").onclick = function(){
   if(!state.view.length){ toast("Nothing to export."); return; }

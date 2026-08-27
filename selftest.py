@@ -12,6 +12,7 @@ source duplicates collapse, and first_seen survives a second run.
 from __future__ import annotations
 
 import json
+import re
 import sys
 import tempfile
 from datetime import date, timedelta
@@ -303,6 +304,140 @@ with tempfile.TemporaryDirectory() as tmp:
     third, _ = merge.merge([], prev, stale_after_days=45)
     check("an empty fetch does not wipe the board", len(third) > 0, str(len(third)))
     check("carried-over jobs are marked unconfirmed", all(j.get("stale") for j in third))
+
+print("\nlink harvesting (no network: parser exercised directly)")
+from bs4 import BeautifulSoup  # noqa: E402
+from fetch import pagefetch  # noqa: E402
+
+LISTING = """
+<html><body>
+<nav><a href="/">Home</a><a href="/about">About us</a><a href="/contact">Contact</a></nav>
+<main>
+  <a href="/apply/AB12cd/senior-monitoring-and-evaluation-officer">Senior Monitoring and Evaluation Officer</a>
+  <a href="/apply/EF34gh/community-health-worker-coordinator">Community Health Worker Coordinator</a>
+  <a href="/apply/IJ56kl/finance-manager-nairobi">Finance Manager, Nairobi</a>
+  <a href="/news/we-opened-a-clinic">We opened a clinic in Lilongwe last week</a>
+  <a href="/brochure.pdf">Download our annual report brochure</a>
+  <a href="https://twitter.com/example">Twitter</a>
+  <a href="/apply/AB12cd/senior-monitoring-and-evaluation-officer">Apply</a>
+</main>
+<footer><a href="/privacy">Privacy policy</a></footer>
+</body></html>
+"""
+
+
+def harvest_offline(html, site):
+    """Run the harvester's link-selection logic without a network call."""
+    from urllib.parse import urljoin, urlparse
+    import re as _re
+    soup = BeautifulSoup(html, "html.parser")
+    base = site["url"]
+    host = urlparse(base).netloc
+    pattern = _re.compile(site["link_pattern"], _re.I) if site.get("link_pattern") else None
+    out, seen = [], set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
+            continue
+        full = urljoin(base, href)
+        if urlparse(full).netloc != host or full in seen:
+            continue
+        text = pagefetch._clean(a.get_text())
+        if not pagefetch._looks_like_job(text, full, pattern):
+            continue
+        if pattern and (len(text) < pagefetch.MIN_TITLE or text.lower() in pagefetch.NAV_WORDS):
+            continue
+        seen.add(full)
+        out.append((text, full))
+    return out
+
+
+heur = harvest_offline(LISTING, {"url": "https://example.org/careers"})
+titles = [t for t, _ in heur]
+check("heuristic finds the M&E officer", any("Monitoring and Evaluation" in t for t in titles))
+check("heuristic finds the CHW coordinator", any("Community Health Worker" in t for t in titles))
+check("heuristic finds the finance manager too (the gate drops it later)",
+      any("Finance Manager" in t for t in titles))
+check("heuristic skips nav links",
+      not any(t in ("Home", "About us", "Contact") for t in titles), str(titles))
+check("heuristic skips the news story", not any("opened a clinic" in t for t in titles), str(titles))
+check("heuristic skips the PDF", not any("brochure" in t.lower() for t in titles), str(titles))
+check("heuristic skips off-host links", not any(t == "Twitter" for t in titles))
+check("heuristic skips the privacy link", not any("Privacy" in t for t in titles))
+
+patterned = harvest_offline(LISTING, {"url": "https://example.org/careers",
+                                      "link_pattern": "/apply/[A-Za-z0-9]+/"})
+check("link_pattern keeps only the three postings", len(patterned) == 3, str(len(patterned)))
+check("link_pattern drops the bare 'Apply' anchor",
+      not any(t == "Apply" for t, _ in patterned))
+check("harvested urls are absolute",
+      all(u.startswith("https://example.org/apply/") for _, u in patterned))
+
+check("discover() collapses ids into a shape",
+      "<id>" in re.sub(r"/[^/]*\d[^/]*", "/<id>", "/apply/AB12cd/some-role"))
+
+check("_readable strips scripts and chrome",
+      "alert" not in pagefetch._readable(
+          "<html><body><script>alert(1)</script><nav>Menu</nav>"
+          "<main><p>Programme Officer based in Lilongwe.</p></main></body></html>"))
+check("_readable keeps the body text",
+      "Lilongwe" in pagefetch._readable(
+          "<html><body><main><p>Programme Officer based in Lilongwe.</p></main></body></html>"))
+
+print("\ncalendar feed")
+from pipeline import outputs  # noqa: E402
+
+cal_jobs = [
+    {"id": "a1", "title": "TB Officer; Kilifi, Kenya", "org": "An NGO", "url": "https://e.org/1",
+     "countries": ["Kenya"], "city": "Kilifi", "deadline": d(10), "score": 60,
+     "lmic_duty_station": True, "lmic_focus": True},
+    {"id": "a2", "title": "Low scorer", "org": "X", "url": "https://e.org/2",
+     "countries": [], "deadline": d(10), "score": 5},
+    {"id": "a3", "title": "Already closed", "org": "X", "url": "https://e.org/3",
+     "countries": [], "deadline": d(-5), "score": 60},
+    {"id": "a4", "title": "No deadline", "org": "X", "url": "https://e.org/4",
+     "countries": [], "deadline": None, "score": 60},
+    {"id": "a5", "title": "Far future", "org": "X", "url": "https://e.org/5",
+     "countries": [], "deadline": d(400), "score": 60},
+]
+ics = outputs.build_ics(cal_jobs, min_score=20, horizon_days=120)
+check("ics is well formed", ics.startswith("BEGIN:VCALENDAR") and ics.rstrip().endswith("END:VCALENDAR"))
+check("ics uses CRLF line endings", "\r\n" in ics and "\n\n" not in ics)
+check("ics contains exactly one event", ics.count("BEGIN:VEVENT") == 1, str(ics.count("BEGIN:VEVENT")))
+check("ics drops the low scorer", "Low scorer" not in ics)
+check("ics drops the closed vacancy", "Already closed" not in ics)
+check("ics drops the job with no deadline", "No deadline" not in ics)
+check("ics drops anything past the horizon", "Far future" not in ics)
+check("ics escapes semicolons in titles", "Kilifi\\, Kenya" in ics or "Officer\\;" in ics, "escaping")
+check("ics sets a reminder", "BEGIN:VALARM" in ics and "TRIGGER:-P3D" in ics)
+check("ics folds long lines", all(len(l.encode()) <= 75 for l in ics.split("\r\n")),
+      "a line exceeded 75 octets")
+check("ics uid is stable across builds",
+      outputs.build_ics(cal_jobs, min_score=20).count("UID:") == ics.count("UID:"))
+
+print("\ndigest")
+dig_jobs = [
+    {"id": "n1", "title": "New high scorer", "org": "An NGO", "url": "https://e.org/n1",
+     "countries": ["Malawi"], "score": 70, "lmic_duty_station": True, "deadline": d(30)},
+    {"id": "n2", "title": "New but weak", "org": "X", "url": "https://e.org/n2",
+     "countries": [], "score": 5},
+    {"id": "old1", "title": "Seen before", "org": "X", "url": "https://e.org/o1",
+     "countries": [], "score": 90},
+    {"id": "c1", "title": "Closing tomorrow", "org": "Y", "url": "https://e.org/c1",
+     "countries": ["Kenya"], "score": 55, "deadline": d(1)},
+]
+title, body, n = outputs.build_digest(dig_jobs, {"old1"}, min_score=30, closing_days=3)
+# c1 is both new and closing soon; it must be counted once, not twice.
+check("digest counts distinct jobs, not rows", n == 2, str(n))
+check("digest includes the new high scorer", "New high scorer" in body)
+check("digest excludes the weak new one", "New but weak" not in body)
+check("digest excludes what was already seen", "Seen before" not in body)
+check("digest has a closing section", "Closing tomorrow" in body and "Closing within" in body)
+check("digest title names both", "new" in title and "closing" in title, title)
+check("digest marks LMIC listings", "`LMIC`" in body, body[:200])
+empty_t, empty_b, empty_n = outputs.build_digest(
+    [dig_jobs[2]], {"old1"}, min_score=30)
+check("digest stays silent when there is nothing", empty_n == 0 and not empty_t and not empty_b)
 
 print("\nfrontend contract")
 required = {"id","title","org","url","countries","city","posted","deadline",

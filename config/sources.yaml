@@ -284,6 +284,113 @@ rss:
       default_category: research
       enabled: true
 
+# ---------------------------------------------------------------------------
+# Listing pages with no feed of any kind.
+#
+# Every employer below was confirmed to carry real LMIC vacancies, and none of
+# them publishes RSS, Atom or JSON. Rather than nine parsers written against
+# markup nobody has inspected, fetch/pagefetch.py harvests the links on each
+# page, keeps the ones that read like job titles, and lets the relevance gate
+# do the rest. Noisier than a bespoke parser, far harder to break.
+#
+# If a source reports "no links looked like vacancies", run
+#     python3 run_refresh.py --discover <url>
+# and put the resulting URL shape in link_pattern.
+# ---------------------------------------------------------------------------
+pages:
+  enabled: true
+  sites:
+    - name: Last Mile Health
+      org: Last Mile Health
+      url: https://lastmilehealth.applytojob.com/apply
+      link_pattern: "/apply/[A-Za-z0-9]+/"
+      default_category: ngo
+      assume_health: true
+      enabled: true
+    - name: Living Goods
+      org: Living Goods
+      url: https://livinggoods.applytojob.com/apply
+      link_pattern: "/apply/[A-Za-z0-9]+/"
+      default_category: ngo
+      assume_health: true
+      enabled: true
+    - name: OUCRU
+      org: Oxford University Clinical Research Unit
+      url: https://www.oucru.org/career/
+      default_category: research
+      assume_health: true
+      enabled: true
+    - name: Ifakara Health Institute
+      org: Ifakara Health Institute
+      url: https://ihi.or.tz/our-job-posts/
+      country: Tanzania
+      default_category: research
+      assume_health: true
+      enabled: true
+    - name: icddr,b
+      org: icddr,b
+      url: https://career.icddrb.org/
+      country: Bangladesh
+      city: Dhaka
+      default_category: research
+      assume_health: true
+      enabled: true
+    - name: ICMR
+      org: Indian Council of Medical Research
+      url: https://recruitment.icmr.org.in/
+      country: India
+      default_category: research
+      assume_health: true
+      enabled: true
+    - name: DevNetJobsIndia
+      org: ""
+      url: https://www.devnetjobsindia.org/
+      country: India
+      default_category: ngo
+      assume_health: false     # general development board, let the gate filter
+      max_links: 120
+      enabled: true
+    - name: Aga Khan University
+      org: Aga Khan University
+      url: https://www.aku.edu/vacancies/Pages/home.aspx
+      default_category: research
+      assume_health: true
+      enabled: true
+    - name: APHRC
+      org: African Population and Health Research Center
+      url: https://aphrc.org/careers/
+      enabled: false           # robots.txt blocks automated retrieval outright,
+                               # naming ClaudeBot and GPTBot. Left here disabled
+                               # so nobody re-adds it without reading this.
+
+# ---------------------------------------------------------------------------
+# Fetch the actual posting page for listings that arrived as a two-line snippet.
+# Only postings not seen on a previous run are fetched, so the steady state is
+# a handful of requests, not one per listing per run.
+# ---------------------------------------------------------------------------
+full_descriptions:
+  enabled: true
+  max_per_run: 120
+
+# ---------------------------------------------------------------------------
+# Calendar feed, published at docs/data/deadlines.ics. Subscribe to it once by
+# URL in Google Calendar and every refresh updates it.
+# ---------------------------------------------------------------------------
+calendar:
+  enabled: true
+  min_score: 20        # do not clutter the calendar with weak matches
+  horizon_days: 120
+
+# ---------------------------------------------------------------------------
+# Digest. run_refresh.py writes the text; the GitHub Actions workflow decides
+# how it reaches you. That split keeps credentials out of this repository.
+# ---------------------------------------------------------------------------
+alerts:
+  enabled: true
+  min_score: 30        # a listing must score at least this to be worth telling you about
+  closing_days: 3
+  site_url: https://pmuangpi-creator.github.io/phjobs/
+
 expire_after_days: 2
 stale_after_days: 45
 

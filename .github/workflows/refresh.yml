@@ -20,6 +20,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write        # the digest is delivered as an issue; see the last step
 
 jobs:
   refresh:
@@ -70,3 +71,32 @@ jobs:
           name: jobs-data
           path: docs/data/
           retention-days: 7
+
+      # Delivered as a GitHub issue rather than an email sent from here. You
+      # are watching your own repository by default, so GitHub emails you the
+      # issue, and no SMTP password ever has to live in this repo. Nothing is
+      # opened when there is nothing worth saying.
+      - name: Send the digest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -s docs/data/digest.md ] || [ ! -s docs/data/digest_title.txt ]; then
+            echo "Nothing new above threshold and nothing closing. Staying quiet."
+            exit 0
+          fi
+          TITLE="$(cat docs/data/digest_title.txt)"
+          # Reuse the open digest issue if there is one, so the inbox gets a
+          # thread rather than a new issue every six hours.
+          EXISTING="$(gh issue list --state open --label jobs-digest \
+                       --limit 1 --json number --jq '.[0].number' || true)"
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body-file docs/data/digest.md
+            gh issue edit "$EXISTING" --title "$TITLE"
+            echo "Commented on issue #$EXISTING"
+          else
+            gh label create jobs-digest --color 0f6d5f \
+              --description "Automated job digests" 2>/dev/null || true
+            gh issue create --title "$TITLE" \
+                            --body-file docs/data/digest.md \
+                            --label jobs-digest
+          fi

@@ -31,6 +31,27 @@ Saved and hidden jobs live in your browser's local storage. They never leave
 your machine and they are per-browser, so saving on your laptop will not show up
 on your phone.
 
+**LMIC** is two separate tags, because they answer different questions. *Based in
+an LMIC* comes from the World Bank income classification, fetched from their API
+on every run rather than hardcoded, since they re-classify every July. *LMIC
+focus* means the work is about low- and middle-income settings wherever it sits,
+so a post at LSHTM on TB in Malawi carries it. A job can have both.
+
+**Copy view link** puts the current filter set in the URL. Bookmark it, and
+"LMIC-based PhD positions closing this month" is one click instead of six.
+
+**Calendar** copies the URL of `data/deadlines.ics`. Add it once in Google
+Calendar under *Other calendars, +, From URL* and every closing date above your
+score threshold appears in your calendar, with a reminder three days out. Each
+refresh updates it.
+
+**The digest** arrives as a GitHub issue on the repository, which GitHub emails
+you because you watch your own repo. Nothing new above threshold and nothing
+closing means no issue, so silence is meaningful. It reuses one open issue as a
+thread rather than opening a new one every six hours; close it and the next
+digest starts a fresh one. Thresholds live under `alerts:` in
+`config/sources.yaml`. No SMTP password ever goes in the repository.
+
 ---
 
 ## Sources
@@ -41,7 +62,20 @@ on your phone.
 | Workday | PATH, FHI 360, Management Sciences for Health | The JSON endpoint each employer's own careers page calls |
 | SmartRecruiters | Population Services International | Documented public postings API, no key |
 | Greenhouse | Dimagi, ONE Campaign, Resolve to Save Lives | `boards-api.greenhouse.io`, no key |
-| RSS | jobRxiv (PhD, postdoc, RA, scientist, faculty, plus keyword searches) and LSHTM | Plain feeds listed in `config/sources.yaml` |
+| RSS | jobRxiv (PhD, postdoc, RA, scientist, faculty, plus keyword searches), LSHTM including the MRC units in The Gambia and Uganda, KEMRI-Wellcome, and NGO Jobs in Africa country feeds | Plain feeds listed in `config/sources.yaml` |
+| BambooHR | IDinsight (India, Philippines, Indonesia, Senegal, Kenya, Zambia) | Public careers JSON, no key |
+| Workable | Evidence Action, VillageReach | Public widget JSON, no key |
+| Listing pages | Last Mile Health, Living Goods, OUCRU, Ifakara, icddr,b, ICMR, DevNetJobsIndia, Aga Khan University | Link harvesting, see below |
+
+Those last eight publish no feed of any kind. Rather than eight parsers written
+against markup nobody has inspected, which is how this project ended up with
+fourteen dead Greenhouse tokens, `fetch/pagefetch.py` harvests the links on each
+listing page, keeps the ones that read like job titles, and lets the relevance
+gate do the rest. Noisier than a bespoke parser and much harder to break: a site
+redesign changes the noise level instead of silently returning nothing. Where a
+site's job URLs have an obvious shape, a `link_pattern` regex in the config cuts
+the noise to zero. `python3 run_refresh.py --discover <url>` prints a page's link
+shapes to help you write one.
 
 Every entry in `config/sources.yaml` has now either returned data in a live run
 or been verified by fetching it. The speculative list this project started with
