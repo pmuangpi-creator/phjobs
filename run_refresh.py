@@ -23,13 +23,14 @@ from pathlib import Path
 import yaml
 
 from fetch import boards, reliefweb, rssfeeds
-from pipeline import classify, merge
+from pipeline import classify, income, merge
 
 ROOT = Path(__file__).resolve().parent
 CONFIG = ROOT / "config"
 DATA = ROOT / "docs" / "data"
 JOBS_PATH = DATA / "jobs.json"
 STATUS_PATH = DATA / "sources_status.json"
+INCOME_CACHE = CONFIG / "income_groups.json"
 
 log = logging.getLogger("phjobs")
 
@@ -107,6 +108,20 @@ def main() -> int:
         raw.extend(got)
         status.update(st)
 
+    # --- BambooHR --------------------------------------------------------
+    bh = sources.get("bamboohr") or {}
+    if bh.get("enabled", True) and only in ("", "bamboohr"):
+        got, st = boards.fetch_bamboohr(bh.get("accounts") or [])
+        raw.extend(got)
+        status.update(st)
+
+    # --- Workable --------------------------------------------------------
+    wk = sources.get("workable") or {}
+    if wk.get("enabled", True) and only in ("", "workable"):
+        got, st = boards.fetch_workable(wk.get("accounts") or [])
+        raw.extend(got)
+        status.update(st)
+
     # --- RSS -------------------------------------------------------------
     rs = sources.get("rss") or {}
     if rs.get("enabled", True) and only in ("", "rss"):
@@ -121,13 +136,20 @@ def main() -> int:
         _write_status(status, {}, started, wrote=False, dry=args.dry_run)
         return 1
 
+    # --- income classification -------------------------------------------
+    # Fetched, never remembered. The World Bank re-classifies every July and a
+    # hand-written country list would be quietly wrong within a year.
+    classifier, income_status = income.load(INCOME_CACHE, refresh=True)
+    status["worldbank-income-groups"] = income_status or "unknown"
+
     # --- gate, enrich ----------------------------------------------------
     gate_terms = profile.get("health_gate") or []
+    exclude_terms = profile.get("exclude_terms") or []
     kept: list[dict] = []
     rejected = 0
     for rec in raw:
-        if classify.passes_gate(rec, gate_terms):
-            kept.append(classify.enrich(rec, profile))
+        if classify.passes_gate(rec, gate_terms, exclude_terms):
+            kept.append(classify.enrich(rec, profile, classifier))
         else:
             rejected += 1
     log.info("relevance gate: kept %s, dropped %s as not public health", len(kept), rejected)
@@ -142,10 +164,21 @@ def main() -> int:
     )
     stats["gate_rejected"] = rejected
 
-    counts = {}
+    counts: dict[str, int] = {}
     for j in jobs:
         counts[j["category"]] = counts.get(j["category"], 0) + 1
     log.info("by category: %s", counts)
+
+    lmic_ds = sum(1 for j in jobs if j.get("lmic_duty_station"))
+    lmic_fo = sum(1 for j in jobs if j.get("lmic_focus"))
+    located = sum(1 for j in jobs if j.get("countries"))
+    stats["lmic_duty_station"] = lmic_ds
+    stats["lmic_focus"] = lmic_fo
+    stats["with_location"] = located
+    log.info(
+        "LMIC: %s based in an LMIC, %s LMIC-focused | %s/%s have a resolved country",
+        lmic_ds, lmic_fo, located, len(jobs),
+    )
 
     if args.dry_run:
         log.info("dry run, nothing written")

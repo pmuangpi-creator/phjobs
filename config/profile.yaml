@@ -102,6 +102,55 @@ health_gate:
   - medical
 
 # ---------------------------------------------------------------------------
+# EXCLUDE: a posting matching one of these is rejected EVEN IF it passed the
+# gate, unless it also carries an unambiguous public health term (the list in
+# STRONG_HEALTH_PATTERNS in pipeline/classify.py).
+#
+# This exists because the gate has to accept "medical", "laboratory",
+# "infectious" and "disease" or it drops half of what you want, and those same
+# words wave through bench science. The jobRxiv feeds were delivering cancer
+# bioinformatics and structural biology postdocs. A genomic epidemiology post
+# about TB transmission still gets through, because it says epidemiology.
+# ---------------------------------------------------------------------------
+exclude_terms:
+  - molecular biology
+  - structural biology
+  - crystallograph
+  - cryo-em
+  - protein structure
+  - protein engineering
+  - biochemistry
+  - biophysics
+  - synthetic biology
+  - stem cell
+  - organoid
+  - crispr
+  - gene editing
+  - drosophila
+  - zebrafish
+  - c. elegans
+  - mouse model
+  - murine
+  - in vitro
+  - cell culture
+  - single-cell
+  - transcriptom
+  - proteom
+  - metabolom
+  - neuroscience
+  - neuroimaging
+  - materials science
+  - nanoparticle
+  - plant scien
+  - agronom
+  - astrophys
+  - quantum
+  - machine learning engineer
+  - software engineer
+  - data engineer
+  - devops
+
+# ---------------------------------------------------------------------------
 # SCORE: points added when a term is found. Higher = closer to your profile.
 # ---------------------------------------------------------------------------
 theme_weights:
@@ -144,6 +193,30 @@ theme_weights:
   global health: 4
   low- and middle-income: 5
   lmic: 5
+
+# ---------------------------------------------------------------------------
+# LMIC weighting.
+#
+# Two independent things, scored separately.
+#
+#   duty_station  the job is physically based in a low, lower-middle or
+#                 upper-middle income country, per the World Bank
+#                 classification fetched fresh each run.
+#   focus         the WORK is about low- and middle-income settings, wherever
+#                 it sits. A research associate post at LSHTM on TB in Malawi
+#                 is LMIC work done from London, and scoring only by duty
+#                 station would bury the entire European PhD route.
+#
+# A job can have both, and the points stack.
+# ---------------------------------------------------------------------------
+lmic_weights:
+  duty_station: 25
+  focus: 18
+  by_group:
+    LIC: 10          # low income
+    LMC: 8           # lower-middle income
+    UMC: 3           # upper-middle income
+    HIC: 0           # high income
 
 country_weights:
   myanmar: 15

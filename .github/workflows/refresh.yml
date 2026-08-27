@@ -52,7 +52,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/
+          # config/income_groups.json is the cached World Bank classification.
+          # It is created on the first run and refreshed each July when they
+          # re-classify, so it belongs in the commit alongside the listings.
+          git add docs/data/ config/income_groups.json
           if git diff --staged --quiet; then
             echo "No change in listings, nothing to commit."
           else

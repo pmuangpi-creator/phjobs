@@ -22,7 +22,39 @@ import yaml
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from fetch.common import job, parse_date, strip_html, truncate  # noqa: E402
-from pipeline import classify, merge  # noqa: E402
+from pipeline import classify, income, merge  # noqa: E402
+
+# A stand-in for the World Bank payload, in exactly the shape their API returns,
+# so the LMIC logic is testable without a network call.
+WB_SAMPLE = [
+    {"id": "MMR", "iso2Code": "MM", "name": "Myanmar", "capitalCity": "Nay Pyi Taw",
+     "region": {"id": "EAS", "value": "East Asia & Pacific"},
+     "incomeLevel": {"id": "LMC", "value": "Lower middle income"}},
+    {"id": "MWI", "iso2Code": "MW", "name": "Malawi", "capitalCity": "Lilongwe",
+     "region": {"id": "SSF", "value": "Sub-Saharan Africa"},
+     "incomeLevel": {"id": "LIC", "value": "Low income"}},
+    {"id": "KEN", "iso2Code": "KE", "name": "Kenya", "capitalCity": "Nairobi",
+     "region": {"id": "SSF", "value": "Sub-Saharan Africa"},
+     "incomeLevel": {"id": "LMC", "value": "Lower middle income"}},
+    {"id": "THA", "iso2Code": "TH", "name": "Thailand", "capitalCity": "Bangkok",
+     "region": {"id": "EAS", "value": "East Asia & Pacific"},
+     "incomeLevel": {"id": "UMC", "value": "Upper middle income"}},
+    {"id": "GBR", "iso2Code": "GB", "name": "United Kingdom", "capitalCity": "London",
+     "region": {"id": "ECS", "value": "Europe & Central Asia"},
+     "incomeLevel": {"id": "HIC", "value": "High income"}},
+    {"id": "SGP", "iso2Code": "SG", "name": "Singapore", "capitalCity": "Singapore",
+     "region": {"id": "EAS", "value": "East Asia & Pacific"},
+     "incomeLevel": {"id": "HIC", "value": "High income"}},
+    {"id": "VNM", "iso2Code": "VN", "name": "Viet Nam", "capitalCity": "Hanoi",
+     "region": {"id": "EAS", "value": "East Asia & Pacific"},
+     "incomeLevel": {"id": "LMC", "value": "Lower middle income"}},
+    {"id": "CHE", "iso2Code": "CH", "name": "Switzerland", "capitalCity": "Bern",
+     "region": {"id": "ECS", "value": "Europe & Central Asia"},
+     "incomeLevel": {"id": "HIC", "value": "High income"}},
+    {"id": "WLD", "iso2Code": "1W", "name": "World", "capitalCity": "",
+     "region": {"id": "NA", "value": "Aggregates"},
+     "incomeLevel": {"id": "NA", "value": "Aggregates"}},
+]
 
 ROOT = Path(__file__).resolve().parent
 PROFILE = yaml.safe_load((ROOT / "config" / "profile.yaml").read_text(encoding="utf-8"))
@@ -119,6 +151,92 @@ check("without assume_health the same record is dropped",
       not classify.passes_gate(bare_no_flag, gate))
 check("assume_health is stripped before publishing",
       "assume_health" not in classify.enrich(dict(bare), PROFILE))
+
+print("\nincome classification and LMIC tagging")
+usable = income._usable(WB_SAMPLE)
+check("aggregate rows are dropped", len(usable) == 8 and all(c["id"] != "WLD" for c in usable),
+      str(len(usable)))
+CLS = income.Classifier(usable)
+
+check("lookup by country name", (CLS.lookup("Myanmar") or {}).get("id") == "MMR")
+check("lookup is case insensitive", (CLS.lookup("mYaNmAr") or {}).get("id") == "MMR")
+check("lookup by ISO3", (CLS.lookup("KEN") or {}).get("id") == "KEN")
+check("lookup by ISO2", (CLS.lookup("th") or {}).get("id") == "THA")
+check("lookup by capital city", (CLS.lookup("Lilongwe") or {}).get("id") == "MWI")
+check("lookup via alias (Vietnam -> Viet Nam)", (CLS.lookup("Vietnam") or {}).get("id") == "VNM")
+check("lookup via alias (Burma -> Myanmar)", (CLS.lookup("Burma") or {}).get("id") == "MMR")
+check("lookup via alias (England -> United Kingdom)",
+      (CLS.lookup("England") or {}).get("id") == "GBR")
+check("extra-city table (Yangon -> Myanmar)", (CLS.lookup("Yangon") or {}).get("id") == "MMR")
+check("unknown place returns None", CLS.lookup("Atlantis") is None)
+
+check("group_for reads the income group", CLS.group_for(["Kenya"])[0] == "LMC")
+check("group_for labels it", CLS.group_for(["Malawi"])[1] == "Low income")
+check("multi-country role takes the lowest income group",
+      CLS.group_for(["Switzerland", "Malawi"])[0] == "LIC",
+      str(CLS.group_for(["Switzerland", "Malawi"])))
+check("high income is classified, not blank", CLS.group_for(["Singapore"])[0] == "HIC")
+check("unrecognised place gives no group", CLS.group_for(["Atlantis"])[0] == "")
+
+found = CLS.find_in_text("The post is split between Nairobi and Bangkok offices.")
+check("find_in_text picks countries out of prose",
+      {c["id"] for c in found} == {"KEN", "THA"}, str([c["id"] for c in found]))
+check("find_in_text ignores substrings inside words",
+      not CLS.find_in_text("We met in Kenyatta Avenue premises"), "false positive on Kenyatta")
+
+lmic_based = classify.enrich(
+    job(source="RSS:test", title="TB Programme Officer", org="An NGO",
+        url="https://e.org/a", summary="Based in Lilongwe. Case finding for tuberculosis."),
+    PROFILE, CLS)
+check("duty station resolved from a bare city name", lmic_based["countries"] == ["Malawi"],
+      str(lmic_based["countries"]))
+check("lmic_duty_station set", lmic_based["lmic_duty_station"] is True)
+check("income_group recorded", lmic_based["income_group"] == "LIC")
+check("region comes from the World Bank", lmic_based["region"] == "Sub-Saharan Africa",
+      lmic_based["region"])
+
+london_lmic = classify.enrich(
+    job(source="RSS:test", title="Research Associate in Epidemiology",
+        org="LSHTM", url="https://e.org/b", countries=["United Kingdom"],
+        summary="Cohort study of tuberculosis treatment outcomes in Malawi and Kenya. "
+                "Experience in low- and middle-income settings essential."),
+    PROFILE, CLS)
+check("HIC duty station is not tagged LMIC-based",
+      london_lmic["lmic_duty_station"] is False)
+check("but LMIC focus is detected", london_lmic["lmic_focus"] is True)
+check("LMIC focus scores above a plain HIC post", london_lmic["score"] > 30, str(london_lmic["score"]))
+
+domestic_hic = classify.enrich(
+    job(source="RSS:test", title="Health Service Manager", org="An NHS Trust",
+        url="https://e.org/c", countries=["United Kingdom"],
+        summary="Managing outpatient clinics in Manchester."),
+    PROFILE, CLS)
+check("a domestic HIC post gets neither LMIC tag",
+      not domestic_hic["lmic_duty_station"] and not domestic_hic["lmic_focus"])
+
+check("enrich still works with no classifier at all",
+      classify.enrich(dict(SAMPLES[0]), PROFILE, None).get("region") == "South-East Asia")
+
+print("\nexclusion of bench science")
+EXCL = PROFILE["exclude_terms"]
+# Note the fixture has to TRIP the gate first, otherwise it proves nothing.
+# "disease" and "medical" are in the gate on purpose; the exclusion list exists
+# precisely because bench adverts use those words too.
+bench = job(source="RSS:jobRxiv", title="Postdoctoral Fellow in Structural Biology",
+            org="A University Medical Centre", url="https://e.org/d",
+            summary="Cryo-EM and protein crystallography of membrane receptors implicated "
+                    "in neurodegenerative disease. Cell culture and CRISPR experience "
+                    "required, with a molecular biology background.")
+check("bench science postdoc is excluded", not classify.passes_gate(bench, gate, EXCL))
+check("and would have passed without the exclusion list",
+      classify.passes_gate(bench, gate, []))
+
+genomic_epi = job(source="RSS:jobRxiv", title="Postdoctoral Fellow, Genomic Epidemiology of TB",
+                  org="A University", url="https://e.org/e",
+                  summary="Whole-genome sequencing and transcriptomics to study tuberculosis "
+                          "transmission in high-burden settings. Molecular biology background.")
+check("genomic epidemiology survives the exclusion via the strong-term override",
+      classify.passes_gate(genomic_epi, gate, EXCL))
 
 print("\nclassification")
 enriched = [classify.enrich(dict(k), PROFILE) for k in kept]

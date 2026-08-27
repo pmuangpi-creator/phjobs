@@ -109,7 +109,55 @@ REMOTE_PATTERNS = [
 ]
 
 # ---------------------------------------------------------------------------
-# geography
+# LMIC focus: work ABOUT low- and middle-income settings, wherever it sits.
+#
+# Separate from the duty station, and deliberately so. A research associate post
+# at LSHTM working on TB in Malawi is LMIC work done from London. Tagging only
+# by duty station would throw away the entire European and Australian PhD route.
+# ---------------------------------------------------------------------------
+
+LMIC_FOCUS_PATTERNS = [
+    r"low[- ]and middle[- ]income",
+    r"low[- ]or middle[- ]income",
+    r"\blmics?\b",
+    r"\blmic\b",
+    r"resource[- ](limited|poor|constrained)",
+    r"low[- ]resource",
+    r"\bglobal health\b",
+    r"\bglobal south\b",
+    r"developing countr",
+    r"\bdeveloping world\b",
+    r"tropical (medicine|disease)",
+    r"neglected tropical",
+    r"high[- ]burden (setting|countr)",
+    r"endemic (setting|countr|area)",
+    r"\bhumanitarian\b",
+    r"conflict[- ]affected",
+    r"\bfragile (states?|settings?|contexts?)\b",
+    r"\bhumanitarian settings?\b",
+    r"refugee",
+    r"internally displaced",
+    r"\bidps?\b",
+    r"international development",
+    r"\bthe global fund\b",
+    r"\bpepfar\b",
+    r"\busaid\b",
+    r"\bfcdo\b",
+    r"\bunicef\b",
+    r"\bwho\b",
+    r"health systems strengthening",
+    r"universal health coverage",
+    r"\bsdg\b",
+    r"sustainable development goal",
+]
+
+# ---------------------------------------------------------------------------
+# geography -- legacy fallback only.
+#
+# Region now comes from the World Bank classification in pipeline/income.py,
+# which is authoritative and refreshes itself. This map survives as a fallback
+# for the case where the classification could not be loaded at all, so that a
+# failed World Bank fetch degrades the board rather than emptying its regions.
 # ---------------------------------------------------------------------------
 
 REGIONS = {
@@ -213,21 +261,73 @@ def _any(patterns: list[str], text: str) -> bool:
     return any(re.search(p, text, re.I) for p in patterns)
 
 
-def passes_gate(rec: dict, gate_terms: list[str]) -> bool:
-    # Some sources hand over a title and a city and nothing else. When the
-    # employer is itself a health organisation, judging its whole board on the
-    # title alone throws away real vacancies, so the config can waive the gate
-    # per source. The negative weights still sink the finance and IT roles.
+def passes_gate(rec: dict, gate_terms: list[str], exclude_terms: list[str] | None = None) -> bool:
+    """Is this public health work at all?
+
+    Generous by design, with one veto. The gate has to say yes to "medical",
+    "laboratory" and "infectious" or it drops half of what you want, and those
+    same words wave through bench science: a jobRxiv feed of cancer
+    bioinformatics and structural biology postdocs sailed straight past the
+    first version. exclude_terms is the answer. A posting matching one of them
+    is rejected UNLESS it also carries an unambiguous public health term, so a
+    genomic epidemiology post about TB transmission still gets through while a
+    protein crystallography post does not.
+    """
     if rec.get("assume_health"):
         return True
 
     text = _haystack(rec)
+
     # ReliefWeb's own taxonomy is a strong positive signal on its own.
     for tag in (rec.get("rw_themes") or []) + (rec.get("rw_categories") or []):
         low = str(tag).lower()
         if "health" in low or "nutrition" in low or "water sanitation" in low:
             return True
-    return any(term.lower() in text for term in gate_terms)
+
+    if not any(term.lower() in text for term in gate_terms):
+        return False
+
+    if exclude_terms:
+        hit = next((t for t in exclude_terms if str(t).lower() in text), None)
+        if hit and not _any(STRONG_HEALTH_PATTERNS, text):
+            return False
+
+    return True
+
+
+# Unambiguous public health signals. Presence of any one of these overrides an
+# exclude_terms match, so that bench methods applied to population health
+# questions are not thrown out with the bench science.
+STRONG_HEALTH_PATTERNS = [
+    r"\bpublic health\b",
+    r"\bglobal health\b",
+    r"\bepidemiolog",
+    r"\bbiostatistic",
+    r"\bhealth system",
+    r"\bhealth polic",
+    r"\bhealth econom",
+    r"\bhealth service",
+    r"\bimplementation (research|science)\b",
+    r"\bhealth equity\b",
+    r"\bpopulation health\b",
+    r"\bcommunity health\b",
+    r"\btuberculosis\b",
+    r"\bhiv\b",
+    r"\bmalaria\b",
+    r"\bimmunis|immuniz|vaccination programme",
+    r"\bmaternal (and )?(child |newborn )?health\b",
+    r"\bnutrition (programme|program|survey|coordinator|officer)\b",
+    r"\bsurveillance\b",
+    r"\boutbreak\b",
+    r"\bhumanitarian\b",
+    r"\bharm reduction\b",
+    r"\bhealth promotion\b",
+    r"\bprimary (health )?care\b",
+    r"\bclinical trial\b",
+    r"\bnoncommunicable|non-communicable\b",
+    r"\bone health\b",
+    r"\blow[- ]and middle[- ]income\b",
+]
 
 
 def categorise(rec: dict) -> str:
@@ -247,7 +347,13 @@ def categorise(rec: dict) -> str:
         return rec["hint_category"]
     if _any(RESEARCH_PATTERNS, text[:1500]):
         return "research"
-    if rec.get("source", "").startswith(("ReliefWeb", "Greenhouse", "Lever")):
+    # Employer applicant-tracking boards are almost all NGOs and INGOs here.
+    # Anything on this list that turns out to be a university or an agency gets
+    # caught by the org patterns above before it reaches this line.
+    if rec.get("source", "").startswith(
+        ("ReliefWeb", "Greenhouse", "Lever", "Workday", "SmartRecruiters",
+         "BambooHR", "Workable")
+    ):
         return "ngo"
     return "other"
 
@@ -313,6 +419,24 @@ def themes_for(rec: dict, theme_weights: dict) -> list[str]:
     return sorted(labels)[:7]
 
 
+def lmic_focus_for(rec: dict, classifier=None) -> bool:
+    """Is the WORK about low- and middle-income settings, wherever it is based?"""
+    text = _haystack(rec)
+    if _any(LMIC_FOCUS_PATTERNS, text):
+        return True
+    # A description that names LMIC countries is about them even when it never
+    # says "global health". Look only at the description, not the duty station,
+    # so a Nairobi office address does not double-count as focus.
+    if classifier:
+        body = " ".join(
+            str(rec.get(k) or "") for k in ("title", "summary", "_body")
+        )
+        for hit in classifier.find_in_text(body, limit=6):
+            if ((hit.get("incomeLevel") or {}).get("id") or "").upper() in {"LIC", "LMC"}:
+                return True
+    return False
+
+
 def score_for(rec: dict, profile: dict, category: str) -> int:
     text = _haystack(rec)
     title = (rec.get("title") or "").lower()
@@ -330,11 +454,19 @@ def score_for(rec: dict, profile: dict, category: str) -> int:
 
     score += int((profile.get("category_weights") or {}).get(category, 0))
 
+    lmic = profile.get("lmic_weights") or {}
+    if rec.get("lmic_duty_station"):
+        score += int(lmic.get("duty_station", 0))
+    if rec.get("lmic_focus"):
+        score += int(lmic.get("focus", 0))
+    group = rec.get("income_group") or ""
+    if group:
+        score += int((lmic.get("by_group") or {}).get(group, 0))
+
     for term, weight in (profile.get("negative_weights") or {}).items():
         if str(term).lower() in title:
             score += int(weight)
 
-    # Nudge fresh postings up so a stale high-scorer does not sit on top forever.
     return max(score, 0)
 
 
@@ -343,18 +475,57 @@ def language_flags_for(rec: dict, flags: list[str]) -> list[str]:
     return [f for f in (flags or []) if str(f).lower() in text]
 
 
-def enrich(rec: dict, profile: dict) -> dict:
+def enrich(rec: dict, profile: dict, classifier=None) -> dict:
     """Attach every derived field. Returns the same dict, mutated."""
     category = categorise(rec)
-    countries = rec.get("countries") or []
-    if not countries:
-        countries = guess_countries(
-            (rec.get("title") or "") + " " + (rec.get("summary") or "")
+
+    # -- duty station ----------------------------------------------------
+    # Prefer what the source told us. Fall back to reading the title and the
+    # first part of the description, which is the only option for RSS feeds:
+    # they carry no location field at all, which is why sixty of the first
+    # seventy-four listings had no country.
+    countries = [c for c in (rec.get("countries") or []) if c]
+    resolved: list[str] = []
+    group = label = ""
+
+    if classifier:
+        probe = list(countries)
+        if rec.get("city"):
+            probe.append(rec["city"])
+        group, label, resolved = classifier.group_for(probe)
+
+        if not resolved:
+            text = " ".join(
+                str(rec.get(k) or "") for k in ("title", "city", "summary", "_body")
+            )[:2500]
+            hits = classifier.find_in_text(text, limit=3)
+            if hits:
+                resolved = [h["name"] for h in hits]
+                group, label, _ = classifier.group_for(resolved)
+
+        if resolved:
+            rec["countries"] = resolved
+            countries = resolved
+        rec["region"] = (
+            ((classifier.lookup(countries[0]) or {}).get("region") or {}).get("value")
+            or "Unspecified"
+            if countries
+            else "Unspecified"
         )
-        rec["countries"] = countries
+    else:
+        if not countries:
+            countries = guess_countries(
+                (rec.get("title") or "") + " " + (rec.get("summary") or "")
+            )
+            rec["countries"] = countries
+        rec["region"] = region_for(countries)
+
+    rec["income_group"] = group
+    rec["income_label"] = label
+    rec["lmic_duty_station"] = group in {"LIC", "LMC", "UMC"}
+    rec["lmic_focus"] = lmic_focus_for(rec, classifier)
 
     rec["category"] = category
-    rec["region"] = region_for(countries)
     rec["seniority"] = seniority_for(rec)
     rec["themes"] = themes_for(rec, profile.get("theme_weights") or {})
     rec["score"] = score_for(rec, profile, category)

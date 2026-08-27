@@ -26,6 +26,8 @@ GREENHOUSE = "https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=tr
 LEVER = "https://api.lever.co/v0/postings/{company}?mode=json&limit=200"
 WORKDAY = "https://{host}/wday/cxs/{tenant}/{site}/jobs"
 SMARTRECRUITERS = "https://api.smartrecruiters.com/v1/companies/{company}/postings"
+BAMBOOHR = "https://{sub}.bamboohr.com/careers/list"
+WORKABLE = "https://apply.workable.com/api/v1/widget/accounts/{account}?details=true"
 
 
 def _pretty(token: str) -> str:
@@ -239,5 +241,122 @@ def fetch_smartrecruiters(companies: list[dict]) -> tuple[list[dict], dict[str, 
                 )
             )
         status[f"smartrecruiters:{company}"] = f"ok: {len(postings)} postings"
+
+    return results, status
+
+
+def fetch_bamboohr(accounts: list[dict]) -> tuple[list[dict], dict[str, str]]:
+    """BambooHR's public careers JSON. Used by IDinsight, among others.
+
+    Shape: {"result":[{"id","jobOpeningName","location":{"city","state","country"},
+    "department","employmentStatusLabel",...}]}. Location keys vary between
+    installations, so every read is defensive.
+    """
+    results: list[dict] = []
+    status: dict[str, str] = {}
+
+    for entry in accounts:
+        if isinstance(entry, str):
+            entry = {"sub": entry}
+        sub = entry.get("sub")
+        if not sub:
+            status["bamboohr:?"] = "error: no subdomain"
+            continue
+
+        try:
+            data = get(BAMBOOHR.format(sub=sub)).json()
+        except Exception as exc:  # noqa: BLE001
+            status[f"bamboohr:{sub}"] = f"error: {exc}"
+            log.info("bamboohr %s unavailable (%s)", sub, exc)
+            continue
+
+        rows = data.get("result") if isinstance(data, dict) else data
+        rows = rows or []
+        for r in rows:
+            loc = r.get("location") or {}
+            if isinstance(loc, str):
+                countries, city = _split_location(loc)
+            else:
+                city = loc.get("city") or ""
+                countries = [loc.get("country")] if loc.get("country") else []
+            jid = r.get("id") or r.get("jobOpeningId") or ""
+            bits = [
+                r.get("department") or "",
+                r.get("employmentStatusLabel") or "",
+                city,
+                " ".join(str(c) for c in countries),
+            ]
+            results.append(
+                job(
+                    source=f"BambooHR:{sub}",
+                    title=r.get("jobOpeningName") or r.get("title") or "",
+                    org=entry.get("org") or _pretty(sub),
+                    url=r.get("jobOpeningShareUrl")
+                    or f"https://{sub}.bamboohr.com/careers/{jid}",
+                    countries=[str(c) for c in countries if c],
+                    city=city,
+                    posted=parse_date(r.get("datePosted") or r.get("originalOpenDate")),
+                    summary=", ".join(b for b in bits if b),
+                    contract=r.get("employmentStatusLabel") or "",
+                    extra={"assume_health": bool(entry.get("assume_health"))},
+                )
+            )
+        status[f"bamboohr:{sub}"] = f"ok: {len(rows)} postings"
+
+    return results, status
+
+
+def fetch_workable(accounts: list[dict]) -> tuple[list[dict], dict[str, str]]:
+    """Workable's public widget JSON. Used by Evidence Action, VillageReach.
+
+    Shape: {"name","jobs":[{"title","shortcode","url","location":{"city",
+    "country"},"description"?,"published_on"}]}. details=true asks for the
+    description, which the relevance gate wants.
+    """
+    results: list[dict] = []
+    status: dict[str, str] = {}
+
+    for entry in accounts:
+        if isinstance(entry, str):
+            entry = {"account": entry}
+        account = entry.get("account")
+        if not account:
+            status["workable:?"] = "error: no account"
+            continue
+
+        try:
+            data = get(WORKABLE.format(account=account)).json()
+        except Exception as exc:  # noqa: BLE001
+            status[f"workable:{account}"] = f"error: {exc}"
+            log.info("workable %s unavailable (%s)", account, exc)
+            continue
+
+        jobs = data.get("jobs") or []
+        org = entry.get("org") or data.get("name") or _pretty(account)
+        for j in jobs:
+            loc = j.get("location") or {}
+            city = loc.get("city") or ""
+            country = loc.get("country") or loc.get("countryCode") or ""
+            body = strip_html(j.get("description") or "")
+            code = j.get("shortcode") or ""
+            results.append(
+                job(
+                    source=f"Workable:{account}",
+                    title=j.get("title") or "",
+                    org=org,
+                    url=j.get("url")
+                    or (f"https://apply.workable.com/{account}/j/{code}/" if code else ""),
+                    countries=[country] if country else [],
+                    city=city,
+                    posted=parse_date(j.get("published_on") or j.get("created_at")),
+                    summary=body or ", ".join(x for x in [city, country] if x),
+                    contract=j.get("employment_type") or "",
+                    extra={
+                        "_body": truncate(body, 6000),
+                        "assume_health": bool(entry.get("assume_health")),
+                    },
+                )
+            )
+        status[f"workable:{account}"] = f"ok: {len(jobs)} postings"
 
     return results, status

@@ -61,8 +61,41 @@ greenhouse:
 # Lever. Every candidate 404'd. Kept as an empty, working hook.
 # ---------------------------------------------------------------------------
 lever:
-  enabled: false
-  companies: []
+  enabled: true
+  companies:
+    - wr          # World Relief -- verified, one Africa-region role covering
+                  # Chad, Burundi, Ethiopia, DRC, Malawi, Kenya, Rwanda, Haiti
+    - ghcorps     # Global Health Corps -- endpoint valid, returned [] when
+                  # checked. Costs one request; keep and see.
+
+# ---------------------------------------------------------------------------
+# BambooHR. IDinsight verified: 18 postings across Shillong, Lucknow, Manila,
+# Jakarta, Dakar, Nairobi, Lusaka. Exactly the LMIC field profile.
+# ---------------------------------------------------------------------------
+bamboohr:
+  enabled: true
+  accounts:
+    - sub: idinsight
+      org: IDinsight
+      assume_health: false   # they do education and agriculture too; let the
+                             # gate do its job here
+
+# ---------------------------------------------------------------------------
+# Workable. Evidence Action verified: 9 postings across India, Kenya, Nigeria,
+# Uganda. Note the account slug is evidence-action with a hyphen; the
+# unhyphenated one is a stale duplicate returning zero.
+# ---------------------------------------------------------------------------
+workable:
+  enabled: true
+  accounts:
+    - account: evidence-action
+      org: Evidence Action
+      assume_health: false
+    - account: villagereach
+      org: VillageReach
+      assume_health: true    # health logistics organisation; their own site
+                             # lists DRC roles the widget did not return, so
+                             # this may need the second account slug found
 
 # ---------------------------------------------------------------------------
 # Workday. Where the large global health employers actually are.
@@ -94,14 +127,30 @@ workday:
       max_results: 200
 
 # ---------------------------------------------------------------------------
-# SmartRecruiters. PSI's board. Their SmartRecruiters company id is
-# HealthXPartners, which looks wrong but is correct.
+# SmartRecruiters -- DISABLED, and this one is awkward.
+#
+# The adapter works and the tokens are right: HealthXPartners is PSI (the name
+# looks wrong, it is correct) and AmrefHealthAfrica4 is Amref Health Africa,
+# whose entire board is Nairobi, Dar es Salaam and Lusaka. Both are squarely
+# what this board is for.
+#
+# But api.smartrecruiters.com publishes a robots.txt that disallows automated
+# retrieval. unjobs.org was excluded on exactly that basis, and applying the
+# rule to one source and not another because the second one has jobs I want is
+# not a rule. So it is off.
+#
+# If you decide the API host's posture is acceptable, flip enabled to true.
+# The public front end at careers.smartrecruiters.com fetches fine and is not
+# disallowed, so a page-parsing adapter would be another way through.
 # ---------------------------------------------------------------------------
 smartrecruiters:
-  enabled: true
+  enabled: false
   companies:
     - company: HealthXPartners
       org: Population Services International
+      assume_health: true
+    - company: AmrefHealthAfrica4
+      org: Amref Health Africa
       assume_health: true
 
 # ---------------------------------------------------------------------------
@@ -155,6 +204,53 @@ rss:
       default_category: research
       enabled: true
 
+    # -- NGO Jobs in Africa. The single best LMIC-duty-station source found.
+    #    Country feeds follow /job-location/<slug>/feed/ and the site's own
+    #    index at /rss-feed-by-country/ lists about sixty slugs, all African.
+    #    robots.txt is permissive. The four below were fetched and returned
+    #    real vacancies; add more slugs freely, they cost one request each.
+    #    Note /global/feed/ and /india/feed/ are valid but empty: the site is
+    #    Africa-only in practice.
+    - name: NGO Jobs Africa Kenya
+      url: https://ngojobsinafrica.com/job-location/kenya/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa Nigeria
+      url: https://ngojobsinafrica.com/job-location/nigeria/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa Tanzania
+      url: https://ngojobsinafrica.com/job-location/tanzania/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa Ethiopia
+      url: https://ngojobsinafrica.com/job-location/ethiopia/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa Uganda
+      url: https://ngojobsinafrica.com/job-location/uganda/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa South Sudan
+      url: https://ngojobsinafrica.com/job-location/south-sudan/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa Malawi
+      url: https://ngojobsinafrica.com/job-location/malawi/feed/
+      default_category: ngo
+      enabled: true
+    - name: NGO Jobs Africa Zambia
+      url: https://ngojobsinafrica.com/job-location/zambia/feed/
+      default_category: ngo
+      enabled: true
+
+    # -- KEMRI-Wellcome Trust Research Programme, Kilifi and Nairobi.
+    #    Live Drupal feed, verified.
+    - name: KEMRI-Wellcome
+      url: https://jobs.kemri-wellcome.org/rss.xml
+      default_category: research
+      enabled: true
+
     # -- LSHTM. Small feeds, but the hit rate for this profile is high.
     #    The index at https://jobs.lshtm.ac.uk/RSS/ lists ~50 more feeds
     #    following the same rss.aspx?cat=N&type=N pattern.
@@ -172,6 +268,19 @@ rss:
       enabled: true
     - name: LSHTM public health and policy
       url: https://jobs.lshtm.ac.uk/RSS/rss.aspx?cat=202&type=8
+      default_category: research
+      enabled: true
+
+    # -- MRC units in The Gambia and Uganda hire through LSHTM. Both feeds are
+    #    well-formed with the right channel titles but carried zero items when
+    #    checked, so they are real endpoints that have not been seen to deliver.
+    #    They cost one request each; leave them and watch.
+    - name: LSHTM MRC The Gambia
+      url: https://jobs.lshtm.ac.uk/RSS/rss.aspx?cat=267&type=6
+      default_category: research
+      enabled: true
+    - name: LSHTM MRC Uganda
+      url: https://jobs.lshtm.ac.uk/RSS/rss.aspx?cat=268&type=6
       default_category: research
       enabled: true
 
@@ -231,6 +340,60 @@ stale_after_days: 45
 #                                           prohibit automated access.
 # findaphd                                  no feed; terms unconfirmed, assume
 #                                           prohibited.
+#
+# --- second sweep, LMIC-focused ---
+# APHRC (Nairobi)                           robots.txt names and blocks
+#                                           ClaudeBot, GPTBot, anthropic-ai and
+#                                           CCBot outright, and disallows feed
+#                                           URLs for everyone. Excluded.
+# jobs.undp.org/cj_rss_feed.cfm             a real UNDP RSS feed, disallowed by
+#                                           their robots.txt. Excluded.
+# api.smartrecruiters.com                   robots-disallowed. See the disabled
+#                                           block above.
+# Impactpool                                browsing is free and robots.txt is
+#                                           permissive, but there is no feed and
+#                                           no API. Scraping only, so no.
+# Devex                                     no public API, /api/ disallowed,
+#                                           paywall status unclear.
+# devjobsmail.com                           403.
+# oneacrefund.org                           43 vacancies, all self-hosted Drupal
+#                                           pages, no feed and no ATS.
+# careers.who.int                           Taleo. UI advertises RSS but the
+#                                           documented parameter returns HTML.
+# nimr.or.tz                                TLS failure, self-signed cert.
+# research.pasteur.fr/en/jobs/feed          valid RSS, zero items, Paris-based.
+# iddo.org, hub.tghn.org                    abandoned boards, stale listings.
+# pihhealth.org                             NAME COLLISION: that is PIH Health,
+#                                           a California hospital system, not
+#                                           Partners In Health. Never ingest it.
+# intrahealth.breezy.hr                     same trap, different org.
+# Lever 404s                                idinsight, oneacrefund,
+#                                           evidenceaction, livinggoods,
+#                                           mercycorps.
+# Greenhouse 404s                           villagereach, medic.
+#
+# HTML-ONLY, real jobs, would need page parsing rather than a feed:
+#   Last Mile Health and Living Goods (JazzHR, no public RSS) -- Ethiopia,
+#   Liberia, Malawi, Ghana, Sierra Leone, Burkina Faso, Kenya
+#   OUCRU (self-hosted) -- Vietnam, Indonesia, Nepal
+#   Ifakara Health Institute -- Tanzania
+#   icddr,b -- Dhaka
+#   ICMR -- India
+#   DevNetJobsIndia -- India, robots.txt permissive
+#   Aga Khan University (Taleo, aku.taleo.net) -- Pakistan, Kenya, Uganda,
+#   Tanzania, Afghanistan
+#
+# KNOWN COVERAGE GAP: Latin America. Nothing verified reaches it. The African
+# country feeds are Africa-only by construction and Asian coverage is three
+# single-employer sources. ReliefWeb would close both gaps at once.
+#
+# ALSO WORTH DOING: University of Oxford exposes a real vacancy XML API at
+#   my.corehr.com/pls/uoxrecruit/Erq_search_xml_api.build_search_xml
+#     ?p_internal_external=A&p_company=10&p_department=B9
+#   (B9 is the Centre for Tropical Medicine and Global Health). It is XML but
+#   not RSS, so feedparser will not read it and it needs its own small adapter.
+#   Note that MORU Bangkok and OUCRU Ho Chi Minh City post locally rather than
+#   through Oxford, so this yields the UK-based network roles only.
 #
 # NOT YET WRITTEN -- these need bespoke adapters and are mostly JS-rendered:
 #   CHAI and Jhpiego (iCIMS), Vital Strategies (Taleo, org VITASTRA),
