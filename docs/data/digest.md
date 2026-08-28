@@ -1,12 +1,18 @@
-### 2 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Research Fellow in pharmacoepidemiology (Grade 7-8)](https://jobrxiv.org/job/research-fellow-in-pharmacoepidemiology-grade-7-8/)** (39) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Postdoctoral Research Associate in Inorganic Chemistry](https://jobrxiv.org/?post_type=job_listing&p=148622)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Principal Scientist, Sterile Drug Product Development](https://jobrxiv.org/job/principal-scientist-sterile-drug-product-development/)** (40) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Postdoctoral Research Associate in Organic Chemistry](https://jobrxiv.org/job/postdoctoral-research-associate-in-organic-chemistry-3/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Principal Scientist, Translational Omics](https://jobrxiv.org/job/principal-scientist-translational-omics/)** (30)  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[Scientist l, Pathology](https://jobrxiv.org/job/scientist-l-pathology/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Principal Scientist I, Chemistry](https://jobrxiv.org/job/principal-scientist-i-chemistry/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ---
-578 open positions on the board, 2 of the new ones LMIC-related.
+581 open positions on the board, 4 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
