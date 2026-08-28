@@ -301,9 +301,69 @@ with tempfile.TemporaryDirectory() as tmp:
     check("first_seen survives a second run",
           all(j.get("first_seen") for j in second))
 
+    # No healthy_sources passed means every source is treated as failed, which
+    # is the "everything broke" case the grace period exists for.
     third, _ = merge.merge([], prev, stale_after_days=45)
     check("an empty fetch does not wipe the board", len(third) > 0, str(len(third)))
     check("carried-over jobs are marked unconfirmed", all(j.get("stale") for j in third))
+
+print("\nstaying current")
+
+# 1. A healthy source that stops listing a job means the job is gone.
+# Built from the records themselves, which also checks that the lowercased
+# status keys really do line up with the source names on the records.
+live_src = {j["source"].lower() for j in first}
+gone, gstats = merge.merge([], {j["id"]: j for j in first}, healthy_sources=live_src)
+check("a healthy source dropping a job removes it from the board",
+      len(gone) == 0, f"{len(gone)} survived")
+check("and it is counted as delisted, not expired",
+      gstats["delisted_by_source"] > 0 and gstats["expired_dropped"] == 0, str(gstats))
+
+# 2. A source that FAILED still gets the grace period.
+kept_back, kstats = merge.merge([], {j["id"]: j for j in first}, healthy_sources=set())
+check("a failed source keeps its jobs for the grace period", len(kept_back) > 0)
+check("those are flagged unconfirmed", all(j.get("stale") for j in kept_back))
+
+# 3. Postings with no closing date age out on their posting date.
+old_no_deadline = job(
+    source="RSS:jobRxiv PhD", title="PhD position in tuberculosis epidemiology",
+    org="A University", url="https://e.org/old", posted=d(-200),
+    summary="Doctoral position on tuberculosis. Public health epidemiology.")
+fresh_no_deadline = job(
+    source="RSS:jobRxiv PhD", title="PhD position in HIV epidemiology",
+    org="A University", url="https://e.org/new", posted=d(-5),
+    summary="Doctoral position on HIV. Public health epidemiology.")
+aged = [classify.enrich(r, PROFILE, CLS) for r in (old_no_deadline, fresh_no_deadline)]
+out, astats = merge.merge(aged, {}, max_age_days=90)
+kept_titles = {j["title"] for j in out}
+check("a 200-day-old posting with no deadline is retired",
+      not any("tuberculosis epidemiology" in t for t in kept_titles), str(kept_titles))
+check("a recent posting with no deadline stays",
+      any("HIV epidemiology" in t for t in kept_titles), str(kept_titles))
+check("aged-out listings are counted separately",
+      astats["aged_out_no_deadline"] == 1, str(astats))
+check("max_age_days=0 disables the age rule",
+      len(merge.merge(aged, {}, max_age_days=0)[0]) == 2)
+
+# 4. A stated deadline still wins over age: old posting, deadline still open.
+old_but_open = classify.enrich(job(
+    source="RSS:test", title="Health Programme Officer", org="An NGO",
+    url="https://e.org/openold", posted=d(-200), deadline=d(14),
+    summary="Public health programme delivery."), PROFILE, CLS)
+check("an old posting with a future deadline is kept",
+      len(merge.merge([old_but_open], {}, max_age_days=90)[0]) == 1)
+
+# 5. Zero grace means it goes the day after it closes.
+closed_yesterday = classify.enrich(job(
+    source="RSS:test", title="Health Officer closed", org="An NGO",
+    url="https://e.org/closed", posted=d(-30), deadline=d(-1),
+    summary="Public health programme delivery."), PROFILE, CLS)
+check("expire_after_days=0 drops a vacancy that closed yesterday",
+      len(merge.merge([closed_yesterday], {}, expire_after_days=0)[0]) == 0)
+check("expire_after_days=2 would still hold it",
+      len(merge.merge([closed_yesterday], {}, expire_after_days=2)[0]) == 1)
+
+print("\nfrontend contract")
 
 print("\nlink harvesting (no network: parser exercised directly)")
 from bs4 import BeautifulSoup  # noqa: E402

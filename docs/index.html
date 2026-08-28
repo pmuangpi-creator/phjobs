@@ -136,8 +136,8 @@ footer{margin-top:26px;color:var(--ink-2);font-size:12px;line-height:1.7}
   <div class="searchbar">
     <input type="search" id="q" placeholder="Search title, organisation, description, country…" autocomplete="off">
     <select id="sort">
-      <option value="score">Sort: best match</option>
       <option value="new">Sort: newest first</option>
+      <option value="score">Sort: best match</option>
       <option value="deadline">Sort: closing soonest</option>
       <option value="org">Sort: organisation</option>
     </select>
@@ -211,10 +211,10 @@ var INCOME = {
 };
 
 var state = {
-  all: [], view: [], tab: "all", q: "", sort: "score", limit: 40,
+  all: [], view: [], tab: "all", q: "", sort: "new", limit: 40,
   cats: {}, regions: {}, sources: {}, seniorities: {}, themes: {}, incomes: {},
   deadline: "any", remoteOnly: false, hideStale: false,
-  lmicDuty: false, lmicFocus: false, minScore: 0,
+  lmicDuty: false, lmicFocus: false, minScore: 0, showClosed: false,
   saved: store.get("ph.saved", {}),
   hidden: store.get("ph.hidden", {}),
   lastVisit: store.get("ph.lastVisit", null)
@@ -227,11 +227,17 @@ var esc = function(s){
     .replace(/"/g,"&quot;");
 };
 
+function todayISO(){ return new Date().toISOString().slice(0,10); }
+
+// Whole days between two calendar dates. Deliberately not a duration in hours:
+// Math.ceil on a negative fraction rounds toward zero, so a deadline of
+// yesterday came out as 0 and read as "closes today". Comparing the date parts
+// gives -1 for yesterday and 1 for tomorrow, which is what the word means.
 function daysUntil(iso){
   if(!iso) return null;
-  var d = new Date(iso + "T23:59:59Z");
-  if(isNaN(d)) return null;
-  return Math.ceil((d - new Date()) / 86400000);
+  var a = Date.parse(iso + "T00:00:00Z");
+  if(isNaN(a)) return null;
+  return Math.round((a - Date.parse(todayISO() + "T00:00:00Z")) / 86400000);
 }
 function daysSince(iso){
   if(!iso) return null;
@@ -248,7 +254,7 @@ function toast(msg){
  * filter state in the URL, so a view can be bookmarked and shared
  * ------------------------------------------------------------------ */
 var SETS = ["cats","regions","sources","seniorities","themes","incomes"];
-var FLAGS = ["lmicDuty","lmicFocus","remoteOnly","hideStale"];
+var FLAGS = ["lmicDuty","lmicFocus","remoteOnly","hideStale","showClosed"];
 
 function stateToHash(){
   var p = [];
@@ -406,7 +412,8 @@ function buildFilters(){
        '</select></div>';
   h += '<div class="fgroup"><h3>Options</h3>' +
        '<label><input type="checkbox" id="remoteOnly"><span>Remote / home based</span></label>' +
-       '<label><input type="checkbox" id="hideStale"><span>Hide unconfirmed (not seen last run)</span></label>' +
+       '<label><input type="checkbox" id="hideStale"><span>Hide unconfirmed (source failed last run)</span></label>' +
+       '<label><input type="checkbox" id="showClosed"><span>Show closed vacancies too</span></label>' +
        '<p style="margin:10px 0 0"><button class="linkbtn" id="clearBtn">Clear all filters</button></p>' +
        '</div>';
   $("filters").innerHTML = h;
@@ -419,6 +426,7 @@ function buildFilters(){
     } else if(el.id === "dl"){ state.deadline = el.value; }
     else if(el.id === "remoteOnly"){ state.remoteOnly = el.checked; }
     else if(el.id === "hideStale"){ state.hideStale = el.checked; }
+    else if(el.id === "showClosed"){ state.showClosed = el.checked; }
     else if(el.id === "lmicDuty"){ state.lmicDuty = el.checked; }
     else if(el.id === "lmicFocus"){ state.lmicFocus = el.checked; }
     else if(el.id === "minScore"){ state.minScore = parseInt(el.value, 10) || 0; }
@@ -428,12 +436,14 @@ function buildFilters(){
   $("minScore").value = String(state.minScore);
   $("remoteOnly").checked = state.remoteOnly;
   $("hideStale").checked = state.hideStale;
+  $("showClosed").checked = state.showClosed;
 
   $("clearBtn").onclick = function(){
     state.cats = {}; state.regions = {}; state.sources = {};
     state.seniorities = {}; state.themes = {}; state.incomes = {};
     state.deadline = "any"; state.remoteOnly = false; state.hideStale = false;
     state.lmicDuty = false; state.lmicFocus = false; state.minScore = 0;
+    state.showClosed = false;
     state.q = ""; $("q").value = ""; buildFilters(); state.limit = 40; render();
   };
 }
@@ -479,6 +489,13 @@ $("moreBtn").onclick = function(){ state.limit += 60; render(); };
 function anyChecked(bucket){ return Object.keys(state[bucket]).length > 0; }
 
 function matches(j){
+  // Backstop. The build already drops closed vacancies, but up to six hours
+  // pass between refreshes and a deadline can fall inside that window.
+  if(!state.showClosed){
+    var dl = daysUntil(j.deadline);
+    if(dl !== null && dl < 0) return false;
+  }
+
   if(state.tab === "hidden") { if(!state.hidden[j.id]) return false; }
   else if(state.hidden[j.id]) return false;
 
@@ -521,8 +538,16 @@ function matches(j){
   return true;
 }
 
+// "Newest" means when the employer published it, falling back to when we first
+// saw it for the sources that give no posting date.
+function freshness(j){ return j.posted || j.first_seen || ""; }
+
 function sortFn(a,b){
-  if(state.sort === "new") return (b.first_seen||"") < (a.first_seen||"") ? -1 : 1;
+  if(state.sort === "new"){
+    var fa = freshness(a), fb = freshness(b);
+    if(fa !== fb) return fa < fb ? 1 : -1;
+    return (b.score||0) - (a.score||0);
+  }
   if(state.sort === "org") return (a.org||"").localeCompare(b.org||"");
   if(state.sort === "deadline"){
     var da = a.deadline || "9999-12-31", db = b.deadline || "9999-12-31";

@@ -187,11 +187,19 @@ def main() -> int:
     log.info("relevance gate: kept %s, dropped %s as not public health", len(kept), rejected)
 
     # --- merge -----------------------------------------------------------
+    # Which sources answered normally this run. A job whose source is healthy
+    # but which that source no longer lists has been taken down, so it is
+    # dropped rather than carried forward. Status keys and record source names
+    # agree once lowercased ("rss:LSHTM ..." / "RSS:LSHTM ...").
+    healthy = {k.lower() for k, v in status.items() if str(v).startswith("ok")}
+
     jobs, stats = merge.merge(
         kept,
         previous,
-        expire_after_days=int(sources.get("expire_after_days", 2)),
-        stale_after_days=int(sources.get("stale_after_days", 45)),
+        expire_after_days=int(sources.get("expire_after_days", 0)),
+        stale_after_days=int(sources.get("stale_after_days", 7)),
+        healthy_sources=healthy,
+        max_age_days=int(sources.get("max_age_days", 90)),
     )
     stats["gate_rejected"] = rejected
 

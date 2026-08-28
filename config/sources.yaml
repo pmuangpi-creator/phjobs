@@ -391,8 +391,27 @@ alerts:
   closing_days: 3
   site_url: https://pmuangpi-creator.github.io/phjobs/
 
-expire_after_days: 2
-stale_after_days: 45
+# ---------------------------------------------------------------------------
+# Keeping the board to vacancies that are actually still open.
+#
+# expire_after_days  grace period after a stated closing date. 0 means a job
+#                    disappears the day after it closes. Raise to 1 or 2 if you
+#                    find deadlines are being read a day early because a source
+#                    publishes dates without a timezone.
+#
+# stale_after_days   how long a job survives when its SOURCE failed. This no
+#                    longer applies to jobs whose source answered normally: if
+#                    a working source stops listing a job, the employer took it
+#                    down and it is dropped on the next run.
+#
+# max_age_days       for postings that state no closing date at all. Nothing
+#                    marks those as finished, so without this they sit on the
+#                    board forever. Retired this many days after their posting
+#                    date. Lower it to 60 if the board still feels stale.
+# ---------------------------------------------------------------------------
+expire_after_days: 0
+stale_after_days: 7
+max_age_days: 90
 
 # ---------------------------------------------------------------------------
 # GRAVEYARD -- checked, do not re-add without new evidence
