@@ -1,24 +1,24 @@
 ### 8 new, scoring 30 or above
 
-- **[Postdocs in HIV and Hepatitis B/D Immunology](https://jobrxiv.org/job/postdocs-in-hiv-and-hepatitis-b-d-immunology/)** (45) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Scientist 3 – Translational Medicine (Ophthalmology)](https://jobrxiv.org/job/scientist-3-translational-medicine-ophthalmology-2/)** (43) `focus`  
+- **[Research Associate](https://jobrxiv.org/job/research-associate-74/)** (63)  
+  Jobfront Academia · Canada · RSS:jobRxiv research assistant
+- **[Director, Clinical Data Scientist](https://jobrxiv.org/job/director-clinical-data-scientist/)** (51) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Two Postdoc positions in Cardiometabolic (Electro-)Physiology at the Department of Biomedical Sciences](https://jobrxiv.org/job/two-postdoc-positions-in-cardiometabolic-electro-physiology-at-the-department-of-biomedical-sciences/)** (41) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Principal Data Scientist – RDT Applied AI](https://jobrxiv.org/job/principal-data-scientist-rdt-applied-ai/)** (38) `focus`  
+- **[Senior Principal Scientist](https://jobrxiv.org/job/senior-principal-scientist-24/)** (48) `LMIC`  
+  Jobfront Industry · Germany, Japan, China · RSS:jobRxiv scientist
+- **[Manager, Clinical Data Scientist](https://jobrxiv.org/job/manager-clinical-data-scientist-2/)** (47) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[PhD position for 3 years in stem cell-based disease modelling of the hypothalamus](https://jobrxiv.org/job/phd-position-for-3-years-in-stem-cell-based-disease-modelling-of-the-hypothalamus/)** (37) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv PhD
-- **[Research assistant in infection immunology](https://jobrxiv.org/job/research-assistant-in-infection-immunology/)** (33)  
+- **[Academic Hospital Medicine Faculty](https://jobrxiv.org/job/academic-hospital-medicine-faculty/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Postdoctoral Research Associate in Organic Synthesis for the Lithium-Air Battery](https://jobrxiv.org/job/postdoctoral-research-associate-in-organic-synthesis-for-the-lithium-air-battery-2/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Senior HRIS Analyst](https://jobrxiv.org/job/senior-hris-analyst/)** (30) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Laboratory Technician – Chemical and Beamline Support](https://jobrxiv.org/job/laboratory-technician-chemical-and-beamline-support/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Clinical Scientist – College of Medicine and Health – 100477 – Grade 8](https://jobrxiv.org/job/clinical-scientist-college-of-medicine-and-health-100477-grade-8/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Faculty Positions – Master of Science in Regulatory Science and Digital Innovation (RSDI)](https://jobrxiv.org/job/faculty-positions-master-of-science-in-regulatory-science-and-digital-innovation-rsdi/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ---
-395 open positions on the board, 7 of the new ones LMIC-related.
+394 open positions on the board, 7 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
