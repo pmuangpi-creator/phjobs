@@ -1,14 +1,14 @@
 ### 3 new, scoring 30 or above
 
-- **[Assistant Rehabilitation officer](https://ngojobsinafrica.com/job/assistant-rehabilitation-officer-2/)** (53) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Lab Scientist I](https://jobrxiv.org/job/lab-scientist-i/)** (30) `focus`  
+- **[Senior Data Scientist – Safety Analytics & Signal Detection](https://jobrxiv.org/job/senior-data-scientist-safety-analytics-signal-detection/)** (35)  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Clinical Scientist – Late Stage Development (Ophthalmology)](https://jobrxiv.org/job/clinical-scientist-late-stage-development-ophthalmology/)** (30) `focus`  
+- **[Senior Scientist, Pharmacokinetics](https://jobrxiv.org/job/senior-scientist-pharmacokinetics-3/)** (34) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Postdoctoral Research Associate – Engineering](https://jobrxiv.org/?post_type=job_listing&p=149172)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ---
-394 open positions on the board, 3 of the new ones LMIC-related.
+397 open positions on the board, 2 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
