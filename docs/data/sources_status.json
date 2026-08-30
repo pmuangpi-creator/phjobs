@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-30T14:57:16+00:00",
-  "duration_seconds": 39.1,
+  "generated_at": "2026-08-30T17:20:17+00:00",
+  "duration_seconds": 40.3,
   "sources_ok": 35,
   "sources_total": 46,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 353,
-    "unique_ids": 436,
+    "fetched": 355,
+    "unique_ids": 437,
     "carried_over": 120,
     "delisted_by_source": 2,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
-    "duplicates_collapsed": 23,
-    "published": 397,
-    "gate_rejected": 381,
+    "duplicates_collapsed": 22,
+    "published": 399,
+    "gate_rejected": 379,
     "lmic_duty_station": 49,
-    "lmic_focus": 208,
+    "lmic_focus": 210,
     "with_location": 153,
-    "digest_items": 0
+    "digest_items": 3
   },
   "sources": {
     "bamboohr:idinsight": "ok: 22 postings",
