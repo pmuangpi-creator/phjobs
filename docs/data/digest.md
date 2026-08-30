@@ -1,20 +1,22 @@
-### 6 new, scoring 30 or above
+### 7 new, scoring 30 or above
 
-- **[Postdoctoral Research Fellow / Research Officer in Bio-separations and Membrane Engineering](https://jobrxiv.org/job/postdoctoral-research-fellow-research-officer-in-bio-separations-and-membrane-engineering/)** (66) `LMIC/focus`  
-  Jobfront Academia · St. Lucia, Australia · RSS:jobRxiv postdoc
-- **[Health and Human Info Policy Research Fellow (Hybrid) – Cordell Institute for Policy in Medicine & Law](https://jobrxiv.org/job/health-and-human-info-policy-research-fellow-hybrid-cordell-institute-for-policy-in-medicine-law/)** (55) `focus`  
-  Jobfront Academia · United States · RSS:jobRxiv postdoc
-- **[Principal Research Scientist I/II Biologics Quality Control in Biologics Analytical R&D (all genders) (full-time, permanent)](https://jobrxiv.org/job/principal-research-scientist-i-ii-biologics-quality-control-in-biologics-analytical-rd-all-genders-full-time-permanent/)** (42) `focus`  
-  Jobfront Industry · Germany · RSS:jobRxiv scientist
-- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-51/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Postdoctoral Research Fellow/Research Officer – Microbial Entrapment for Domestic and Industrial Wastewater Treatment](https://jobrxiv.org/job/postdoctoral-research-fellow-research-officer-microbial-entrapment-for-domestic-and-industrial-wastewater-treatment/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Clinical Leader (Clinical Development Scientist I / II), Immunology](https://jobrxiv.org/job/clinical-leader-clinical-development-scientist-i-ii-immunology/)** (30) `focus`  
-  Jobfront Industry · Japan · RSS:jobRxiv scientist
+- **[Physician with Dhaka Hospital of Clinical and Diagnostic Services under the Office of Executive Director (Adv#119/2026).](https://career.icddrb.org/vacancy-preview/32277)** (71) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Research Assistant](https://jobrxiv.org/job/research-assistant-140/)** (60) `focus`  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv research assistant
+- **[Senior Principal Data Scientist](https://jobrxiv.org/job/senior-principal-data-scientist-7/)** (46) `focus`  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[PhD Scholarships: Shaping AI’s Future](https://jobrxiv.org/job/phd-scholarships-shaping-ais-future/)** (45) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Research Assistant in Rural Health](https://jobrxiv.org/job/research-assistant-in-rural-health/)** (43) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Senior Principal Data Scientist](https://jobrxiv.org/job/senior-principal-data-scientist-8/)** (38) `focus`  
+  Jobfront Industry · Ireland · RSS:jobRxiv scientist
+- **[Postdoctoral Research Associate in Degradable Electronic Polymers](https://jobrxiv.org/job/postdoctoral-research-associate-in-degradable-electronic-polymers/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ---
-396 open positions on the board, 6 of the new ones LMIC-related.
+397 open positions on the board, 7 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
