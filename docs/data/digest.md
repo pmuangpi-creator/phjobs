@@ -1,24 +1,20 @@
-### 8 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Research Associate](https://jobrxiv.org/job/research-associate-74/)** (63)  
-  Jobfront Academia · Canada · RSS:jobRxiv research assistant
-- **[Director, Clinical Data Scientist](https://jobrxiv.org/job/director-clinical-data-scientist/)** (51) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Principal Scientist](https://jobrxiv.org/job/senior-principal-scientist-24/)** (48) `LMIC`  
-  Jobfront Industry · Germany, Japan, China · RSS:jobRxiv scientist
-- **[Manager, Clinical Data Scientist](https://jobrxiv.org/job/manager-clinical-data-scientist-2/)** (47) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Academic Hospital Medicine Faculty](https://jobrxiv.org/job/academic-hospital-medicine-faculty/)** (35) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
-- **[Postdoctoral Research Associate in Organic Synthesis for the Lithium-Air Battery](https://jobrxiv.org/job/postdoctoral-research-associate-in-organic-synthesis-for-the-lithium-air-battery-2/)** (30) `focus`  
+- **[Postdoctoral Research Fellow / Research Officer in Bio-separations and Membrane Engineering](https://jobrxiv.org/job/postdoctoral-research-fellow-research-officer-in-bio-separations-and-membrane-engineering/)** (66) `LMIC/focus`  
+  Jobfront Academia · St. Lucia, Australia · RSS:jobRxiv postdoc
+- **[Health and Human Info Policy Research Fellow (Hybrid) – Cordell Institute for Policy in Medicine & Law](https://jobrxiv.org/job/health-and-human-info-policy-research-fellow-hybrid-cordell-institute-for-policy-in-medicine-law/)** (55) `focus`  
+  Jobfront Academia · United States · RSS:jobRxiv postdoc
+- **[Principal Research Scientist I/II Biologics Quality Control in Biologics Analytical R&D (all genders) (full-time, permanent)](https://jobrxiv.org/job/principal-research-scientist-i-ii-biologics-quality-control-in-biologics-analytical-rd-all-genders-full-time-permanent/)** (42) `focus`  
+  Jobfront Industry · Germany · RSS:jobRxiv scientist
+- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-51/)** (38) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Senior HRIS Analyst](https://jobrxiv.org/job/senior-hris-analyst/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Faculty Positions – Master of Science in Regulatory Science and Digital Innovation (RSDI)](https://jobrxiv.org/job/faculty-positions-master-of-science-in-regulatory-science-and-digital-innovation-rsdi/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Postdoctoral Research Fellow/Research Officer – Microbial Entrapment for Domestic and Industrial Wastewater Treatment](https://jobrxiv.org/job/postdoctoral-research-fellow-research-officer-microbial-entrapment-for-domestic-and-industrial-wastewater-treatment/)** (38) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Clinical Leader (Clinical Development Scientist I / II), Immunology](https://jobrxiv.org/job/clinical-leader-clinical-development-scientist-i-ii-immunology/)** (30) `focus`  
+  Jobfront Industry · Japan · RSS:jobRxiv scientist
 
 ---
-394 open positions on the board, 7 of the new ones LMIC-related.
+396 open positions on the board, 6 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
