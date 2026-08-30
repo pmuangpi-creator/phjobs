@@ -1,14 +1,20 @@
-### 3 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Research Scientist (f/m/x) in Spatial Multi-Omics Analysis](https://jobrxiv.org/job/research-scientist-f-m-x-in-spatial-multi-omics-analysis/)** (48) `focus`  
-  Jobfront Academia · Germany · RSS:jobRxiv scientist
-- **[Postdoctoral Position in Modelling and Optimization of Pyrolysis Plants with Integrated CO₂ Capture](https://jobrxiv.org/job/postdoctoral-position-in-modelling-and-optimization-of-pyrolysis-plants-with-integrated-co%e2%82%82-capture/)** (32) `focus`  
+- **[Maternal-Fetal Medicine Physician-Scientist](https://jobrxiv.org/job/maternal-fetal-medicine-physician-scientist/)** (39) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Clinical Research Fellow in Radiotherapy on cancer evolution](https://jobrxiv.org/job/clinical-research-fellow-in-radiotherapy-on-cancer-evolution/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Clinical Research Fellow](https://jobrxiv.org/job/clinical-research-fellow-25/)** (30) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Postdoctoral Research Associate in Organic Chemistry](https://jobrxiv.org/job/postdoctoral-research-associate-in-organic-chemistry-3/)** (30) `focus`  
+- **[Research Fellow](https://jobrxiv.org/job/research-fellow-134/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Social Science/Humanities Research Associate III](https://jobrxiv.org/job/social-science-humanities-research-associate-iii-3/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Postdoctoral Research Associate – Engineering](https://jobrxiv.org/?post_type=job_listing&p=149172)** (30) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ---
-399 open positions on the board, 3 of the new ones LMIC-related.
+398 open positions on the board, 6 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
