@@ -1,20 +1,18 @@
-### 6 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Maternal-Fetal Medicine Physician-Scientist](https://jobrxiv.org/job/maternal-fetal-medicine-physician-scientist/)** (39) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
-- **[Clinical Research Fellow in Radiotherapy on cancer evolution](https://jobrxiv.org/job/clinical-research-fellow-in-radiotherapy-on-cancer-evolution/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Clinical Research Fellow](https://jobrxiv.org/job/clinical-research-fellow-25/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Fellow](https://jobrxiv.org/job/research-fellow-134/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Social Science/Humanities Research Associate III](https://jobrxiv.org/job/social-science-humanities-research-associate-iii-3/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Postdoctoral Research Associate – Engineering](https://jobrxiv.org/?post_type=job_listing&p=149172)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Senior Research Manager for South Sudan, Based in Juba](https://ngojobsinafrica.com/job/senior-research-manager-for-south-sudan-based-in-juba/)** (98) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan, Switzerland · RSS:NGO Jobs Africa South Sudan
+- **[Veterinary Services, Livestock Production, Pastoral Livelihoods and Economic Resilience](https://ngojobsinafrica.com/job/veterinary-services-livestock-production-pastoral-livelihoods-and-economic-resilience/)** (80) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
+- **[Review and Development of the Bonga Life Skills Curriculum for South Sudan](https://ngojobsinafrica.com/job/review-and-development-of-the-bonga-life-skills-curriculum-for-south-sudan/)** (75) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
+- **[Regional Senior Research Officer for East and Southeast Africa, based in Kampala](https://ngojobsinafrica.com/job/regional-senior-research-officer-for-east-and-southeast-africa-based-in-kampala/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
+- **[SOUTH SUDAN – FIELD COORDINATOR (M/F) – SOBAT](https://ngojobsinafrica.com/job/south-sudan-field-coordinator-m-f-sobat-3/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
 
 ---
-398 open positions on the board, 6 of the new ones LMIC-related.
+398 open positions on the board, 5 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
