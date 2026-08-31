@@ -1,10 +1,10 @@
 ### 1 new, scoring 30 or above
 
-- **[Doctoral student (PhD) position in computational pathology and medical artificial intelligence](https://jobrxiv.org/job/doctoral-student-phd-position-in-computational-pathology-and-medical-artificial-intelligence/)** (35)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Senior Principal Scientist QSP Modelling](https://jobrxiv.org/job/senior-principal-scientist-qsp-modelling/)** (48) `LMIC`  
+  Jobfront Industry · Germany, Japan, China · RSS:jobRxiv scientist
 
 ---
-400 open positions on the board, 0 of the new ones LMIC-related.
+396 open positions on the board, 1 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
