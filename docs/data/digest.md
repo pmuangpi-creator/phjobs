@@ -1,10 +1,12 @@
-### 1 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Senior Principal Scientist QSP Modelling](https://jobrxiv.org/job/senior-principal-scientist-qsp-modelling/)** (48) `LMIC`  
-  Jobfront Industry · Germany, Japan, China · RSS:jobRxiv scientist
+- **[ETHIOPIA – ROVING FINANCE & HR MANAGER (M/F) – ADDIS ABABA](https://ngojobsinafrica.com/job/ethiopia-roving-finance-hr-manager-m-f-addis-ababa/)** (82) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Data Scientist – Technical Services & Manufacturing Sciences](https://jobrxiv.org/job/data-scientist-technical-services-manufacturing-sciences-2/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ---
-396 open positions on the board, 1 of the new ones LMIC-related.
+389 open positions on the board, 2 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
