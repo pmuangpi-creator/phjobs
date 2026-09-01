@@ -1,22 +1,26 @@
-### 7 new, scoring 30 or above
+### 9 new, scoring 30 or above
 
-- **[Consultant, State Program Lead (EAII Advisors)](https://apply.workable.com/j/A0C40E38FB)** (71) `LMIC/focus`  
+- **[Project Manager-Food Systems and Economic Self-Reliance](https://ngojobsinafrica.com/job/project-manager-food-systems-and-economic-self-reliance/)** (81) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
+- **[Associate & Senior Associate (Kenya & Zambia)](https://ngojobsinafrica.com/job/associate-senior-associate-kenya-zambia/)** (76) `LMIC/focus`  
+  Ngojobsinafrica · Kenya, Zambia · RSS:NGO Jobs Africa Zambia
+- **[INFORMATION MANAGEMENT OFFICER](https://ngojobsinafrica.com/job/information-management-officer-62/)** (73) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[SOUTH SUDAN – FIELD COORDINATOR (M/F) – ERRM (Emergency Team)](https://ngojobsinafrica.com/job/south-sudan-field-coordinator-m-f-errm-emergency-team/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
+- **[Consultancy – Addressing the Intersection of Climate, Conflict and Gender Equality in the Turkana-Omo Borderlands (Project Number: 2878-03/2023)](https://ngojobsinafrica.com/job/consultancy-addressing-the-intersection-of-climate-conflict-and-gender-equality-in-the-turkana-omo-borderlands-project-number-2878-03-2023/)** (71) `LMIC/focus`  
+  Ngojobsinafrica · Kenya, Ethiopia · RSS:NGO Jobs Africa Kenya
+- **[Officer, People and Culture ( EAII Advisors)](https://apply.workable.com/j/048F5BCBFD)** (65) `LMIC/focus`  
   Evidence Action · India · Workable:evidence-action
-- **[Associate Professor – Regenerative Medicine](https://jobrxiv.org/job/associate-professor-regenerative-medicine/)** (43) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-141/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Materials Electron Microscopy Specialist](https://jobrxiv.org/job/materials-electron-microscopy-specialist/)** (38) `focus`  
-  Jobfront Academia · Australia · RSS:jobRxiv research assistant
-- **[Research Fellow (Artificial Intelligence, Computer Science, Data Science)](https://jobrxiv.org/job/research-fellow-artificial-intelligence-computer-science-data-science/)** (32)  
-  Jobfront Academia · Singapore · RSS:jobRxiv postdoc
-- **[Research Associate (Tectonics –  InVEST Component F)](https://jobrxiv.org/job/research-associate-tectonics-invest-component-f/)** (32)  
-  Jobfront Academia · Singapore · RSS:jobRxiv research assistant
-- **[Scientist- Precision Medicine Quantitative Biomarker Sciences](https://jobrxiv.org/job/scientist-precision-medicine-quantitative-biomarker-sciences/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[PhD fellowship causal inference at the SMARTbiomed Pioneer centre](https://jobrxiv.org/job/phd-fellowship-causal-inference-at-the-smartbiomed-pioneer-centre/)** (54) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv PhD
+- **[Senior Manager Global Procurement-Corporate and Professional Services](https://ngojobsinafrica.com/job/senior-manager-global-procurement-corporate-and-professional-services/)** (51) `focus`  
+  Ngojobsinafrica · United States, United Kingdom · RSS:NGO Jobs Africa Kenya
+- **[Business Development and Grants Manager](https://ngojobsinafrica.com/job/business-development-and-grants-manager-4/)** (46) `focus`  
+  Ngojobsinafrica · Ireland · RSS:NGO Jobs Africa Kenya
 
 ---
-392 open positions on the board, 5 of the new ones LMIC-related.
+395 open positions on the board, 9 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
