@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T06:09:10+00:00",
-  "duration_seconds": 44.5,
+  "generated_at": "2026-09-01T06:12:01+00:00",
+  "duration_seconds": 31.2,
   "sources_ok": 35,
   "sources_total": 46,
   "wrote_data": true,
@@ -9,7 +9,7 @@
     "fetched": 351,
     "unique_ids": 427,
     "carried_over": 120,
-    "delisted_by_source": 10,
+    "delisted_by_source": 0,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
     "duplicates_collapsed": 22,
@@ -18,7 +18,7 @@
     "lmic_duty_station": 44,
     "lmic_focus": 201,
     "with_location": 146,
-    "digest_items": 2
+    "digest_items": 0
   },
   "sources": {
     "bamboohr:idinsight": "ok: 22 postings",
