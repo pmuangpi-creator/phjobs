@@ -1,10 +1,10 @@
 ### 1 new, scoring 30 or above
 
-- **[Field Coordinator, Technical Assistance ( EAII Advisors )](https://apply.workable.com/j/F9D915DA08)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
+- **[Project Coordinator (0.8 FTE) (ITD-CRD-2026-21)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-CRD-2026-21)** (42) `focus`  
+  Professional Services · United Kingdom · RSS:LSHTM infectious and tropical diseases
 
 ---
-387 open positions on the board, 1 of the new ones LMIC-related.
+383 open positions on the board, 1 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
