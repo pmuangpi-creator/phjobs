@@ -1,14 +1,16 @@
-### 3 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Legal Mapping Consultant, Public Food Procurement and Services](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5393450008)** (63) `LMIC/focus`  
-  Resolvetosavelives · Ethiopia · Greenhouse:resolvetosavelives
-- **[Research Fellow / Senior Research Fellow](https://jobrxiv.org/job/research-fellow-senior-research-fellow-11/)** (44) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Lecturer or Associate Professor in Space Plasma Physics](https://jobrxiv.org/job/lecturer-or-associate-professor-in-space-plasma-physics/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Network Manager – Maternity Cover (0.5 FTE) (PHP-GHD-2026-12)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-GHD-2026-12)** (42) `focus`  
+  Professional Services · United Kingdom · RSS:LSHTM public health and policy
+- **[Translational Cancer Science Research Fellow](https://jobrxiv.org/job/weill-cornell-medicine-27778-translational-cancer-science-research-fellow/)** (35) `focus`  
+  bmf9003 · United States · RSS:jobRxiv postdoc
+- **[Scientist, Process Analytics](https://jobrxiv.org/job/scientist-process-analytics/)** (34) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Nonclinical Toxicology Study Monitoring Scientist](https://jobrxiv.org/job/nonclinical-toxicology-study-monitoring-scientist/)** (30) `focus`  
+  Jobfront Industry · United States · RSS:jobRxiv scientist
 
 ---
-390 open positions on the board, 3 of the new ones LMIC-related.
+386 open positions on the board, 4 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
