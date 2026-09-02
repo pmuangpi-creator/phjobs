@@ -1,16 +1,10 @@
-### 4 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Network Manager – Maternity Cover (0.5 FTE) (PHP-GHD-2026-12)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-GHD-2026-12)** (42) `focus`  
-  Professional Services · United Kingdom · RSS:LSHTM public health and policy
-- **[Translational Cancer Science Research Fellow](https://jobrxiv.org/job/weill-cornell-medicine-27778-translational-cancer-science-research-fellow/)** (35) `focus`  
-  bmf9003 · United States · RSS:jobRxiv postdoc
-- **[Scientist, Process Analytics](https://jobrxiv.org/job/scientist-process-analytics/)** (34) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Nonclinical Toxicology Study Monitoring Scientist](https://jobrxiv.org/job/nonclinical-toxicology-study-monitoring-scientist/)** (30) `focus`  
-  Jobfront Industry · United States · RSS:jobRxiv scientist
+- **[Field Coordinator, Technical Assistance ( EAII Advisors )](https://apply.workable.com/j/F9D915DA08)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
 
 ---
-386 open positions on the board, 4 of the new ones LMIC-related.
+387 open positions on the board, 1 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
