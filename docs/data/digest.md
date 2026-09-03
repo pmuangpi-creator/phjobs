@@ -1,30 +1,28 @@
-### 11 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Regional Senior Research Officer for East and Southeast Africa, based in Kampala](https://ngojobsinafrica.com/job/regional-senior-research-officer-for-east-and-southeast-africa-based-in-kampala-2/)** (73) `LMIC/focus`  
-  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
-- **[Consultancy – Addressing the Intersection of Climate, Conflict and Gender Equality in the Turkana-Omo Borderlands (Project Number: 2878-03/2023)](https://ngojobsinafrica.com/job/consultancy-addressing-the-intersection-of-climate-conflict-and-gender-equality-in-the-turkana-omo-borderlands-project-number-2878-03-2023/)** (71) `LMIC/focus`  
-  Ngojobsinafrica · Kenya, Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Consultant, Web Dashboard Developer-Government Data Integration (EAII Advisors)](https://apply.workable.com/j/020CED0DCF)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[Postdoc Position with Novo Nordisk Foundation Research CO2 Center Aarhus University, Denmark](https://jobrxiv.org/job/postdoc-position-with-novo-nordisk-foundation-research-co2-center-aarhus-university-denmark/)** (43) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Regional Director North Texas- 2025858](https://jobs.lever.co/wr/4d10b794-037b-4b30-86a9-e86d628515b8)** (38) `focus`  
-  Wr · TX · Lever:wr
-- **[PhD in Medical Imaging of Childbirth-Related Pelvic Floor Injuries](https://jobrxiv.org/job/phd-in-medical-imaging-of-childbirth-related-pelvic-floor-injuries/)** (37) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Postdoc in Peripheral Biomarker Studies of Depression](https://jobrxiv.org/job/postdoc-in-peripheral-biomarker-studies-of-depression/)** (35) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://jobrxiv.org/job/doctoral-phd-position-in-real-time-simulation-for-electrified-flexible-industry/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Postdoc in AI, Learning, and Control for Sustainable Food Systems](https://jobrxiv.org/job/postdoc-in-ai-learning-and-control-for-sustainable-food-systems/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Lead Scientist – Potency, ELISA & Cell-Based Analytics](https://jobrxiv.org/job/lead-scientist-potency-elisa-cell-based-analytics/)** (30) `focus`  
+- **[Senior Strategist, Data & AI (Remote - US, UK, or Rwanda)](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5415932008)** (91) `LMIC/focus`  
+  Resolvetosavelives · Rwanda, United States, United Kingdom · Greenhouse:resolvetosavelives
+- **[Senior Manager, Clinical Data Scientist](https://jobrxiv.org/job/senior-manager-clinical-data-scientist/)** (47) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist – Analytical Development team](https://jobrxiv.org/job/scientist-analytical-development-team/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Director, Grant Management (Remote - US)](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5414423008)** (41) `focus`  
+  Resolvetosavelives · United States · Greenhouse:resolvetosavelives
+- **[Research Fellow in Stochastic Multiscale Modelling in Biology](https://jobrxiv.org/job/research-fellow-in-stochastic-multiscale-modelling-in-biology/)** (38) `focus`  
+  Jobfront Academia · Australia · RSS:jobRxiv postdoc
+- **[Chair, Department of Obstetrics and Gynecology](https://jobrxiv.org/job/chair-department-of-obstetrics-and-gynecology/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Open-rank tenure-track faculty position](https://jobrxiv.org/job/open-rank-tenure-track-faculty-position/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Social Science/Humanities Research Associate II](https://jobrxiv.org/job/social-science-humanities-research-associate-ii-4/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Knowledge Translation Specialist](https://jobrxiv.org/job/knowledge-translation-specialist/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Research Engineering/ Scientist Associate I](https://jobrxiv.org/job/research-engineering-scientist-associate-i-11/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Division of Pediatric Pulmonary Medicine – Adjunct, Clinical X, HS Clinical, In Residence Faculty](https://jobrxiv.org/job/division-of-pediatric-pulmonary-medicine-adjunct-clinical-x-hs-clinical-in-residence-faculty-2/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ---
-355 open positions on the board, 11 of the new ones LMIC-related.
+369 open positions on the board, 10 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
