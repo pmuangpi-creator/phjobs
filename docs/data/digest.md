@@ -1,12 +1,16 @@
-### 2 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Senior Program Officer – Child Survival](https://ngojobsinafrica.com/job/senior-program-officer-child-survival-2/)** (47) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Biobank Scientist](https://jobrxiv.org/job/biobank-scientist-2/)** (40) `focus`  
+- **[Postdoctoral Researcher in in environmental epidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-in-environmental-epidemiology/)** (46)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Technician II – Gastroenterology (Hepatology)](https://jobrxiv.org/job/research-technician-ii-gastroenterology-hepatology/)** (39) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Senior Scientist – Gastroenterology (Hepatology)](https://jobrxiv.org/job/senior-scientist-gastroenterology-hepatology/)** (39) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Senior Clinical Data Scientist](https://jobrxiv.org/job/senior-clinical-data-scientist-4/)** (34) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ---
-287 open positions on the board, 2 of the new ones LMIC-related.
+287 open positions on the board, 3 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
