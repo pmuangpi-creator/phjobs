@@ -1,16 +1,10 @@
-### 4 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Postdoctoral Researcher in in environmental epidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-in-environmental-epidemiology/)** (46)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Technician II – Gastroenterology (Hepatology)](https://jobrxiv.org/job/research-technician-ii-gastroenterology-hepatology/)** (39) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Senior Scientist – Gastroenterology (Hepatology)](https://jobrxiv.org/job/senior-scientist-gastroenterology-hepatology/)** (39) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
-- **[Senior Clinical Data Scientist](https://jobrxiv.org/job/senior-clinical-data-scientist-4/)** (34) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Associate, Innovation and Data Integration](https://apply.workable.com/j/C4AE3AD200)** (34) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
 
 ---
-287 open positions on the board, 3 of the new ones LMIC-related.
+290 open positions on the board, 1 of the new ones LMIC-related.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/)
 
