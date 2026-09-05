@@ -7,4 +7,828 @@ X-WR-CALNAME:Public health job deadlines
 X-WR-CALDESC:Closing dates from the public health jobs board
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6df633c04f4a6b383168@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Closes: Postdoctoral Researcher in Nutritional Epidemiology
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 55 | 
+ https://ki.varbi.com/se/what:job/jobID:965303/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:965303/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral Researcher in Nutritional Epid
+ emiology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3ff2322d9ac54113bac5@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Closes: MSCA Doctoral Student in SecReSy4You with a Focus on Secu
+ re Control Systems under Uncertainty
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 54 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: MSCA Doctoral Student in SecReSy4You with a
+  Focus on Secure Control Systems under Uncertainty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5079cbe75528f303c32d@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Closes: Postdoctoral researcher in Clinical microbiology
+DESCRIPTION:Lunds universitet | Malmö\, Sweden | relevance 53 | LMIC foc
+ us | https://lu.varbi.com/se/what:job/jobID:958380/type:job/where:4/appl
+ y:1
+LOCATION:Malmö\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:958380/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral researcher in Clinical microbi
+ ology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b68009760cf8b7f929f4@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Closes: Senior Lecturer of Epidemiology
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 53 | 
+ LMIC focus | https://ki.varbi.com/se/what:job/jobID:962131/type:job/wher
+ e:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:962131/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Senior Lecturer of Epidemiology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a93d2ae49c0cab2df70@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Closes: Postdoctoral Researcher in multi-omic bioinformatics in M
+ ultiple Sclerosis
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 52 | 
+ LMIC focus | https://ki.varbi.com/se/what:job/jobID:959379/type:job/wher
+ e:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:959379/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral Researcher in multi-omic bioin
+ formatics in Multiple Sclerosis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2320976ea3d18c33fc6f@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: Postdoctoral Researcher in in environmental epidemiology
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 52 | 
+ https://ki.varbi.com/se/what:job/jobID:965346/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:965346/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral Researcher in in environmental
+  epidemiology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce71ed2567002d60e8ac@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Closes: Researcher in History in project on families and inherita
+ nce (GLOW)
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 51 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:951890/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:951890/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Researcher in History in project on familie
+ s and inheritance (GLOW)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:58f5e4e7821ee287887a@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Closes: PhD student in advanced data analysis for data integratio
+ n\, image analysis\, and precision oncology
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 51 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in advanced data analysis for d
+ ata integration\, image analysis\, and precision oncology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc8a512e30c0cfc07f5@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Closes: Postdoctoral studies in bioinformatics and translational 
+ breast cancer (scholarship)
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 49 | 
+ LMIC focus | https://ki.varbi.com/en/what:job/jobID:962510/type:job/wher
+ e:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral studies in bioinformatics and 
+ translational breast cancer (scholarship)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:edd27fec96ec3dfae21d@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Closes: PhD student in Hydrology with a focus on Flow and Transpo
+ rt in Fractured Rocks
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 46 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in Hydrology with a focus on Fl
+ ow and Transport in Fractured Rocks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b1d7b3e2206017a42773@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Closes: Substitute as Research Assistant at the National Micropro
+ be Laboratory
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 44 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:960948/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:960948/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Substitute as Research Assistant at the Nat
+ ional Microprobe Laboratory
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a28de1d9382be001c8a2@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Closes: Research Assistant
+DESCRIPTION:Karolinska Institutet (KI) | Stockholm\, Sweden | relevance 4
+ 4 | LMIC focus | https://ki.varbi.com/se/what:job/jobID:964574/type:job/
+ where:4/apply:1
+LOCATION:Stockholm\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:964574/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Research Assistant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a5342122dbbcf605c3@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Closes: Research assistant in infection immunology
+DESCRIPTION:Karolinska Institutet (KI) | Stockholm\, Sweden | relevance 3
+ 9 | https://ki.varbi.com/en/what:job/jobID:962763/type:job/where:4/apply
+ :1
+LOCATION:Stockholm\, Sweden
+URL:https://ki.varbi.com/en/what:job/jobID:962763/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Research assistant in infection immunology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3a691be08257b9bd05@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Closes: Research Specialist in Aging Research and Research Infras
+ tructure
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 38 | 
+ LMIC focus | https://ki.varbi.com/se/what:job/jobID:963837/type:job/wher
+ e:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:963837/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Research Specialist in Aging Research and R
+ esearch Infrastructure
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:660a2ac1e6076f55e23f@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Closes: Doctoral student in Biology with a specialisation in Micr
+ obial Ecology
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 38 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral student in Biology with a speciali
+ sation in Microbial Ecology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a9597f0ed614e3d9c46e@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Closes: Doctoral (Phd) position in Real Time simulation for elect
+ rified flexible industry
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral (Phd) position in Real Time simula
+ tion for electrified flexible industry
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:30667bde37240338e2d8@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Closes: Postdoctoral fellowship in medical research
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:957632/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:957632/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral fellowship in medical research
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:360ab5626db0b0e8ca15@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Closes: Postdoctoral fellowship in clinical research
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:957663/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:957663/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral fellowship in clinical researc
+ h
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:234e88821d75ded4edf4@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Closes: postdoctoral fellowship in neurological research
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:957665/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:957665/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: postdoctoral fellowship in neurological res
+ earch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62650caa57a3306837a0@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Closes: postdoctoral fellowship in cardiovascular disease
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:957666/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:957666/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: postdoctoral fellowship in cardiovascular d
+ isease
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e909ecf93fd67ba188@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: Professor in Respiratory Medicine\, Combined with a Posit
+ ion as Specialist Physician at Uppsala University Hospital
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:888099/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:888099/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Professor in Respiratory Medicine\, Combine
+ d with a Position as Specialist Physician at Uppsala University Hospital
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f34cea579319de0408a5@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: PhD student in core optimisation using machine learning
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in core optimisation using mach
+ ine learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc1e340588191f6234a@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Closes: Senior Lecturer in Occupational and Environmental Medicin
+ e
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 37 | 
+ https://ki.varbi.com/se/what:job/jobID:952545/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:952545/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Senior Lecturer in Occupational and Environ
+ mental Medicine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b1948101fad3807f9846@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Closes: Postdoctoral studies in  in DNA repair and translational 
+ drug discovery (Scholarship)
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 36 | 
+ LMIC focus | https://ki.varbi.com/en/what:job/jobID:965618/type:job/wher
+ e:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/en/what:job/jobID:965618/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral studies in  in DNA repair and 
+ translational drug discovery (Scholarship)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2db86907e7156f8e0bf@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Closes: Two positions as Assistant Professor at the Faculty of Ar
+ ts and Humanities
+DESCRIPTION:Umeå universitet | Umeå\, Sweden | relevance 36 | LMIC focu
+ s | https://umu.varbi.com/se/what:job/jobID:949606/type:job/where:4/appl
+ y:1
+LOCATION:Umeå\, Sweden
+URL:https://umu.varbi.com/se/what:job/jobID:949606/type:job/where:4/apply
+ :1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Two positions as Assistant Professor at the
+  Faculty of Arts and Humanities
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3799b2bb3513d3ac031@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Closes: Assistant professor in a subject of choice at the Faculty
+  of Medicine\, with combined clinical employment
+DESCRIPTION:Umeå universitet | Umeå\, Sweden | relevance 36 | LMIC focu
+ s | https://umu.varbi.com/se/what:job/jobID:950042/type:job/where:4/appl
+ y:1
+LOCATION:Umeå\, Sweden
+URL:https://umu.varbi.com/se/what:job/jobID:950042/type:job/where:4/apply
+ :1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Assistant professor in a subject of choice 
+ at the Faculty of Medicine\, with combined clinical employment
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:117501102fa335ed3c0a@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Closes: Assistant professor in a subject of choice at the Faculty
+  of Medicine
+DESCRIPTION:Umeå universitet | Umeå\, Sweden | relevance 36 | LMIC focu
+ s | https://umu.varbi.com/se/what:job/jobID:950044/type:job/where:4/appl
+ y:1
+LOCATION:Umeå\, Sweden
+URL:https://umu.varbi.com/se/what:job/jobID:950044/type:job/where:4/apply
+ :1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Assistant professor in a subject of choice 
+ at the Faculty of Medicine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0b092b085f30e6567074@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Closes: Project Assistant to the unit Neurodegenerativ
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 33 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:964119/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:964119/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Project Assistant to the unit Neurodegenera
+ tiv
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13e865ca46204f316f3a@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Closes: Postdoctoral researcher in  bioinformatics and translatio
+ nal breast cancer
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 33 | 
+ https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral researcher in  bioinformatics 
+ and translational breast cancer
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5817ad5bcf6093983579@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Closes: PhD student in Assessing Marine Sediments as Georeactors 
+ for Modifying Bottom-Ocean Chemistry: Natural Analogues and Human Interv
+ entions
+DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 28 | 
+ https://su.varbi.com/se/what:job/jobID:957757/type:job/where:4/apply:1
+LOCATION:Stockholm\, Sweden
+URL:https://su.varbi.com/se/what:job/jobID:957757/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in Assessing Marine Sediments a
+ s Georeactors for Modifying Bottom-Ocean Chemistry: Natural Analogues an
+ d Human Interventions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f649f6dc3ce0fea81e9e@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Closes: Post-doctoral fellow in geoinformatics (GIS)
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 28 | https://lu
+ .varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Post-doctoral fellow in geoinformatics (GIS
+ )
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b132121fefd2a960e99f@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: Doctoral student on carbon cycling of primary forests
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 28 | https://lu
+ .varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral student on carbon cycling of prima
+ ry forests
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ac6e56f76ad37c4400b4@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Closes: Senior Lecturer of Cardiovascular Medicine
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 27 | 
+ https://ki.varbi.com/se/what:job/jobID:954666/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:954666/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Senior Lecturer of Cardiovascular Medicine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94ec7f9294c219efb0fe@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Closes: Senior Lecturer in Physiotherapy combined with position a
+ s specialist physiotherapist at Karolinska University Hospital
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 27 | 
+ https://ki.varbi.com/se/what:job/jobID:941167/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:941167/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Senior Lecturer in Physiotherapy combined w
+ ith position as specialist physiotherapist at Karolinska University Hosp
+ ital
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b63701132431cb0c4e@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Closes: Research Specialist in Psychiatric Genomics and Data Scie
+ nce
+DESCRIPTION:Karolinska Institutet (KI) | Stockholm\, Sweden | relevance 2
+ 7 | https://ki.varbi.com/se/what:job/jobID:962678/type:job/where:4/apply
+ :1
+LOCATION:Stockholm\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:962678/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Research Specialist in Psychiatric Genomics
+  and Data Science
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3d2d9d67f08de11be0@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Closes: Research Assistant in neurodegeneration
+DESCRIPTION:Karolinska Institutet (KI) | Solna\, Sweden | relevance 27 | 
+ https://ki.varbi.com/se/what:job/jobID:965391/type:job/where:4/apply:1
+LOCATION:Solna\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:965391/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Research Assistant in neurodegeneration
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:91340af327f8851ed9b1@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Closes: Senior Lecturer in Gynaecology combined with a position a
+ s Specialist Physician/Consultant
+DESCRIPTION:Lunds universitet | Malmö\, Sweden | relevance 27 | https://
+ lu.varbi.com/se/what:job/jobID:902060/type:job/where:4/apply:1
+LOCATION:Malmö\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:902060/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Senior Lecturer in Gynaecology combined wit
+ h a position as Specialist Physician/Consultant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4991eabb74c6a1dc68fc@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Closes: Professor of Occupational Therapy
+DESCRIPTION:Karolinska Institutet (KI) | Huddinge\, Sweden | relevance 24
+  | LMIC focus | https://ki.varbi.com/se/what:job/jobID:939764/type:job/w
+ here:4/apply:1
+LOCATION:Huddinge\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:939764/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Professor of Occupational Therapy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34175e9ec163ae35a443@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: Teaching assistant in data science
+DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 24 | 
+ LMIC focus | https://su.varbi.com/se/what:job/jobID:963888/type:job/wher
+ e:4/apply:1
+LOCATION:Stockholm\, Sweden
+URL:https://su.varbi.com/se/what:job/jobID:963888/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Teaching assistant in data science
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6bbad071a7a742ae9a45@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Closes: Statistician
+DESCRIPTION:Karolinska Institutet (KI) | Stockholm\, Sweden | relevance 2
+ 3 | https://ki.varbi.com/se/what:job/jobID:964241/type:job/where:4/apply
+ :1
+LOCATION:Stockholm\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:964241/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Statistician
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e000ae5753211de271@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Closes: Postdoctoral Researcher in Population Pharmacogenetics
+DESCRIPTION:Karolinska Institutet (KI) | Stockholm\, Sweden | relevance 2
+ 0 | https://ki.varbi.com/se/what:job/jobID:966511/type:job/where:4/apply
+ :1
+LOCATION:Stockholm\, Sweden
+URL:https://ki.varbi.com/se/what:job/jobID:966511/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Postdoctoral Researcher in Population Pharm
+ acogenetics
+END:VALARM
+END:VEVENT
 END:VCALENDAR

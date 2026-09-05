@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//phjobs//public health jobs board//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Doctoral deadlines
+X-WR-CALDESC:Closing dates for funded doctoral routes
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:3ff2322d9ac54113bac5@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Closes: MSCA Doctoral Student in SecReSy4You with a Focus on Secu
+ re Control Systems under Uncertainty
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 54 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: MSCA Doctoral Student in SecReSy4You with a
+  Focus on Secure Control Systems under Uncertainty
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:58f5e4e7821ee287887a@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Closes: PhD student in advanced data analysis for data integratio
+ n\, image analysis\, and precision oncology
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 51 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in advanced data analysis for d
+ ata integration\, image analysis\, and precision oncology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:edd27fec96ec3dfae21d@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Closes: PhD student in Hydrology with a focus on Flow and Transpo
+ rt in Fractured Rocks
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 46 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in Hydrology with a focus on Fl
+ ow and Transport in Fractured Rocks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:660a2ac1e6076f55e23f@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Closes: Doctoral student in Biology with a specialisation in Micr
+ obial Ecology
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 38 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral student in Biology with a speciali
+ sation in Microbial Ecology
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a9597f0ed614e3d9c46e@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Closes: Doctoral (Phd) position in Real Time simulation for elect
+ rified flexible industry
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral (Phd) position in Real Time simula
+ tion for electrified flexible industry
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f34cea579319de0408a5@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: PhD student in core optimisation using machine learning
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
+ focus | https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/a
+ pply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in core optimisation using mach
+ ine learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5817ad5bcf6093983579@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Closes: PhD student in Assessing Marine Sediments as Georeactors 
+ for Modifying Bottom-Ocean Chemistry: Natural Analogues and Human Interv
+ entions
+DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 28 | 
+ https://su.varbi.com/se/what:job/jobID:957757/type:job/where:4/apply:1
+LOCATION:Stockholm\, Sweden
+URL:https://su.varbi.com/se/what:job/jobID:957757/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in Assessing Marine Sediments a
+ s Georeactors for Modifying Bottom-Ocean Chemistry: Natural Analogues an
+ d Human Interventions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f649f6dc3ce0fea81e9e@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Closes: Post-doctoral fellow in geoinformatics (GIS)
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 28 | https://lu
+ .varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Post-doctoral fellow in geoinformatics (GIS
+ )
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b132121fefd2a960e99f@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Closes: Doctoral student on carbon cycling of primary forests
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 28 | https://lu
+ .varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral student on carbon cycling of prima
+ ry forests
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ff07a786a9f40fead104@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Closes: Doktorand i vaskulärbiologi
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 15 | https
+ ://uu.varbi.com/se/what:job/jobID:960212/type:job/where:4/apply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:960212/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doktorand i vaskulärbiologi
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bacc884a087cceabcd34@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Closes: DAAD Research Grants\, Doctoral Programmes in Germany
+DESCRIPTION:DAAD\, via the Regional Office in Hanoi | Germany | relevance
+  100 | https://www.daad.de/en/study-and-research-in-germany/scholarships
+ /
+LOCATION:Germany
+URL:https://www.daad.de/en/study-and-research-in-germany/scholarships/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: DAAD Research Grants\, Doctoral Programmes 
+ in Germany
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71e7437cdf383b16f7ff@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Closes: PhD scholarship\, maternal RSV vaccination and child resp
+ iratory health
+DESCRIPTION:UNSW Sydney | Australia | relevance 100 | https://www.unsw.ed
+ u.au/research/hdr
+LOCATION:Australia
+URL:https://www.unsw.edu.au/research/hdr
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD scholarship\, maternal RSV vaccination 
+ and child respiratory health
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06872f608d952cf62f17@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Closes: Individual Sandwich PhD\, ITM-DGD 2027 call
+DESCRIPTION:Institute of Tropical Medicine Antwerp | Belgium | relevance 
+ 100 | https://www.itg.be/en/education/phd
+LOCATION:Belgium
+URL:https://www.itg.be/en/education/phd
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Individual Sandwich PhD\, ITM-DGD 2027 call
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e9822114466eb22f9d0@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: Hong Kong PhD Fellowship Scheme 2027/28 (inferred date\, 
+ confirm it)
+DESCRIPTION:Hong Kong Research Grants Council | Hong Kong SAR | relevance
+  100 | https://cerg1.ugc.edu.hk/hkpfs/index.html
+LOCATION:Hong Kong SAR
+URL:https://cerg1.ugc.edu.hk/hkpfs/index.html
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Hong Kong PhD Fellowship Scheme 2027/28 (in
+ ferred date\, confirm it)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f5de842ecf2ccb5fbd63@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Doctoral outreach\, cardiovascular and chronic disease pr
+ evention (inferred date\, confirm it)
+DESCRIPTION:NUS Saw Swee Hock School of Public Health | Singapore | relev
+ ance 100 | https://sph.nus.edu.sg/education/phd-programme/
+LOCATION:Singapore
+URL:https://sph.nus.edu.sg/education/phd-programme/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral outreach\, cardiovascular and chro
+ nic disease prevention (inferred date\, confirm it)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c47fad435a935ded8f7@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Closes: BOF sandwich PhD (inferred date\, confirm it)
+DESCRIPTION:Ghent University | Belgium | relevance 100 | https://www.ugen
+ t.be/en/research/funding/devcoop/phdgrants
+LOCATION:Belgium
+URL:https://www.ugent.be/en/research/funding/devcoop/phdgrants
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: BOF sandwich PhD (inferred date\, confirm i
+ t)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8261f53d98b5c6e5ade1@phjobs
+DTSTAMP:20260905T091214Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Closes: Implementation Research Leadership Fellowship (inferred d
+ ate\, confirm it)
+DESCRIPTION:TDR at Universitas Gadjah Mada\, Yogyakarta | Indonesia | rel
+ evance 100 | https://tdr.who.int/
+LOCATION:Indonesia
+URL:https://tdr.who.int/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Implementation Research Leadership Fellowsh
+ ip (inferred date\, confirm it)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
