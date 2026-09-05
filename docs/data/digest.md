@@ -22,13 +22,18 @@
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
 
+### 1 new, scoring 30 or above
+
+- **[Associate Director, Safety Scientist](https://jobrxiv.org/job/associate-director-safety-scientist-4/)** (88) `LMIC/focus`  
+  Jobfront Industry · China, United States, United Kingdom · RSS:jobRxiv scientist
+
 ### Closing within 3 days
 
 - **[Postdoctoral researcher in Clinical microbiology](https://lu.varbi.com/se/what:job/jobID:958380/type:job/where:4/apply:1)** (53) `focus`  
   Lunds universitet · Sweden · closes 2026-09-08 · Sitemap:Varbi Lund University
 
 ---
-361 open positions on the board, 0 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
+362 open positions on the board, 1 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
