@@ -5,6 +5,11 @@
 - **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 10 days)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
 
+### 1 new fully funded doctoral route
+
+- **[25 PhD Positions (m/f/d) – Max Planck School of Biomedical AI](https://jobrxiv.org/job/25-phd-positions-m-f-d-max-planck-school-of-biomedical-ai/)**  
+  Jobfront Academia · Germany · Stipend and fees
+
 ### Funded doctoral routes closing within 21 days
 
 - **[Doktorand i vaskulärbiologi](https://uu.varbi.com/se/what:job/jobID:960212/type:job/where:4/apply:1)**  
@@ -22,18 +27,14 @@
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
 
-### 5 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[RWE Scientist](https://jobrxiv.org/job/rwe-scientist-3/)** (84) `LMIC/focus`  
-  Jobfront Industry · Spain, India · RSS:jobRxiv scientist
-- **[Lead Scientist, Purification Development](https://jobrxiv.org/job/lead-scientist-purification-development/)** (42) `focus`  
-  Jobfront Industry · Singapore · RSS:jobRxiv scientist
-- **[Scientist Process Development 12 months fix-term contract 80-100%](https://jobrxiv.org/job/scientist-process-development-12-months-fix-term-contract-80-100/)** (35) `focus`  
-  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
-- **[Postdoc position to examine challenges to a greener and more biodiverse Denmark using social sciences perspectives and the case of evolving human/mosquito relations](https://jobrxiv.org/job/postdoc-position-to-examine-challenges-to-a-greener-and-more-biodiverse-denmark-using-social-sciences-perspectives-and-the-case-of-evolving-human-mosquito-relations/)** (32)  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Bilingual Spanish STEM Expert (PhD) — AI Safety](https://jobrxiv.org/job/bilingual-spanish-stem-expert-phd-ai-safety/)** (32) `focus`  
-  Jobfront AIexperts · location not stated · RSS:jobRxiv scientist
+- **[25 PhD Positions (m/f/d) – Max Planck School of Biomedical AI](https://jobrxiv.org/job/25-phd-positions-m-f-d-max-planck-school-of-biomedical-ai/)** (45) `focus`  
+  Jobfront Academia · Germany · RSS:jobRxiv PhD
+- **[Postdoctoral Research Associate in Organic Synthesis for the Lithium-Air Battery](https://jobrxiv.org/job/postdoctoral-research-associate-in-organic-synthesis-for-the-lithium-air-battery-2/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Software Developer, Office of the Vice President for Research](https://jobrxiv.org/job/software-developer-office-of-the-vice-president-for-research/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -41,7 +42,7 @@
   Lunds universitet · Sweden · closes 2026-09-08 · Sitemap:Varbi Lund University
 
 ---
-359 open positions on the board, 4 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
+360 open positions on the board, 3 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
