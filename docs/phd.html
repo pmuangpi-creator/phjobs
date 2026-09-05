@@ -1,0 +1,912 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Doctoral Routes</title>
+<meta name="description" content="Fully funded PhD positions and doctoral funding calls in public and global health, with the pipeline already being worked.">
+<style>
+:root{
+  --bg:#f7f7f5; --panel:#ffffff; --panel-2:#fbfbfa; --ink:#16211f; --ink-2:#5b6866;
+  --line:#e3e4e0; --line-2:#d3d5d0; --accent:#0f6d5f; --accent-ink:#ffffff;
+  --warn:#a8500f; --danger:#a3282b; --good:#22664f; --info:#2f5b8c;
+  --chip:#eef1ef; --shadow:0 1px 2px rgba(20,30,28,.06),0 4px 16px rgba(20,30,28,.05);
+  --radius:10px; --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#121514; --panel:#191d1c; --panel-2:#1f2422; --ink:#e8ebe9; --ink-2:#98a4a1;
+    --line:#2a2f2e; --line-2:#3a413f; --accent:#3fae96; --accent-ink:#08201c;
+    --warn:#d98b45; --danger:#e07b7e; --good:#5fc4a3; --info:#7ea8d8; --chip:#232827;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#121514; --panel:#191d1c; --panel-2:#1f2422; --ink:#e8ebe9; --ink-2:#98a4a1;
+  --line:#2a2f2e; --line-2:#3a413f; --accent:#3fae96; --accent-ink:#08201c;
+  --warn:#d98b45; --danger:#e07b7e; --good:#5fc4a3; --info:#7ea8d8; --chip:#232827;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.25);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+button,select,input{font:inherit;color:inherit}
+
+.wrap{max-width:1500px;margin:0 auto;padding:0 20px 80px}
+header.top{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 0 12px;margin-bottom:18px}
+.top-row{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+h1{font-size:19px;margin:0;letter-spacing:-.01em;font-weight:650}
+.meta{color:var(--ink-2);font-size:12.5px;font-family:var(--mono)}
+.spacer{flex:1}
+.iconbtn{background:var(--panel);border:1px solid var(--line-2);border-radius:8px;padding:6px 11px;cursor:pointer;font-size:12.5px;color:var(--ink-2)}
+.iconbtn:hover{border-color:var(--accent);color:var(--ink)}
+a.iconbtn{text-decoration:none;display:inline-block}
+
+.searchbar{display:flex;gap:9px;margin-top:12px;flex-wrap:wrap}
+.searchbar input[type=search]{flex:1;min-width:240px;background:var(--panel);border:1px solid var(--line-2);border-radius:9px;padding:10px 13px;outline:none}
+.searchbar input[type=search]:focus{border-color:var(--accent)}
+.searchbar select{background:var(--panel);border:1px solid var(--line-2);border-radius:9px;padding:10px 11px;cursor:pointer}
+
+.tabs{display:flex;gap:5px;margin-top:12px;flex-wrap:wrap}
+.tab{background:transparent;border:1px solid transparent;border-radius:999px;padding:5px 13px;cursor:pointer;font-size:13.5px;color:var(--ink-2)}
+.tab:hover{background:var(--chip)}
+.tab.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:560}
+.tab .n{opacity:.65;font-family:var(--mono);font-size:11.5px;margin-left:5px}
+
+.cols{display:grid;grid-template-columns:250px 1fr;gap:26px;align-items:start}
+@media (max-width:900px){.cols{grid-template-columns:1fr}aside.filters{position:static !important;max-height:none !important}}
+
+aside.filters{position:sticky;top:172px;max-height:calc(100vh - 195px);overflow-y:auto;padding:2px 6px 0 0}
+.fgroup{margin-bottom:20px}
+.fgroup h3{font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-2);margin:0 0 9px;font-weight:600}
+.fgroup label{display:flex;align-items:center;gap:8px;padding:3px 0;cursor:pointer;font-size:13.5px}
+.fgroup label:hover{color:var(--accent)}
+.fgroup input[type=checkbox]{accent-color:var(--accent);width:14px;height:14px;flex:none}
+.fgroup .cnt{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--ink-2)}
+.fgroup select{width:100%;background:var(--panel);border:1px solid var(--line-2);border-radius:8px;padding:7px 9px}
+.fgroup .note{font-size:11.5px;color:var(--ink-2);margin:6px 0 0;line-height:1.45}
+.scrolly{max-height:190px;overflow-y:auto;padding-right:4px}
+.linkbtn{background:none;border:none;color:var(--accent);cursor:pointer;font-size:12px;padding:0;text-decoration:underline}
+
+/* ---------- pinned pipeline ---------- */
+section.pipeline{margin-bottom:26px}
+.pipehead{display:flex;align-items:baseline;gap:10px;margin:0 0 4px}
+.pipehead h2{font-size:15px;margin:0;font-weight:640}
+.pipehead .sub{color:var(--ink-2);font-size:12.5px}
+.pipenote{color:var(--ink-2);font-size:12.5px;margin:0 0 12px;max-width:70ch;line-height:1.5}
+.pipegrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px}
+.pcard{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--line-2);border-radius:var(--radius);padding:12px 14px;box-shadow:var(--shadow)}
+.pcard.action{border-left-color:var(--warn)}
+.pcard.sent{border-left-color:var(--info)}
+.pcard.watching{border-left-color:var(--line-2)}
+.pcard.closed{border-left-color:var(--line-2);opacity:.62}
+.pcard.overdue{border-left-color:var(--danger)}
+.pcard h3{font-size:14px;margin:0 0 3px;font-weight:600;line-height:1.35}
+.pcard h3 a{text-decoration:none}
+.pcard h3 a:hover{text-decoration:underline}
+.pcard .inst{color:var(--ink-2);font-size:12.5px;margin-bottom:7px}
+.pcard .act{margin:8px 0 0;font-size:12.5px;line-height:1.5}
+.pcard .notes{margin:7px 0 0;font-size:12px;color:var(--ink-2);line-height:1.5}
+.count{font-family:var(--mono);font-weight:640}
+.count.soon{color:var(--warn)}
+.count.urgent{color:var(--danger)}
+
+/* ---------- cards ---------- */
+.jobs{display:flex;flex-direction:column;gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow);position:relative}
+.card.saved{border-color:var(--accent)}
+.card.isnew::before{content:"";position:absolute;left:0;top:12px;bottom:12px;width:3px;border-radius:3px;background:var(--accent)}
+.card h2{font-size:15.5px;margin:0 0 5px;font-weight:600;line-height:1.35;padding-right:90px}
+.card h2 a{text-decoration:none}
+.card h2 a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+.org{color:var(--ink-2);font-size:13.5px;margin-bottom:8px}
+.org b{color:var(--ink);font-weight:560}
+.facts{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:9px}
+.pill{background:var(--chip);border-radius:999px;padding:2.5px 9px;font-size:11.5px;color:var(--ink-2);white-space:nowrap}
+.pill.fund{background:var(--good);color:var(--bg);font-weight:600}
+.pill.fundsoft{background:transparent;border:1px solid var(--good);color:var(--good);font-weight:560}
+.pill.unclear{background:transparent;border:1px dashed var(--ink-2);color:var(--ink-2)}
+.pill.nofund{background:transparent;border:1px solid var(--danger);color:var(--danger)}
+.pill.route{background:var(--accent);color:var(--accent-ink);font-weight:560}
+.pill.block{background:transparent;border:1px solid var(--warn);color:var(--warn);font-weight:560}
+.pill.soon{background:transparent;border:1px solid var(--warn);color:var(--warn);font-weight:560}
+.pill.urgent{background:var(--danger);color:#fff;font-weight:600}
+.pill.newbadge{background:transparent;border:1px solid var(--accent);color:var(--accent);font-weight:600}
+.pill.lmic{background:transparent;border:1px solid var(--good);color:var(--good);font-weight:560}
+.snippet{color:var(--ink-2);font-size:13px;line-height:1.55;margin:0 0 10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card.open .snippet{-webkit-line-clamp:unset;display:block;white-space:pre-wrap}
+.why{margin:0 0 10px;font-size:12px;color:var(--ink-2)}
+.why summary{cursor:pointer}
+.why ul{margin:6px 0 0;padding-left:18px}
+.why code{font-family:var(--mono);font-size:11.5px}
+.actions{display:flex;gap:7px;align-items:center;flex-wrap:wrap}
+.act{background:transparent;border:1px solid var(--line-2);border-radius:7px;padding:4px 10px;font-size:12px;cursor:pointer;color:var(--ink-2)}
+.act:hover{border-color:var(--accent);color:var(--accent)}
+.act.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.act.apply{border-color:var(--accent);color:var(--accent);font-weight:560;text-decoration:none;display:inline-block}
+.act.apply:hover{background:var(--accent);color:var(--accent-ink)}
+.scorebadge{position:absolute;top:14px;right:16px;font-family:var(--mono);font-size:11px;color:var(--ink-2);background:var(--chip);border-radius:6px;padding:2px 7px}
+
+.empty{text-align:center;padding:70px 20px;color:var(--ink-2)}
+.empty h2{color:var(--ink);font-size:17px;margin:0 0 8px}
+.more{display:block;width:100%;margin-top:14px;padding:11px;background:var(--panel);border:1px dashed var(--line-2);border-radius:9px;cursor:pointer;color:var(--ink-2)}
+.more:hover{border-color:var(--accent);color:var(--accent)}
+.more[hidden]{display:none}
+
+details.sources{margin-top:34px;border-top:1px solid var(--line);padding-top:18px}
+details.sources summary{cursor:pointer;color:var(--ink-2);font-size:13px}
+.srcgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:5px;margin-top:14px;font-family:var(--mono);font-size:11.5px}
+.srcrow{display:flex;gap:8px;padding:5px 8px;background:var(--panel);border-radius:6px;border:1px solid var(--line)}
+.srcrow .dot{width:7px;height:7px;border-radius:50%;flex:none;margin-top:5px}
+.dot.ok{background:var(--good)}.dot.bad{background:var(--danger)}.dot.off{background:var(--line-2)}
+.srcrow .nm{flex:1;color:var(--ink);word-break:break-word}
+.srcrow .st{color:var(--ink-2);text-align:right;max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+footer{margin-top:26px;color:var(--ink-2);font-size:12px;line-height:1.7;max-width:80ch}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:9px;font-size:13.5px;transition:transform .22s ease;z-index:60}
+.toast.show{transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <div class="top-row">
+    <h1>Doctoral Routes</h1>
+    <span class="meta" id="stamp">loading…</span>
+    <span class="spacer"></span>
+    <a class="iconbtn" href="index.html">All jobs</a>
+    <button class="iconbtn" id="shareBtn" title="Copy a link that reopens exactly this filter set">Copy view link</button>
+    <button class="iconbtn" id="calBtn" title="Subscribe to doctoral closing dates in your calendar">Calendar</button>
+    <button class="iconbtn" id="csvBtn" title="Download the current list in your tracker's column order">Export CSV</button>
+    <button class="iconbtn" id="themeBtn">Theme</button>
+  </div>
+
+  <div class="searchbar">
+    <input type="search" id="q" placeholder="Search title, institution, description, country…" autocomplete="off">
+    <select id="sort">
+      <option value="open">Sort: most open to me</option>
+      <option value="new">Sort: newest first</option>
+      <option value="score">Sort: best topic match</option>
+      <option value="deadline">Sort: closing soonest</option>
+      <option value="org">Sort: institution</option>
+    </select>
+  </div>
+
+  <div class="tabs" id="tabs"></div>
+</header>
+
+<section class="pipeline" id="pipeline" hidden>
+  <div class="pipehead">
+    <h2>Your pipeline</h2>
+    <span class="sub" id="pipesub"></span>
+    <span class="spacer"></span>
+    <button class="linkbtn" id="pipeWatch"></button>
+    <button class="linkbtn" id="pipeClosed"></button>
+  </div>
+  <p class="pipenote">
+    Hand-kept in <code>config/phd_pipeline.yaml</code>, not fetched. A date marked
+    <em>inferred</em> is a pattern from a previous cycle, not something the
+    institution has published; confirm it before you plan around it.
+  </p>
+  <div class="pipegrid" id="pipegrid"></div>
+</section>
+
+<div class="cols">
+  <aside class="filters" id="filters"></aside>
+  <main>
+    <div class="jobs" id="jobs"></div>
+    <button class="more" id="moreBtn" hidden>Show more</button>
+
+    <details class="sources">
+      <summary>Source health &mdash; which feeds are actually working</summary>
+      <div class="srcgrid" id="srcgrid"></div>
+      <footer>
+        A source marked red returned nothing on the last run. That is usually a
+        wrong URL or slug in <code>config/sources.yaml</code>, not an outage.
+      </footer>
+    </details>
+
+    <footer>
+      <b>What the funding label means.</b> Every listing is read for phrases that
+      say whether the money is there, whether it needs an employer at home to
+      release you, and whether it is closed to your passport. The phrases that
+      produced each verdict are on the card under "why this label", so a wrong
+      call is one line to fix in <code>config/phd.yaml</code>.
+      <br><br>
+      <b>Funding not stated is not the same as unfunded.</b> Dutch and Swedish
+      doctoral positions are employment contracts and their adverts often never
+      mention money. Those sources are marked salaried at the source rather than
+      by keyword. Anything genuinely silent is labelled "funding not stated" and
+      shown, never dropped.
+      <br><br>
+      <b>The gap this page does not cover.</b> UK and Irish studentships are
+      advertised on FindAPhD, which publishes no feed. Set a saved search there
+      by hand and treat it as a second source.
+      <br><br>
+      Always confirm the deadline on the institution's own page. Saved and hidden
+      routes are kept in this browser only. Nothing is uploaded.
+    </footer>
+  </main>
+</div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function(){
+"use strict";
+
+/* ------------------------------------------------------------------ *
+ * storage: localStorage where available, memory when it is not
+ * ------------------------------------------------------------------ */
+var mem = {};
+var store = {
+  get: function(k, d){
+    try { var v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); }
+    catch(e){ return k in mem ? mem[k] : d; }
+  },
+  set: function(k, v){
+    try { localStorage.setItem(k, JSON.stringify(v)); }
+    catch(e){ mem[k] = v; }
+  }
+};
+
+function $(id){ return document.getElementById(id); }
+function esc(s){
+  return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
+  });
+}
+function todayISO(){ return new Date().toISOString().slice(0,10); }
+function daysUntil(iso){
+  if(!iso) return null;
+  var d = new Date(iso + "T00:00:00Z"), n = new Date(todayISO() + "T00:00:00Z");
+  return Math.round((d - n) / 86400000);
+}
+function daysSince(iso){
+  if(!iso) return null;
+  var d = new Date(iso + "T00:00:00Z"), n = new Date(todayISO() + "T00:00:00Z");
+  return Math.round((n - d) / 86400000);
+}
+var toastTimer;
+function toast(msg){
+  var t = $("toast");
+  t.textContent = msg; t.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(function(){ t.classList.remove("show"); }, 2600);
+}
+
+/* ------------------------------------------------------------------ *
+ * theme
+ * ------------------------------------------------------------------ */
+var theme = store.get("phd.theme", "");
+if(theme) document.documentElement.setAttribute("data-theme", theme);
+$("themeBtn").onclick = function(){
+  var now = document.documentElement.getAttribute("data-theme");
+  var next = now === "dark" ? "light" : now === "light" ? "" : "dark";
+  if(next) document.documentElement.setAttribute("data-theme", next);
+  else document.documentElement.removeAttribute("data-theme");
+  store.set("phd.theme", next);
+  toast(next ? "Theme: " + next : "Theme: follows your system");
+};
+
+/* ------------------------------------------------------------------ *
+ * labels
+ * ------------------------------------------------------------------ */
+var FUNDING = {
+  salaried: "Salaried post",
+  stipend: "Stipend and fees",
+  partial: "Partial or unclear",
+  unfunded: "Not funded",
+  unstated: "Funding not stated"
+};
+var ROUTES = {
+  post: "Advertised position",
+  programme: "Programme or call",
+  fellowship: "Fellowship"
+};
+var STATUS = {
+  action: "Needs you",
+  sent: "With them",
+  watching: "Watching",
+  closed: "Finished"
+};
+
+/* ------------------------------------------------------------------ *
+ * state
+ * ------------------------------------------------------------------ */
+var state = {
+  data: null,
+  routes: [],
+  view: [],
+  tab: "funded",
+  q: "",
+  sort: "open",
+  funding: {},
+  route: {},
+  country: {},
+  theme_tags: {},
+  hideAffiliation: false,
+  hideNationality: false,
+  deadline: "",
+  minScore: 0,
+  hideStale: false,
+  limit: 40,
+  saved: store.get("phd.saved", {}),
+  hidden: store.get("phd.hidden", {}),
+  showWatching: false,
+  showClosedPipeline: false
+};
+
+function stateToHash(){
+  var p = [];
+  if(state.tab !== "funded") p.push("tab=" + state.tab);
+  if(state.q) p.push("q=" + encodeURIComponent(state.q));
+  if(state.sort !== "open") p.push("sort=" + state.sort);
+  ["funding","route","country","theme_tags"].forEach(function(b){
+    var keys = Object.keys(state[b]);
+    if(keys.length) p.push(b + "=" + encodeURIComponent(keys.join("|")));
+  });
+  if(state.hideAffiliation) p.push("noaff=1");
+  if(state.hideNationality) p.push("nonat=1");
+  if(state.deadline) p.push("dl=" + state.deadline);
+  if(state.minScore) p.push("min=" + state.minScore);
+  return p.join("&");
+}
+function hashToState(){
+  var h = location.hash.replace(/^#/, "");
+  if(!h) return;
+  h.split("&").forEach(function(pair){
+    var i = pair.indexOf("="); if(i < 0) return;
+    var k = pair.slice(0, i), v = decodeURIComponent(pair.slice(i + 1));
+    if(k === "tab") state.tab = v;
+    else if(k === "q") state.q = v;
+    else if(k === "sort") state.sort = v;
+    else if(k === "noaff") state.hideAffiliation = v === "1";
+    else if(k === "nonat") state.hideNationality = v === "1";
+    else if(k === "dl") state.deadline = v;
+    else if(k === "min") state.minScore = parseInt(v, 10) || 0;
+    else if(["funding","route","country","theme_tags"].indexOf(k) >= 0){
+      state[k] = {};
+      v.split("|").forEach(function(x){ if(x) state[k][x] = true; });
+    }
+  });
+}
+var hashTimer;
+function syncHash(){
+  clearTimeout(hashTimer);
+  hashTimer = setTimeout(function(){
+    var h = stateToHash();
+    history.replaceState(null, "", h ? "#" + h : location.pathname);
+  }, 250);
+}
+
+/* ------------------------------------------------------------------ *
+ * load
+ * ------------------------------------------------------------------ */
+fetch("data/phd.json", {cache:"no-store"})
+  .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  .then(function(d){
+    state.data = d;
+    state.routes = (d.routes || []).filter(function(r){ return r && r.id; });
+    var def = d.defaults || {};
+    if(def.hide_affiliation_required) state.hideAffiliation = true;
+    if(def.hide_nationality_restricted) state.hideNationality = true;
+    if(def.min_score) state.minScore = def.min_score;
+    if(def.fully_funded_only === false) state.tab = "all";
+    hashToState();
+    // Only the ISO "T" between the date and the time. A blanket replace turns
+    // the "UTC" it produces into "U C".
+    var gen = (d.generated_at || "").replace(/(\d)T(\d)/, "$1 $2").replace("+00:00", " UTC");
+    $("stamp").textContent = state.routes.length + " routes · " +
+      (d.stats && d.stats.fully_funded || 0) + " fully funded · updated " + gen;
+    renderPipeline(d.pipeline || []);
+    buildFilters();
+    buildTabs();
+    render();
+  })
+  .catch(function(err){
+    $("jobs").innerHTML = '<div class="empty"><h2>No data yet</h2>' +
+      '<p>Could not load <code>data/phd.json</code> (' + esc(err.message) + ').<br>' +
+      'Run <code>python3 run_refresh.py</code>, or wait for the next scheduled ' +
+      'refresh on GitHub Actions.</p></div>';
+    $("stamp").textContent = "no data";
+  });
+
+fetch("data/sources_status.json", {cache:"no-store"})
+  .then(function(r){ return r.ok ? r.json() : null; })
+  .then(function(s){ if(s) renderSources(s); })
+  .catch(function(){});
+
+/* ------------------------------------------------------------------ *
+ * pinned pipeline
+ * ------------------------------------------------------------------ */
+var STATUS_ORDER = {action:0, sent:1, watching:2, closed:3};
+
+function renderPipeline(entries){
+  if(!entries.length) return;
+  $("pipeline").hidden = false;
+
+  var live = entries.filter(function(e){ return e.status !== "closed"; });
+  var due = live.filter(function(e){
+    var n = daysUntil(e.deadline);
+    return n !== null && n >= 0 && n <= 45;
+  }).length;
+  $("pipesub").textContent = live.length + " open" + (due ? " · " + due + " with a date inside 45 days" : "");
+
+  var nWatch = entries.filter(function(e){ return e.status === "watching"; }).length;
+  var nClosed = entries.filter(function(e){ return e.status === "closed"; }).length;
+
+  // What needs you and what is with someone else comes up first; the watch list
+  // is real but it is not today's work, so it starts folded. If there is nothing
+  // active at all, the watch list is the pipeline and hiding it would leave an
+  // empty panel.
+  if(entries.filter(function(e){
+    return e.status === "action" || e.status === "sent";
+  }).length === 0) state.showWatching = true;
+
+  function paint(){
+    var list = entries.filter(function(e){
+      if(e.status === "closed") return state.showClosedPipeline;
+      if(e.status === "watching") return state.showWatching;
+      return true;
+    });
+    list.sort(function(a, b){
+      var sa = STATUS_ORDER[a.status] == null ? 9 : STATUS_ORDER[a.status];
+      var sb = STATUS_ORDER[b.status] == null ? 9 : STATUS_ORDER[b.status];
+      if(sa !== sb) return sa - sb;
+      return (a.deadline || "9999-12-31").localeCompare(b.deadline || "9999-12-31");
+    });
+    $("pipegrid").innerHTML = list.map(pipeCard).join("");
+    $("pipeWatch").textContent = nWatch
+      ? (state.showWatching ? "Hide watching" : "Show watching (" + nWatch + ")") : "";
+    $("pipeWatch").hidden = !nWatch;
+    $("pipeClosed").textContent = nClosed
+      ? (state.showClosedPipeline ? "Hide finished" : "Show finished (" + nClosed + ")") : "";
+    $("pipeClosed").hidden = !nClosed;
+  }
+
+  $("pipeWatch").onclick = function(){ state.showWatching = !state.showWatching; paint(); };
+  $("pipeClosed").onclick = function(){
+    state.showClosedPipeline = !state.showClosedPipeline; paint();
+  };
+  paint();
+}
+
+function pipeCard(e){
+  var n = daysUntil(e.deadline);
+  var overdue = n !== null && n < 0 && e.status !== "closed";
+  var cls = "pcard " + (overdue ? "overdue" : esc(e.status || "watching"));
+
+  var when = "";
+  if(e.deadline){
+    var label = n === null ? "" :
+      n < 0 ? Math.abs(n) + " days ago" :
+      n === 0 ? "today" :
+      n === 1 ? "tomorrow" : "in " + n + " days";
+    var kls = n === null ? "" : n < 0 ? " urgent" : n <= 14 ? " urgent" : n <= 45 ? " soon" : "";
+    when = '<span class="count' + kls + '">' + esc(e.deadline) + "</span> · " + esc(label);
+  } else {
+    when = "no published deadline";
+  }
+
+  var conf = (e.date_confidence || "confirmed");
+  var confNote = (e.deadline && conf !== "confirmed")
+    ? ' <span class="pill unclear">' + esc(conf) + ' date</span>' : "";
+
+  var pills = [];
+  pills.push('<span class="pill">' + esc(STATUS[e.status] || e.status || "") + "</span>");
+  if(e.funding && FUNDING[e.funding]){
+    var fcls = (e.funding === "salaried" || e.funding === "stipend") ? "fund" : "unclear";
+    pills.push('<span class="pill ' + fcls + '">' + esc(FUNDING[e.funding]) + "</span>");
+  }
+  if(e.affiliation) pills.push('<span class="pill block">Needs a home employer</span>');
+  if(e.country) pills.push('<span class="pill">' + esc(e.country) + "</span>");
+
+  var title = e.url
+    ? '<a href="' + esc(e.url) + '" target="_blank" rel="noopener">' + esc(e.name) + "</a>"
+    : esc(e.name);
+
+  return '<div class="' + cls + '">' +
+    "<h3>" + title + "</h3>" +
+    '<div class="inst">' + esc(e.institution || "") + "</div>" +
+    '<div class="facts">' + pills.join("") + "</div>" +
+    '<div class="meta">' + when + confNote + "</div>" +
+    (e.next_action ? '<p class="act">' + esc(e.next_action) + "</p>" : "") +
+    (e.notes ? '<p class="notes">' + esc(e.notes) + "</p>" : "") +
+    "</div>";
+}
+
+/* ------------------------------------------------------------------ *
+ * filters
+ * ------------------------------------------------------------------ */
+function tally(key){
+  var counts = {};
+  state.routes.forEach(function(r){
+    var vals = key === "country" ? (r.countries || [])
+             : key === "theme_tags" ? (r.themes || [])
+             : [r[key]];
+    vals.forEach(function(v){ if(v) counts[v] = (counts[v] || 0) + 1; });
+  });
+  return Object.keys(counts).map(function(k){ return [k, counts[k]]; })
+    .sort(function(a, b){ return b[1] - a[1]; });
+}
+
+function checkboxGroup(title, key, entries, cap, labels){
+  if(!entries.length) return "";
+  var shown = cap ? entries.slice(0, cap) : entries;
+  var html = '<div class="fgroup"><h3>' + esc(title) + "</h3>" +
+    (shown.length > 9 ? '<div class="scrolly">' : "");
+  shown.forEach(function(e){
+    html += '<label><input type="checkbox" data-b="' + esc(key) + '" data-v="' + esc(e[0]) + '"' +
+      (state[key][e[0]] ? " checked" : "") + ">" +
+      "<span>" + esc(labels ? (labels[e[0]] || e[0]) : e[0]) + "</span>" +
+      '<span class="cnt">' + e[1] + "</span></label>";
+  });
+  html += (shown.length > 9 ? "</div>" : "") + "</div>";
+  return html;
+}
+
+function buildFilters(){
+  var h = "";
+
+  h += checkboxGroup("Funding", "funding", tally("funding"), 0, FUNDING);
+  h += checkboxGroup("Route", "route", tally("route"), 0, ROUTES);
+
+  h += '<div class="fgroup"><h3>Eligibility</h3>' +
+    '<label><input type="checkbox" id="noAff"' + (state.hideAffiliation ? " checked" : "") +
+      "><span>Hide routes needing a home employer</span></label>" +
+    '<label><input type="checkbox" id="noNat"' + (state.hideNationality ? " checked" : "") +
+      "><span>Hide routes with a nationality or residence rule</span></label>" +
+    '<p class="note">Both are flagged on the card rather than hidden by default, ' +
+    "because a route that needs an employer is a reason to take a post, not a " +
+    "reason to forget the route.</p></div>";
+
+  h += '<div class="fgroup"><h3>Closing date</h3><select id="dl">' +
+    ['<option value="">Any</option>',
+     '<option value="7">Within 7 days</option>',
+     '<option value="30">Within 30 days</option>',
+     '<option value="90">Within 90 days</option>',
+     '<option value="has">Has a stated date</option>',
+     '<option value="none">No date stated</option>'].join("") +
+    "</select></div>";
+
+  h += '<div class="fgroup"><h3>Minimum topic relevance</h3><select id="minScore">' +
+    [0, 20, 40, 60].map(function(v){
+      return '<option value="' + v + '">' + (v ? v + "+" : "Any") + "</option>";
+    }).join("") + "</select>" +
+    '<p class="note">The relevance score comes from the jobs board profile in ' +
+    "<code>config/profile.yaml</code>. It says whether the topic fits, not " +
+    "whether the door is open.</p></div>";
+
+  h += checkboxGroup("Country", "country", tally("country"), 25);
+  h += checkboxGroup("Theme", "theme_tags", tally("theme_tags"), 25);
+
+  h += '<div class="fgroup"><h3>Housekeeping</h3>' +
+    '<label><input type="checkbox" id="hideStale"' + (state.hideStale ? " checked" : "") +
+      "><span>Hide unconfirmed (source failed last run)</span></label>" +
+    '<p style="margin:10px 0 0"><button class="linkbtn" id="clearBtn">Clear all filters</button></p>' +
+    "</div>";
+
+  $("filters").innerHTML = h;
+
+  $("dl").value = state.deadline;
+  $("minScore").value = String(state.minScore);
+
+  $("filters").addEventListener("change", function(ev){
+    var el = ev.target;
+    if(el.dataset && el.dataset.b){
+      var bucket = el.dataset.b, val = el.dataset.v;
+      if(el.checked) state[bucket][val] = true; else delete state[bucket][val];
+    } else if(el.id === "noAff") state.hideAffiliation = el.checked;
+    else if(el.id === "noNat") state.hideNationality = el.checked;
+    else if(el.id === "hideStale") state.hideStale = el.checked;
+    else if(el.id === "dl") state.deadline = el.value;
+    else if(el.id === "minScore") state.minScore = parseInt(el.value, 10) || 0;
+    state.limit = 40;
+    render();
+  });
+
+  $("clearBtn").onclick = function(){
+    state.funding = {}; state.route = {}; state.country = {}; state.theme_tags = {};
+    state.hideAffiliation = false; state.hideNationality = false;
+    state.deadline = ""; state.minScore = 0; state.hideStale = false;
+    state.q = ""; $("q").value = ""; state.limit = 40;
+    buildFilters(); render();
+  };
+}
+
+/* ------------------------------------------------------------------ *
+ * tabs
+ * ------------------------------------------------------------------ */
+var TAB_TESTS = {
+  all: function(){ return true; },
+  funded: function(r){ return r.fully_funded; },
+  salaried: function(r){ return r.funding === "salaried"; },
+  stipend: function(r){ return r.funding === "stipend"; },
+  nostrings: function(r){ return r.fully_funded && !r.affiliation_required && !r.nationality_restricted; },
+  closing: function(r){ var n = daysUntil(r.deadline); return n !== null && n >= 0 && n <= 30; },
+  saved: function(r){ return !!state.saved[r.id]; }
+};
+var TAB_LABELS = {
+  all: "Everything",
+  funded: "Fully funded",
+  salaried: "Salaried posts",
+  stipend: "Stipend awards",
+  nostrings: "No strings attached",
+  closing: "Closing in 30 days",
+  saved: "Saved"
+};
+
+function buildTabs(){
+  var base = state.routes.filter(function(r){ return !state.hidden[r.id]; });
+  var html = Object.keys(TAB_LABELS).map(function(k){
+    var n = base.filter(TAB_TESTS[k]).length;
+    return '<button class="tab' + (state.tab === k ? " on" : "") + '" data-t="' + k + '">' +
+      esc(TAB_LABELS[k]) + '<span class="n">' + n + "</span></button>";
+  }).join("");
+  $("tabs").innerHTML = html;
+  $("tabs").querySelectorAll(".tab").forEach(function(b){
+    b.onclick = function(){ state.tab = b.dataset.t; state.limit = 40; buildTabs(); render(); };
+  });
+}
+
+/* ------------------------------------------------------------------ *
+ * matching
+ * ------------------------------------------------------------------ */
+function anyChecked(bucket){ return Object.keys(state[bucket]).length > 0; }
+
+function isNew(r){
+  var d = daysSince(r.first_seen);
+  return d !== null && d <= 3;
+}
+
+function matches(r){
+  if(state.hidden[r.id] && state.tab !== "saved") return false;
+  if(!TAB_TESTS[state.tab](r)) return false;
+  if(state.hideStale && r.stale) return false;
+  if(state.hideAffiliation && r.affiliation_required) return false;
+  if(state.hideNationality && r.nationality_restricted) return false;
+  if(state.minScore && (r.score || 0) < state.minScore) return false;
+
+  if(anyChecked("funding") && !state.funding[r.funding]) return false;
+  if(anyChecked("route") && !state.route[r.route]) return false;
+  if(anyChecked("country") && !(r.countries || []).some(function(c){ return state.country[c]; })) return false;
+  if(anyChecked("theme_tags") && !(r.themes || []).some(function(t){ return state.theme_tags[t]; })) return false;
+
+  if(state.deadline){
+    var n = daysUntil(r.deadline);
+    if(state.deadline === "has" && !r.deadline) return false;
+    if(state.deadline === "none" && r.deadline) return false;
+    if(/^\d+$/.test(state.deadline)){
+      if(n === null || n < 0 || n > parseInt(state.deadline, 10)) return false;
+    }
+  }
+
+  if(state.q){
+    var hay = [r.title, r.org, r.summary, (r.countries || []).join(" "), r.city,
+               (r.themes || []).join(" ")].join(" ").toLowerCase();
+    var terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    if(!terms.every(function(t){ return hay.indexOf(t) >= 0; })) return false;
+  }
+  return true;
+}
+
+function sortFn(a, b){
+  if(state.sort === "score") return (b.score || 0) - (a.score || 0);
+  if(state.sort === "org") return String(a.org || "").localeCompare(String(b.org || ""));
+  if(state.sort === "new") return String(b.first_seen || "").localeCompare(String(a.first_seen || ""));
+  if(state.sort === "deadline"){
+    return String(a.deadline || "9999-12-31").localeCompare(String(b.deadline || "9999-12-31"));
+  }
+  // "open": how few obstacles stand between you and an application.
+  var d = (b.openness || 0) - (a.openness || 0);
+  if(d) return d;
+  return (b.score || 0) - (a.score || 0);
+}
+
+/* ------------------------------------------------------------------ *
+ * render
+ * ------------------------------------------------------------------ */
+function render(){
+  var list = state.routes.filter(matches).sort(sortFn);
+  state.view = list;
+  var slice = list.slice(0, state.limit);
+
+  if(!list.length){
+    $("jobs").innerHTML = '<div class="empty"><h2>Nothing matches</h2>' +
+      "<p>Loosen a filter, or switch to the Everything tab. " +
+      "The fully funded filter is on by default.</p></div>";
+    $("moreBtn").hidden = true;
+  } else {
+    $("jobs").innerHTML = slice.map(card).join("");
+    $("moreBtn").hidden = list.length <= state.limit;
+    $("moreBtn").textContent = "Show more (" + (list.length - slice.length) + " remaining)";
+    wireCards();
+  }
+  syncHash();
+}
+
+$("moreBtn").onclick = function(){ state.limit += 40; render(); };
+$("q").oninput = function(){ state.q = this.value.trim(); state.limit = 40; render(); };
+$("sort").onchange = function(){ state.sort = this.value; render(); };
+
+function fundingPill(r){
+  var cls = r.funding === "salaried" ? "fund"
+          : r.funding === "stipend" ? "fundsoft"
+          : r.funding === "unfunded" ? "nofund" : "unclear";
+  return '<span class="pill ' + cls + '">' + esc(FUNDING[r.funding] || r.funding) + "</span>";
+}
+
+function card(r){
+  var loc = (r.countries || []).join(", ") || "Location not stated";
+  if(r.city) loc = r.city + ", " + loc;
+
+  var facts = [fundingPill(r)];
+  facts.push('<span class="pill route">' + esc(ROUTES[r.route] || r.route) + "</span>");
+
+  var n = daysUntil(r.deadline);
+  if(n !== null){
+    var kls = n <= 7 ? "urgent" : n <= 30 ? "soon" : "";
+    facts.push('<span class="pill ' + kls + '">Closes ' + esc(r.deadline) +
+      (n >= 0 ? " · " + n + "d" : "") + "</span>");
+  }
+  if(r.affiliation_required) facts.push('<span class="pill block">Needs a home employer</span>');
+  if(r.nationality_restricted) facts.push('<span class="pill block">Nationality or residence rule</span>');
+  if(r.lmic_focus) facts.push('<span class="pill lmic">LMIC focus</span>');
+  if(isNew(r)) facts.push('<span class="pill newbadge">New</span>');
+  if(r.stale) facts.push('<span class="pill unclear">Unconfirmed</span>');
+  (r.themes || []).slice(0, 4).forEach(function(t){
+    facts.push('<span class="pill">' + esc(t) + "</span>");
+  });
+
+  var why = [];
+  if((r.funding_evidence || []).length){
+    why.push("<li>Funding read as <b>" + esc(FUNDING[r.funding]) + "</b> from: " +
+      r.funding_evidence.map(function(x){ return "<code>" + esc(x) + "</code>"; }).join(", ") + "</li>");
+  } else {
+    why.push("<li>Funding: nothing in the listing said either way.</li>");
+  }
+  if((r.affiliation_evidence || []).length){
+    why.push("<li>Home employer flag from: " +
+      r.affiliation_evidence.map(function(x){ return "<code>" + esc(x) + "</code>"; }).join(", ") + "</li>");
+  }
+  if((r.nationality_evidence || []).length){
+    why.push("<li>Eligibility flag from: " +
+      r.nationality_evidence.map(function(x){ return "<code>" + esc(x) + "</code>"; }).join(", ") + "</li>");
+  }
+  why.push("<li>Found on " + esc(r.source || "an unnamed source") + "</li>");
+
+  return '<div class="card' + (state.saved[r.id] ? " saved" : "") +
+    (isNew(r) ? " isnew" : "") + '" data-id="' + esc(r.id) + '">' +
+    '<span class="scorebadge" title="Openness ' + (r.openness || 0) +
+      ", topic relevance " + (r.score || 0) + '">' + (r.openness || 0) + " / " + (r.score || 0) + "</span>" +
+    '<h2><a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.title) + "</a></h2>" +
+    '<div class="org"><b>' + esc(r.org || "Institution not stated") + "</b> &nbsp;·&nbsp; " +
+      esc(loc) + "</div>" +
+    '<div class="facts">' + facts.join("") + "</div>" +
+    (r.summary ? '<p class="snippet">' + esc(r.summary) + "</p>" : "") +
+    '<details class="why"><summary>Why this label</summary><ul>' + why.join("") + "</ul></details>" +
+    '<div class="actions">' +
+      '<a class="act apply" href="' + esc(r.url) + '" target="_blank" rel="noopener">Open posting</a>' +
+      '<button class="act js-save' + (state.saved[r.id] ? " on" : "") + '">' +
+        (state.saved[r.id] ? "Saved" : "Save") + "</button>" +
+      '<button class="act js-copy">Copy tracker row</button>' +
+      '<button class="act js-more">More</button>' +
+      '<button class="act js-hide">' + (state.hidden[r.id] ? "Unhide" : "Hide") + "</button>" +
+    "</div></div>";
+}
+
+function wireCards(){
+  $("jobs").querySelectorAll(".card").forEach(function(el){
+    var id = el.dataset.id;
+    var r = state.routes.filter(function(x){ return x.id === id; })[0];
+    if(!r) return;
+
+    el.querySelector(".js-more").onclick = function(){
+      el.classList.toggle("open");
+      this.textContent = el.classList.contains("open") ? "Less" : "More";
+    };
+    el.querySelector(".js-save").onclick = function(){
+      if(state.saved[id]) delete state.saved[id]; else state.saved[id] = true;
+      store.set("phd.saved", state.saved);
+      buildTabs(); render();
+    };
+    el.querySelector(".js-hide").onclick = function(){
+      if(state.hidden[id]) delete state.hidden[id]; else state.hidden[id] = true;
+      store.set("phd.hidden", state.hidden);
+      buildTabs(); render();
+    };
+    el.querySelector(".js-copy").onclick = function(){
+      navigator.clipboard.writeText(trackerRow(r).join("\t")).then(
+        function(){ toast("Row copied. Paste into the tracker."); },
+        function(){ toast("Copy blocked by the browser."); }
+      );
+    };
+  });
+}
+
+/* ------------------------------------------------------------------ *
+ * export -- same column order as the job application tracker, so a
+ * doctoral route and a job land in the same sheet without reshaping
+ * ------------------------------------------------------------------ */
+var TRACKER_COLS = ["no.","applied date","organisation","job title","seniority/grade",
+  "contract type","country","duty station","JD link","portal link","closing date",
+  "reply date","reply status","days waiting","follow-up due","next action","remarks"];
+
+function trackerRow(r, n){
+  return [
+    n == null ? "" : n,
+    "",
+    r.org || "",
+    r.title || "",
+    "PhD",
+    r.contract || (ROUTES[r.route] || ""),
+    (r.countries || []).join("; "),
+    r.city || "",
+    r.url || "",
+    "",
+    r.deadline || "",
+    "", "", "", "", "",
+    [
+      "found via " + (r.source || ""),
+      FUNDING[r.funding] || "",
+      r.affiliation_required ? "needs a home employer" : "",
+      r.nationality_restricted ? "nationality or residence rule" : "",
+      (r.themes && r.themes.length) ? r.themes.join(", ") : ""
+    ].filter(Boolean).join("; ")
+  ];
+}
+
+$("shareBtn").onclick = function(){
+  var link = location.origin + location.pathname + (stateToHash() ? "#" + stateToHash() : "");
+  navigator.clipboard.writeText(link).then(
+    function(){ toast("View link copied. It reopens these exact filters."); },
+    function(){ toast("Copy blocked. The address bar already holds the link."); }
+  );
+};
+
+$("calBtn").onclick = function(){
+  var ics = location.origin + location.pathname.replace(/[^/]*$/, "") + "data/phd_deadlines.ics";
+  navigator.clipboard.writeText(ics).then(
+    function(){ toast("Calendar URL copied. Google Calendar: Other calendars, + , From URL."); },
+    function(){ window.open(ics, "_blank"); }
+  );
+};
+
+$("csvBtn").onclick = function(){
+  if(!state.view.length){ toast("Nothing to export."); return; }
+  var q = function(v){ return '"' + String(v == null ? "" : v).replace(/"/g, '""') + '"'; };
+  var lines = [TRACKER_COLS.map(q).join(",")];
+  state.view.forEach(function(r, i){ lines.push(trackerRow(r, i + 1).map(q).join(",")); });
+  var blob = new Blob(["﻿" + lines.join("\r\n")], {type:"text/csv;charset=utf-8"});
+  var a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "doctoral-routes-" + todayISO() + ".csv";
+  document.body.appendChild(a); a.click(); a.remove();
+  toast("Exported " + state.view.length + " rows.");
+};
+
+/* ------------------------------------------------------------------ *
+ * source health
+ * ------------------------------------------------------------------ */
+function renderSources(s){
+  var rows = Object.keys(s.sources || {}).map(function(k){
+    var v = String(s.sources[k]);
+    var cls = v.indexOf("ok") === 0 ? "ok" : v === "disabled" ? "off" : "bad";
+    return '<div class="srcrow"><span class="dot ' + cls + '"></span>' +
+      '<span class="nm">' + esc(k) + "</span>" +
+      '<span class="st" title="' + esc(v) + '">' + esc(v.replace(/^ok: /, "").slice(0, 40)) + "</span></div>";
+  });
+  $("srcgrid").innerHTML = rows.join("") ||
+    '<div class="srcrow"><span class="nm">no status file yet</span></div>';
+  document.querySelector("details.sources summary").textContent =
+    "Source health — " + (s.sources_ok || 0) + " of " + (s.sources_total || 0) + " feeds returning data";
+}
+
+})();
+</script>
+</body>
+</html>

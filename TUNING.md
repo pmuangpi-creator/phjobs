@@ -177,6 +177,72 @@ finance roles. When unsure, leave it off and add words to `health_gate` instead.
 
 ---
 
+## The doctoral page
+
+Two files, both editable without touching code.
+
+### `config/phd_pipeline.yaml` — your own routes
+
+The panel at the top of `phd.html`. Nothing here is fetched, scored or expired,
+so it holds routes with no advert to fetch: a central doctoral application with
+no deadline, a funding scheme, a supervisor you have written to.
+
+```yaml
+  - name: DAAD Research Grants, Doctoral Programmes in Germany
+    institution: DAAD, via the Regional Office in Hanoi
+    country: Germany
+    funding: stipend            # salaried | stipend | partial | unfunded | unstated
+    deadline: "2026-10-21"
+    date_confidence: confirmed  # confirmed | inferred | none
+    status: action              # action | sent | watching | closed
+    affiliation: false          # does it need an employer at home
+    next_action: >-
+      Supervisor confirmation letter has to be in hand before the deadline.
+```
+
+`status` drives both the ordering and what shows by default: `action` and `sent`
+are open on load, `watching` and `closed` are behind a link.
+
+`date_confidence` is not decoration. `inferred` means the date is a pattern from
+a previous cycle rather than something the institution has published, and the
+page and the calendar both say so wherever that date appears. When you confirm
+one on the institution's own page, change it to `confirmed` in the same edit.
+
+### `config/phd.yaml` — how listings are read
+
+Three keyword banks, each producing a label and the evidence behind it.
+
+- `funding_terms.salaried` — employment language: salary scales, collective
+  agreements, TV-L, CAO, "employed for four years".
+- `funding_terms.stipend` — fees plus something to live on: "fully funded",
+  "tax-free stipend", "UKRI rate", "covers tuition".
+- `funding_terms.unfunded` — the vetoes: "self-funded", "fees only", "applicants
+  must secure". These win, except that a listing carrying funded *and*
+  self-funded language is labelled `partial` rather than either one.
+- `affiliation_terms` — "home institution", "study leave", "sandwich", "must be
+  nominated", "co-supervisor at".
+- `nationality_terms` — "domestic applicants only", "home fee status",
+  "Commonwealth citizens".
+
+When a listing is labelled wrongly, open its card, read **why this label**, and
+edit the phrase it names. Nothing here removes a listing; the page filters and
+the pipeline labels, so a bad keyword costs you a wrong badge, never a route you
+never saw.
+
+`defaults:` sets what the page opens with. `fully_funded_only: true` is the
+Fully funded tab; set it to `false` and the page opens on everything.
+
+### One thing not to do
+
+Do not add "no funding" or "unfunded" to `funding_terms.unfunded` on the
+strength of a listing that simply says nothing about money. Silence has to stay
+`unstated`. Dutch and Swedish doctoral posts are employment contracts whose
+adverts often never mention pay, and reading that silence as "no money" deletes
+the best routes on the board. If a whole source is salaried by construction, put
+`assume_funding: salaried` on the source in `config/sources.yaml` instead.
+
+---
+
 ## Alerts and calendar
 
 ```yaml
@@ -194,6 +260,19 @@ is closing.
 calendar:
   min_score: 20        # deadlines below this stay out of your calendar
   horizon_days: 120
+```
+
+The doctoral track has its own pair, in `config/phd.yaml`, because its dates
+behave differently. `data/phd_deadlines.ics` is a separate calendar you subscribe
+to separately, carrying fully funded routes plus your own pipeline, and the
+digest warns three weeks out rather than three days.
+
+```yaml
+calendar:
+  horizon_days: 300
+  fully_funded_only: true
+digest:
+  closing_days: 21
 ```
 
 ## Schedule
@@ -216,7 +295,8 @@ contributes zero jobs and an empty fetch leaves the previous data alone. But if
 you want to see the effect first, from the `phjobs` folder:
 
 ```bash
-python3 selftest.py                 # 105 assertions, no network needed
+python3 selftest.py                 # 116 assertions, no network needed
+python3 tests_doctoral.py           # 65 more, for the doctoral track
 python3 run_refresh.py --dry-run    # fetch and report, write nothing
 python3 run_refresh.py --only rss   # one source group at a time
 ```

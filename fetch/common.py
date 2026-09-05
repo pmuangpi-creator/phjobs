@@ -12,6 +12,7 @@ import logging
 import re
 import time
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 import requests
 from dateutil import parser as dateparser
@@ -25,7 +26,22 @@ USER_AGENT = (
 TIMEOUT = 40
 RETRIES = 3
 
+# Hosts that publish a Crawl-delay, in seconds. Honoured per host, so a source
+# asking for ten seconds between requests gets ten seconds between requests and
+# every other source is unaffected.
+#
+# academictransfer.com  robots.txt: "User-agent: *  Crawl-delay: 10". Nothing
+#                       under /en/jobs/ is disallowed and the vacancy sitemap is
+#                       published deliberately, so the site is usable; it just
+#                       wants to be read slowly. The doctoral track caps how many
+#                       of its pages are opened per run for the same reason.
+HOST_DELAY = {
+    "www.academictransfer.com": 10.0,
+    "academictransfer.com": 10.0,
+}
+
 _session: requests.Session | None = None
+_last_request: dict[str, float] = {}
 
 
 def session() -> requests.Session:
@@ -43,10 +59,26 @@ def session() -> requests.Session:
     return _session
 
 
+def _throttle(url: str) -> None:
+    """Wait out a host's published Crawl-delay before hitting it again."""
+    try:
+        host = urlparse(url).netloc.lower()
+    except Exception:  # noqa: BLE001
+        return
+    delay = HOST_DELAY.get(host)
+    if not delay:
+        return
+    elapsed = time.monotonic() - _last_request.get(host, 0.0)
+    if elapsed < delay:
+        time.sleep(delay - elapsed)
+    _last_request[host] = time.monotonic()
+
+
 def _request(method: str, url: str, **kwargs) -> requests.Response:
     last: Exception | None = None
     for attempt in range(RETRIES):
         try:
+            _throttle(url)
             r = session().request(method, url, timeout=TIMEOUT, **kwargs)
             if r.status_code in (429, 502, 503, 504):
                 wait = 4 * (attempt + 1)

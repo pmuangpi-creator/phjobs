@@ -25,7 +25,10 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    # Raised from 25 when the sitemap sources arrived. AcademicTransfer asks for
+    # ten seconds between requests and the run honours that, so the first refresh
+    # after a batch of new doctoral listings is slow. Steady state is minutes.
+    timeout-minutes: 35
 
     steps:
       - uses: actions/checkout@v4
@@ -37,6 +40,14 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      # Offline, seconds, no network. Runs before the fetch so that a broken
+      # classifier fails the run instead of publishing a board full of
+      # mislabelled funding.
+      - name: Check the pipeline logic
+        run: |
+          python selftest.py
+          python tests_doctoral.py
 
       - name: Fetch and rebuild the board
         run: python run_refresh.py -v

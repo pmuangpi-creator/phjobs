@@ -1,0 +1,216 @@
+# Doctoral track configuration.
+#
+# The jobs board asks whether a listing is public health work. This file holds
+# the three extra questions the doctoral page asks of every listing, all of them
+# plain substring matching against title + organisation + description:
+#
+#   funding_terms      is the money actually there
+#   affiliation_terms  does it need an employer back home to release you
+#   nationality_terms  is it closed to a Myanmar passport
+#
+# Matching is case-insensitive and on substrings, so "self-fund" catches
+# self-funded and self-funding. Every match is recorded on the listing as
+# evidence and shown on the card, so when the classifier gets one wrong you can
+# see which phrase did it and edit that line rather than guessing.
+#
+# NOTHING HERE REMOVES A LISTING. These fields label; the page filters. The
+# "fully funded only" default is a filter you can switch off in the sidebar.
+
+# ---------------------------------------------------------------------------
+# FUNDING
+#
+# Three buckets, and the order of precedence is set in pipeline/doctoral.py:
+# unfunded vetoes, then salaried, then stipend, then unstated.
+#
+# A listing that says nothing is "unstated", never "unfunded". Swedish and Dutch
+# doctoral posts are employment contracts and frequently do not discuss funding
+# at all, because there is nothing to discuss. Reading that silence as "no
+# money" would delete the best routes on the board. Sources that are salaried by
+# construction carry assume_funding in config/sources.yaml instead.
+# ---------------------------------------------------------------------------
+funding_terms:
+
+  # An employment contract. Pay, pension, holiday, a union agreement.
+  salaried:
+    - gross monthly salary
+    - monthly gross salary
+    - gross salary
+    - salary scale
+    - pay scale
+    - salary range
+    - salary is
+    - annual salary
+    - according to the collective
+    - collective labour agreement
+    - collective agreement
+    - cao nederlandse universiteiten
+    - " cao "
+    - tv-l
+    - tvöd
+    - e13
+    - "13 tv-l"
+    - employment contract
+    - employed by the university
+    - terms of employment
+    - four-year appointment
+    - fixed-term appointment
+    - doctoral candidate position
+    - doktorandanställning
+    - anställning
+    - pension and holiday
+    - social security contributions
+    - full-time position
+    - fte
+
+  # Not an employment contract, but the money is there: fees plus something to
+  # live on.
+  stipend:
+    - fully funded
+    - fully-funded
+    - full funding
+    - funded studentship
+    - stipend
+    - tax-free stipend
+    - maintenance grant
+    - living allowance
+    - monthly allowance
+    - monthly stipend
+    - subsistence allowance
+    - bursary
+    - scholarship covers
+    - covers tuition
+    - tuition fees are covered
+    - fees and stipend
+    - fee waiver and
+    - stipend and tuition
+    - ukri rate
+    - at the ukri
+    - research training support grant
+    - travel and research costs
+    - award covers
+
+  # The vetoes. Any of these and the route is not funded for this profile,
+  # unless funded language appears too, in which case the listing is labelled
+  # "partial" and you read it yourself.
+  unfunded:
+    - self-funded
+    - self funded
+    - self-funding
+    - self funding
+    - fees only
+    - fees-only
+    - no funding is attached
+    - funding is not provided
+    - no stipend
+    - unfunded
+    - applicants must secure
+    - candidates must secure their own
+    - expected to secure their own funding
+    - must arrange their own funding
+    - bring their own funding
+    - subject to securing funding
+    - funding is not guaranteed
+    - students are responsible for tuition
+
+# ---------------------------------------------------------------------------
+# AFFILIATION
+#
+# The August 2026 scan's structural finding, turned into a filter. Three of the
+# six funded routes found then were sandwich or secondment schemes: they need a
+# home-country employer who grants study leave and provides a co-supervisor.
+# Nothing in the title says so, and the eligibility section always does.
+# ---------------------------------------------------------------------------
+affiliation_terms:
+  - home institution
+  - home institute
+  - home country institution
+  - home university
+  - sandwich phd
+  - sandwich programme
+  - sandwich program
+  - study leave
+  - leave of absence from
+  - released by their employer
+  - released by his or her employer
+  - employer's endorsement
+  - endorsement from the employer
+  - letter of endorsement
+  - institutional endorsement
+  - must be employed
+  - currently employed at
+  - employed by a
+  - staff member of
+  - seconded
+  - secondment
+  - co-supervisor at
+  - local supervisor at
+  - nominated by
+  - nomination by
+  - must be nominated
+  - through their institution
+  - supported by their institution
+  - partner institution must
+  - candidates residing in their home country
+  - resident in their home country
+
+# ---------------------------------------------------------------------------
+# NATIONALITY AND RESIDENCE
+#
+# Separate from affiliation because it fails for a different reason and cannot
+# be fixed by finding a job first. Commonwealth Scholarships are the standing
+# example: Myanmar is not a member state, so the whole scheme is closed however
+# strong the application.
+# ---------------------------------------------------------------------------
+nationality_terms:
+  - domestic applicants only
+  - domestic students only
+  - home fee status
+  - home students only
+  - uk residents only
+  - eu nationals only
+  - eu citizens only
+  - citizens of the european union
+  - must be a citizen of
+  - must be a national of
+  - open to nationals of
+  - nationals of commonwealth
+  - commonwealth citizens
+  - permanent residents only
+  - citizens or permanent residents
+  - right to work in
+  - work permit is required
+  - visa sponsorship is not
+  - we cannot sponsor
+  - not eligible for international
+  - international applicants are not
+
+# ---------------------------------------------------------------------------
+# What the doctoral page shows by default. Every one of these is a filter the
+# sidebar can switch off; none of them delete data from phd.json.
+# ---------------------------------------------------------------------------
+defaults:
+  fully_funded_only: true      # the scope you set: salaried posts and
+                               # stipend-plus-fees awards, nothing else
+  hide_affiliation_required: false   # flagged rather than hidden, so you can
+                                     # see what a job would unlock
+  hide_nationality_restricted: false
+  min_score: 0
+
+# Extra patterns that make a scholarship call count as doctoral even when it
+# never uses the word "vacancy". Regular expressions, matched case-insensitively.
+extra_doctoral_patterns:
+  - "\\bresearch (grant|grants) for doctoral\\b"
+  - "\\bdoctoral (grant|grants|funding)\\b"
+  - "\\bpre-?doctoral\\b"
+
+# Calendar and digest thresholds for the doctoral track, separate from the jobs
+# board's. A doctoral deadline is worth a longer horizon because the documents
+# take weeks, not an afternoon.
+calendar:
+  enabled: true
+  horizon_days: 300
+  fully_funded_only: true
+
+digest:
+  enabled: true
+  closing_days: 21

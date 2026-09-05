@@ -22,15 +22,17 @@ from pathlib import Path
 
 import yaml
 
-from fetch import boards, pagefetch, reliefweb, rssfeeds
-from pipeline import classify, income, merge, outputs
+from fetch import boards, pagefetch, reliefweb, rssfeeds, sitemaps
+from pipeline import classify, doctoral, income, merge, outputs
 
 ROOT = Path(__file__).resolve().parent
 CONFIG = ROOT / "config"
 DATA = ROOT / "docs" / "data"
 JOBS_PATH = DATA / "jobs.json"
+PHD_PATH = DATA / "phd.json"
 STATUS_PATH = DATA / "sources_status.json"
 ICS_PATH = DATA / "deadlines.ics"
+PHD_ICS_PATH = DATA / "phd_deadlines.ics"
 DIGEST_PATH = DATA / "digest.md"
 DIGEST_TITLE = DATA / "digest_title.txt"
 INCOME_CACHE = CONFIG / "income_groups.json"
@@ -53,7 +55,10 @@ def main() -> int:
     ap.add_argument(
         "--only",
         default="",
-        help="reliefweb | greenhouse | lever | workday | smartrecruiters | rss",
+        help=(
+            "reliefweb | greenhouse | lever | workday | smartrecruiters | "
+            "bamboohr | workable | rss | sitemaps | pages"
+        ),
     )
     ap.add_argument(
         "--discover",
@@ -140,6 +145,17 @@ def main() -> int:
     rs = sources.get("rss") or {}
     if rs.get("enabled", True) and only in ("", "rss"):
         got, st = rssfeeds.fetch(rs.get("feeds") or [])
+        raw.extend(got)
+        status.update(st)
+
+    # --- XML sitemaps ----------------------------------------------------
+    # Fetched before the listing pages so that on a run where the
+    # full-description budget is tight, the doctoral sources are the ones that
+    # get their bodies fetched. A sitemap listing with no body cannot be judged
+    # on funding at all, which is the whole point of the doctoral page.
+    sm = sources.get("sitemaps") or {}
+    if sm.get("enabled", True) and only in ("", "sitemaps"):
+        got, st = sitemaps.harvest(sm.get("sites") or [])
         raw.extend(got)
         status.update(st)
 
@@ -244,6 +260,75 @@ def main() -> int:
     )
     log.info("wrote %s (%s jobs, %.1f KB)", JOBS_PATH, len(jobs), JOBS_PATH.stat().st_size / 1024)
 
+    # --- doctoral track --------------------------------------------------
+    # A second, narrower view over the same listings rather than a second
+    # fetch. Everything doctoral already passed the gate and the scorer; what
+    # phd.json adds is the three questions a PhD advert has to answer that a job
+    # advert does not: is the money there, does it need an employer back home,
+    # and is it open to this passport. See pipeline/doctoral.py.
+    phd_cfg = load_yaml("phd.yaml")
+    pipeline_cfg = load_yaml("phd_pipeline.yaml")
+    routes = [
+        doctoral.enrich(dict(j), phd_cfg)
+        for j in jobs
+        if doctoral.is_doctoral(j, phd_cfg.get("extra_doctoral_patterns"))
+    ]
+    routes.sort(
+        key=lambda r: (
+            -int(r.get("openness") or 0),
+            -int(r.get("score") or 0),
+            r.get("deadline") or "9999-12-31",
+        )
+    )
+    pinned = doctoral.pipeline_entries(pipeline_cfg)
+    funding_counts: dict[str, int] = {}
+    for r in routes:
+        funding_counts[r["funding"]] = funding_counts.get(r["funding"], 0) + 1
+    phd_stats = {
+        "routes": len(routes),
+        "fully_funded": sum(1 for r in routes if r["fully_funded"]),
+        "needs_home_affiliation": sum(1 for r in routes if r["affiliation_required"]),
+        "nationality_restricted": sum(1 for r in routes if r["nationality_restricted"]),
+        "by_funding": funding_counts,
+        "pinned": len(pinned),
+    }
+    stats["doctoral"] = phd_stats
+    log.info("doctoral: %s", phd_stats)
+
+    PHD_PATH.write_text(
+        json.dumps(
+            {
+                "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                "count": len(routes),
+                "stats": phd_stats,
+                "defaults": phd_cfg.get("defaults") or {},
+                "pipeline": pinned,
+                "routes": routes,
+            },
+            ensure_ascii=False,
+            separators=(",", ":"),
+        ),
+        encoding="utf-8",
+    )
+    log.info("wrote %s (%s routes, %s pinned)", PHD_PATH, len(routes), len(pinned))
+
+    phd_cal = phd_cfg.get("calendar") or {}
+    if phd_cal.get("enabled", True):
+        for_cal = [
+            r for r in routes
+            if not phd_cal.get("fully_funded_only", True) or r["fully_funded"]
+        ]
+        PHD_ICS_PATH.write_text(
+            outputs.build_ics(
+                for_cal + outputs.pipeline_as_jobs(pinned),
+                horizon_days=int(phd_cal.get("horizon_days", 300)),
+                calendar_name="Doctoral deadlines",
+                calendar_desc="Closing dates for funded doctoral routes",
+            ),
+            encoding="utf-8",
+        )
+        log.info("wrote %s", PHD_ICS_PATH)
+
     # --- calendar feed ---------------------------------------------------
     alerts = sources.get("alerts") or {}
     cal = sources.get("calendar") or {}
@@ -262,12 +347,16 @@ def main() -> int:
     # Written to a file rather than sent from here. The workflow decides how it
     # reaches you, which keeps credentials out of this script entirely.
     if alerts.get("enabled", True):
+        phd_digest = phd_cfg.get("digest") or {}
         title, body, n = outputs.build_digest(
             jobs,
             set(previous),
             min_score=int(alerts.get("min_score", 30)),
             closing_days=int(alerts.get("closing_days", 3)),
             site_url=alerts.get("site_url", ""),
+            doctoral=routes if phd_digest.get("enabled", True) else None,
+            pinned=pinned if phd_digest.get("enabled", True) else None,
+            doctoral_closing_days=int(phd_digest.get("closing_days", 21)),
         )
         DIGEST_PATH.write_text(body, encoding="utf-8")
         DIGEST_TITLE.write_text(title, encoding="utf-8")

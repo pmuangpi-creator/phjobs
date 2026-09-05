@@ -1,0 +1,253 @@
+# The pinned panel at the top of the doctoral page: routes already being worked.
+#
+# Hand-kept on purpose. These are here because a decision was made about them,
+# not because a feed mentioned them, and several have no advert to fetch at all
+# (the Heidelberg central route publishes no vacancy; DAAD is a funding scheme,
+# not a post). Nothing in this file is fetched, scored or expired. Edit it when
+# something moves and the page follows on the next run.
+#
+# FIELDS
+#   status          action | sent | watching | closed
+#                     action    something is due from you
+#                     sent      with them, waiting on a reply
+#                     watching  call not open yet, or no date published
+#                     closed    finished, kept for the record
+#   deadline        YYYY-MM-DD, or blank where none is published
+#   date_confidence confirmed | inferred | none
+#                     inferred means the date is a pattern from a previous
+#                     cycle, not something the institution has published. The
+#                     page labels these so they are never mistaken for a fact.
+#   funding         salaried | stipend | partial | unfunded | unstated
+#   affiliation     true when the route needs an employer at home to release you
+#   next_action     the single next thing, in your words
+#
+# The dates below were confirmed at the time they were entered. Confirm every
+# one on the institution's own page before you rely on it.
+
+pipeline:
+
+  - name: DAAD Research Grants, Doctoral Programmes in Germany
+    institution: DAAD, via the Regional Office in Hanoi
+    country: Germany
+    route: programme
+    funding: stipend
+    deadline: "2026-10-21"
+    date_confidence: confirmed
+    status: action
+    affiliation: false
+    url: https://www.daad.de/en/study-and-research-in-germany/scholarships/
+    next_action: >-
+      Supervisor confirmation letter and the safety and ethics declaration have
+      to be in hand before the deadline, so supervisor outreach is the critical
+      path, not the application form.
+    notes: >-
+      Funding runs from October 2027. Two questions still open: whether a
+      Dr. sc. hum. from a medical faculty falls under DAAD's separate
+      human-medicine regulations, and whether Hanoi or DAAD Thailand owns the
+      file given Myanmar nationality with residence in Bangkok.
+
+  - name: Heidelberg Institute of Global Health, central doctoral route
+    institution: Heidelberg Institute of Global Health (HIGH)
+    country: Germany
+    route: programme
+    funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: sent
+    affiliation: false
+    url: https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health
+    next_action: >-
+      Denkinger enquiry went out 31 August 2026. The Mueller, Deckert and Dureab
+      drafts are written and unsent; send them rather than waiting on one reply.
+    notes: >-
+      No deadline, reviewed quarterly. Three PDFs under 5MB total: cover letter
+      1 to 2 pages stating personal details, motivation, topics, preferred
+      supervisor, previous contact and funding status; CV with grades, teaching,
+      publications with hyperlinks and referee contacts; proposal of 1 to 2
+      pages. Pairs with the DAAD deadline above, which is where the money is.
+
+  - name: PhD scholarship, maternal RSV vaccination and child respiratory health
+    institution: UNSW Sydney
+    country: Australia
+    route: post
+    funding: stipend
+    deadline: "2026-09-15"
+    date_confidence: confirmed
+    status: action
+    affiliation: false
+    url: https://www.unsw.edu.au/research/hdr
+    next_action: >-
+      CV and transcripts by email to Dr Fekede Kumsa (f.kumsa@unsw.edu.au). Ask
+      in the same message whether a tuition fee scholarship exists for
+      international applicants alongside the AUD 40,000 stipend.
+    notes: >-
+      Analysis of large linked routinely collected health datasets. Two gaps to
+      name rather than hide: no experience with linked administrative data at
+      population scale, and Stata rather than R.
+
+  - name: Individual Sandwich PhD, ITM-DGD 2027 call
+    institution: Institute of Tropical Medicine Antwerp
+    country: Belgium
+    route: programme
+    funding: stipend
+    deadline: "2026-09-15"
+    date_confidence: confirmed
+    status: watching
+    affiliation: true
+    url: https://www.itg.be/en/education/phd
+    next_action: >-
+      Decide whether to spend the days before the deadline on this at all. The
+      scheme is built for ITM alumni embedded in a home institute, and the DGD
+      priority list names Cambodia and Vietnam, not Myanmar.
+    notes: >-
+      Requires a home-country employer granting study leave and supplying a
+      co-supervisor. That is the constraint, not the CV.
+
+  - name: PhD studentship, implementation research and mental health prevention
+    institution: BIPS, University of Bremen
+    country: Germany
+    route: post
+    funding: salaried
+    deadline: ""
+    date_confidence: none
+    status: sent
+    affiliation: false
+    url: https://www.bips-institut.de/en/institute/careers.html
+    next_action: Follow up with Prof. Dr. Daniela Fuhr if no reply.
+    notes: Reference A26-20.
+
+  - name: Doctoral supervision enquiry, humanitarian studies
+    institution: International Institute of Social Studies, Erasmus University Rotterdam
+    country: Netherlands
+    route: post
+    funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: action
+    affiliation: false
+    url: https://www.iss.nl/en/research/phd-programme
+    next_action: >-
+      Send the supervision enquiry to Prof. Dorothea Hilhorst with the TB and
+      armed conflict proposal.
+    notes: Priority Netherlands target.
+
+  - name: PhD opportunity, Public Health and Population Health track
+    institution: NTU HABITS, Nanyang Technological University
+    country: Singapore
+    route: post
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: sent
+    affiliation: false
+    url: https://www.ntu.edu.sg/
+    next_action: Follow up with Dr. Rakhi Verma.
+    notes: >-
+      Letter of motivation anchored on NCD screening and management in
+      humanitarian settings.
+
+  - name: Hong Kong PhD Fellowship Scheme 2027/28
+    institution: Hong Kong Research Grants Council
+    country: Hong Kong SAR
+    route: programme
+    funding: stipend
+    deadline: "2026-12-01"
+    date_confidence: inferred
+    status: watching
+    affiliation: false
+    url: https://cerg1.ugc.edu.hk/hkpfs/index.html
+    next_action: >-
+      Check the RGC page for the published 2027/28 dates. The window above is a
+      pattern from the 2026/27 cycle, not a published date.
+    notes: >-
+      No home-institution requirement, which is why it stays on this list. It
+      selects heavily on publication record, so the thesis manuscript is the
+      real prerequisite.
+
+  - name: Doctoral outreach, cardiovascular and chronic disease prevention
+    institution: NUS Saw Swee Hock School of Public Health
+    country: Singapore
+    route: post
+    funding: stipend
+    deadline: "2026-11-30"
+    date_confidence: inferred
+    status: watching
+    affiliation: false
+    url: https://sph.nus.edu.sg/education/phd-programme/
+    next_action: Confirm the published November deadline on the school's own page.
+    notes: Family-based behavioural focus.
+
+  - name: BOF sandwich PhD
+    institution: Ghent University
+    country: Belgium
+    route: programme
+    funding: partial
+    deadline: "2027-02-17"
+    date_confidence: inferred
+    status: watching
+    affiliation: true
+    url: https://www.ugent.be/en/research/funding/devcoop/phdgrants
+    next_action: Watch for the next call, expected around February 2027.
+    notes: >-
+      The partner institution has to fund 24 months. Same constraint as ITM
+      Antwerp, in a different shape.
+
+  - name: Implementation Research Leadership Fellowship
+    institution: TDR at Universitas Gadjah Mada, Yogyakarta
+    country: Indonesia
+    route: fellowship
+    funding: stipend
+    deadline: "2026-12-31"
+    date_confidence: inferred
+    status: watching
+    affiliation: true
+    url: https://tdr.who.int/
+    next_action: >-
+      Watch for the next call, expected around December 2026. Requires
+      employment plus study leave, and applicants must be under 40 at
+      application. Whether it awards a degree was never confirmed.
+    notes: The 2026/27 call closed 30 January 2026.
+
+  - name: Full scholarship for Myanmar nationals
+    institution: Mahidol University, Faculty of Tropical Medicine
+    country: Thailand
+    route: programme
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: watching
+    affiliation: false
+    url: https://www.tm.mahidol.ac.th/
+    next_action: >-
+      Decide whether a malaria and vivax topic is worth the change of subject.
+      Open with no closing date given.
+    notes: Restricted to Myanmar nationals, which for once is the right way round.
+
+  - name: Graduate Research Scholarships / Australian RTP
+    institution: University of Melbourne
+    country: Australia
+    route: programme
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: watching
+    affiliation: false
+    url: https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships
+    next_action: >-
+      Needs a supervisor agreement before anything else. 2027 commencement dates
+      were not published when this was checked.
+
+  - name: PhD candidate, Treatment Optimisation for Tuberculosis
+    institution: Radboudumc, Department of Pulmonary Diseases
+    country: Netherlands
+    route: post
+    funding: salaried
+    deadline: "2026-08-29"
+    date_confidence: confirmed
+    status: closed
+    affiliation: false
+    url: https://www.radboudumc.nl/en/working-at/vacancies
+    next_action: Applied. Waiting.
+    notes: >-
+      PORT trial rifampicin dose optimisation, UNITE4TB consortium. First
+      contact with Radboudumc.

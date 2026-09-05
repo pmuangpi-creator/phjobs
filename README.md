@@ -54,6 +54,49 @@ digest starts a fresh one. Thresholds live under `alerts:` in
 
 ---
 
+## The doctoral page
+
+`docs/phd.html`, linked from the header as **Doctoral routes**. Same pipeline,
+same listings, three more questions asked of each one.
+
+A PhD advert and a fully funded PhD post are different objects, and the
+difference is never in the title. So every doctoral listing is read for whether
+the money is actually there (`salaried` / `stipend and fees` / `partial or
+unclear` / `not funded` / `not stated`), whether it needs an employer back home
+to release you, and whether it carries a nationality or residence rule. The
+phrases that produced each verdict sit on the card under **why this label**, so
+a wrong call is one line to fix in `config/phd.yaml` rather than a mystery.
+
+The home-employer flag exists because of a structural finding, not a hunch. Of
+six funded routes found in an August 2026 scan, three were sandwich or
+secondment schemes needing a home institute that grants study leave and supplies
+a co-supervisor. Nothing in their titles said so. Both that flag and the
+nationality one label rather than hide by default: a route that needs an
+employer is a reason to take a post, not a reason to forget the route.
+
+**Funding not stated is not the same as unfunded.** Dutch and Swedish doctoral
+positions are employment contracts and their adverts routinely never mention
+money, because there is nothing unusual to mention. Those sources carry
+`assume_funding: salaried` in `config/sources.yaml`; anything genuinely silent
+is labelled *funding not stated* and shown, never dropped.
+
+Cards sort by **openness** by default, a plain count of how few obstacles stand
+between you and an application. The number in the corner is openness over topic
+relevance: the first says whether the door is open, the second whether the work
+fits.
+
+**Your pipeline**, the panel at the top, is hand-kept in
+`config/phd_pipeline.yaml` and never fetched. These are routes tracked because a
+decision was made about them, several of which have no advert to fetch at all.
+Each carries a status, the next action, and a `date_confidence` of
+`confirmed` / `inferred` / `none`, so a deadline reconstructed from last year's
+cycle is never displayed as a published fact. Deadlines with a date go into
+`data/phd_deadlines.ics`, a separate calendar from the jobs one, and into the
+digest with a three-week warning rather than three days, because a supervisor
+confirmation letter is not something you produce on a Thursday evening.
+
+---
+
 ## Sources
 
 | Source | Covers | How it is read |
@@ -66,8 +109,10 @@ digest starts a fresh one. Thresholds live under `alerts:` in
 | BambooHR | IDinsight (India, Philippines, Indonesia, Senegal, Kenya, Zambia) | Public careers JSON, no key |
 | Workable | Evidence Action, VillageReach | Public widget JSON, no key |
 | Listing pages | Last Mile Health, Living Goods, OUCRU, Ifakara, icddr,b, ICMR, DevNetJobsIndia, Aga Khan University | Link harvesting, see below |
+| XML sitemaps | AcademicTransfer (the Dutch academic market), Varbi (Uppsala, Karolinska, Lund, Umeå, Gothenburg, Stockholm, Linköping) | Published sitemaps, `fetch/sitemaps.py` |
 
-Those last eight publish no feed of any kind. Rather than eight parsers written
+The listing-pages row covers eight employers that publish no feed of any kind.
+Rather than eight parsers written
 against markup nobody has inspected, which is how this project ended up with
 fourteen dead Greenhouse tokens, `fetch/pagefetch.py` harvests the links on each
 listing page, keeps the ones that read like job titles, and lets the relevance
@@ -155,10 +200,10 @@ pip3 install -r requirements.txt
 python3 run_refresh.py              # fetch everything, write docs/data/
 python3 run_refresh.py --dry-run    # fetch and report, write nothing
 python3 run_refresh.py --only rss   # one source group: reliefweb|greenhouse|lever|rss
-python3 run_refresh.py --demo       # six invented postings, so the page renders offline
 python3 run_refresh.py -v           # verbose
 
-python3 selftest.py                 # 38 offline assertions, no network needed
+python3 selftest.py                 # 116 offline assertions, no network needed
+python3 tests_doctoral.py           # 65 more, for the doctoral track
 ```
 
 To look at the page locally:
@@ -231,7 +276,19 @@ Deadlines come from the source. Several boards publish a date with no timezone.
 Confirm on the original posting before you rely on one.
 
 The relevance score is arithmetic over keyword hits. It is a sorting aid, not a
-judgement about whether you should apply.
+judgement about whether you should apply. The openness score on the doctoral
+page is the same kind of arithmetic and deserves the same scepticism.
+
+The funding label is read out of whatever text the source gave. A listing whose
+advert is two lines and whose page fetch failed will read *funding not stated*
+even when the money is there. Check the posting before writing a route off.
+
+UK and Irish studentships are the doctoral page's biggest gap. They are
+advertised on FindAPhD, which publishes no feed and whose terms are unconfirmed,
+so it is excluded on the same basis as unjobs.org. Set a saved search and an
+email alert there by hand and treat it as a second, manual source. Norway is a
+smaller version of the same gap: Jobbnorge carries the salaried Norwegian PhD
+posts and offers no feed.
 
 ---
 

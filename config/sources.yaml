@@ -284,6 +284,27 @@ rss:
       default_category: research
       enabled: true
 
+    # -- UK universities on the same recruitment platform as LSHTM. The pattern
+    #    is jobs.<university>.ac.uk/RSS/rss.aspx and it holds across dozens of
+    #    them: an index of every feed a given university offers sits at
+    #    jobs.<university>.ac.uk/RSS/. Southampton and Leeds were fetched in
+    #    September 2026 and returned 20 and 25 live items.
+    #
+    #    These are all-vacancy feeds, so most of what they carry is estates,
+    #    finance and catering. That is what the relevance gate is for, and the
+    #    handful of research and studentship rows they do carry are worth the
+    #    noise. Others confirmed to publish the same /RSS/ index, if you want
+    #    more: surrey, lancs (hr-jobs.lancs.ac.uk), aston, royalholloway, gre,
+    #    staffs, uwl, worcester, wrexham.
+    - name: University of Southampton
+      url: https://jobs.soton.ac.uk/RSS/rss.aspx
+      default_category: research
+      enabled: true
+    - name: University of Leeds
+      url: https://jobs.leeds.ac.uk/RSS/rss.aspx
+      default_category: research
+      enabled: true
+
 # ---------------------------------------------------------------------------
 # Listing pages with no feed of any kind.
 #
@@ -364,13 +385,116 @@ pages:
                                # so nobody re-adds it without reading this.
 
 # ---------------------------------------------------------------------------
+# XML sitemaps -- added September 2026 for the doctoral track.
+#
+# WHY SITEMAPS AND NOT FEEDS. The fully funded doctoral routes that are actual
+# employment contracts sit overwhelmingly in the Netherlands and the Nordics,
+# and neither platform carrying them publishes RSS. Both publish XML sitemaps,
+# which exist to be read by machines, so this is a documented interface rather
+# than scraping.
+#
+# Varbi sitemaps are unusually rich: meta_title, meta_city, meta_ends (the
+# closing date), meta_customer_fullname and meta_description, all in one fetch.
+# Better than most RSS. Verified against Uppsala, Karolinska and Lund in
+# September 2026; feeds.varbi.com/robots.txt names eight SEO crawlers and has no
+# wildcard block and no crawl delay.
+#
+# AcademicTransfer publishes a plain sitemap of roughly 500 vacancy URLs with
+# the job title in the slug and nothing else, so the URL filter runs first and
+# the description is fetched afterwards. Their robots.txt allows the wildcard
+# agent with Crawl-delay: 10, which fetch/common.py now honours per host, and
+# max_items keeps the number of pages opened per run small.
+#
+# ADDING A VARBI UNIVERSITY: the slug is the subdomain of its careers site.
+# lu.varbi.com -> https://feeds.varbi.com/sitemap/lu/. A wrong slug returns 404
+# and logs an error; it costs one request to find out.
+# ---------------------------------------------------------------------------
+sitemaps:
+  enabled: true
+  sites:
+    - name: AcademicTransfer Netherlands
+      url: https://www.academictransfer.com/sitemap-vacancies.xml
+      org: ""
+      country: Netherlands
+      flavour: plain
+      default_category: phd
+      # English pages only; the /nl/ paths are the same vacancies in Dutch and
+      # would double every row.
+      include_pattern: "/en/jobs/.*(phd|promovendus|doctoral|doctorate|onderzoeker-in-opleiding)"
+      exclude_pattern: "/nl/jobs/"
+      max_items: 50
+      # A Dutch doctoral position is an employment contract with a salary scale.
+      # The advert often does not mention money at all, because there is nothing
+      # unusual to mention. Without this they would all read "funding not
+      # stated" and the fully-funded filter would hide the best routes found.
+      assume_funding: salaried
+      enabled: true
+
+    - name: Varbi Uppsala University
+      url: https://feeds.varbi.com/sitemap/uu/
+      org: Uppsala University
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+    - name: Varbi Karolinska Institutet
+      url: https://feeds.varbi.com/sitemap/ki/
+      org: Karolinska Institutet
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+    - name: Varbi Lund University
+      url: https://feeds.varbi.com/sitemap/lu/
+      org: Lund University
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+    # The four below follow the same slug rule and were not individually
+    # confirmed. If one reports an error in the source-health panel the slug is
+    # wrong: open that university's careers page, read the subdomain, correct it.
+    - name: Varbi Umea University
+      url: https://feeds.varbi.com/sitemap/umu/
+      org: "Umea University"
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+    - name: Varbi University of Gothenburg
+      url: https://feeds.varbi.com/sitemap/gu/
+      org: University of Gothenburg
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+    - name: Varbi Stockholm University
+      url: https://feeds.varbi.com/sitemap/su/
+      org: Stockholm University
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+    - name: Varbi Linkoping University
+      url: https://feeds.varbi.com/sitemap/liu/
+      org: "Linkoping University"
+      country: Sweden
+      flavour: varbi
+      assume_funding: salaried
+      enabled: true
+
+# ---------------------------------------------------------------------------
 # Fetch the actual posting page for listings that arrived as a two-line snippet.
 # Only postings not seen on a previous run are fetched, so the steady state is
 # a handful of requests, not one per listing per run.
+#
+# Raised from 120 to 200 when the sitemap sources arrived: a plain sitemap
+# carries no description at all, so its listings cannot be judged without this
+# step. The first run after adding a sitemap source is slow. Later runs are not.
 # ---------------------------------------------------------------------------
 full_descriptions:
   enabled: true
-  max_per_run: 120
+  max_per_run: 200
 
 # ---------------------------------------------------------------------------
 # Calendar feed, published at docs/data/deadlines.ics. Subscribe to it once by
@@ -508,6 +632,50 @@ max_age_days: 90
 #   DevNetJobsIndia -- India, robots.txt permissive
 #   Aga Khan University (Taleo, aku.taleo.net) -- Pakistan, Kenya, Uganda,
 #   Tanzania, Afghanistan
+#
+# --- third sweep, September 2026, doctoral routes ---
+# feeds.varbi.com/sitemap/<slug>/    ADDED. Rich XML sitemap, one fetch per
+#                                    university, carries the closing date.
+#                                    robots.txt names eight SEO crawlers, has no
+#                                    wildcard block, no crawl delay. Confirmed
+#                                    live for uu, ki and lu.
+# academictransfer.com               ADDED. sitemap.xml is an index; the child
+#                                    sitemap-vacancies.xml carries ~500 vacancy
+#                                    URLs with the title in the slug. robots.txt
+#                                    allows the wildcard agent at Crawl-delay 10
+#                                    and disallows only /account/ and /apply/.
+#                                    No RSS: /en/rss/ returns 404.
+# jobs.soton.ac.uk, jobs.leeds.ac.uk ADDED. Same platform as LSHTM, same
+#                                    /RSS/rss.aspx path, both returning items.
+# jobs.ac.uk                         STILL OUT. The /feeds index pages render
+#                                    the feed names but not their hrefs to a
+#                                    remote reader, so the URLs are no more
+#                                    knowable than they were in August. Open
+#                                    jobs.ac.uk/feeds/subject-areas in a browser,
+#                                    copy one RSS href, and the whole set
+#                                    follows the same shape.
+# EURAXESS                           STILL OUT. euraxess.ec.europa.eu/api/
+#                                    exists but publishes XML guidelines for
+#                                    employers POSTING vacancies, not an
+#                                    endpoint for reading them. No RSS on the
+#                                    search page.
+# jobbnorge.no                       No RSS. /search/en?rss=1 returns the HTML
+#                                    search page. Norway's salaried PhD posts
+#                                    are a real gap in this board; the way in
+#                                    would be a per-employer adapter, since each
+#                                    Norwegian university has its own Jobbnorge
+#                                    landing page.
+# jobs.lstmed.ac.uk                  DNS does not resolve. Liverpool School of
+#                                    Tropical Medicine hosts its vacancies
+#                                    somewhere else; worth finding, it is a good
+#                                    fit for this profile.
+# findaphd.com                       STILL OUT, and this is the single biggest
+#                                    gap on the doctoral page. It is where UK
+#                                    and Irish studentships are actually
+#                                    advertised. No feed, terms unconfirmed,
+#                                    assume prohibited. Set a saved search and
+#                                    an email alert there by hand and treat it
+#                                    as a second, manual source.
 #
 # KNOWN COVERAGE GAP: Latin America. Nothing verified reaches it. The African
 # country feeds are Africa-only by construction and Asian coverage is three
