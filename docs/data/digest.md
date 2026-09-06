@@ -28,7 +28,7 @@
   Lunds universitet · Sweden · closes 2026-09-08 · Sitemap:Varbi Lund University
 
 ---
-361 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+362 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
