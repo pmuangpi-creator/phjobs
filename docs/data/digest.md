@@ -22,26 +22,13 @@
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
 
-### 5 new, scoring 30 or above
-
-- **[Crop Genomics Research Technician](https://jobrxiv.org/job/crop-genomics-research-technician/)** (66) `LMIC/focus`  
-  Jobfront Academia · St. Lucia · RSS:jobRxiv research assistant
-- **[Associate Principal Scientist (Associate Director), Outcomes Research, Pediatric Vaccines](https://jobrxiv.org/job/associate-principal-scientist-associate-director-outcomes-research-pediatric-vaccines/)** (39)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Principal Scientist (Director), Outcomes Research, Pediatric Vaccines](https://jobrxiv.org/job/principal-scientist-director-outcomes-research-pediatric-vaccines/)** (39)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[QC Scientist, Analytical Trainer](https://jobrxiv.org/job/qc-scientist-analytical-trainer/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist, QC Compliance, Cell Therapy](https://jobrxiv.org/job/scientist-qc-compliance-cell-therapy/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-
 ### Closing within 3 days
 
 - **[Postdoctoral researcher in Clinical microbiology](https://lu.varbi.com/se/what:job/jobID:958380/type:job/where:4/apply:1)** (53) `focus`  
   Lunds universitet · Sweden · closes 2026-09-08 · Sitemap:Varbi Lund University
 
 ---
-361 open positions on the board, 3 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+361 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 

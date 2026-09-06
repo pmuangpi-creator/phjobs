@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T11:45:50+00:00",
-  "duration_seconds": 542.6,
+  "generated_at": "2026-09-06T16:17:39+00:00",
+  "duration_seconds": 539.8,
   "sources_ok": 43,
   "sources_total": 56,
   "wrote_data": true,
@@ -9,7 +9,7 @@
     "fetched": 456,
     "unique_ids": 392,
     "carried_over": 0,
-    "delisted_by_source": 12,
+    "delisted_by_source": 0,
     "expired_dropped": 0,
     "aged_out_no_deadline": 18,
     "duplicates_collapsed": 13,
@@ -30,7 +30,7 @@
       },
       "pinned": 14
     },
-    "digest_items": 15
+    "digest_items": 10
   },
   "sources": {
     "bamboohr:idinsight": "ok: 22 postings",
