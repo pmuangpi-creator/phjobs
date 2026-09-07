@@ -1,9 +1,18 @@
 ### Your doctoral pipeline, next 21 days
 
-- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 9 days)  
+- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 8 days)  
   CV and transcripts by email to Dr Fekede Kumsa (f.kumsa@unsw.edu.au). Ask in the same message whether a tuition fee scholarship exists for international applicants alongside the AUD 40,000 stipend.
-- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 9 days)  
+- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 8 days)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
+
+### 3 new fully funded doctoral routes
+
+- **[PhD student in Medical Radiation Physics oriented towards Radiobiology](https://su.varbi.com/se/what:job/jobID:963077/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
+- **[PhD Student in Physics: Background and Calibration Studies for Neutron-Oscillation Searches](https://su.varbi.com/se/what:job/jobID:963115/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
+- **[PhD student in Medical Radiation Physics: AI-Driven Precision Radiotherapy for Spinal Metastases](https://su.varbi.com/se/what:job/jobID:963124/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -21,14 +30,33 @@
   Uppsala universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
+- **[PhD student in Medical Radiation Physics oriented towards Radiobiology](https://su.varbi.com/se/what:job/jobID:963077/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
+- **[PhD Student in Physics: Background and Calibration Studies for Neutron-Oscillation Searches](https://su.varbi.com/se/what:job/jobID:963115/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
+- **[PhD student in Medical Radiation Physics: AI-Driven Precision Radiotherapy for Spinal Metastases](https://su.varbi.com/se/what:job/jobID:963124/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
+
+### 4 new, scoring 30 or above
+
+- **[ETHIOPIA – ROVING FINANCE & HR MANAGER (M/F) – ADDIS ABABA](https://ngojobsinafrica.com/job/ethiopia-roving-finance-hr-manager-m-f-addis-ababa/)** (82) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[PhD student in Medical Radiation Physics oriented towards Radiobiology](https://su.varbi.com/se/what:job/jobID:963077/type:job/where:4/apply:1)** (38) `focus`  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
+- **[PhD Student in Physics: Background and Calibration Studies for Neutron-Oscillation Searches](https://su.varbi.com/se/what:job/jobID:963115/type:job/where:4/apply:1)** (38) `focus`  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
+- **[PhD student in Medical Radiation Physics: AI-Driven Precision Radiotherapy for Spinal Metastases](https://su.varbi.com/se/what:job/jobID:963124/type:job/where:4/apply:1)** (38) `focus`  
+  Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
 
 ### Closing within 3 days
 
 - **[Postdoctoral researcher in Clinical microbiology](https://lu.varbi.com/se/what:job/jobID:958380/type:job/where:4/apply:1)** (53) `focus`  
   Lunds universitet · Sweden · closes 2026-09-08 · Sitemap:Varbi Lund University
+- **[Substitute as Research Assistant at the National Microprobe Laboratory](https://uu.varbi.com/se/what:job/jobID:960948/type:job/where:4/apply:1)** (44) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-10 · Sitemap:Varbi Uppsala University
 
 ---
-362 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+358 open positions on the board, 4 of the new ones LMIC-related. 20 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
