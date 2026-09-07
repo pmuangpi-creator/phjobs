@@ -7,8 +7,8 @@
 
 ### 1 new fully funded doctoral route
 
-- **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-09-23 · Salaried post
+- **[PhD student in Physical Geography focusing on Glacial Biogeochemistry](https://su.varbi.com/se/what:job/jobID:966321/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-10-06 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -35,10 +35,16 @@
 - **[PhD student in Medical Radiation Physics: AI-Driven Precision Radiotherapy for Spinal Metastases](https://su.varbi.com/se/what:job/jobID:963124/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
 
-### 1 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Postdoctoral Researcher in in environmental epidemiology](https://jobrxiv.org/?post_type=job_listing&p=150858)** (46)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Partnerships Manager (Professional Pathways Pillar)](https://ngojobsinafrica.com/job/partnerships-manager-professional-pathways-pillar/)** (80) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Global Portfolio Manager, Maternal Newborn Health & Nutrition (MNHN)](https://ngojobsinafrica.com/job/global-portfolio-manager-maternal-newborn-health-nutrition-mnhn/)** (70) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Monitoring, Evaluation, Accountability and Learning (MEAL)Coordinator](https://ngojobsinafrica.com/job/monitoring-evaluation-accountability-and-learning-mealcoordinator-2/)** (62) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa South Sudan
+- **[Protection Coordinator](https://ngojobsinafrica.com/job/protection-coordinator-55/)** (59) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
 
 ### Closing within 3 days
 
@@ -48,7 +54,7 @@
   Uppsala universitet · Sweden · closes 2026-09-10 · Sitemap:Varbi Uppsala University
 
 ---
-362 open positions on the board, 0 of the new ones LMIC-related. 21 fully funded doctoral routes on the PhD page.
+367 open positions on the board, 4 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
