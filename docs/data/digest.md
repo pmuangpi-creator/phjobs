@@ -1,8 +1,8 @@
 ### Your doctoral pipeline, next 21 days
 
-- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 7 days)  
+- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 6 days)  
   CV and transcripts by email to Dr Fekede Kumsa (f.kumsa@unsw.edu.au). Ask in the same message whether a tuition fee scholarship exists for international applicants alongside the AUD 40,000 stipend.
-- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 7 days)  
+- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 6 days)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
 
 ### Funded doctoral routes closing within 21 days
@@ -34,26 +34,24 @@
 
 ### 4 new, scoring 30 or above
 
-- **[(Associate) Director, Expansion & Partnerships, AI Access Initiative (EAII)](https://apply.workable.com/j/91DD310DAE)** (71) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[QC Scientist](https://jobrxiv.org/job/qc-scientist-14/)** (40) `LMIC`  
-  Jobfront Industry · China · RSS:jobRxiv scientist
-- **[Asylum Seeker Case Worker -  2025854](https://jobs.lever.co/wr/8ed87e59-4d93-4a9f-a640-c0397aa25b24)** (38) `focus`  
-  Wr · Israel · Lever:wr
-- **[Postdoctoral Research Associate in Development of Scintillator Materials](https://jobrxiv.org/job/postdoctoral-research-associate-in-development-of-scintillator-materials/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[GenAI Research Fellow (PHP-PHES-2026-11)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-PHES-2026-11)** (42) `focus`  
+  Academic · United Kingdom · RSS:LSHTM public health and policy
+- **[AI Scientist (Model Building & Training)](https://jobrxiv.org/job/ai-scientist-model-building-training/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Digital Biomarker Scientist Parkinson’s Disease / Huntington’s Disease – Freelancer (m/f/d)](https://jobrxiv.org/job/digital-biomarker-scientist-parkinsons-disease-huntingtons-disease-freelancer-m-f-d/)** (30) `focus`  
+  Jobfront Industry · Austria · RSS:jobRxiv scientist
+- **[mySugr Digital Biomarker Data Scientist (m/f/d)](https://jobrxiv.org/job/mysugr-digital-biomarker-data-scientist-m-f-d-3/)** (30) `focus`  
+  Jobfront Industry · Austria · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
-- **[Postdoctoral researcher in Clinical microbiology](https://lu.varbi.com/se/what:job/jobID:958380/type:job/where:4/apply:1)** (53) `focus`  
-  Lunds universitet · Sweden · closes 2026-09-08 · Sitemap:Varbi Lund University
 - **[Substitute as Research Assistant at the National Microprobe Laboratory](https://uu.varbi.com/se/what:job/jobID:960948/type:job/where:4/apply:1)** (44) `focus`  
   Uppsala universitet · Sweden · closes 2026-09-10 · Sitemap:Varbi Uppsala University
 - **[MSCA Doctoral Student in SecReSy4You with a Focus on Secure Control Systems under Uncertainty](https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/apply:1)** (54) `focus`  
   Uppsala universitet · Sweden · closes 2026-09-11 · Sitemap:Varbi Uppsala University
 
 ---
-374 open positions on the board, 4 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+375 open positions on the board, 4 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
