@@ -5,12 +5,10 @@
 - **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 6 days)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
 
-### 2 new fully funded doctoral routes
+### 1 new fully funded doctoral route
 
-- **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
-- **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
+- **[PhD Scholarship Forgetting Secrecy? at the Department of Communication, Faculty of Humanities, University of Copenhagen (UCPH)](https://jobrxiv.org/job/phd-scholarship-forgetting-secrecy-at-the-department-of-communication-faculty-of-humanities-university-of-copenhagen-ucph/)**  
+  Jobfront Academia · Denmark · Stipend and fees
 
 ### Funded doctoral routes closing within 21 days
 
@@ -39,22 +37,30 @@
 - **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 
-### 7 new, scoring 30 or above
+### 11 new, scoring 30 or above
 
-- **[Senior Data Management Assistant with Immunobiology, Nutrition & Toxicology under the Nutrition Research Division (Internal#125/2026).](https://career.icddrb.org/vacancy-preview/32283)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Study Physician with Immunobiology, Nutrition & Toxicology under the Nutrition Research Division (Internal#124/2026).](https://career.icddrb.org/vacancy-preview/32282)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)** (58) `focus`  
-  Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
-- **[Postdoctoral researcher in vascular cognitive impairment and dementia](https://jobrxiv.org/job/postdoctoral-researcher-in-vascular-cognitive-impairment-and-dementia/)** (54) `focus`  
+- **[Country Representative for Ethiopia, Based in Addis Ababa](https://ngojobsinafrica.com/job/country-representative-for-ethiopia-based-in-addis-ababa/)** (86) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia, Switzerland · RSS:NGO Jobs Africa Ethiopia
+- **[Senior Associate - Monitoring, Learning and Evaluation ( EAII Advisors )](https://apply.workable.com/j/ED3947FC10)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Associate Professor of Health Services Research in Prehospital Emergency Medical Services (EMS)](https://jobrxiv.org/job/associate-professor-of-health-services-research-in-prehospital-emergency-medical-services-ems/)** (64) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv faculty
+- **[Postdoc in Personality Disorders Research](https://jobrxiv.org/job/postdoc-in-personality-disorders-research/)** (49) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
+- **[PhD Scholarship Forgetting Secrecy? at the Department of Communication, Faculty of Humanities, University of Copenhagen (UCPH)](https://jobrxiv.org/job/phd-scholarship-forgetting-secrecy-at-the-department-of-communication-faculty-of-humanities-university-of-copenhagen-ucph/)** (47) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv PhD
+- **[Senior Lecturer in technical GIS](https://jobrxiv.org/job/senior-lecturer-in-technical-gis/)** (47) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Research assistant in health economics](https://jobrxiv.org/job/research-assistant-in-health-economics/)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[PhD student in Medical Imaging of Childbirth-Related Pelvic Floor Injuries](https://jobrxiv.org/job/phd-student-in-medical-imaging-of-childbirth-related-pelvic-floor-injuries/)** (37) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Associate Manager, Program Data Analytics](https://apply.workable.com/j/F7CE5D4B4F)** (34) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Seeking a Research Scientist or a Postdoctoral Researcher (26-1237)](https://jobrxiv.org/job/seeking-a-research-scientist-or-a-postdoctoral-researcher-26-1237/)** (32) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)** (43) `focus`  
-  Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
-- **[Postdoctoral Fellow in Ice core chemistry](https://su.varbi.com/se/what:job/jobID:966951/type:job/where:4/apply:1)** (38)  
-  Stockholms universitet · Sweden · closes 2026-10-07 · Sitemap:Varbi Stockholm University
-- **[Associate Scientist, Analytical Strategy & Lifecycle](https://jobrxiv.org/job/associate-scientist-analytical-strategy-lifecycle/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[PhD position in Neuroscience](https://jobrxiv.org/job/phd-position-in-neuroscience/)** (31)  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
 
 ### Closing within 3 days
 
@@ -64,7 +70,7 @@
   Uppsala universitet · Sweden · closes 2026-09-11 · Sitemap:Varbi Uppsala University
 
 ---
-381 open positions on the board, 6 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+388 open positions on the board, 10 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
