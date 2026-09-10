@@ -1,8 +1,8 @@
 ### Your doctoral pipeline, next 21 days
 
-- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 6 days)  
+- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 5 days)  
   CV and transcripts by email to Dr Fekede Kumsa (f.kumsa@unsw.edu.au). Ask in the same message whether a tuition fee scholarship exists for international applicants alongside the AUD 40,000 stipend.
-- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 6 days)  
+- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 5 days)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
 
 ### Funded doctoral routes closing within 21 days
@@ -32,16 +32,14 @@
 - **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 
-### 4 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Postdoctoral Research Fellow – Host-Pathogen Interactions & Host-Directed Therapeutics](https://jobrxiv.org/job/postdoctoral-research-fellow-host-pathogen-interactions-host-directed-therapeutics/)** (61) `focus`  
-  Jobfront Academia · Canada · RSS:jobRxiv postdoc
-- **[Lead Genetic Counselor – HS Assistant Clinical Professor](https://jobrxiv.org/job/lead-genetic-counselor-hs-assistant-clinical-professor/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
-- **[Area Coordinator](https://ngojobsinafrica.com/job/area-coordinator-37/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa South Sudan
-- **[Microbiology Instructor](https://jobrxiv.org/job/microbiology-instructor/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[NIGERIA – DEPUTY COUNTRY DIRECTOR PROGRAMS (M/F) – ABUJA](https://ngojobsinafrica.com/job/nigeria-deputy-country-director-programs-m-f-abuja/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Senior Scientist, Antibody Discovery](https://jobrxiv.org/job/senior-scientist-antibody-discovery-3/)** (40) `LMIC`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Scientist/Sr Scientist, Vaccine Discovery](https://jobrxiv.org/job/scientist-sr-scientist-vaccine-discovery/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -49,9 +47,11 @@
   Uppsala universitet · Sweden · closes 2026-09-10 · Sitemap:Varbi Uppsala University
 - **[MSCA Doctoral Student in SecReSy4You with a Focus on Secure Control Systems under Uncertainty](https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/apply:1)** (54) `focus`  
   Uppsala universitet · Sweden · closes 2026-09-11 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral Researcher in multi-omic bioinformatics in Multiple Sclerosis](https://ki.varbi.com/se/what:job/jobID:959379/type:job/where:4/apply:1)** (52) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-386 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+386 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
