@@ -18,7 +18,7 @@ from __future__ import annotations
 
 import logging
 
-from .common import get, job, parse_date, strip_html, truncate
+from .common import get, job, parse_date, post, strip_html, truncate
 
 log = logging.getLogger("phjobs.boards")
 

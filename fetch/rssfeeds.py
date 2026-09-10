@@ -72,10 +72,15 @@ def fetch(feeds: list[dict]) -> tuple[list[dict], dict[str, str]]:
         parsed = feedparser.parse(raw)
         entries = parsed.get("entries") or []
         if not entries:
-            note = "returned 0 entries"
+            # A well-formed feed with no items is a quiet employer, not a broken
+            # adapter. Reporting both as "error" makes the status file useless for
+            # telling the two apart, which is the only question it exists to answer.
             if parsed.get("bozo"):
-                note += f" (parse warning: {parsed.get('bozo_exception')})"
-            status[f"rss:{name}"] = f"error: {note}"
+                status[f"rss:{name}"] = (
+                    f"error: 0 entries and the feed did not parse "
+                    f"({parsed.get('bozo_exception')})")
+            else:
+                status[f"rss:{name}"] = "ok: 0 entries (feed valid, nothing posted)"
             continue
 
         feed_title = (parsed.get("feed") or {}).get("title") or name

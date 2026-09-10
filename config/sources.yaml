@@ -356,13 +356,24 @@ pages:
       default_category: research
       assume_health: true
       enabled: true
+    # ICMR -- OFF, 7 Sep 2026. The page is fine: a static HTML table with five
+    # live vacancies (Principal, Nursing College, plus Scientist posts). The
+    # problem is that its vacancy links are shaped
+    #   https://recruitment.icmr.org.in/<slug>/index.php/logout
+    # and every anchor reads "Click here to Apply" or "Login to Preview". A
+    # link_pattern would match all five and pagefetch takes the title from the
+    # anchor text, so the board would fill with five rows called "Click here to
+    # Apply". That is worse than nothing.
+    # TO FIX: ICMR needs a table-aware adapter that reads the job title from the
+    # row cell and the href from the link in that same row, rather than the
+    # generic anchor walk. Worth doing; the Scientist posts are relevant.
     - name: ICMR
       org: Indian Council of Medical Research
       url: https://recruitment.icmr.org.in/
       country: India
       default_category: research
       assume_health: true
-      enabled: true
+      enabled: false
     - name: DevNetJobsIndia
       org: ""
       url: https://www.devnetjobsindia.org/

@@ -204,6 +204,15 @@ def harvest(sites: list[dict]) -> tuple[list[dict], dict[str, str]]:
             continue
 
         results.extend(got)
-        status[key] = f"ok: {len(got)} entries" if got else "error: returned 0 usable entries"
+        if got:
+            status[key] = f"ok: {len(got)} entries"
+        else:
+            # Distinguish "the sitemap is empty" from "the sitemap had URLs and we
+            # could not read any of them". The first is normal; only the second is a bug.
+            urls_present = sum(1 for child in root if _tag(child) == "url")
+            status[key] = (
+                f"error: {urls_present} urls in the sitemap, none usable "
+                "(parser or filter is wrong)"
+                if urls_present else "ok: 0 entries (sitemap valid, nothing posted)")
 
     return results, status
