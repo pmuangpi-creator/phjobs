@@ -15,14 +15,14 @@
   Stockholms universitet · Sweden · closes 2026-09-15 · Salaried post
 - **[Post-doctoral fellow in geoinformatics (GIS)](https://lu.varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-16 · Salaried post
-- **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-09-18 · Salaried post
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
+- **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-09-28 · Salaried post
 - **[PhD student in Medical Radiation Physics oriented towards Radiobiology](https://su.varbi.com/se/what:job/jobID:963077/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-09-28 · Salaried post
 - **[PhD Student in Physics: Background and Calibration Studies for Neutron-Oscillation Searches](https://su.varbi.com/se/what:job/jobID:963115/type:job/where:4/apply:1)**  
@@ -32,14 +32,26 @@
 - **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 
-### 3 new, scoring 30 or above
+### 9 new, scoring 30 or above
 
-- **[NIGERIA – DEPUTY COUNTRY DIRECTOR PROGRAMS (M/F) – ABUJA](https://ngojobsinafrica.com/job/nigeria-deputy-country-director-programs-m-f-abuja/)** (73) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Senior Scientist, Antibody Discovery](https://jobrxiv.org/job/senior-scientist-antibody-discovery-3/)** (40) `LMIC`  
-  Jobfront Industry · China · RSS:jobRxiv scientist
-- **[Scientist/Sr Scientist, Vaccine Discovery](https://jobrxiv.org/job/scientist-sr-scientist-vaccine-discovery/)** (30) `focus`  
+- **[Intern, Learning Management Team (EAII Advisors)](https://apply.workable.com/j/D3B959FB07)** (57) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Software Development Intern, Operations Management Platform (EAII Advisors)](https://apply.workable.com/j/552958223E)** (57) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[PhD Scholarship Opportunity -Developing the Next Generation of Evidence-Based Rheumatology Researchers](https://jobrxiv.org/job/phd-scholarship-opportunity-developing-the-next-generation-of-evidence-based-rheumatology-researchers/)** (54)  
+  Jobfront Academia · Australia, New Zealand · RSS:jobRxiv PhD
+- **[Senior Assistant Manager, Content & Web Management Specialist](https://jobrxiv.org/job/senior-assistant-manager-content-web-management-specialist/)** (50) `focus`  
+  Jobfront Academia · Singapore · RSS:jobRxiv research assistant
+- **[Postdoctoral Researcher in in environmental epidemiology](https://jobrxiv.org/?post_type=job_listing&p=150858)** (46)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Senior Scientist, Combination Product Characterization (Onsite)](https://jobrxiv.org/job/senior-scientist-combination-product-characterization-onsite/)** (34) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Research Assistant (Coral Reef Science)](https://jobrxiv.org/job/research-assistant-coral-reef-science/)** (32)  
+  Jobfront Academia · Singapore · RSS:jobRxiv research assistant
+- **[Bilingual Spanish STEM Expert (PhD) — AI Safety](https://jobrxiv.org/job/bilingual-spanish-stem-expert-phd-ai-safety/)** (32) `focus`  
+  Jobfront AIexperts · location not stated · RSS:jobRxiv scientist
+- **[Research Scientist (Analytics)](https://jobrxiv.org/job/research-scientist-analytics/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -51,7 +63,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-386 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+391 open positions on the board, 6 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
