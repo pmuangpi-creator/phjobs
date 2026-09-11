@@ -34,22 +34,22 @@
 
 ### 8 new, scoring 30 or above
 
-- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
-- **[Procurement Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Monrovia-Liberia/Procurement-Officer_Requisition-2026201253)** (59) `LMIC/focus`  
-  FHI 360 · Liberia · Workday:FHI 360
-- **[Administrative Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Monrovia-Liberia/Administrative-Assistant_Requisition-2026201248)** (59) `LMIC/focus`  
-  FHI 360 · Liberia · Workday:FHI 360
-- **[Finance & Admin Associate](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Katsina/Finance---Admin-Associate_R5165-1)** (57) `LMIC/focus`  
-  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
-- **[Postdoctoral Fellow in sexual selection and epidemiology](https://su.varbi.com/se/what:job/jobID:967077/type:job/where:4/apply:1)** (47) `focus`  
-  Stockholms universitet · Sweden · closes 2026-10-12 · Sitemap:Varbi Stockholm University
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-141/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://jobrxiv.org/job/postdoctoral-researcher-in-clinical-epidemiology-and-treatment-research/)** (31)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Scientist, Validation & Investigations](https://jobrxiv.org/job/scientist-validation-investigations/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[HIV Technical Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/HIV-Technical-Advisor_Requisition-2026201262)** (67) `LMIC/focus`  
+  FHI 360 · Ghana · Workday:FHI 360
+- **[Officer, People and Culture ( EAII Advisors)](https://apply.workable.com/j/048F5BCBFD)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Clinical Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Clinical-Specialist_Requisition-2026201264)** (57) `LMIC/focus`  
+  FHI 360 · Ghana · Workday:FHI 360
+- **[M&E Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/M-E-Specialist_Requisition-2026201263)** (57) `LMIC/focus`  
+  FHI 360 · Ghana · Workday:FHI 360
+- **[Senior Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Senior-Finance-Officer_Requisition-2026201265)** (49) `LMIC/focus`  
+  FHI 360 · Ghana · Workday:FHI 360
+- **[Professor or tenure track Assistant / Associate professor in Animal science](https://jobrxiv.org/job/professor-or-tenure-track-assistant-associate-professor-in-animal-science/)** (44) `focus`  
+  Jobfront Academia · Finland · RSS:jobRxiv faculty
+- **[Directeur(rice) Adjoint, Finance](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Directeur-rice--Adjoint--Finance_Requisition-2026201202)** (41) `LMIC`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Scientist QC Microbiology, parttime 60-80%](https://jobrxiv.org/job/scientist-qc-microbiology-parttime-60-80/)** (35) `focus`  
+  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -59,7 +59,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-514 open positions on the board, 7 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+516 open positions on the board, 8 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
