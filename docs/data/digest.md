@@ -32,24 +32,18 @@
 - **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 
-### 8 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[HIV Technical Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/HIV-Technical-Advisor_Requisition-2026201262)** (67) `LMIC/focus`  
-  FHI 360 · Ghana · Workday:FHI 360
-- **[Officer, People and Culture ( EAII Advisors)](https://apply.workable.com/j/048F5BCBFD)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[Clinical Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Clinical-Specialist_Requisition-2026201264)** (57) `LMIC/focus`  
-  FHI 360 · Ghana · Workday:FHI 360
-- **[M&E Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/M-E-Specialist_Requisition-2026201263)** (57) `LMIC/focus`  
-  FHI 360 · Ghana · Workday:FHI 360
-- **[Senior Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Senior-Finance-Officer_Requisition-2026201265)** (49) `LMIC/focus`  
-  FHI 360 · Ghana · Workday:FHI 360
-- **[Professor or tenure track Assistant / Associate professor in Animal science](https://jobrxiv.org/job/professor-or-tenure-track-assistant-associate-professor-in-animal-science/)** (44) `focus`  
-  Jobfront Academia · Finland · RSS:jobRxiv faculty
-- **[Directeur(rice) Adjoint, Finance](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Directeur-rice--Adjoint--Finance_Requisition-2026201202)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Scientist QC Microbiology, parttime 60-80%](https://jobrxiv.org/job/scientist-qc-microbiology-parttime-60-80/)** (35) `focus`  
-  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
+- **[Monitoring, Evaluation and Learning (MEL) Experts](https://ngojobsinafrica.com/job/monitoring-evaluation-and-learning-mel-experts/)** (76) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia, Kenya, Uganda · RSS:NGO Jobs Africa Kenya
+- **[Head of Programs](https://ngojobsinafrica.com/job/head-of-programs-32/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Uganda, Israel · RSS:NGO Jobs Africa Uganda
+- **[National Medicaid Program Specialist - 2025859](https://jobs.lever.co/wr/255aa91e-6c0a-44aa-98ed-0de66cc2b943)** (71) `LMIC/focus`  
+  Wr · Moldova · Lever:wr
+- **[PC Program Officer, Groups and Gaps Services Specialty - 2025866](https://jobs.lever.co/wr/3f7cd332-d040-4c88-af17-e45c5790f937)** (71) `LMIC/focus`  
+  Wr · Moldova · Lever:wr
+- **[Media Consultant for Schools 2030 Incubation Inclusive Innovations](https://ngojobsinafrica.com/job/media-consultant-for-schools-2030-incubation-inclusive-innovations/)** (69) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
 
 ### Closing within 3 days
 
@@ -59,7 +53,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-516 open positions on the board, 8 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+517 open positions on the board, 5 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
