@@ -32,19 +32,6 @@
 - **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 
-### 5 new, scoring 30 or above
-
-- **[Monitoring, Evaluation and Learning (MEL) Experts](https://ngojobsinafrica.com/job/monitoring-evaluation-and-learning-mel-experts/)** (76) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia, Kenya, Uganda · RSS:NGO Jobs Africa Kenya
-- **[Head of Programs](https://ngojobsinafrica.com/job/head-of-programs-32/)** (73) `LMIC/focus`  
-  Ngojobsinafrica · Uganda, Israel · RSS:NGO Jobs Africa Uganda
-- **[National Medicaid Program Specialist - 2025859](https://jobs.lever.co/wr/255aa91e-6c0a-44aa-98ed-0de66cc2b943)** (71) `LMIC/focus`  
-  Wr · Moldova · Lever:wr
-- **[PC Program Officer, Groups and Gaps Services Specialty - 2025866](https://jobs.lever.co/wr/3f7cd332-d040-4c88-af17-e45c5790f937)** (71) `LMIC/focus`  
-  Wr · Moldova · Lever:wr
-- **[Media Consultant for Schools 2030 Incubation Inclusive Innovations](https://ngojobsinafrica.com/job/media-consultant-for-schools-2030-incubation-inclusive-innovations/)** (69) `LMIC/focus`  
-  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
-
 ### Closing within 3 days
 
 - **[MSCA Doctoral Student in SecReSy4You with a Focus on Secure Control Systems under Uncertainty](https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/apply:1)** (54) `focus`  
@@ -53,7 +40,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-517 open positions on the board, 5 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+517 open positions on the board, 0 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
