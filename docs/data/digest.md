@@ -32,6 +32,15 @@
 - **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 
+### 3 new, scoring 30 or above
+
+- **[Administrative Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Administrative-Officer_Requisition-2026201266)** (57) `LMIC/focus`  
+  FHI 360 · Ghana · Workday:FHI 360
+- **[Postdoctoral Research Associate – Gastroenterology (Hepatology)](https://jobrxiv.org/job/postdoctoral-research-associate-gastroenterology-hepatology/)** (34) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Research Assistant: Scanning Together Project](https://jobrxiv.org/job/research-assistant-scanning-together-project/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+
 ### Closing within 3 days
 
 - **[MSCA Doctoral Student in SecReSy4You with a Focus on Secure Control Systems under Uncertainty](https://uu.varbi.com/se/what:job/jobID:951537/type:job/where:4/apply:1)** (54) `focus`  
@@ -40,7 +49,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-517 open positions on the board, 0 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+514 open positions on the board, 3 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
