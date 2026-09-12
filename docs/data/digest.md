@@ -32,18 +32,16 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 5 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Research assistant to the Department of Global Public Health](https://jobrxiv.org/job/research-assistant-to-the-department-of-global-public-health/)** (58) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Postdoctoral Researcher in Leukemic Stem Cell Biology](https://jobrxiv.org/job/postdoctoral-researcher-in-leukemic-stem-cell-biology/)** (38) `focus`  
+- **[Postdoctoral position in functional ancient microbial ecogenomics within the Ancient Environmental Genomics Initiative for Sustainability (AEGIS)](https://jobrxiv.org/job/postdoctoral-position-in-functional-ancient-microbial-ecogenomics-within-the-ancient-environmental-genomics-initiative-for-sustainability-aegis/)** (53) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Associate – Department of Applied Health Sciences – 107926 – Grade 6](https://jobrxiv.org/?post_type=job_listing&p=150676)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://jobrxiv.org/?post_type=job_listing&p=151705)** (31)  
+- **[PhD position in Organometallic Chemistry](https://jobrxiv.org/job/phd-position-in-organometallic-chemistry-2/)** (37) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv PhD
+- **[Postdoc in Ancient Human and Pathogen Genomics](https://jobrxiv.org/job/postdoc-in-ancient-human-and-pathogen-genomics/)** (37) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Inflammation Research – In Vivo Pharmacology Scientist](https://jobrxiv.org/job/inflammation-research-in-vivo-pharmacology-scientist/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Postdoc in Transition-Metal Catalysis & Organometallic Chemistry](https://jobrxiv.org/job/postdoc-in-transition-metal-catalysis-organometallic-chemistry/)** (35) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
