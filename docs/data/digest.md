@@ -34,15 +34,15 @@
 
 ### 5 new, scoring 30 or above
 
-- **[Assistant QC Scientist](https://jobrxiv.org/job/assistant-qc-scientist/)** (40) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Principal Research Scientist I Data](https://jobrxiv.org/job/principal-research-scientist-i-data/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Scientist or Scientific Advisor, Oncology(Hematology)](https://jobrxiv.org/job/senior-scientist-or-scientific-advisor-oncologyhematology/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Scientist, Data I](https://jobrxiv.org/job/senior-scientist-data-i-3/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist, Viral Vector Process Development (Downstream)](https://jobrxiv.org/job/scientist-viral-vector-process-development-downstream/)** (30) `focus`  
+- **[Research assistant to the Department of Global Public Health](https://jobrxiv.org/job/research-assistant-to-the-department-of-global-public-health/)** (58) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Postdoctoral Researcher in Leukemic Stem Cell Biology](https://jobrxiv.org/job/postdoctoral-researcher-in-leukemic-stem-cell-biology/)** (38) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Associate – Department of Applied Health Sciences – 107926 – Grade 6](https://jobrxiv.org/?post_type=job_listing&p=150676)** (38) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://jobrxiv.org/?post_type=job_listing&p=151705)** (31)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Inflammation Research – In Vivo Pharmacology Scientist](https://jobrxiv.org/job/inflammation-research-in-vivo-pharmacology-scientist/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -51,7 +51,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-511 open positions on the board, 5 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+507 open positions on the board, 4 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
