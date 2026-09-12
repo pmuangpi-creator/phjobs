@@ -32,24 +32,13 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 4 new, scoring 30 or above
-
-- **[Postdoctoral position in functional ancient microbial ecogenomics within the Ancient Environmental Genomics Initiative for Sustainability (AEGIS)](https://jobrxiv.org/job/postdoctoral-position-in-functional-ancient-microbial-ecogenomics-within-the-ancient-environmental-genomics-initiative-for-sustainability-aegis/)** (53) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[PhD position in Organometallic Chemistry](https://jobrxiv.org/job/phd-position-in-organometallic-chemistry-2/)** (37) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv PhD
-- **[Postdoc in Ancient Human and Pathogen Genomics](https://jobrxiv.org/job/postdoc-in-ancient-human-and-pathogen-genomics/)** (37) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Postdoc in Transition-Metal Catalysis & Organometallic Chemistry](https://jobrxiv.org/job/postdoc-in-transition-metal-catalysis-organometallic-chemistry/)** (35) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-
 ### Closing within 3 days
 
 - **[Postdoctoral Researcher in multi-omic bioinformatics in Multiple Sclerosis](https://ki.varbi.com/se/what:job/jobID:959379/type:job/where:4/apply:1)** (52) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-507 open positions on the board, 4 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+504 open positions on the board, 0 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
