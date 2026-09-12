@@ -32,13 +32,22 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
+### 3 new, scoring 30 or above
+
+- **[Postdoctoral Research Associate in Inorganic Chemistry](https://jobrxiv.org/job/postdoctoral-research-associate-in-inorganic-chemistry-3/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Research Fellow (Statistical Methodologist)](https://jobrxiv.org/job/research-fellow-statistical-methodologist/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Clinical Associate Professor and Honorary Clinical Consultant in Paediatric Dentistry](https://jobrxiv.org/job/clinical-associate-professor-and-honorary-clinical-consultant-in-paediatric-dentistry/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+
 ### Closing within 3 days
 
 - **[Postdoctoral Researcher in multi-omic bioinformatics in Multiple Sclerosis](https://ki.varbi.com/se/what:job/jobID:959379/type:job/where:4/apply:1)** (52) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-504 open positions on the board, 0 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+507 open positions on the board, 3 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
