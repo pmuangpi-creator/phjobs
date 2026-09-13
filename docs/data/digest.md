@@ -32,19 +32,23 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 6 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Monitoring, Evaluation, Learning, and Accountability (MEAL) Officer](https://ngojobsinafrica.com/job/monitoring-evaluation-learning-and-accountability-meal-officer/)** (78) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Livestock Expert](https://ngojobsinafrica.com/job/livestock-expert-2/)** (68) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[MMS Market Shaping Strategy Consultant](https://ngojobsinafrica.com/job/mms-market-shaping-strategy-consultant/)** (63) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Tutor / Training & Inclusion Officer](https://ngojobsinafrica.com/job/tutor-training-inclusion-officer/)** (59) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Senior Global Development Scientist, Director](https://jobrxiv.org/job/senior-global-development-scientist-director-2/)** (46) `focus`  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
-- **[Process Chemistry Principal Scientist](https://jobrxiv.org/job/process-chemistry-principal-scientist-3/)** (35) `focus`  
+- **[Research Fellow, Cognitive Ageing & Dementia](https://jobrxiv.org/job/research-fellow-cognitive-ageing-dementia/)** (57) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Scientist, Downstream Vaccines and Advanced Biotechnologies (VAX) Process R&D](https://jobrxiv.org/job/scientist-downstream-vaccines-and-advanced-biotechnologies-vax-process-rd/)** (40) `focus`  
+  Jobfront Industry · United States, Canada · RSS:jobRxiv scientist
+- **[Principal Scientist, Translational Medicine, Neuroscience](https://jobrxiv.org/job/principal-scientist-translational-medicine-neuroscience/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Teaching Focused Lecturer/Senior Lecturer in Data Science and Artificial Intelligence](https://jobrxiv.org/job/teaching-focused-lecturer-senior-lecturer-in-data-science-and-artificial-intelligence/)** (38) `focus`  
+  Jobfront Academia · Australia · RSS:jobRxiv faculty
+- **[Laboratory Animal Technician I – Comparative Medicine](https://jobrxiv.org/job/laboratory-animal-technician-i-comparative-medicine-15/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Research Assistant – Neurosurgery](https://jobrxiv.org/job/research-assistant-neurosurgery/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Staff Scientist (Clinical Hematopathology) – Pathology & Immunology](https://jobrxiv.org/job/staff-scientist-clinical-hematopathology-pathology-immunology/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Senior Scientist](https://jobrxiv.org/job/senior-scientist-74/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -53,7 +57,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-508 open positions on the board, 6 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+516 open positions on the board, 8 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
