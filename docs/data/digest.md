@@ -32,20 +32,13 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 2 new, scoring 30 or above
-
-- **[Application Users – Stata SE on Windows – STEM](https://jobrxiv.org/job/application-users-stata-se-on-windows-stem/)** (47) `focus`  
-  Jobfront AIexperts · location not stated · RSS:jobRxiv scientist
-- **[PhD position for 3 years in stem cell-based disease modelling of schizophrenia](https://jobrxiv.org/job/phd-position-for-3-years-in-stem-cell-based-disease-modelling-of-schizophrenia/)** (37) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv PhD
-
 ### Closing within 3 days
 
 - **[Postdoctoral Researcher in multi-omic bioinformatics in Multiple Sclerosis](https://ki.varbi.com/se/what:job/jobID:959379/type:job/where:4/apply:1)** (52) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-513 open positions on the board, 2 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+511 open positions on the board, 0 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
