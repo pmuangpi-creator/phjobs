@@ -32,18 +32,28 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 5 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Regional Advisor for Humanitarian Access & Risk for Africa (F/M) – Nigeria or Ethiopia](https://ngojobsinafrica.com/job/regional-advisor-for-humanitarian-access-risk-for-africa-f-m-nigeria-or-ethiopia/)** (93) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria, Ethiopia · RSS:NGO Jobs Africa Nigeria
-- **[Project Manager for Global Health Security (GHS)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Vientiane-Laos/Project-Manager-for-Global-Health-Security--GHS-_Requisition-2026201240)** (61) `LMIC/focus`  
-  FHI 360 · Lao PDR · Workday:FHI 360
-- **[Technical Officer, Laboratory Sciences](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Vientiane-Laos/Technical-Officer--Laboratory-Sciences_Requisition-2026201245)** (57) `LMIC/focus`  
-  FHI 360 · Lao PDR · Workday:FHI 360
-- **[Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Vientiane-Laos/Finance-Officer_Requisition-2026201243)** (49) `LMIC/focus`  
-  FHI 360 · Lao PDR · Workday:FHI 360
-- **[Surveillance Support Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Surveillance-Support-Officer_Requisition-2026200240)** (45) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
+- **[Consultant- Development of a National Introduction Plan for Medogen SubQ (DMPA-SC) in Uganda](https://path.wd1.myworkdayjobs.com/External/job/Uganda-Kampala-Country-Program-Office/Consultant--Development-of-a-National-Introduction-Plan-for-Medogen-SubQ--DMPA-SC--in-Uganda_JR2797)** (59) `LMIC/focus`  
+  PATH · Uganda · Workday:PATH
+- **[Finance and Admin. Assistant](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Kano/Finance-and-Admin-Assistant_R5157)** (57) `LMIC/focus`  
+  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
+- **[Senior Lecturer in medical anthropology](https://ki.varbi.com/se/what:job/jobID:962943/type:job/where:4/apply:1)** (56) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-12 · Sitemap:Varbi Karolinska Institutet
+- **[1-2 Senior Lecturer in Family Medicine combined with position as specialist physician in primary care in Stockholms Läns Sjukvårdsområde (SLSO)](https://ki.varbi.com/se/what:job/jobID:951623/type:job/where:4/apply:1)** (45) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
+- **[DC14 CarrrerasPathfinders MSCA COFUND_a 3-year PhD in blood cancers](https://jobrxiv.org/job/the-josep-carreras-leukaemia-research-institute-ijc-27778-dc14-carrreraspathfinders-msca-cofund_a-3-year-phd-in-blood-cancers/)** (41) `focus`  
+  Meline Margaryan · location not stated · RSS:jobRxiv PhD
+- **[Principal Scientist, Biostatistics](https://jobrxiv.org/job/principal-scientist-biostatistics-8/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Principal Scientist, Applied AI, Immune Pathway Discovery](https://jobrxiv.org/job/principal-scientist-applied-ai-immune-pathway-discovery/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[PharmD Fellow, Safety Analysis Scientist](https://jobrxiv.org/job/pharmd-fellow-safety-analysis-scientist-3/)** (36) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv postdoc
+- **[Associate Scientist, Small Molecule Chemical Engineering](https://jobrxiv.org/job/associate-scientist-small-molecule-chemical-engineering/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Scientist I](https://jobrxiv.org/job/scientist-i-33/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -53,7 +63,7 @@
   Lunds universitet · Sweden · closes 2026-09-17 · Sitemap:Varbi Lund University
 
 ---
-504 open positions on the board, 5 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+510 open positions on the board, 10 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
