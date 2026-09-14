@@ -32,28 +32,24 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 10 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Consultant- Development of a National Introduction Plan for Medogen SubQ (DMPA-SC) in Uganda](https://path.wd1.myworkdayjobs.com/External/job/Uganda-Kampala-Country-Program-Office/Consultant--Development-of-a-National-Introduction-Plan-for-Medogen-SubQ--DMPA-SC--in-Uganda_JR2797)** (59) `LMIC/focus`  
-  PATH · Uganda · Workday:PATH
-- **[Finance and Admin. Assistant](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Kano/Finance-and-Admin-Assistant_R5157)** (57) `LMIC/focus`  
-  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
-- **[Senior Lecturer in medical anthropology](https://ki.varbi.com/se/what:job/jobID:962943/type:job/where:4/apply:1)** (56) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-12 · Sitemap:Varbi Karolinska Institutet
-- **[1-2 Senior Lecturer in Family Medicine combined with position as specialist physician in primary care in Stockholms Läns Sjukvårdsområde (SLSO)](https://ki.varbi.com/se/what:job/jobID:951623/type:job/where:4/apply:1)** (45) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
-- **[DC14 CarrrerasPathfinders MSCA COFUND_a 3-year PhD in blood cancers](https://jobrxiv.org/job/the-josep-carreras-leukaemia-research-institute-ijc-27778-dc14-carrreraspathfinders-msca-cofund_a-3-year-phd-in-blood-cancers/)** (41) `focus`  
-  Meline Margaryan · location not stated · RSS:jobRxiv PhD
-- **[Principal Scientist, Biostatistics](https://jobrxiv.org/job/principal-scientist-biostatistics-8/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Principal Scientist, Applied AI, Immune Pathway Discovery](https://jobrxiv.org/job/principal-scientist-applied-ai-immune-pathway-discovery/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[PharmD Fellow, Safety Analysis Scientist](https://jobrxiv.org/job/pharmd-fellow-safety-analysis-scientist-3/)** (36) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv postdoc
-- **[Associate Scientist, Small Molecule Chemical Engineering](https://jobrxiv.org/job/associate-scientist-small-molecule-chemical-engineering/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist I](https://jobrxiv.org/job/scientist-i-33/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Monitoring, Evaluation and Learning (MEL) Experts](https://ngojobsinafrica.com/job/monitoring-evaluation-and-learning-mel-experts/)** (76) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia, Kenya, Uganda · RSS:NGO Jobs Africa Uganda
+- **[PROJECT OFFICER – EARLY CHILDHOOD CARE AND EDUCATION (ECCE)](https://ngojobsinafrica.com/job/project-officer-early-childhood-care-and-education-ecce/)** (71) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Senior Community Technical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dakar-Senegal/Senior-Community-Technical-Officer_Requisition-2026201216-1)** (57) `LMIC/focus`  
+  FHI 360 · Senegal · Workday:FHI 360
+- **[Accountant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Yaounde-Cameroon/Accountant_Requisition-2026201219)** (47) `LMIC/focus`  
+  FHI 360 · Cameroon · Workday:FHI 360
+- **[SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF 3,000-LITRE BULK MILK COOLING TANKS, STANDBY GENERATORS, AUTOMATED CUP AND BOTTLE FILLING MACHINES,](https://ngojobsinafrica.com/job/supply-installation-testing-and-commissioning-of-3000-litre-bulk-milk-cooling-tanks-standby-generators-automated-cup-and-bottle-filling-machines/)** (40) `focus`  
+  Ngojobsinafrica · Netherlands · RSS:NGO Jobs Africa Tanzania
+- **[Senior Portfolio Manager, Inclusive Health](https://ngojobsinafrica.com/job/senior-portfolio-manager-inclusive-health/)** (38) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[REQUEST FOR PROPOSALS TENDER NO: KCO/05/09/FY27 – PROVISION OF INTERIOR DESIGN, EXECUTIVE OFFICE FIT-OUT AND EXTERNAL LANDSCAPING](https://ngojobsinafrica.com/job/request-for-proposals-tender-no-kco-05-09-fy27-provision-of-interior-design-executive-office-fit-out-and-external-landscaping/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Corporate Sponsorship Acquisition Specialist](https://ngojobsinafrica.com/job/corporate-sponsorship-acquisition-specialist/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
 
 ### Closing within 3 days
 
@@ -63,7 +59,7 @@
   Lunds universitet · Sweden · closes 2026-09-17 · Sitemap:Varbi Lund University
 
 ---
-510 open positions on the board, 10 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+509 open positions on the board, 8 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
