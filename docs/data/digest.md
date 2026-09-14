@@ -5,6 +5,11 @@
 - **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 1 day)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
 
+### 1 new fully funded doctoral route
+
+- **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Assessing Marine Sediments as Georeactors for Modifying Bottom-Ocean Chemistry: Natural Analogues and Human Interventions](https://su.varbi.com/se/what:job/jobID:957757/type:job/where:4/apply:1)**  
@@ -32,24 +37,12 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 8 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Monitoring, Evaluation and Learning (MEL) Experts](https://ngojobsinafrica.com/job/monitoring-evaluation-and-learning-mel-experts/)** (76) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia, Kenya, Uganda · RSS:NGO Jobs Africa Uganda
-- **[PROJECT OFFICER – EARLY CHILDHOOD CARE AND EDUCATION (ECCE)](https://ngojobsinafrica.com/job/project-officer-early-childhood-care-and-education-ecce/)** (71) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Senior Community Technical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dakar-Senegal/Senior-Community-Technical-Officer_Requisition-2026201216-1)** (57) `LMIC/focus`  
-  FHI 360 · Senegal · Workday:FHI 360
-- **[Accountant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Yaounde-Cameroon/Accountant_Requisition-2026201219)** (47) `LMIC/focus`  
-  FHI 360 · Cameroon · Workday:FHI 360
-- **[SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF 3,000-LITRE BULK MILK COOLING TANKS, STANDBY GENERATORS, AUTOMATED CUP AND BOTTLE FILLING MACHINES,](https://ngojobsinafrica.com/job/supply-installation-testing-and-commissioning-of-3000-litre-bulk-milk-cooling-tanks-standby-generators-automated-cup-and-bottle-filling-machines/)** (40) `focus`  
-  Ngojobsinafrica · Netherlands · RSS:NGO Jobs Africa Tanzania
-- **[Senior Portfolio Manager, Inclusive Health](https://ngojobsinafrica.com/job/senior-portfolio-manager-inclusive-health/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[REQUEST FOR PROPOSALS TENDER NO: KCO/05/09/FY27 – PROVISION OF INTERIOR DESIGN, EXECUTIVE OFFICE FIT-OUT AND EXTERNAL LANDSCAPING](https://ngojobsinafrica.com/job/request-for-proposals-tender-no-kco-05-09-fy27-provision-of-interior-design-executive-office-fit-out-and-external-landscaping/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Corporate Sponsorship Acquisition Specialist](https://ngojobsinafrica.com/job/corporate-sponsorship-acquisition-specialist/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)** (43) `focus`  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
+- **[Postdoctoral Research Associate in Development of Scintillator Materials](https://jobrxiv.org/job/postdoctoral-research-associate-in-development-of-scintillator-materials/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -59,7 +52,7 @@
   Lunds universitet · Sweden · closes 2026-09-17 · Sitemap:Varbi Lund University
 
 ---
-509 open positions on the board, 8 of the new ones LMIC-related. 22 fully funded doctoral routes on the PhD page.
+508 open positions on the board, 2 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
