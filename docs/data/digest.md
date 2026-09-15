@@ -7,8 +7,6 @@
 
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in Assessing Marine Sediments as Georeactors for Modifying Bottom-Ocean Chemistry: Natural Analogues and Human Interventions](https://su.varbi.com/se/what:job/jobID:957757/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-09-15 · Salaried post
 - **[Post-doctoral fellow in geoinformatics (GIS)](https://lu.varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-16 · Salaried post
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
@@ -31,17 +29,13 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 - **[Researcher in Photocatalysis](https://lu.varbi.com/se/what:job/jobID:967814/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
+- **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 4 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[LCSHWD Officer](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Niger-State/LCSHWD-Officer_R5171)** (59) `LMIC/focus`  
-  Management Sciences for Health · Nigeria, Niger · Workday:Management Sciences for Health
-- **[M & E Officer](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Niger-State/M---E-Officer_R5168-1)** (59) `LMIC/focus`  
-  Management Sciences for Health · Nigeria, Niger · Workday:Management Sciences for Health
-- **[LCSHWD Officer](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Katsina/LCSHWD-Officer_R5170)** (57) `LMIC/focus`  
-  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
-- **[M & E Officer](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Katsina/M---E-Officer_R5169)** (57) `LMIC/focus`  
-  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
+- **[Assistant Professor, tenure-track](https://jobrxiv.org/job/assistant-professor-tenure-track-7/)** (57) `focus`  
+  Jobfront Academia · Canada · RSS:jobRxiv faculty
 
 ### Closing within 3 days
 
@@ -55,7 +49,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-18 · Sitemap:Varbi Karolinska Institutet
 
 ---
-517 open positions on the board, 4 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+514 open positions on the board, 1 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
