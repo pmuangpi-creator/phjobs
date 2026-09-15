@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-15T12:45:59+00:00",
-  "duration_seconds": 563.7,
+  "generated_at": "2026-09-15T17:47:00+00:00",
+  "duration_seconds": 543.0,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 612,
-    "unique_ids": 560,
+    "fetched": 611,
+    "unique_ids": 559,
     "carried_over": 0,
-    "delisted_by_source": 19,
+    "delisted_by_source": 7,
     "expired_dropped": 0,
     "aged_out_no_deadline": 17,
     "duplicates_collapsed": 25,
-    "published": 518,
-    "gate_rejected": 706,
-    "lmic_duty_station": 145,
-    "lmic_focus": 294,
-    "with_location": 332,
+    "published": 517,
+    "gate_rejected": 712,
+    "lmic_duty_station": 148,
+    "lmic_focus": 295,
+    "with_location": 333,
     "doctoral": {
-      "routes": 48,
+      "routes": 47,
       "fully_funded": 24,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 21,
         "stipend": 3,
-        "unstated": 24
+        "unstated": 23
       },
       "pinned": 14
     },
-    "digest_items": 38
+    "digest_items": 27
   },
   "sources": {
     "bamboohr:idinsight": "ok: 24 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 85 failed, 1233 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 78 failed, 1245 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -82,12 +82,12 @@
     "sitemap:Varbi Stockholm University": "ok: 62 entries",
     "sitemap:Varbi Umea University": "ok: 44 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
-    "sitemap:Varbi Uppsala University": "ok: 76 entries",
+    "sitemap:Varbi Uppsala University": "ok: 78 entries",
     "workable:evidence-action": "ok: 43 postings",
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
-    "workday:Management Sciences for Health": "ok: 21 postings",
-    "workday:PATH": "ok: 62 postings",
+    "workday:Management Sciences for Health": "ok: 25 postings",
+    "workday:PATH": "ok: 61 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
