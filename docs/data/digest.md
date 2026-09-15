@@ -1,14 +1,9 @@
 ### Your doctoral pipeline, next 21 days
 
-- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (in 1 day)  
+- **PhD scholarship, maternal RSV vaccination and child respiratory health** — UNSW Sydney, closes 2026-09-15 (today)  
   CV and transcripts by email to Dr Fekede Kumsa (f.kumsa@unsw.edu.au). Ask in the same message whether a tuition fee scholarship exists for international applicants alongside the AUD 40,000 stipend.
-- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (in 1 day)  
+- **Individual Sandwich PhD, ITM-DGD 2027 call** — Institute of Tropical Medicine Antwerp, closes 2026-09-15 (today)  
   Decide whether to spend the days before the deadline on this at all. The scheme is built for ITM alumni embedded in a home institute, and the DGD priority list names Cambodia and Vietnam, not Myanmar.
-
-### 1 new fully funded doctoral route
-
-- **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -37,12 +32,16 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 2 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)** (43) `focus`  
-  Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
-- **[Postdoctoral Research Associate in Development of Scintillator Materials](https://jobrxiv.org/job/postdoctoral-research-associate-in-development-of-scintillator-materials/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv research assistant
+- **[Director, Programs Delivery (DPD) / Deputy Country Director (DCD)](https://livinggoods.applytojob.com/apply/C07qk1B0C3/Director-Programs-Delivery-DPD-Deputy-Country-Director-DCD)** (82) `LMIC/focus`  
+  Living Goods · Burkina Faso, Kenya, Uganda · Page:Living Goods
+- **[Research Assistant in Newborn Health Financing (EPH-EPIH-2026-11)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPIH-2026-11)** (81) `LMIC/focus`  
+  Academic · United Kingdom, Malawi, Kenya · RSS:LSHTM epidemiology and population health
+- **[Senior Laboratory Officer, STRIDES Thailand](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bangkok-Thailand/Senior-Laboratory-Officer--STRIDES-Thailand_Requisition-2026201237-1)** (46) `LMIC`  
+  FHI 360 · Thailand · Workday:FHI 360
+- **[Senior Scientist, Data I](https://jobrxiv.org/?post_type=job_listing&p=151800)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -50,9 +49,13 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-17 · Sitemap:Varbi Karolinska Institutet
 - **[Project Assistant to the unit Neurodegenerativ](https://lu.varbi.com/se/what:job/jobID:964119/type:job/where:4/apply:1)** (33) `focus`  
   Lunds universitet · Sweden · closes 2026-09-17 · Sitemap:Varbi Lund University
+- **[Researcher in History in project on families and inheritance (GLOW)](https://lu.varbi.com/se/what:job/jobID:951890/type:job/where:4/apply:1)** (51) `focus`  
+  Lunds universitet · Sweden · closes 2026-09-18 · Sitemap:Varbi Lund University
+- **[Research Specialist in Aging Research and Research Infrastructure](https://ki.varbi.com/se/what:job/jobID:963837/type:job/where:4/apply:1)** (38) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-09-18 · Sitemap:Varbi Karolinska Institutet
 
 ---
-508 open positions on the board, 2 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+511 open positions on the board, 4 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
