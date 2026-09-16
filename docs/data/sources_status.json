@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-16T15:51:22+00:00",
-  "duration_seconds": 576.3,
+  "generated_at": "2026-09-16T17:44:40+00:00",
+  "duration_seconds": 553.0,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 610,
-    "unique_ids": 566,
+    "fetched": 603,
+    "unique_ids": 559,
     "carried_over": 0,
-    "delisted_by_source": 6,
+    "delisted_by_source": 10,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
-    "duplicates_collapsed": 28,
-    "published": 522,
-    "gate_rejected": 709,
+    "duplicates_collapsed": 26,
+    "published": 517,
+    "gate_rejected": 716,
     "lmic_duty_station": 149,
-    "lmic_focus": 296,
-    "with_location": 340,
+    "lmic_focus": 291,
+    "with_location": 341,
     "doctoral": {
-      "routes": 47,
-      "fully_funded": 25,
+      "routes": 45,
+      "fully_funded": 24,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 22,
-        "stipend": 3,
-        "unstated": 22
+        "stipend": 2,
+        "unstated": 21
       },
       "pinned": 14
     },
-    "digest_items": 27
+    "digest_items": 24
   },
   "sources": {
     "bamboohr:idinsight": "ok: 24 postings",
-    "full-descriptions": "ok: 3 descriptions fetched, 74 failed, 1242 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 74 failed, 1245 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",

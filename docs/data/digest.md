@@ -25,22 +25,16 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 7 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Global Safeguarding Lead](https://ngojobsinafrica.com/job/global-safeguarding-lead/)** (65) `LMIC/focus`  
-  Ngojobsinafrica · Morocco · RSS:NGO Jobs Africa Kenya
-- **[Field Attendant with Immunobiology, Nutrition & Toxicology under the Nutrition Research Division (Internal#128/2026).](https://career.icddrb.org/vacancy-preview/32286)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Field Assistant with Immunobiology, Nutrition & Toxicology under the Nutrition Research Division (Internal#127/2026).](https://career.icddrb.org/vacancy-preview/32285)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Senior Field Assistant with Immunobiology, Nutrition & Toxicology under the Nutrition Research Division (Internal#126/2026).](https://career.icddrb.org/vacancy-preview/32284)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Undergraduate studies in Machine learning for early prediction of primary sclerosing cholangitis (scholarship)](https://ki.varbi.com/en/what:job/jobID:965150/type:job/where:4/apply:1)** (49) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
-- **[Research assistant in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:969472/type:job/where:4/apply:1)** (40)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
-- **[166428 Clinical Professor of Rheumatology with special focus on the Influence of Obesity on Osteoarthritis (Fixed-Term, 5 Years)](https://jobrxiv.org/job/166428-clinical-professor-of-rheumatology-with-special-focus-on-the-influence-of-obesity-on-osteoarthritis-fixed-term-5-years/)** (35) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv faculty
+- **[Project Coordinator](https://ngojobsinafrica.com/job/project-coordinator-341/)** (60) `focus`  
+  Ngojobsinafrica · Germany · RSS:NGO Jobs Africa Kenya
+- **[Interdisciplinary post doc studying impacts of extreme heat](https://jobrxiv.org/job/interdisciplinary-post-doc-studying-impacts-of-extreme-heat/)** (50) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
+- **[Senior Portfolio Manager, Inclusive Health](https://ngojobsinafrica.com/job/senior-portfolio-manager-inclusive-health/)** (38) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Seeking a Postdoctoral Researcher (26-1316)](https://jobrxiv.org/job/seeking-a-postdoctoral-researcher-26-1316/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -54,7 +48,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-18 · Sitemap:Varbi Karolinska Institutet
 
 ---
-522 open positions on the board, 6 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+517 open positions on the board, 4 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
