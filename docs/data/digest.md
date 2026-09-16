@@ -1,7 +1,5 @@
 ### Funded doctoral routes closing within 21 days
 
-- **[Post-doctoral fellow in geoinformatics (GIS)](https://lu.varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-09-16 · Salaried post
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
@@ -24,17 +22,21 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
+- **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 4 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Project Coordinator](https://ngojobsinafrica.com/job/project-coordinator-341/)** (60) `focus`  
-  Ngojobsinafrica · Germany · RSS:NGO Jobs Africa Kenya
-- **[Interdisciplinary post doc studying impacts of extreme heat](https://jobrxiv.org/job/interdisciplinary-post-doc-studying-impacts-of-extreme-heat/)** (50) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Senior Portfolio Manager, Inclusive Health](https://ngojobsinafrica.com/job/senior-portfolio-manager-inclusive-health/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Seeking a Postdoctoral Researcher (26-1316)](https://jobrxiv.org/job/seeking-a-postdoctoral-researcher-26-1316/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Analytical Development Synthetic Molecules Characterization Scientist](https://jobrxiv.org/job/analytical-development-synthetic-molecules-characterization-scientist/)** (43) `focus`  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[QC Scientist](https://jobrxiv.org/job/qc-scientist-15/)** (40) `LMIC`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Principal Scientist, Biostatistics](https://jobrxiv.org/job/principal-scientist-biostatistics-10/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Laboratory Technician](https://jobrxiv.org/job/laboratory-technician-24/)** (34) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Instructional Support Technician (Electronics)](https://jobrxiv.org/job/instructional-support-technician-electronics/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -48,7 +50,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-18 · Sitemap:Varbi Karolinska Institutet
 
 ---
-517 open positions on the board, 4 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+514 open positions on the board, 5 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
