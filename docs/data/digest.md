@@ -1,3 +1,10 @@
+### 2 new fully funded doctoral routes
+
+- **[PhD student in linguistics, focus on child language development](https://su.varbi.com/se/what:job/jobID:967606/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
+- **[PhD student in linguistics, focus on sign language](https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[Post-doctoral fellow in geoinformatics (GIS)](https://lu.varbi.com/se/what:job/jobID:961801/type:job/where:4/apply:1)**  
@@ -25,23 +32,33 @@
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 8 new, scoring 30 or above
+### 13 new, scoring 30 or above
 
-- **[Multi-Sectoral Needs Assessment (MSNA) In Selected LGAs Of Borno State](https://ngojobsinafrica.com/job/multi-sectoral-needs-assessment-msna-in-selected-lgas-of-borno-state/)** (126) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Logistics Coordinator – Nigeria](https://ngojobsinafrica.com/job/logistics-coordinator-nigeria-4/)** (69) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Finance and Operations Director, Thailand](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bangkok-Thailand/Finance-and-Operations-Director--Thailand_Requisition-2026201277)** (46) `LMIC`  
-  FHI 360 · Thailand · Workday:FHI 360
-- **[Principal Scientist R&D & cGMP Preparative Chromatography](https://jobrxiv.org/job/principal-scientist-rd-cgmp-preparative-chromatography/)** (35) `focus`  
+- **[Consultant, Senior Public Health Specialist](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Consultant--Senior-Public-Health-Specialist_JR2584)** (61) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Senior Field Officer in support to the Immunization service Continuity in the Context of the Ebola outbreak– Isiro, Haut Uele](https://path.wd1.myworkdayjobs.com/External/job/DRC-Kinshasa-Country-Program-Office/Senior-Field-Officer-in-support-to-the-Immunization-service-Continuity-in-the-Context-of-the-Ebola-outbreak--Isiro--Haut-Uele_JR2799)** (59) `LMIC/focus`  
+  PATH · Congo, Dem. Rep. · Workday:PATH
+- **[Regional Supply Chain Advisor - 10 positions (multiple locations)](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Regional-Supply-Chain-Advisor---10-positions--multiple-locations-_R5164)** (57) `LMIC/focus`  
+  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
+- **[Postdoctoral studies in cardiometabolic vascular disease (scholarship)](https://ki.varbi.com/en/what:job/jobID:970218/type:job/where:4/apply:1)** (47) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-14 · Sitemap:Varbi Karolinska Institutet
+- **[Associate Stability Scientist](https://jobrxiv.org/job/associate-stability-scientist-3/)** (40) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Analytical Scientist – Analytical Sciences and Technology – Lilly Medicine Foundry](https://jobrxiv.org/job/senior-analytical-scientist-analytical-sciences-and-technology-lilly-medicine-foundry-2/)** (30) `focus`  
+- **[Program Administrative Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Program-Administrative-Assistant_Requisition-2026201272)** (39) `LMIC`  
+  FHI 360 · Indonesia · Workday:FHI 360
+- **[Lead Machine Learning Scientist](https://jobrxiv.org/job/lead-machine-learning-scientist/)** (39) `focus`  
+  Jobfront Industry · Denmark · RSS:jobRxiv scientist
+- **[PhD student in linguistics, focus on child language development](https://su.varbi.com/se/what:job/jobID:967606/type:job/where:4/apply:1)** (38) `focus`  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
+- **[PhD student in linguistics, focus on sign language](https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:1)** (38) `focus`  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
+- **[Principal Scientist, R&D – Orthopedics & Spine, Growth Factors](https://jobrxiv.org/job/principal-scientist-rd-orthopedics-spine-growth-factors/)** (38) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[High Throughput Protein Production Scientist](https://jobrxiv.org/job/high-throughput-protein-production-scientist/)** (30)  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
-- **[Senior Data Scientist](https://jobrxiv.org/job/senior-data-scientist-74/)** (30) `focus`  
+- **[Forskningssköterska med kompetens inom beteendeförändring till PEPP-studien (timanställning)](https://ki.varbi.com/se/what:job/jobID:969395/type:job/where:4/apply:1)** (33) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
+- **[Scientist Stability](https://jobrxiv.org/job/scientist-stability-2/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Analytical Development Principal Scientist, Microbiology & Viral Safety](https://jobrxiv.org/job/analytical-development-principal-scientist-microbiology-viral-safety/)** (30) `focus`  
+- **[Principal Scientist Stability](https://jobrxiv.org/job/principal-scientist-stability/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -56,7 +73,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-18 · Sitemap:Varbi Karolinska Institutet
 
 ---
-509 open positions on the board, 7 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+519 open positions on the board, 13 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
