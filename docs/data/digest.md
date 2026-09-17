@@ -1,7 +1,7 @@
 ### 1 new fully funded doctoral route
 
-- **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
+- **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -30,42 +30,22 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 17 new, scoring 30 or above
+### 7 new, scoring 30 or above
 
-- **[Senior Associate, Programmes](https://apply.workable.com/j/4A8717637F)** (85) `LMIC/focus`  
-  Evidence Action · Kenya · Workable:evidence-action
-- **[Project Coordinator Scaling Sayana Press](https://lastmilehealth.applytojob.com/apply/N9cr8h5JvY/Project-Coordinator-Scaling-Sayana-Press)** (76) `LMIC/focus`  
+- **[Project Coordinator Scaling Near Vision Glasses](https://lastmilehealth.applytojob.com/apply/ek4w1MPzL3/Project-Coordinator-Scaling-Near-Vision-Glasses)** (76) `LMIC/focus`  
   Last Mile Health · Liberia · Page:Last Mile Health
-- **[Senior Research Investigator (Internal#129/2026).](https://career.icddrb.org/vacancy-preview/32287)** (74) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Research Officer (Internal#130/2026).](https://career.icddrb.org/vacancy-preview/32288)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Regional Malaria Director, Malaria Control and Elimination Partnership in Africa (MACEPA)](https://path.wd1.myworkdayjobs.com/External/job/Mozambique-Maputo-Project-Office/Regional-Malaria-Director--Malaria-Control-and-Elimination-Partnership-in-Africa--MACEPA-_JR2803)** (59) `LMIC/focus`  
-  PATH · Mozambique · Workday:PATH
-- **[PhD position in environmental epidemiology](https://jobrxiv.org/job/phd-position-in-environmental-epidemiology/)** (53)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Scientist 1 (Chemistry / Biochemistry)](https://jobrxiv.org/job/scientist-1-chemistry-biochemistry/)** (42) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Postdoctoral studies in cardiometabolic vascular disease (scholarship)](https://jobrxiv.org/job/postdoctoral-studies-in-cardiometabolic-vascular-disease-scholarship/)** (39) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Uppsala University
-- **[Postdoc position in probabilistic methods for foundation and world models](https://uu.varbi.com/se/what:job/jobID:970449/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Uppsala University
-- **[Scientist, Manufacturing Science and Technology (MS&T)](https://jobrxiv.org/job/scientist-manufacturing-science-and-technology-mst/)** (35) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Communications Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Communications-Advisor_R5173)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Technical Advisor, Supply Chain Management](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Advisor--Supply-Chain-Management_R5174)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Research assistant in environmental epidemiology](https://jobrxiv.org/job/research-assistant-in-environmental-epidemiology/)** (34)  
+- **[Senior Scientist Ⅱ, DSP(  Preparative Purification )](https://jobrxiv.org/job/senior-scientist-%e2%85%b1-dsp-preparative-purification/)** (58) `LMIC/focus`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Research Fellow (ITD-DIB-2026-11)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-11)** (42) `focus`  
+  Academic · United Kingdom · RSS:LSHTM infectious and tropical diseases
+- **[Electronics – Tenure Track Assistant Professor](https://jobrxiv.org/job/electronics-tenure-track-assistant-professor/)** (41) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Research Assistant within anaerobic digestion and biomass valorization](https://jobrxiv.org/job/research-assistant-within-anaerobic-digestion-and-biomass-valorization/)** (38) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Senior Scientist RSCR](https://jobrxiv.org/job/senior-scientist-rscr/)** (30) `focus`  
+- **[Process Scientist I](https://jobrxiv.org/job/process-scientist-i/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist RSCR](https://jobrxiv.org/job/scientist-rscr-2/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Principal Scientist (Director), Clinical Research, Immunology](https://jobrxiv.org/job/principal-scientist-director-clinical-research-immunology/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Chemistry Expert](https://jobrxiv.org/job/chemistry-expert-3/)** (30) `focus`  
+  Jobfront AIexperts · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -81,7 +61,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-523 open positions on the board, 15 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+519 open positions on the board, 7 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
