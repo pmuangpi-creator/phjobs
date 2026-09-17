@@ -25,22 +25,20 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 7 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[HIV Program Associate](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dushanbe-Tajikistan/HIV-Program-Associate_Requisition-2026201282)** (67) `LMIC/focus`  
-  FHI 360 · Tajikistan · Workday:FHI 360
-- **[Labeling and Packaging Scientist – Advanced Therapies Manufacturing](https://jobrxiv.org/job/labeling-and-packaging-scientist-advanced-therapies-manufacturing/)** (63) `LMIC/focus`  
-  Jobfront Industry · Lebanon · RSS:jobRxiv scientist
-- **[Diagnostics and Laboratory Specialist for GHS](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bishkek-Kyrgyzstan/Diagnostics-and-Laboratory-Specialist-for-GHS_Requisition-2026201284)** (57) `LMIC/focus`  
-  FHI 360 · Kyrgyz Republic · Workday:FHI 360
-- **[Digital Health Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dushanbe-Tajikistan/Digital-Health-Specialist_Requisition-2026201283)** (57) `LMIC/focus`  
-  FHI 360 · Tajikistan · Workday:FHI 360
-- **[Office Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dushanbe-Tajikistan/Office-Assistant_Requisition-2026201285)** (57) `LMIC/focus`  
-  FHI 360 · Tajikistan · Workday:FHI 360
-- **[Principal Scientist, Biostatistics](https://jobrxiv.org/job/principal-scientist-biostatistics-8/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Associate Data Scientist](https://jobrxiv.org/job/associate-data-scientist-13/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Outbreak Response Coordination Lead, STRIDES](https://path.wd1.myworkdayjobs.com/External/job/DRC-Kinshasa-Country-Program-Office/Senior-Outbreak-Response-Coordination-Lead--STRIDES_JR2801)** (59) `LMIC/focus`  
+  PATH · Congo, Dem. Rep. · Workday:PATH
+- **[Postdoctoral Research Fellow – Data Science](https://jobrxiv.org/job/postdoctoral-research-fellow-data-science/)** (46) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Senior Statistical Data Analyst – Cardiology](https://jobrxiv.org/job/senior-statistical-data-analyst-cardiology/)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Laboratory Animal Technician I – Comparative Medicine](https://jobrxiv.org/job/laboratory-animal-technician-i-comparative-medicine-16/)** (35) `focus`  
+  Jobfront Academia · United States · RSS:jobRxiv research assistant
+- **[Staff Scientist – Otolaryngology](https://jobrxiv.org/job/staff-scientist-otolaryngology-2/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Senior Scientist – Cardiology](https://jobrxiv.org/job/senior-scientist-cardiology/)** (35) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -56,7 +54,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-513 open positions on the board, 7 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+517 open positions on the board, 6 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 

@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-17T06:08:32+00:00",
-  "duration_seconds": 537.9,
+  "generated_at": "2026-09-17T07:19:49+00:00",
+  "duration_seconds": 537.8,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 605,
-    "unique_ids": 560,
+    "fetched": 606,
+    "unique_ids": 562,
     "carried_over": 0,
-    "delisted_by_source": 8,
+    "delisted_by_source": 5,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
-    "duplicates_collapsed": 31,
-    "published": 513,
-    "gate_rejected": 706,
-    "lmic_duty_station": 153,
-    "lmic_focus": 292,
-    "with_location": 340,
+    "duplicates_collapsed": 29,
+    "published": 517,
+    "gate_rejected": 707,
+    "lmic_duty_station": 154,
+    "lmic_focus": 296,
+    "with_location": 343,
     "doctoral": {
       "routes": 44,
       "fully_funded": 23,
@@ -30,11 +30,11 @@
       },
       "pinned": 14
     },
-    "digest_items": 27
+    "digest_items": 26
   },
   "sources": {
     "bamboohr:idinsight": "ok: 24 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 78 failed, 1233 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 75 failed, 1238 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -64,7 +64,7 @@
     "rss:NGO Jobs Africa Tanzania": "ok: 10 entries",
     "rss:NGO Jobs Africa Uganda": "ok: 10 entries",
     "rss:NGO Jobs Africa Zambia": "ok: 6 entries",
-    "rss:University of Leeds": "ok: 37 entries",
+    "rss:University of Leeds": "ok: 38 entries",
     "rss:University of Southampton": "ok: 25 entries",
     "rss:jobRxiv PhD": "ok: 100 entries",
     "rss:jobRxiv faculty": "ok: 100 entries",
@@ -87,7 +87,7 @@
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 25 postings",
-    "workday:PATH": "ok: 60 postings",
+    "workday:PATH": "ok: 61 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
