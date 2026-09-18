@@ -1,8 +1,3 @@
-### 1 new fully funded doctoral route
-
-- **[PhD student in electrical engineering with focus on power system adequacy](https://uu.varbi.com/se/what:job/jobID:967690/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-11-02 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
@@ -32,8 +27,8 @@
 
 ### 1 new, scoring 30 or above
 
-- **[PhD student in electrical engineering with focus on power system adequacy](https://uu.varbi.com/se/what:job/jobID:967690/type:job/where:4/apply:1)** (46) `focus`  
-  Uppsala universitet · Sweden · closes 2026-11-02 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral Position in Animal Welfare Risks of Feeding Red Seaweed to Dairy Cows](https://jobrxiv.org/job/postdoctoral-position-in-animal-welfare-risks-of-feeding-red-seaweed-to-dairy-cows/)** (45) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -45,7 +40,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-531 open positions on the board, 1 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+526 open positions on the board, 1 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
