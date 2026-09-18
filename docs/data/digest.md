@@ -1,3 +1,8 @@
+### 1 new fully funded doctoral route
+
+- **[PhD student in electrical engineering with focus on power system adequacy](https://uu.varbi.com/se/what:job/jobID:967690/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-11-02 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
@@ -25,18 +30,10 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 5 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Senior Scientist](https://jobrxiv.org/job/senior-scientist-76/)** (38) `focus`  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
-- **[Head of Partnerships](https://ngojobsinafrica.com/job/head-of-partnerships-2/)** (37) `focus`  
-  Ngojobsinafrica · Netherlands · RSS:NGO Jobs Africa Kenya
-- **[CONSULTANCY TO CONDUCT TRAINING NEEDS ASSESSMENT AND CAPACITY BUILDING ON GBV, TFGBV AND FGM](https://ngojobsinafrica.com/job/consultancy-to-conduct-training-needs-assessment-and-capacity-building-on-gbv-tfgbv-and-fgm/)** (33) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Postdoc position in probabilistic methods for foundation and world models](https://jobrxiv.org/job/postdoc-position-in-probabilistic-methods-for-foundation-and-world-models/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Scientist](https://jobrxiv.org/job/scientist-86/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[PhD student in electrical engineering with focus on power system adequacy](https://uu.varbi.com/se/what:job/jobID:967690/type:job/where:4/apply:1)** (46) `focus`  
+  Uppsala universitet · Sweden · closes 2026-11-02 · Sitemap:Varbi Uppsala University
 
 ### Closing within 3 days
 
@@ -48,7 +45,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-530 open positions on the board, 5 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+531 open positions on the board, 1 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
