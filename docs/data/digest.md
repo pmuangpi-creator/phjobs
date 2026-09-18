@@ -25,26 +25,18 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 9 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Child Welfare Assistant](https://ngojobsinafrica.com/job/child-welfare-assistant/)** (90) `LMIC/focus`  
-  Ngojobsinafrica · Kenya, United Kingdom · RSS:NGO Jobs Africa Kenya
-- **[Value Chain Manager](https://ngojobsinafrica.com/job/value-chain-manager/)** (75) `LMIC/focus`  
-  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
-- **[Senior Officer, Finance ( EAII Advisors )](https://apply.workable.com/j/8CA5235D73)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[REQUEST FOR PROPOSALS (RFP): MIDLINE EVALUATION OF THE USDA-FUNDED TIWOLOKA PROGRAM IN MALAWI](https://ngojobsinafrica.com/job/request-for-proposals-rfp-midline-evaluation-of-the-usda-funded-tiwoloka-program-in-malawi/)** (64) `LMIC/focus`  
-  Ngojobsinafrica · Malawi · RSS:NGO Jobs Africa Malawi
-- **[Feasibility Study – Lishe, Elimu na Afya (LEA) Project, Turkana County, Kenya](https://ngojobsinafrica.com/job/feasibility-study-lishe-elimu-na-afya-lea-project-turkana-county-kenya/)** (61) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Provincial Outbreak Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Quelimane-Mozambique/Provincial-Outbreak-Officer_Requisition-2026200392)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Research Analyst](https://ngojobsinafrica.com/job/research-analyst-9/)** (43) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
-- **[Scientist 2](https://jobrxiv.org/job/scientist-2-4/)** (42) `focus`  
-  Jobfront Industry · Singapore · RSS:jobRxiv scientist
-- **[Program Assistant- Ukraine Country Program](https://path.wd1.myworkdayjobs.com/External/job/Ukraine-Kyiv-Country-Program-Office/Program-Assistant--Ukraine-Country-Program_JR2804)** (34) `LMIC`  
-  PATH · Ukraine · Workday:PATH
+- **[Senior Scientist](https://jobrxiv.org/job/senior-scientist-76/)** (38) `focus`  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[Head of Partnerships](https://ngojobsinafrica.com/job/head-of-partnerships-2/)** (37) `focus`  
+  Ngojobsinafrica · Netherlands · RSS:NGO Jobs Africa Kenya
+- **[CONSULTANCY TO CONDUCT TRAINING NEEDS ASSESSMENT AND CAPACITY BUILDING ON GBV, TFGBV AND FGM](https://ngojobsinafrica.com/job/consultancy-to-conduct-training-needs-assessment-and-capacity-building-on-gbv-tfgbv-and-fgm/)** (33) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Postdoc position in probabilistic methods for foundation and world models](https://jobrxiv.org/job/postdoc-position-in-probabilistic-methods-for-foundation-and-world-models/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Scientist](https://jobrxiv.org/job/scientist-86/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -56,7 +48,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-525 open positions on the board, 9 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+530 open positions on the board, 5 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
