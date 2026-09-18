@@ -25,10 +25,22 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 1 new, scoring 30 or above
+### 7 new, scoring 30 or above
 
-- **[Postdoctoral Position in Animal Welfare Risks of Feeding Red Seaweed to Dairy Cows](https://jobrxiv.org/job/postdoctoral-position-in-animal-welfare-risks-of-feeding-red-seaweed-to-dairy-cows/)** (45) `focus`  
+- **[Associate Director, Clinical Data Scientist – Statistics](https://jobrxiv.org/job/associate-director-clinical-data-scientist-statistics/)** (55) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Clinical Research Fellow](https://jobrxiv.org/job/clinical-research-fellow-27/)** (44) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-53/)** (43) `focus`  
+  Jobfront Academia · Canada · RSS:jobRxiv postdoc
+- **[Clinical Associate Professor (Honorary Consultant) in Obstetrics and Maternal Medicine](https://jobrxiv.org/job/clinical-associate-professor-honorary-consultant-in-obstetrics-and-maternal-medicine/)** (42) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv faculty
+- **[Research Fellow](https://jobrxiv.org/job/research-fellow-137/)** (39) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Postdoctoral Scholar and Project Manager](https://jobrxiv.org/job/postdoctoral-scholar-and-project-manager/)** (36)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Postdoctoral Fellow: Sleep Disorders Research](https://jobrxiv.org/job/university-of-maryland-baltimore-27778-postdoctoral-fellow-sleep-disorders-research/)** (35)  
+  sbridges · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -40,7 +52,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-526 open positions on the board, 1 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+526 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
