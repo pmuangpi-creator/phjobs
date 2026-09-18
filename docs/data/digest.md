@@ -27,12 +27,12 @@
 
 ### 3 new, scoring 30 or above
 
-- **[Lecturer in Epidemiology (or Epidemiology and Statistics)](https://jobrxiv.org/job/lecturer-in-epidemiology-or-epidemiology-and-statistics/)** (52) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv faculty
-- **[Finance Specialist](https://jobs.lever.co/wr/0912c31c-1cb9-458f-bb92-a2c9598d2326)** (48) `focus`  
-  Wr · TX · Lever:wr
-- **[Project Assistant to the unit neurodegenerativ](https://lu.varbi.com/se/what:job/jobID:965291/type:job/where:4/apply:1)** (33) `focus`  
-  Lunds universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Lund University
+- **[Regional Senior Research Officer for East and Southeast Africa, based in Kampala](https://ngojobsinafrica.com/job/regional-senior-research-officer-for-east-and-southeast-africa-based-in-kampala-2/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
+- **[Assistant Professor or Associate Professor (PHP-HSRP-2026-17)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-HSRP-2026-17)** (51) `focus`  
+  Academic · United Kingdom · RSS:LSHTM public health and policy
+- **[Analytical Science and Technology Senior Scientist](https://jobrxiv.org/job/analytical-science-and-technology-senior-scientist-4/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -44,7 +44,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-519 open positions on the board, 3 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+520 open positions on the board, 3 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
