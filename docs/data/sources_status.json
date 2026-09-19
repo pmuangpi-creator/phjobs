@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-19T05:50:25+00:00",
-  "duration_seconds": 558.4,
+  "generated_at": "2026-09-19T12:02:48+00:00",
+  "duration_seconds": 549.3,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 601,
-    "unique_ids": 559,
+    "fetched": 600,
+    "unique_ids": 557,
     "carried_over": 0,
-    "delisted_by_source": 17,
+    "delisted_by_source": 14,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
     "duplicates_collapsed": 21,
-    "published": 522,
-    "gate_rejected": 725,
+    "published": 520,
+    "gate_rejected": 727,
     "lmic_duty_station": 156,
-    "lmic_focus": 301,
+    "lmic_focus": 303,
     "with_location": 349,
     "doctoral": {
-      "routes": 48,
+      "routes": 47,
       "fully_funded": 25,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 23,
         "stipend": 2,
-        "unstated": 23
+        "unstated": 22
       },
       "pinned": 14
     },
@@ -34,7 +34,7 @@
   },
   "sources": {
     "bamboohr:idinsight": "ok: 24 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 75 failed, 1251 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 76 failed, 1251 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 0 postings",
@@ -87,7 +87,7 @@
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 21 postings",
-    "workday:PATH": "ok: 62 postings",
+    "workday:PATH": "ok: 63 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }

@@ -27,21 +27,21 @@
 
 ### 8 new, scoring 30 or above
 
-- **[Regional Senior Research Officer for East and Southeast Africa, based in Kampala](https://ngojobsinafrica.com/job/regional-senior-research-officer-for-east-and-southeast-africa-based-in-kampala-2/)** (73) `LMIC/focus`  
-  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
-- **[Advisor – Mixed Modality (Oligonucleotide) Scientist – Process Translation and Execution](https://jobrxiv.org/job/advisor-mixed-modality-oligonucleotide-scientist-process-translation-and-execution/)** (63) `LMIC/focus`  
-  Jobfront Industry · Lebanon · RSS:jobRxiv scientist
-- **[Scientist, CMC Quantitative Sciences](https://jobrxiv.org/job/scientist-cmc-quantitative-sciences/)** (43) `focus`  
+- **[Consultant - TB Diagnostics Expert, Infectious Disease – Tuberculosis](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Consultant---TB-Diagnostics-Expert--Infectious-Disease---Tuberculosis_JR2805)** (83) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Senior Statistical Data Analyst – Cardiology](https://jobrxiv.org/?post_type=job_listing&p=152808)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Senior Scientist- Translational PKPD](https://jobrxiv.org/job/senior-scientist-translational-pkpd-3/)** (38) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist (Maternity Replacement)](https://jobrxiv.org/job/scientist-maternity-replacement/)** (40) `focus`  
+- **[MSAT Assistant Scientist](https://jobrxiv.org/job/msat-assistant-scientist-7/)** (35) `focus`  
+  Jobfront Industry · Italy · RSS:jobRxiv scientist
+- **[Principal Scientist, Process Engineering](https://jobrxiv.org/job/principal-scientist-process-engineering/)** (34) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist, Analytical Sciences and Technology, Chemistry](https://jobrxiv.org/job/scientist-analytical-sciences-and-technology-chemistry/)** (39) `focus`  
+- **[Process Scientist in Specialized QC Utility](https://jobrxiv.org/job/process-scientist-in-specialized-qc-utility/)** (34) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[[MA] Vaccines Medical Affairs Scientist, Manager](https://jobrxiv.org/job/ma-vaccines-medical-affairs-scientist-manager/)** (30) `focus`  
-  Jobfront Industry · Japan · RSS:jobRxiv scientist
-- **[Inflammation Research – In Vivo Pharmacology Scientist](https://jobrxiv.org/job/inflammation-research-in-vivo-pharmacology-scientist-2/)** (30) `focus`  
+- **[Senior Scientist, Market Life Stability](https://jobrxiv.org/job/senior-scientist-market-life-stability/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Applied AI and Machine Learning Scientist](https://jobrxiv.org/job/applied-ai-and-machine-learning-scientist/)** (30) `focus`  
+- **[[Innovative Medicine] R＆D, Scientist, CMC Group, CMC Sciences, Regulatory Affairs](https://jobrxiv.org/job/innovative-medicine-r%ef%bc%86d-scientist-cmc-group-cmc-sciences-regulatory-affairs/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -62,7 +62,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
 
 ---
-522 open positions on the board, 8 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+520 open positions on the board, 8 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
