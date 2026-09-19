@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-19T16:30:35+00:00",
-  "duration_seconds": 549.4,
+  "generated_at": "2026-09-19T21:32:56+00:00",
+  "duration_seconds": 551.2,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 597,
-    "unique_ids": 555,
+    "fetched": 599,
+    "unique_ids": 557,
     "carried_over": 0,
-    "delisted_by_source": 4,
+    "delisted_by_source": 17,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
-    "duplicates_collapsed": 20,
+    "duplicates_collapsed": 22,
     "published": 519,
-    "gate_rejected": 730,
-    "lmic_duty_station": 156,
-    "lmic_focus": 303,
-    "with_location": 349,
+    "gate_rejected": 727,
+    "lmic_duty_station": 155,
+    "lmic_focus": 306,
+    "with_location": 347,
     "doctoral": {
-      "routes": 48,
+      "routes": 49,
       "fully_funded": 25,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 23,
         "stipend": 2,
-        "unstated": 23
+        "unstated": 24
       },
       "pinned": 14
     },
-    "digest_items": 26
+    "digest_items": 32
   },
   "sources": {
     "bamboohr:idinsight": "ok: 24 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 75 failed, 1252 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 76 failed, 1250 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 0 postings",
@@ -48,7 +48,7 @@
     "page:Last Mile Health": "ok: 18 candidate links",
     "page:Living Goods": "ok: 2 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
-    "page:icddr,b": "ok: 6 candidate links",
+    "page:icddr,b": "ok: 5 candidate links",
     "rss:KEMRI-Wellcome": "ok: 10 entries",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",

@@ -25,14 +25,26 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 3 new, scoring 30 or above
+### 9 new, scoring 30 or above
 
-- **[PhD student in electrical engineering with focus on power system adequacy](https://jobrxiv.org/job/phd-student-in-electrical-engineering-with-focus-on-power-system-adequacy/)** (40) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
-- **[Senior Scientist Physico-Chemical Quality Control 80-100%](https://jobrxiv.org/job/senior-scientist-physico-chemical-quality-control-80-100/)** (35) `focus`  
-  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
+- **[Senior Health Information Systems Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Rabat-Morocco/Senior-Health-Information-Systems-Officer_Requisition-2026200931)** (57) `LMIC/focus`  
+  FHI 360 · Morocco · Workday:FHI 360
+- **[PhD Candidate (f/m/x) – Organelle Biology and Proteomics in Cardiometabolic Disease](https://jobrxiv.org/job/phd-candidate-f-m-x-organelle-biology-and-proteomics-in-cardiometabolic-disease/)** (50) `focus`  
+  Jobfront Academia · Germany · RSS:jobRxiv PhD
+- **[Postdoc (f/m/x) – Neuroscience, Epigenetics and Metabolic Aging](https://jobrxiv.org/job/postdoc-f-m-x-neuroscience-epigenetics-and-metabolic-aging/)** (47) `focus`  
+  Jobfront Academia · Germany · RSS:jobRxiv postdoc
+- **[Research Associate](https://jobrxiv.org/job/research-associate-80/)** (45) `focus`  
+  Jobfront Academia · Canada · RSS:jobRxiv research assistant
+- **[Senior or Principal Scientist of Human Genetics](https://jobrxiv.org/job/senior-or-principal-scientist-of-human-genetics-2/)** (44) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Postdoctoral Research Associate](https://jobrxiv.org/job/postdoctoral-research-associate-31/)** (40) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Technician](https://jobrxiv.org/job/research-technician-33/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Cybersecurity Threat and Vulnerability Analyst](https://jobrxiv.org/job/cybersecurity-threat-and-vulnerability-analyst/)** (30) `focus`  
+  Jobfront Academia · United States · RSS:jobRxiv research assistant
+- **[Assistant/Associate Professor – Monogastric Nutrition](https://jobrxiv.org/job/assistant-associate-professor-monogastric-nutrition/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ### Closing within 3 days
 
@@ -52,7 +64,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
 
 ---
-519 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+519 open positions on the board, 9 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
