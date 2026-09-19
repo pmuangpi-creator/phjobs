@@ -25,24 +25,14 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 8 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Consultant - TB Diagnostics Expert, Infectious Disease – Tuberculosis](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Consultant---TB-Diagnostics-Expert--Infectious-Disease---Tuberculosis_JR2805)** (83) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Senior Statistical Data Analyst – Cardiology](https://jobrxiv.org/?post_type=job_listing&p=152808)** (44) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Senior Scientist- Translational PKPD](https://jobrxiv.org/job/senior-scientist-translational-pkpd-3/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[MSAT Assistant Scientist](https://jobrxiv.org/job/msat-assistant-scientist-7/)** (35) `focus`  
-  Jobfront Industry · Italy · RSS:jobRxiv scientist
-- **[Principal Scientist, Process Engineering](https://jobrxiv.org/job/principal-scientist-process-engineering/)** (34) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Process Scientist in Specialized QC Utility](https://jobrxiv.org/job/process-scientist-in-specialized-qc-utility/)** (34) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Scientist, Market Life Stability](https://jobrxiv.org/job/senior-scientist-market-life-stability/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[[Innovative Medicine] R＆D, Scientist, CMC Group, CMC Sciences, Regulatory Affairs](https://jobrxiv.org/job/innovative-medicine-r%ef%bc%86d-scientist-cmc-group-cmc-sciences-regulatory-affairs/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[PhD student in electrical engineering with focus on power system adequacy](https://jobrxiv.org/job/phd-student-in-electrical-engineering-with-focus-on-power-system-adequacy/)** (40) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
+- **[Senior Scientist Physico-Chemical Quality Control 80-100%](https://jobrxiv.org/job/senior-scientist-physico-chemical-quality-control-80-100/)** (35) `focus`  
+  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -62,7 +52,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
 
 ---
-520 open positions on the board, 8 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+519 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
