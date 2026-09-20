@@ -25,6 +25,15 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
+### 3 new, scoring 30 or above
+
+- **[HIV Key and Priority Population ( KPP) and Digital Data Management Expert](https://ngojobsinafrica.com/job/hiv-key-and-priority-population-kpp-and-digital-data-management-expert/)** (98) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Senior Mentor](https://ngojobsinafrica.com/job/senior-mentor-4/)** (69) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[IYCF officer](https://ngojobsinafrica.com/job/iycf-officer-16/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+
 ### Closing within 3 days
 
 - **[Research Assistant](https://ki.varbi.com/se/what:job/jobID:964574/type:job/where:4/apply:1)** (44) `focus`  
@@ -51,7 +60,7 @@
   Lunds universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Lund University
 
 ---
-514 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+516 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
