@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-20T06:09:07+00:00",
-  "duration_seconds": 559.9,
+  "generated_at": "2026-09-20T12:21:57+00:00",
+  "duration_seconds": 546.1,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 600,
-    "unique_ids": 559,
+    "fetched": 598,
+    "unique_ids": 556,
     "carried_over": 0,
-    "delisted_by_source": 16,
+    "delisted_by_source": 8,
     "expired_dropped": 0,
     "aged_out_no_deadline": 16,
     "duplicates_collapsed": 24,
-    "published": 519,
-    "gate_rejected": 725,
+    "published": 516,
+    "gate_rejected": 726,
     "lmic_duty_station": 148,
-    "lmic_focus": 297,
+    "lmic_focus": 294,
     "with_location": 345,
     "doctoral": {
       "routes": 49,
@@ -30,11 +30,11 @@
       },
       "pinned": 14
     },
-    "digest_items": 29
+    "digest_items": 30
   },
   "sources": {
     "bamboohr:idinsight": "ok: 24 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 82 failed, 1243 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 75 failed, 1249 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 0 postings",
@@ -83,7 +83,7 @@
     "sitemap:Varbi Umea University": "ok: 45 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Uppsala University": "ok: 81 entries",
-    "workable:evidence-action": "ok: 38 postings",
+    "workable:evidence-action": "ok: 37 postings",
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 20 postings",

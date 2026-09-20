@@ -25,14 +25,16 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 3 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Project Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Ho-Chi-Minh-Vietnam/Project-Assistant_Requisition-2026201247)** (44) `LMIC`  
-  FHI 360 · Viet Nam · Workday:FHI 360
-- **[Director, Clinical Scientist – Immunology](https://jobrxiv.org/job/director-clinical-scientist-immunology-2/)** (44) `focus`  
+- **[Research Fellow – Nutrition and Dietetics](https://jobrxiv.org/job/research-fellow-nutrition-and-dietetics/)** (80) `LMIC/focus`  
+  Jobfront Academia · St. Lucia · RSS:jobRxiv postdoc
+- **[PhD: Self-Evolving Agents: Continual, Trustworthy, and Resource-Efficient Agentic AI](https://jobrxiv.org/job/phd-self-evolving-agents-continual-trustworthy-and-resource-efficient-agentic-ai/)** (40) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Postdoctoral Research Associate in Inorganic Chemistry](https://jobrxiv.org/job/postdoctoral-research-associate-in-inorganic-chemistry-3/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv research assistant
+- **[Senior Scientist- Translational PKPD](https://jobrxiv.org/job/senior-scientist-translational-pkpd-4/)** (38) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Analytical Development Research Scientist](https://jobrxiv.org/job/analytical-development-research-scientist-4/)** (30) `focus`  
-  Jobfront Industry · United States · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -60,7 +62,7 @@
   Lunds universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Lund University
 
 ---
-519 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+516 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
