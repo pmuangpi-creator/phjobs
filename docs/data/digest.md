@@ -25,17 +25,6 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 4 new, scoring 30 or above
-
-- **[Research Fellow – Nutrition and Dietetics](https://jobrxiv.org/job/research-fellow-nutrition-and-dietetics/)** (80) `LMIC/focus`  
-  Jobfront Academia · St. Lucia · RSS:jobRxiv postdoc
-- **[PhD: Self-Evolving Agents: Continual, Trustworthy, and Resource-Efficient Agentic AI](https://jobrxiv.org/job/phd-self-evolving-agents-continual-trustworthy-and-resource-efficient-agentic-ai/)** (40) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Postdoctoral Research Associate in Inorganic Chemistry](https://jobrxiv.org/job/postdoctoral-research-associate-in-inorganic-chemistry-3/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv research assistant
-- **[Senior Scientist- Translational PKPD](https://jobrxiv.org/job/senior-scientist-translational-pkpd-4/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-
 ### Closing within 3 days
 
 - **[Research Assistant](https://ki.varbi.com/se/what:job/jobID:964574/type:job/where:4/apply:1)** (44) `focus`  
@@ -62,7 +51,7 @@
   Lunds universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Lund University
 
 ---
-516 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+514 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
