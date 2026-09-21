@@ -25,24 +25,18 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 8 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[STRIDES Ethiopia Zonal Polio Surveillance Consultants](https://ngojobsinafrica.com/job/strides-ethiopia-zonal-polio-surveillance-consultants-2/)** (84) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Senior Field Assistant with Maternal and Child Nutrition under the Nutrition Research Division (Adv#132/2026).](https://career.icddrb.org/vacancy-preview/32290)** (75) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Field Research Assistant with Maternal and Child Nutrition under the Nutrition Research Division (Internal#131/2026).](https://career.icddrb.org/vacancy-preview/32289)** (67) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Administrative Assistant – Rapporteur, Documentation and Publication of CPHIA 2026 Outputs](https://ngojobsinafrica.com/job/administrative-assistant-rapporteur-documentation-and-publication-of-cphia-2026-outputs/)** (59) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Sustainability Team (Internal & External)](https://ngojobsinafrica.com/job/sustainability-team-internal-external/)** (56) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Program Division Manager](https://ngojobsinafrica.com/job/program-division-manager/)** (40) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Finance-Officer_Requisition-2026201303)** (31) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
+- **[Laboratory Technician (1 post) – Kigoma Sep 21, 2026](https://ihi.or.tz/en/our-job-posts/job/355/details/)** (63) `LMIC/focus`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[Temporary, Facilitators: Focus Group Discussion](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Kisumu-Sub-Office/Temporary--Facilitators--Focus-Group-Discussion_JR2807)** (61) `LMIC/focus`  
+  PATH · Kenya · Workday:PATH
+- **[Temporary Lead Facilitator- Focus Group Discussion](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Kisumu-Sub-Office/Temporary-Lead-Facilitator--Focus-Group-Discussion_JR2806-1)** (61) `LMIC/focus`  
+  PATH · Kenya · Workday:PATH
+- **[Responsable Communication et Gestion des Connaissances](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Madagascar-Any/Responsable-Communication-et-Gestion-des-Connaissances_Requisition-2026201250)** (59) `LMIC/focus`  
+  FHI 360 · Madagascar · Workday:FHI 360
+- **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 
 ### Closing within 3 days
 
@@ -76,7 +70,7 @@
   Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
 
 ---
-517 open positions on the board, 8 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+524 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
