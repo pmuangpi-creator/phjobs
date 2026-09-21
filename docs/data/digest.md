@@ -25,19 +25,27 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 3 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[HIV Key and Priority Population ( KPP) and Digital Data Management Expert](https://ngojobsinafrica.com/job/hiv-key-and-priority-population-kpp-and-digital-data-management-expert/)** (98) `LMIC/focus`  
+- **[STRIDES Ethiopia Zonal Polio Surveillance Consultants](https://ngojobsinafrica.com/job/strides-ethiopia-zonal-polio-surveillance-consultants-2/)** (84) `LMIC/focus`  
   Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Senior Mentor](https://ngojobsinafrica.com/job/senior-mentor-4/)** (69) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[IYCF officer](https://ngojobsinafrica.com/job/iycf-officer-16/)** (32) `focus`  
+- **[Senior Field Assistant with Maternal and Child Nutrition under the Nutrition Research Division (Adv#132/2026).](https://career.icddrb.org/vacancy-preview/32290)** (75) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Field Research Assistant with Maternal and Child Nutrition under the Nutrition Research Division (Internal#131/2026).](https://career.icddrb.org/vacancy-preview/32289)** (67) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Administrative Assistant – Rapporteur, Documentation and Publication of CPHIA 2026 Outputs](https://ngojobsinafrica.com/job/administrative-assistant-rapporteur-documentation-and-publication-of-cphia-2026-outputs/)** (59) `focus`  
   Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Sustainability Team (Internal & External)](https://ngojobsinafrica.com/job/sustainability-team-internal-external/)** (56) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Program Division Manager](https://ngojobsinafrica.com/job/program-division-manager/)** (40) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Finance-Officer_Requisition-2026201303)** (31) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
 
 ### Closing within 3 days
 
-- **[Research Assistant](https://ki.varbi.com/se/what:job/jobID:964574/type:job/where:4/apply:1)** (44) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-20 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral Researcher in Nutritional Epidemiology](https://ki.varbi.com/se/what:job/jobID:965303/type:job/where:4/apply:1)** (55)  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
 - **[Research assistant in health economics](https://uu.varbi.com/se/what:job/jobID:966428/type:job/where:4/apply:1)** (50) `focus`  
@@ -58,9 +66,17 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-23 · Sitemap:Varbi Karolinska Institutet
 - **[Project Assistant to the unit neurodegenerativ](https://lu.varbi.com/se/what:job/jobID:965291/type:job/where:4/apply:1)** (33) `focus`  
   Lunds universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Lund University
+- **[Postdoctoral fellowship in medical research](https://uu.varbi.com/se/what:job/jobID:957632/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral fellowship in clinical research](https://uu.varbi.com/se/what:job/jobID:957663/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
+- **[postdoctoral fellowship in neurological research](https://uu.varbi.com/se/what:job/jobID:957665/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
+- **[postdoctoral fellowship in cardiovascular disease](https://uu.varbi.com/se/what:job/jobID:957666/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
 
 ---
-516 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+517 open positions on the board, 8 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
