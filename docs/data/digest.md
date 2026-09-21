@@ -25,18 +25,28 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 5 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Laboratory Technician (1 post) – Kigoma Sep 21, 2026](https://ihi.or.tz/en/our-job-posts/job/355/details/)** (63) `LMIC/focus`  
-  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
-- **[Temporary, Facilitators: Focus Group Discussion](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Kisumu-Sub-Office/Temporary--Facilitators--Focus-Group-Discussion_JR2807)** (61) `LMIC/focus`  
-  PATH · Kenya · Workday:PATH
-- **[Temporary Lead Facilitator- Focus Group Discussion](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Kisumu-Sub-Office/Temporary-Lead-Facilitator--Focus-Group-Discussion_JR2806-1)** (61) `LMIC/focus`  
-  PATH · Kenya · Workday:PATH
-- **[Responsable Communication et Gestion des Connaissances](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Madagascar-Any/Responsable-Communication-et-Gestion-des-Connaissances_Requisition-2026201250)** (59) `LMIC/focus`  
-  FHI 360 · Madagascar · Workday:FHI 360
-- **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
+- **[Senior Research Manager for South Sudan, Based in Juba](https://ngojobsinafrica.com/job/senior-research-manager-for-south-sudan-based-in-juba-2/)** (98) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan, Switzerland · RSS:NGO Jobs Africa South Sudan
+- **[To conduct a Comprehensive Situational Analysis of the Eye Health System within the Assigned State/Assessment Area and provide evidence-based](https://ngojobsinafrica.com/job/to-conduct-a-comprehensive-situational-analysis-of-the-eye-health-system-within-the-assigned-state-assessment-area-and-provide-evidence-based/)** (84) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Senior Research Assistant with the Maternal, Newborn and Child Health under the Maternal and Child Health Division (Internal#133/2026).](https://career.icddrb.org/vacancy-preview/32291)** (77) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[REQUEST FOR OFFER (RFO)- SUPPLIER PRE-QUALIFICATION FOR KENYA COUNTRY OFFICES](https://ngojobsinafrica.com/job/request-for-offer-rfo-supplier-pre-qualification-for-kenya-country-offices/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Senior Programme Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Palestine-Any/Senior-Programme-Manager_Requisition-2026201107)** (57) `LMIC/focus`  
+  FHI 360 · West Bank and Gaza · Workday:FHI 360
+- **[Research Fellow in Human Genetics (Rare Cardiovascular Disease)](https://jobrxiv.org/job/research-fellow-in-human-genetics-rare-cardiovascular-disease/)** (39) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Team Leader](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Team-Lead_Requisition-2026200935)** (34) `LMIC`  
+  FHI 360 · Belize · Workday:FHI 360
+- **[Deputy Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Deputy-Chief-of-Party_Requisition-2026200639)** (34) `LMIC`  
+  FHI 360 · Belize · Workday:FHI 360
+- **[Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Chief-of-Party_Requisition-2026200664)** (34) `LMIC`  
+  FHI 360 · Belize · Workday:FHI 360
+- **[Research Assistant](https://jobrxiv.org/job/research-assistant-149/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -70,7 +80,7 @@
   Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
 
 ---
-524 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+516 open positions on the board, 10 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
