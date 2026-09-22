@@ -25,28 +25,16 @@
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 
-### 10 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Senior Research Manager for South Sudan, Based in Juba](https://ngojobsinafrica.com/job/senior-research-manager-for-south-sudan-based-in-juba-2/)** (98) `LMIC/focus`  
-  Ngojobsinafrica · South Sudan, Switzerland · RSS:NGO Jobs Africa South Sudan
-- **[To conduct a Comprehensive Situational Analysis of the Eye Health System within the Assigned State/Assessment Area and provide evidence-based](https://ngojobsinafrica.com/job/to-conduct-a-comprehensive-situational-analysis-of-the-eye-health-system-within-the-assigned-state-assessment-area-and-provide-evidence-based/)** (84) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Senior Research Assistant with the Maternal, Newborn and Child Health under the Maternal and Child Health Division (Internal#133/2026).](https://career.icddrb.org/vacancy-preview/32291)** (77) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[REQUEST FOR OFFER (RFO)- SUPPLIER PRE-QUALIFICATION FOR KENYA COUNTRY OFFICES](https://ngojobsinafrica.com/job/request-for-offer-rfo-supplier-pre-qualification-for-kenya-country-offices/)** (61) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Senior Programme Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Palestine-Any/Senior-Programme-Manager_Requisition-2026201107)** (57) `LMIC/focus`  
-  FHI 360 · West Bank and Gaza · Workday:FHI 360
-- **[Research Fellow in Human Genetics (Rare Cardiovascular Disease)](https://jobrxiv.org/job/research-fellow-in-human-genetics-rare-cardiovascular-disease/)** (39) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Team Leader](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Team-Lead_Requisition-2026200935)** (34) `LMIC`  
-  FHI 360 · Belize · Workday:FHI 360
-- **[Deputy Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Deputy-Chief-of-Party_Requisition-2026200639)** (34) `LMIC`  
-  FHI 360 · Belize · Workday:FHI 360
-- **[Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Chief-of-Party_Requisition-2026200664)** (34) `LMIC`  
-  FHI 360 · Belize · Workday:FHI 360
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-149/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Mixed Modality (Oligonucleotide) Scientist](https://jobrxiv.org/job/mixed-modality-oligonucleotide-scientist/)** (63) `LMIC/focus`  
+  Jobfront Industry · Lebanon · RSS:jobRxiv scientist
+- **[Principal Safety Scientist – SERM](https://jobrxiv.org/job/principal-safety-scientist-serm/)** (58) `LMIC`  
+  Jobfront Industry · Poland, Brazil, United Kingdom · RSS:jobRxiv scientist
+- **[Senior Principal DSX Data Scientist](https://jobrxiv.org/job/senior-principal-dsx-data-scientist-4/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Accounting and Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Accounting-and-Finance-Officer_Requisition-2026201308)** (31) `LMIC`  
+  FHI 360 · Indonesia · Workday:FHI 360
 
 ### Closing within 3 days
 
@@ -78,9 +66,11 @@
   Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
 - **[postdoctoral fellowship in cardiovascular disease](https://uu.varbi.com/se/what:job/jobID:957666/type:job/where:4/apply:1)** (38) `focus`  
   Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
+- **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)** (51) `focus`  
+  Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-516 open positions on the board, 10 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+515 open positions on the board, 4 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
