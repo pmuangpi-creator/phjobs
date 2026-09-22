@@ -1,7 +1,10 @@
+### 1 new fully funded doctoral route
+
+- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
-- **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
@@ -24,17 +27,31 @@
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
+- **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 4 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Mixed Modality (Oligonucleotide) Scientist](https://jobrxiv.org/job/mixed-modality-oligonucleotide-scientist/)** (63) `LMIC/focus`  
-  Jobfront Industry · Lebanon · RSS:jobRxiv scientist
-- **[Principal Safety Scientist – SERM](https://jobrxiv.org/job/principal-safety-scientist-serm/)** (58) `LMIC`  
-  Jobfront Industry · Poland, Brazil, United Kingdom · RSS:jobRxiv scientist
-- **[Senior Principal DSX Data Scientist](https://jobrxiv.org/job/senior-principal-dsx-data-scientist-4/)** (38) `focus`  
+- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1)** (62) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
+- **[Senior Principal Research Fellow – Oral Epidemiology](https://jobrxiv.org/job/senior-principal-research-fellow-oral-epidemiology/)** (53) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Evidence Lead, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/38A4F542F0)** (50) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Postdoc position in organic synthesis of battery electrolyte solvents](https://uu.varbi.com/se/what:job/jobID:970288/type:job/where:4/apply:1)** (44) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-16 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral position in Energy Materials Physics with Specialization in Advanced Materials Characterization](https://uu.varbi.com/se/what:job/jobID:971479/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
+- **[Associate Director, Program Operations, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/EF276B82BD)** (34) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[HR (Associate) Director, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/129823B25A)** (34) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Program Director, Agriculture, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/FA7ACF1215)** (34) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Research Fellow (Wearable Robotics and Biomechanics)](https://jobrxiv.org/job/research-fellow-wearable-robotics-and-biomechanics/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Scientist – Quality Control Laboratory](https://jobrxiv.org/job/scientist-quality-control-laboratory/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Accounting and Finance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Accounting-and-Finance-Officer_Requisition-2026201308)** (31) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
 
 ### Closing within 3 days
 
@@ -52,8 +69,6 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
 - **[Senior Lecturer of Epidemiology](https://ki.varbi.com/se/what:job/jobID:962131/type:job/where:4/apply:1)** (53) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-23 · Sitemap:Varbi Karolinska Institutet
-- **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Uppsala University
 - **[Postdoctoral studies in  in DNA repair and translational drug discovery (Scholarship)](https://ki.varbi.com/en/what:job/jobID:965618/type:job/where:4/apply:1)** (36) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-23 · Sitemap:Varbi Karolinska Institutet
 - **[Project Assistant to the unit neurodegenerativ](https://lu.varbi.com/se/what:job/jobID:965291/type:job/where:4/apply:1)** (33) `focus`  
@@ -70,7 +85,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-515 open positions on the board, 4 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+525 open positions on the board, 10 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
