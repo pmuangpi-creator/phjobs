@@ -1,8 +1,3 @@
-### 1 new fully funded doctoral route
-
-- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-30 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
@@ -32,25 +27,25 @@
 
 ### 10 new, scoring 30 or above
 
-- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1)** (62) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
-- **[Senior Principal Research Fellow – Oral Epidemiology](https://jobrxiv.org/job/senior-principal-research-fellow-oral-epidemiology/)** (53) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Evidence Lead, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/38A4F542F0)** (50) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[Postdoc position in organic synthesis of battery electrolyte solvents](https://uu.varbi.com/se/what:job/jobID:970288/type:job/where:4/apply:1)** (44) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-16 · Sitemap:Varbi Uppsala University
-- **[Postdoctoral position in Energy Materials Physics with Specialization in Advanced Materials Characterization](https://uu.varbi.com/se/what:job/jobID:971479/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
-- **[Associate Director, Program Operations, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/EF276B82BD)** (34) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[HR (Associate) Director, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/129823B25A)** (34) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[Program Director, Agriculture, AI Access Initiative (EAII Advisors)](https://apply.workable.com/j/FA7ACF1215)** (34) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[Research Fellow (Wearable Robotics and Biomechanics)](https://jobrxiv.org/job/research-fellow-wearable-robotics-and-biomechanics/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Scientist – Quality Control Laboratory](https://jobrxiv.org/job/scientist-quality-control-laboratory/)** (30) `focus`  
+- **[Country Director, South Sudan](https://ngojobsinafrica.com/job/country-director-south-sudan-59/)** (87) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan, Sudan · RSS:NGO Jobs Africa South Sudan
+- **[Stagiaire assistant (e) administratif (ve) et financier (e )](https://livinggoods.applytojob.com/apply/BBtCUuYl7Y/Stagiaire-Assistant-e-Administratif-ve-Et-Financier-e-)** (69) `LMIC/focus`  
+  Living Goods · Burkina Faso · Page:Living Goods
+- **[Health & Nutrition Coordinator](https://ngojobsinafrica.com/job/health-nutrition-coordinator-12/)** (63) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Ophthalmologist](https://ngojobsinafrica.com/job/ophthalmologist-2/)** (59) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Postdoctoral position focusing on algorithmic management, work and health](https://ki.varbi.com/se/what:job/jobID:972047/type:job/where:4/apply:1)** (47) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-25 · Sitemap:Varbi Karolinska Institutet
+- **[Project Administrator (Newborn Health and Child Development) (EPH-EPIH-2026-14)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPIH-2026-14)** (42) `focus`  
+  Professional Services · United Kingdom · RSS:LSHTM epidemiology and population health
+- **[Senior Scientist – ​R&D Purification](https://jobrxiv.org/job/senior-scientist-rd-purification/)** (38) `focus`  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[Finance Manager – EA](https://ngojobsinafrica.com/job/finance-manager-ea/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Afan Oromo to English Translator](https://ngojobsinafrica.com/job/afan-oromo-to-english-translator/)** (34) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Associate Scientist, MSAT Development Services Laboratory](https://jobrxiv.org/job/associate-scientist-msat-development-services-laboratory/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -85,7 +80,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-525 open positions on the board, 10 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+524 open positions on the board, 10 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
