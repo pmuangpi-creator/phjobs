@@ -25,28 +25,18 @@
 - **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 10 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Country Director, South Sudan](https://ngojobsinafrica.com/job/country-director-south-sudan-59/)** (87) `LMIC/focus`  
-  Ngojobsinafrica · South Sudan, Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Stagiaire assistant (e) administratif (ve) et financier (e )](https://livinggoods.applytojob.com/apply/BBtCUuYl7Y/Stagiaire-Assistant-e-Administratif-ve-Et-Financier-e-)** (69) `LMIC/focus`  
-  Living Goods · Burkina Faso · Page:Living Goods
-- **[Health & Nutrition Coordinator](https://ngojobsinafrica.com/job/health-nutrition-coordinator-12/)** (63) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Ophthalmologist](https://ngojobsinafrica.com/job/ophthalmologist-2/)** (59) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Postdoctoral position focusing on algorithmic management, work and health](https://ki.varbi.com/se/what:job/jobID:972047/type:job/where:4/apply:1)** (47) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-25 · Sitemap:Varbi Karolinska Institutet
-- **[Project Administrator (Newborn Health and Child Development) (EPH-EPIH-2026-14)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPIH-2026-14)** (42) `focus`  
-  Professional Services · United Kingdom · RSS:LSHTM epidemiology and population health
-- **[Senior Scientist – ​R&D Purification](https://jobrxiv.org/job/senior-scientist-rd-purification/)** (38) `focus`  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
-- **[Finance Manager – EA](https://ngojobsinafrica.com/job/finance-manager-ea/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Afan Oromo to English Translator](https://ngojobsinafrica.com/job/afan-oromo-to-english-translator/)** (34) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Associate Scientist, MSAT Development Services Laboratory](https://jobrxiv.org/job/associate-scientist-msat-development-services-laboratory/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Regional Clinical Services Coordinator -  Morogoro](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Morogoro-Tanzania/Regional-Clinical-Services-Coordinator----Morogoro_Requisition-2026201313)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Assistant Professor in Geriatric Mental Health](https://ki.varbi.com/se/what:job/jobID:962396/type:job/where:4/apply:1)** (55) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
+- **[Research Associate](https://jobrxiv.org/job/research-associate-79/)** (45) `focus`  
+  Jobfront Academia · Canada · RSS:jobRxiv research assistant
+- **[Research Fellow in Sensor Systems and Medical Devices](https://jobrxiv.org/job/research-fellow-in-sensor-systems-and-medical-devices/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Assistant](https://jobrxiv.org/job/research-assistant-150/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -80,7 +70,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-524 open positions on the board, 10 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+522 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
