@@ -1,3 +1,8 @@
+### 1 new fully funded doctoral route
+
+- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-10-16 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
@@ -25,18 +30,28 @@
 - **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 5 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Project Manager_LN](https://ngojobsinafrica.com/job/project-manager_ln/)** (69) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Regional Research and Learning Coordinator, PlayMatters](https://ngojobsinafrica.com/job/regional-research-and-learning-coordinator-playmatters/)** (68) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[Senior Field Officer in support to the Immunization service Continuity in the Context of the Ebola outbreak– Isiro, Haut Uele](https://path.wd1.myworkdayjobs.com/External/job/DRC-Kinshasa-Country-Program-Office/Senior-Field-Officer-in-support-to-the-Immunization-service-Continuity-in-the-Context-of-the-Ebola-outbreak--Isiro--Haut-Uele_JR2799)** (59) `LMIC/focus`  
-  PATH · Congo, Dem. Rep. · Workday:PATH
-- **[Research Fellow (0.8 FTE) (PHP-PHES-2026-12)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-PHES-2026-12)** (52) `focus`  
-  Academic · United Kingdom · RSS:LSHTM public health and policy
-- **[Laboratory Information Management Systems Coordinator](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Information-Management-Systems-Coordinator_Requisition-2026201306)** (39) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
+- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1)** (47) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-16 · Sitemap:Varbi Uppsala University
+- **[Global Procurement Officer, Asia](https://path.wd1.myworkdayjobs.com/External/job/Vietnam-Hanoi-Regional-Program-Office/Global-Procurement-Officer--Asia_JR2771)** (44) `LMIC`  
+  PATH · Viet Nam · Workday:PATH
+- **[Development Scientist](https://jobrxiv.org/job/development-scientist-6/)** (39) `focus`  
+  Jobfront Industry · Denmark · RSS:jobRxiv scientist
+- **[Principal Scientist, QC Analytical, Cell Therapy](https://jobrxiv.org/job/principal-scientist-qc-analytical-cell-therapy-2/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Downstream Development Scientist](https://jobrxiv.org/job/downstream-development-scientist/)** (35) `focus`  
+  Jobfront Industry · Denmark · RSS:jobRxiv scientist
+- **[Technical Advisor, Pharmaceutical Procurement](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Advisor--Pharmaceutical-Procurement_R5175)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Scientist, Trial Support](https://jobrxiv.org/job/scientist-trial-support/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Principal Toxicologist-Scientist](https://jobrxiv.org/job/senior-principal-toxicologist-scientist/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Principal Toxicologist-Scientist](https://jobrxiv.org/job/principal-toxicologist-scientist/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Scientist, QC Compliance](https://jobrxiv.org/job/senior-scientist-qc-compliance/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -58,7 +73,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-501 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+506 open positions on the board, 10 of the new ones LMIC-related. 26 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
