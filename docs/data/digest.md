@@ -27,31 +27,19 @@
 
 ### 5 new, scoring 30 or above
 
-- **[Regional Clinical Services Coordinator -  Morogoro](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Morogoro-Tanzania/Regional-Clinical-Services-Coordinator----Morogoro_Requisition-2026201313)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Assistant Professor in Geriatric Mental Health](https://ki.varbi.com/se/what:job/jobID:962396/type:job/where:4/apply:1)** (55) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
-- **[Research Associate](https://jobrxiv.org/job/research-associate-79/)** (45) `focus`  
-  Jobfront Academia · Canada · RSS:jobRxiv research assistant
-- **[Research Fellow in Sensor Systems and Medical Devices](https://jobrxiv.org/job/research-fellow-in-sensor-systems-and-medical-devices/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-150/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Project Manager_LN](https://ngojobsinafrica.com/job/project-manager_ln/)** (69) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Regional Research and Learning Coordinator, PlayMatters](https://ngojobsinafrica.com/job/regional-research-and-learning-coordinator-playmatters/)** (68) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
+- **[Senior Field Officer in support to the Immunization service Continuity in the Context of the Ebola outbreak– Isiro, Haut Uele](https://path.wd1.myworkdayjobs.com/External/job/DRC-Kinshasa-Country-Program-Office/Senior-Field-Officer-in-support-to-the-Immunization-service-Continuity-in-the-Context-of-the-Ebola-outbreak--Isiro--Haut-Uele_JR2799)** (59) `LMIC/focus`  
+  PATH · Congo, Dem. Rep. · Workday:PATH
+- **[Research Fellow (0.8 FTE) (PHP-PHES-2026-12)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-PHES-2026-12)** (52) `focus`  
+  Academic · United Kingdom · RSS:LSHTM public health and policy
+- **[Laboratory Information Management Systems Coordinator](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Information-Management-Systems-Coordinator_Requisition-2026201306)** (39) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
 
 ### Closing within 3 days
 
-- **[Postdoctoral Researcher in Nutritional Epidemiology](https://ki.varbi.com/se/what:job/jobID:965303/type:job/where:4/apply:1)** (55)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
-- **[Research assistant in health economics](https://uu.varbi.com/se/what:job/jobID:966428/type:job/where:4/apply:1)** (50) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-22 · Sitemap:Varbi Uppsala University
-- **[Researcher in health economics](https://uu.varbi.com/se/what:job/jobID:966626/type:job/where:4/apply:1)** (50) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-22 · Sitemap:Varbi Uppsala University
-- **[Postdoctoral studies in bioinformatics and translational breast cancer (scholarship)](https://ki.varbi.com/en/what:job/jobID:962510/type:job/where:4/apply:1)** (49) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
-- **[Substitute as Research Assistant at the National Microprobe Laboratory](https://uu.varbi.com/se/what:job/jobID:969312/type:job/where:4/apply:1)** (44) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-22 · Sitemap:Varbi Uppsala University
-- **[Postdoctoral researcher in  bioinformatics and translational breast cancer](https://ki.varbi.com/en/what:job/jobID:962479/type:job/where:4/apply:1)** (33)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-22 · Sitemap:Varbi Karolinska Institutet
 - **[Senior Lecturer of Epidemiology](https://ki.varbi.com/se/what:job/jobID:962131/type:job/where:4/apply:1)** (53) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-23 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral studies in  in DNA repair and translational drug discovery (Scholarship)](https://ki.varbi.com/en/what:job/jobID:965618/type:job/where:4/apply:1)** (36) `focus`  
@@ -70,7 +58,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-522 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+501 open positions on the board, 5 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
