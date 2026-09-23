@@ -1,7 +1,5 @@
 ### Funded doctoral routes closing within 21 days
 
-- **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-09-23 · Salaried post
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)**  
@@ -24,46 +22,42 @@
   Lunds universitet · Sweden · closes 2026-09-30 · Salaried post
 - **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
+- **[Are you a systems thinker interested in co-designing new models for health care delivery?](https://ki.varbi.com/se/what:job/jobID:962574/type:job/where:4/apply:1)**  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-01 · Salaried post
 
 ### 14 new, scoring 30 or above
 
-- **[Country Director, Ethiopia](https://ngojobsinafrica.com/job/country-director-ethiopia-37/)** (83) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Senior Associate - Monitoring, Learning and Evaluation ( EAII Advisors )](https://apply.workable.com/j/ED3947FC10)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[REQUEST FOR KRA LEDGER RECONCILAITION SERVICES TO CHILDFUND KENYA](https://ngojobsinafrica.com/job/request-for-kra-ledger-reconcilaition-services-to-childfund-kenya/)** (61) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Senior Scientist Ⅱ, Flow Chemistry](https://jobrxiv.org/job/senior-scientist-%e2%85%b1-flow-chemistry/)** (58) `LMIC/focus`  
-  Jobfront Industry · China · RSS:jobRxiv scientist
-- **[Monitoring & Evaluation Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Cotonou-Benin/Monitoring---Evaluation-Officer_Requisition-2026201316)** (57) `LMIC/focus`  
-  FHI 360 · Benin · Workday:FHI 360
-- **[Clinical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Cotonou-Benin/Clinical-Officer_Requisition-2026201314)** (57) `LMIC/focus`  
-  FHI 360 · Benin · Workday:FHI 360
-- **[Database Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Cotonou-Benin/Database-Manager_Requisition-2026201315-1)** (57) `LMIC/focus`  
-  FHI 360 · Benin · Workday:FHI 360
-- **[MEAL Officer, OCHA Project- National Position](https://ngojobsinafrica.com/job/meal-officer-ocha-project-national-position/)** (52) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://jobrxiv.org/job/phd-student-in-experimental-nuclear-physics-with-a-focus-on-neutron-induced-reactions/)** (38)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Postdoc position in organic synthesis of battery electrolyte solvents](https://jobrxiv.org/job/postdoc-position-in-organic-synthesis-of-battery-electrolyte-solvents/)** (38) `focus`  
+- **[Junior Research Associate](https://jobrxiv.org/job/junior-research-associate/)** (57) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Research Fellow -Health Data Science](https://jobrxiv.org/job/research-fellow-health-data-science/)** (51) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Research Assistant](https://jobrxiv.org/job/research-assistant-152/)** (48) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Florence Nightingale Bicentenary Fellow in Statistics](https://jobrxiv.org/job/florence-nightingale-bicentenary-fellow-in-statistics-2/)** (47) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Clinical Research Assistant in Sexual Health and HIV](https://jobrxiv.org/job/clinical-research-assistant-in-sexual-health-and-hiv/)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Church & Community Engagement Specialist - 2025814](https://jobs.lever.co/wr/ad46c75f-ce6e-4da9-bfd4-1bae4b071dae)** (38) `focus`  
+  Wr · United States · Lever:wr
+- **[SOFAIR Fellow/SOFAIR Senior Fellow (UCL Grade 7 to Grade 10)](https://jobrxiv.org/job/sofair-fellow-sofair-senior-fellow-ucl-grade-7-to-grade-10/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Lecturer/ Associate Professor](https://jobrxiv.org/job/lecturer-associate-professor/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv faculty
+- **[Postdoctoral Scholar](https://jobrxiv.org/job/postdoctoral-scholar-8/)** (36)  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Global Management of Operations (GMO) – Human Resources Specialist](https://ngojobsinafrica.com/job/global-management-of-operations-gmo-human-resources-specialist/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
-- **[Laboratory Scientist Physico-Chemical Quality Control 80-100%](https://jobrxiv.org/job/laboratory-scientist-physico-chemical-quality-control-80-100-2/)** (35) `focus`  
-  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
-- **[Postdoctoral position in Energy Materials Physics with Specialization in Advanced Materials Characterization](https://jobrxiv.org/job/postdoctoral-position-in-energy-materials-physics-with-specialization-in-advanced-materials-characterization/)** (32) `focus`  
+- **[Canada Impact+ Emerging Leader in the Chemistry of Wildfires – Assistant Professor](https://jobrxiv.org/job/canada-impact-emerging-leader-in-the-chemistry-of-wildfires-assistant-professor/)** (36) `focus`  
+  Jobfront Academia · Canada · RSS:jobRxiv faculty
+- **[Team Leader](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Team-Lead_Requisition-2026200935)** (34) `LMIC`  
+  FHI 360 · Belize · Workday:FHI 360
+- **[Deputy Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Deputy-Chief-of-Party_Requisition-2026200639)** (34) `LMIC`  
+  FHI 360 · Belize · Workday:FHI 360
+- **[Clinical Research Fellow](https://jobrxiv.org/job/clinical-research-fellow-28/)** (30) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Data Scientist](https://jobrxiv.org/job/research-data-scientist-2/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
-- **[Senior Lecturer of Epidemiology](https://ki.varbi.com/se/what:job/jobID:962131/type:job/where:4/apply:1)** (53) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-23 · Sitemap:Varbi Karolinska Institutet
-- **[Postdoctoral studies in  in DNA repair and translational drug discovery (Scholarship)](https://ki.varbi.com/en/what:job/jobID:965618/type:job/where:4/apply:1)** (36) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-23 · Sitemap:Varbi Karolinska Institutet
-- **[Project Assistant to the unit neurodegenerativ](https://lu.varbi.com/se/what:job/jobID:965291/type:job/where:4/apply:1)** (33) `focus`  
-  Lunds universitet · Sweden · closes 2026-09-23 · Sitemap:Varbi Lund University
 - **[Postdoctoral fellowship in medical research](https://uu.varbi.com/se/what:job/jobID:957632/type:job/where:4/apply:1)** (38) `focus`  
   Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
 - **[Postdoctoral fellowship in clinical research](https://uu.varbi.com/se/what:job/jobID:957663/type:job/where:4/apply:1)** (38) `focus`  
@@ -76,7 +70,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-504 open positions on the board, 13 of the new ones LMIC-related. 26 fully funded doctoral routes on the PhD page.
+502 open positions on the board, 13 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
