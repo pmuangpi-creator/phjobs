@@ -1,8 +1,3 @@
-### 1 new fully funded doctoral route
-
-- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-16 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[Doktorand i zoologi](https://su.varbi.com/se/what:job/jobID:964901/type:job/where:4/apply:1)**  
@@ -30,28 +25,36 @@
 - **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 10 new, scoring 30 or above
+### 14 new, scoring 30 or above
 
-- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1)** (47) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-16 · Sitemap:Varbi Uppsala University
-- **[Global Procurement Officer, Asia](https://path.wd1.myworkdayjobs.com/External/job/Vietnam-Hanoi-Regional-Program-Office/Global-Procurement-Officer--Asia_JR2771)** (44) `LMIC`  
-  PATH · Viet Nam · Workday:PATH
-- **[Development Scientist](https://jobrxiv.org/job/development-scientist-6/)** (39) `focus`  
-  Jobfront Industry · Denmark · RSS:jobRxiv scientist
-- **[Principal Scientist, QC Analytical, Cell Therapy](https://jobrxiv.org/job/principal-scientist-qc-analytical-cell-therapy-2/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Downstream Development Scientist](https://jobrxiv.org/job/downstream-development-scientist/)** (35) `focus`  
-  Jobfront Industry · Denmark · RSS:jobRxiv scientist
-- **[Technical Advisor, Pharmaceutical Procurement](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Advisor--Pharmaceutical-Procurement_R5175)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Scientist, Trial Support](https://jobrxiv.org/job/scientist-trial-support/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Principal Toxicologist-Scientist](https://jobrxiv.org/job/senior-principal-toxicologist-scientist/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Principal Toxicologist-Scientist](https://jobrxiv.org/job/principal-toxicologist-scientist/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Scientist, QC Compliance](https://jobrxiv.org/job/senior-scientist-qc-compliance/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Country Director, Ethiopia](https://ngojobsinafrica.com/job/country-director-ethiopia-37/)** (83) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Senior Associate - Monitoring, Learning and Evaluation ( EAII Advisors )](https://apply.workable.com/j/ED3947FC10)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[REQUEST FOR KRA LEDGER RECONCILAITION SERVICES TO CHILDFUND KENYA](https://ngojobsinafrica.com/job/request-for-kra-ledger-reconcilaition-services-to-childfund-kenya/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Senior Scientist Ⅱ, Flow Chemistry](https://jobrxiv.org/job/senior-scientist-%e2%85%b1-flow-chemistry/)** (58) `LMIC/focus`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Monitoring & Evaluation Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Cotonou-Benin/Monitoring---Evaluation-Officer_Requisition-2026201316)** (57) `LMIC/focus`  
+  FHI 360 · Benin · Workday:FHI 360
+- **[Clinical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Cotonou-Benin/Clinical-Officer_Requisition-2026201314)** (57) `LMIC/focus`  
+  FHI 360 · Benin · Workday:FHI 360
+- **[Database Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Cotonou-Benin/Database-Manager_Requisition-2026201315-1)** (57) `LMIC/focus`  
+  FHI 360 · Benin · Workday:FHI 360
+- **[MEAL Officer, OCHA Project- National Position](https://ngojobsinafrica.com/job/meal-officer-ocha-project-national-position/)** (52) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
+- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://jobrxiv.org/job/phd-student-in-experimental-nuclear-physics-with-a-focus-on-neutron-induced-reactions/)** (38)  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Postdoc position in organic synthesis of battery electrolyte solvents](https://jobrxiv.org/job/postdoc-position-in-organic-synthesis-of-battery-electrolyte-solvents/)** (38) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Global Management of Operations (GMO) – Human Resources Specialist](https://ngojobsinafrica.com/job/global-management-of-operations-gmo-human-resources-specialist/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
+- **[Laboratory Scientist Physico-Chemical Quality Control 80-100%](https://jobrxiv.org/job/laboratory-scientist-physico-chemical-quality-control-80-100-2/)** (35) `focus`  
+  Jobfront Industry · Switzerland · RSS:jobRxiv scientist
+- **[Postdoctoral position in Energy Materials Physics with Specialization in Advanced Materials Characterization](https://jobrxiv.org/job/postdoctoral-position-in-energy-materials-physics-with-specialization-in-advanced-materials-characterization/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -73,7 +76,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-506 open positions on the board, 10 of the new ones LMIC-related. 26 fully funded doctoral routes on the PhD page.
+504 open positions on the board, 13 of the new ones LMIC-related. 26 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
