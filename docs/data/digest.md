@@ -25,34 +25,18 @@
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 13 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Director, Finance (Adv#134/2026).](https://career.icddrb.org/vacancy-preview/32292)** (107) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Assistant Professor in Geriatric Mental Health](https://jobrxiv.org/job/assistant-professor-in-geriatric-mental-health/)** (55) `focus`  
-  Jobfront Academia · Sweden · RSS:jobRxiv faculty
-- **[PhD student position in Extracellular Vesicles in Cardiovascular Disease](https://jobrxiv.org/job/phd-student-position-in-extracellular-vesicles-in-cardiovascular-disease/)** (54) `focus`  
+- **[TOR: REVIEW AND REDESIGN OF THE WOMEN SCHOOL OF LEADERSHIP (WSOL) CURRICULUM](https://ngojobsinafrica.com/job/tor-review-and-redesign-of-the-women-school-of-leadership-wsol-curriculum/)** (81) `LMIC/focus`  
+  Ngojobsinafrica · Kenya, Malawi, Ethiopia · RSS:NGO Jobs Africa Kenya
+- **[PhD fellowship in NanoGeoBiolgy](https://jobrxiv.org/job/phd-fellowship-in-nanogeobiolgy/)** (47) `LMIC`  
+  Jobfront Academia · China, Denmark · RSS:jobRxiv PhD
+- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://jobrxiv.org/job/phd-student-in-machine-learning-with-a-focus-on-mathematical-and-statistical-methods-for-uncertainty-quantification/)** (41) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Senior Principal Scientist, Biostatistics](https://jobrxiv.org/job/senior-principal-scientist-biostatistics-3/)** (48) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senor Scientist, Product Lead CMC Regulatory Affairs](https://jobrxiv.org/job/senor-scientist-product-lead-cmc-regulatory-affairs/)** (44) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Postdoctoral position focusing on algorithmic management, work and health](https://jobrxiv.org/job/postdoctoral-position-focusing-on-algorithmic-management-work-and-health/)** (41) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Senior Quantitative Biomarker Scientist](https://jobrxiv.org/job/senior-quantitative-biomarker-scientist/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Professor and Head of School, School of Chemistry and Molecular Biosciences](https://jobrxiv.org/job/professor-and-head-of-school-school-of-chemistry-and-molecular-biosciences/)** (38) `focus`  
-  Jobfront Academia · Australia · RSS:jobRxiv faculty
-- **[Senior Scientist, Product Lead CMC Regulatory Affairs](https://jobrxiv.org/job/senior-scientist-product-lead-cmc-regulatory-affairs-2/)** (34) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Professor of Medical Virology (with the possibility of a combined position)](https://lu.varbi.com/se/what:job/jobID:902067/type:job/where:4/apply:1)** (33) `focus`  
-  Lunds universitet · Sweden · closes 2026-11-26 · Sitemap:Varbi Lund University
-- **[Research Fellow (Coral Reef Ecosystems)](https://jobrxiv.org/job/research-fellow-coral-reef-ecosystems/)** (32)  
-  Jobfront Academia · Singapore · RSS:jobRxiv postdoc
-- **[Senior Scientist, Discovery Process Research](https://jobrxiv.org/job/senior-scientist-discovery-process-research-3/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Staff R&D Scientist](https://jobrxiv.org/job/staff-rd-scientist-3/)** (30)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Children and Youth Services Specialist- 2025883](https://jobs.lever.co/wr/916ce969-670a-4816-b494-5242b6d0380f)** (38) `focus`  
+  Wr · Seychelles · Lever:wr
+- **[Media Relations Coordinator - 2025894](https://jobs.lever.co/wr/d75120dc-5a96-4104-b995-d0a22d916e8f)** (38) `focus`  
+  Wr · Washington D.C. · Lever:wr
 
 ### Closing within 3 days
 
@@ -68,7 +52,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-502 open positions on the board, 11 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+507 open positions on the board, 5 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
