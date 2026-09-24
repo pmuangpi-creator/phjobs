@@ -25,36 +25,24 @@
 - **[Are you a systems thinker interested in co-designing new models for health care delivery?](https://ki.varbi.com/se/what:job/jobID:962574/type:job/where:4/apply:1)**  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-01 · Salaried post
 
-### 14 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Junior Research Associate](https://jobrxiv.org/job/junior-research-associate/)** (57) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Research Fellow -Health Data Science](https://jobrxiv.org/job/research-fellow-health-data-science/)** (51) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-152/)** (48) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Florence Nightingale Bicentenary Fellow in Statistics](https://jobrxiv.org/job/florence-nightingale-bicentenary-fellow-in-statistics-2/)** (47) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Clinical Research Assistant in Sexual Health and HIV](https://jobrxiv.org/job/clinical-research-assistant-in-sexual-health-and-hiv/)** (44) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Church & Community Engagement Specialist - 2025814](https://jobs.lever.co/wr/ad46c75f-ce6e-4da9-bfd4-1bae4b071dae)** (38) `focus`  
-  Wr · United States · Lever:wr
-- **[SOFAIR Fellow/SOFAIR Senior Fellow (UCL Grade 7 to Grade 10)](https://jobrxiv.org/job/sofair-fellow-sofair-senior-fellow-ucl-grade-7-to-grade-10/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Lecturer/ Associate Professor](https://jobrxiv.org/job/lecturer-associate-professor/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv faculty
-- **[Postdoctoral Scholar](https://jobrxiv.org/job/postdoctoral-scholar-8/)** (36)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Canada Impact+ Emerging Leader in the Chemistry of Wildfires – Assistant Professor](https://jobrxiv.org/job/canada-impact-emerging-leader-in-the-chemistry-of-wildfires-assistant-professor/)** (36) `focus`  
-  Jobfront Academia · Canada · RSS:jobRxiv faculty
-- **[Team Leader](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Team-Lead_Requisition-2026200935)** (34) `LMIC`  
+- **[Project Coordinator (EPH-NCDE-2026-06)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-NCDE-2026-06)** (96) `LMIC/focus`  
+  Professional Services · United Kingdom, Brazil, India · RSS:LSHTM epidemiology and population health
+- **[Program Officer – Health AI & Digital Health](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Program-Officer---Health-AI---Digital-Health_JR2814)** (61) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Principal Scientist, PSSM ARD, GMP Analytics, Stability Strategy & Operations](https://jobrxiv.org/job/principal-scientist-pssm-ard-gmp-analytics-stability-strategy-operations/)** (40) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Senior Data Scientist](https://jobrxiv.org/job/senior-data-scientist-78/)** (35) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Chief-of-Party_Requisition-2026200664)** (34) `LMIC`  
   FHI 360 · Belize · Workday:FHI 360
-- **[Deputy Chief of Party](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Deputy-Chief-of-Party_Requisition-2026200639)** (34) `LMIC`  
-  FHI 360 · Belize · Workday:FHI 360
-- **[Clinical Research Fellow](https://jobrxiv.org/job/clinical-research-fellow-28/)** (30) `focus`  
+- **[Postdoctoral Research Associate – Dermatology](https://jobrxiv.org/job/postdoctoral-research-associate-dermatology/)** (30) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Data Scientist](https://jobrxiv.org/job/research-data-scientist-2/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[Associate Scientist II/Scientist I, Predictive Stability](https://jobrxiv.org/job/associate-scientist-ii-scientist-i-predictive-stability/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -70,7 +58,7 @@
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-502 open positions on the board, 13 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+500 open positions on the board, 8 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
