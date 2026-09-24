@@ -25,34 +25,28 @@
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 5 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[TOR: REVIEW AND REDESIGN OF THE WOMEN SCHOOL OF LEADERSHIP (WSOL) CURRICULUM](https://ngojobsinafrica.com/job/tor-review-and-redesign-of-the-women-school-of-leadership-wsol-curriculum/)** (81) `LMIC/focus`  
-  Ngojobsinafrica · Kenya, Malawi, Ethiopia · RSS:NGO Jobs Africa Kenya
-- **[PhD fellowship in NanoGeoBiolgy](https://jobrxiv.org/job/phd-fellowship-in-nanogeobiolgy/)** (47) `LMIC`  
-  Jobfront Academia · China, Denmark · RSS:jobRxiv PhD
-- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://jobrxiv.org/job/phd-student-in-machine-learning-with-a-focus-on-mathematical-and-statistical-methods-for-uncertainty-quantification/)** (41) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Children and Youth Services Specialist- 2025883](https://jobs.lever.co/wr/916ce969-670a-4816-b494-5242b6d0380f)** (38) `focus`  
-  Wr · Seychelles · Lever:wr
-- **[Media Relations Coordinator - 2025894](https://jobs.lever.co/wr/d75120dc-5a96-4104-b995-d0a22d916e8f)** (38) `focus`  
-  Wr · Washington D.C. · Lever:wr
+- **[Manager – Health Supply Chain Transformation (Kenya Nationals Only)](https://ngojobsinafrica.com/job/manager-health-supply-chain-transformation-kenya-nationals-only/)** (75) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Finance Manager – Kenya/ Somalia / Ethiopia (Kenyan Nationals only)](https://ngojobsinafrica.com/job/finance-manager-kenya-somalia-ethiopia-kenyan-nationals-only/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Kenya, Ethiopia · RSS:NGO Jobs Africa Kenya
+- **[Postdoctoral position in Pharmacometrics with a focus on Regulatory Science](https://uu.varbi.com/se/what:job/jobID:971754/type:job/where:4/apply:1)** (63) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Uppsala University
+- **[Canada Impact+ Emerging Leader in Integrative Animal Physiology and One Health – Assistant Professor](https://jobrxiv.org/job/canada-impact-emerging-leader-in-integrative-animal-physiology-and-one-health-assistant-professor/)** (54) `focus`  
+  Jobfront Academia · Canada · RSS:jobRxiv faculty
+- **[Research Fellow – Clinical Diagnostic Translation Research](https://jobrxiv.org/job/research-fellow-clinical-diagnostic-translation-research/)** (44)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Fellow in Molecular Microbiology](https://jobrxiv.org/job/research-fellow-in-molecular-microbiology/)** (38) `focus`  
+  Jobfront Academia · Australia · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
-- **[Postdoctoral fellowship in medical research](https://uu.varbi.com/se/what:job/jobID:957632/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
-- **[Postdoctoral fellowship in clinical research](https://uu.varbi.com/se/what:job/jobID:957663/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
-- **[postdoctoral fellowship in neurological research](https://uu.varbi.com/se/what:job/jobID:957665/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
-- **[postdoctoral fellowship in cardiovascular disease](https://uu.varbi.com/se/what:job/jobID:957666/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-09-24 · Sitemap:Varbi Uppsala University
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)** (51) `focus`  
   Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 
 ---
-507 open positions on the board, 5 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+502 open positions on the board, 5 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
