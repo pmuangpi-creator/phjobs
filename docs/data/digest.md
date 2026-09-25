@@ -1,12 +1,5 @@
-### 1 new fully funded doctoral route
-
-- **[Doktorand inom immunofysiologi](https://uu.varbi.com/se/what:job/jobID:971888/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-16 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-09-25 · Salaried post
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-09-28 · Salaried post
 - **[PhD student in Medical Radiation Physics oriented towards Radiobiology](https://su.varbi.com/se/what:job/jobID:963077/type:job/where:4/apply:1)**  
@@ -29,40 +22,28 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-01 · Salaried post
 - **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
+- **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 13 new, scoring 30 or above
+### 7 new, scoring 30 or above
 
-- **[CALL FOR EXPRESSION OF INTEREST(EOI) Selection of Refugee-Led Organizations (RLOs) to Support Community-Based Project Implementation](https://ngojobsinafrica.com/job/call-for-expression-of-interesteoi-selection-of-refugee-led-organizations-rlos-to-support-community-based-project-implementation/)** (89) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Head of Programmes, South Sudan](https://ngojobsinafrica.com/job/head-of-programmes-south-sudan-6/)** (83) `LMIC/focus`  
+- **[National and International Consultancy with UNFPA South Sudan](https://ngojobsinafrica.com/job/national-and-international-consultancy-with-unfpa-south-sudan/)** (87) `LMIC/focus`  
   Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Safety and Access Manager](https://ngojobsinafrica.com/job/safety-and-access-manager-3/)** (77) `LMIC/focus`  
-  Ngojobsinafrica · Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Market Access Lead](https://ngojobsinafrica.com/job/market-access-lead/)** (74) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Clinical Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Clinical-Specialist_Requisition-2026201264)** (57) `LMIC/focus`  
-  FHI 360 · Ghana · Workday:FHI 360
-- **[Postdoctoral position in Pharmacometrics with a focus on Regulatory Science](https://jobrxiv.org/job/postdoctoral-position-in-pharmacometrics-with-a-focus-on-regulatory-science/)** (57) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Head of Finance Department (NIGERIAN NATIONALS ONLY)](https://ngojobsinafrica.com/job/head-of-finance-department-nigerian-nationals-only/)** (42) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[POSTDOCTORAL OR DOCTORAL RESEARCHER IN PHOTOCATALYTIC RADICAL CHEMISTRY](https://jobrxiv.org/job/postdoctoral-or-doctoral-researcher-in-photocatalytic-radical-chemistry/)** (38) `focus`  
-  Jobfront Academia · Finland · RSS:jobRxiv postdoc
-- **[Safeguarding Specialist](https://ngojobsinafrica.com/job/safeguarding-specialist-3/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Lecturer in Bioentrepreneurship](https://ki.varbi.com/se/what:job/jobID:971267/type:job/where:4/apply:1)** (36) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-19 · Sitemap:Varbi Karolinska Institutet
-- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
-- **[MSAT Development Services Scientist I](https://jobrxiv.org/job/msat-development-services-scientist-i/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Professor of Medical Virology (with the possibility of a combined position)](https://jobrxiv.org/job/professor-of-medical-virology-with-the-possibility-of-a-combined-position/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Senior Epidemiology and Surveillance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Rabat-Morocco/Senior-Epidemiology-and-Surveillance-Officer_Requisition-2026200642-1)** (72) `LMIC/focus`  
+  FHI 360 · Morocco · Workday:FHI 360
+- **[Research Fellow – Data Scientist / Biostatistician](https://jobrxiv.org/job/research-fellow-data-scientist-biostatistician/)** (51) `focus`  
+  Jobfront Academia · Australia · RSS:jobRxiv postdoc
+- **[Research Fellow:  3DTreePrint Project](https://jobrxiv.org/job/research-fellow-3dtreeprint-project/)** (46) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Postdoctoral Scientist – Iron biology and iron trafficking in health and disease](https://jobrxiv.org/job/postdoctoral-scientist-iron-biology-and-iron-trafficking-in-health-and-disease/)** (42) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Postdoctoral Research Assistant in Experimental Hypersonics](https://jobrxiv.org/job/postdoctoral-research-assistant-in-experimental-hypersonics/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Research Data Integration & Software Developer](https://jobrxiv.org/job/research-data-integration-software-developer/)** (38) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
-- **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)** (51) `focus`  
-  Lunds universitet · Sweden · closes 2026-09-25 · Sitemap:Varbi Lund University
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)** (38) `focus`  
   Lunds universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Lund University
 - **[PhD student in Medical Radiation Physics oriented towards Radiobiology](https://su.varbi.com/se/what:job/jobID:963077/type:job/where:4/apply:1)** (38) `focus`  
@@ -73,7 +54,7 @@
   Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
 
 ---
-512 open positions on the board, 13 of the new ones LMIC-related. 26 fully funded doctoral routes on the PhD page.
+507 open positions on the board, 7 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
