@@ -1,3 +1,8 @@
+### 1 new fully funded doctoral route
+
+- **[Doctoral student in traffic safety focusing on data analysis and traffic simulation](https://lu.varbi.com/se/what:job/jobID:970477/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-16 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in advanced data analysis for data integration, image analysis, and precision oncology](https://lu.varbi.com/se/what:job/jobID:963180/type:job/where:4/apply:1)**  
@@ -27,27 +32,27 @@
 
 ### 11 new, scoring 30 or above
 
-- **[STRIDES Ethiopia Administration Support Consultant](https://ngojobsinafrica.com/job/strides-ethiopia-administration-support-consultant/)** (69) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Logistics Assistant](https://ngojobsinafrica.com/job/logistics-assistant-72/)** (53) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Associate Director, Real World Evidence Data Scientist, Gaithersburg, MD](https://jobrxiv.org/job/associate-director-real-world-evidence-data-scientist-gaithersburg-md/)** (47) `focus`  
+- **[Enumerators: Mothers-to-Mothers](https://lastmilehealth.applytojob.com/apply/jvSCvT2HxY/Enumerators-MotherstoMothers)** (83) `LMIC/focus`  
+  Last Mile Health · Liberia · Page:Last Mile Health
+- **[Executive Assistant, Country Director's Office (EAII Advisors)](https://apply.workable.com/j/7CDB175548)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Consultant Solidarity Levies Italy](https://job-boards.greenhouse.io/onecampaign/jobs/6208376004)** (52) `focus`  
+  Onecampaign · Italy · Greenhouse:onecampaign
+- **[Senior Scientist – GenAI Evaluation](https://jobrxiv.org/job/senior-scientist-genai-evaluation/)** (43) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Project Coordinator (Maternity Cover) (PHP-PHES-2026-14)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-PHES-2026-14)** (42) `focus`  
-  Professional Services · United Kingdom · RSS:LSHTM public health and policy
-- **[Associate Scientist – Maternity Replacement](https://jobrxiv.org/job/associate-scientist-maternity-replacement/)** (40) `focus`  
-  Jobfront Industry · Italy · RSS:jobRxiv scientist
-- **[Scientist- Analytical Research and Development](https://jobrxiv.org/job/scientist-analytical-research-and-development/)** (35) `focus`  
+- **[Principal Scientist in Chemical Process R&D](https://jobrxiv.org/job/principal-scientist-in-chemical-process-rd/)** (40) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Sr. Scientist, Antibody Discovery and Engineering](https://jobrxiv.org/job/sr-scientist-antibody-discovery-and-engineering/)** (35) `focus`  
+- **[Sr. Scientist, Translational Medicine](https://jobrxiv.org/job/sr-scientist-translational-medicine/)** (38) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior MEL Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Colombia-Any/Senior-MEL-Officer_Requisition-2026201066)** (34) `LMIC`  
-  FHI 360 · Colombia · Workday:FHI 360
-- **[Project Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Colombia-Any/Project-Manager_Requisition-2026201064-1)** (34) `LMIC`  
-  FHI 360 · Colombia · Workday:FHI 360
-- **[Education Management Information System (EMIS) Technical Lead](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Education-Management-Information-System--EMIS--Technical-Lead_Requisition-2026200936)** (34) `LMIC`  
-  FHI 360 · Belize · Workday:FHI 360
-- **[Principal Scientist – Discovery Oncology](https://jobrxiv.org/job/principal-scientist-discovery-oncology-2/)** (30) `focus`  
+- **[State Coordinator (Consultant)](https://apply.workable.com/j/5BA7EED927)** (37) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[MSAT Assistant Scientist](https://jobrxiv.org/job/msat-assistant-scientist-8/)** (35) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Manager, Program - Immunization Demand Generation (Consultant)](https://apply.workable.com/j/DC1A1F1C21)** (32) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[PhD Position in Oral Biology and Medicine](https://jobrxiv.org/job/phd-position-in-oral-biology-and-medicine/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Associate Scientist, Downstream Processing](https://jobrxiv.org/job/associate-scientist-downstream-processing-2/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -64,7 +69,7 @@
   Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
 
 ---
-501 open positions on the board, 11 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+509 open positions on the board, 11 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
