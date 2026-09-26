@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-26T16:18:57+00:00",
-  "duration_seconds": 532.5,
+  "generated_at": "2026-09-26T17:11:03+00:00",
+  "duration_seconds": 540.7,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 612,
-    "unique_ids": 551,
+    "fetched": 611,
+    "unique_ids": 550,
     "carried_over": 0,
-    "delisted_by_source": 4,
+    "delisted_by_source": 1,
     "expired_dropped": 0,
     "aged_out_no_deadline": 17,
     "duplicates_collapsed": 29,
-    "published": 505,
-    "gate_rejected": 730,
+    "published": 504,
+    "gate_rejected": 731,
     "lmic_duty_station": 139,
     "lmic_focus": 296,
     "with_location": 333,
     "doctoral": {
-      "routes": 51,
+      "routes": 50,
       "fully_funded": 25,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 23,
         "stipend": 2,
-        "unstated": 26
+        "unstated": 25
       },
       "pinned": 14
     },
-    "digest_items": 24
+    "digest_items": 21
   },
   "sources": {
     "bamboohr:idinsight": "ok: 22 postings",

@@ -25,15 +25,6 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 3 new, scoring 30 or above
-
-- **[Postdoc in System Dynamics Modelling and Adolescent Health](https://jobrxiv.org/job/postdoc-in-system-dynamics-modelling-and-adolescent-health/)** (51) `focus`  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
-- **[Postdoctoral Researcher in Biodiversity Science](https://jobrxiv.org/job/postdoctoral-researcher-in-biodiversity-science/)** (46) `focus`  
-  Jobfront Academia · Finland · RSS:jobRxiv postdoc
-- **[Professor or tenure track Assistant / Associate professor in Agricultural economics](https://jobrxiv.org/job/professor-or-tenure-track-assistant-associate-professor-in-agricultural-economics/)** (36) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
-
 ### Closing within 3 days
 
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)** (38) `focus`  
@@ -52,7 +43,7 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 
 ---
-505 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+504 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
