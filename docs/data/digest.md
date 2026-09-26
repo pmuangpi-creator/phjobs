@@ -25,16 +25,14 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 4 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Statistical Data Analyst – Infectious Diseases](https://jobrxiv.org/job/statistical-data-analyst-infectious-diseases/)** (44) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Senior Scientist I/II – Outsourcing Manager, Analytical R&D](https://jobrxiv.org/job/senior-scientist-i-ii-outsourcing-manager-analytical-rd/)** (30) `focus`  
+- **[State Coordinator, IDG, Nassarawa (Consultant)](https://apply.workable.com/j/F88B95DDF7)** (33) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Scientist, Purification, RNA Process Development](https://jobrxiv.org/job/scientist-purification-rna-process-development/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist, II](https://jobrxiv.org/job/scientist-ii-28/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Lecturer in Bioentrepreneurship](https://jobrxiv.org/job/lecturer-in-bioentrepreneurship/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ### Closing within 3 days
 
@@ -54,7 +52,7 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 
 ---
-505 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+502 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
