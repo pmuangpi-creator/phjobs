@@ -25,6 +25,17 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
+### 4 new, scoring 30 or above
+
+- **[Research Associate](https://jobrxiv.org/job/research-associate-81/)** (78) `focus`  
+  Jobfront Academia · United Kingdom, Canada · RSS:jobRxiv research assistant
+- **[Senior Director for Finance & Administration](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-Director-for-Finance---Administration_R5185)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Research Fellow in Behavioural Epidemiology](https://jobrxiv.org/job/research-fellow-in-behavioural-epidemiology-2/)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-56/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+
 ### Closing within 3 days
 
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)** (38) `focus`  
@@ -43,7 +54,7 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 
 ---
-504 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+505 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
