@@ -25,22 +25,16 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 7 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[National and International Consultancy with UNFPA South Sudan](https://ngojobsinafrica.com/job/national-and-international-consultancy-with-unfpa-south-sudan/)** (87) `LMIC/focus`  
-  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Senior Epidemiology and Surveillance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Rabat-Morocco/Senior-Epidemiology-and-Surveillance-Officer_Requisition-2026200642-1)** (72) `LMIC/focus`  
-  FHI 360 · Morocco · Workday:FHI 360
-- **[Research Fellow – Data Scientist / Biostatistician](https://jobrxiv.org/job/research-fellow-data-scientist-biostatistician/)** (51) `focus`  
-  Jobfront Academia · Australia · RSS:jobRxiv postdoc
-- **[Research Fellow:  3DTreePrint Project](https://jobrxiv.org/job/research-fellow-3dtreeprint-project/)** (46) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Postdoctoral Scientist – Iron biology and iron trafficking in health and disease](https://jobrxiv.org/job/postdoctoral-scientist-iron-biology-and-iron-trafficking-in-health-and-disease/)** (42) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Postdoctoral Research Assistant in Experimental Hypersonics](https://jobrxiv.org/job/postdoctoral-research-assistant-in-experimental-hypersonics/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Research Data Integration & Software Developer](https://jobrxiv.org/job/research-data-integration-software-developer/)** (38) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv scientist
+- **[Statistical Data Analyst – Infectious Diseases](https://jobrxiv.org/job/statistical-data-analyst-infectious-diseases/)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Senior Scientist I/II – Outsourcing Manager, Analytical R&D](https://jobrxiv.org/job/senior-scientist-i-ii-outsourcing-manager-analytical-rd/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Scientist, II](https://jobrxiv.org/job/scientist-ii-28/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -52,9 +46,15 @@
   Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
 - **[PhD student in Medical Radiation Physics: AI-Driven Precision Radiotherapy for Spinal Metastases](https://su.varbi.com/se/what:job/jobID:963124/type:job/where:4/apply:1)** (38) `focus`  
   Stockholms universitet · Sweden · closes 2026-09-28 · Sitemap:Varbi Stockholm University
+- **[Postdoctoral researcher in vascular cognitive impairment and dementia](https://ki.varbi.com/se/what:job/jobID:966777/type:job/where:4/apply:1)** (60) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-09-29 · Sitemap:Varbi Karolinska Institutet
+- **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)** (43) `focus`  
+  Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
+- **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)** (37)  
+  Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 
 ---
-507 open positions on the board, 7 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+505 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
