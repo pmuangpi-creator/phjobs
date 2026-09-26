@@ -27,11 +27,11 @@
 
 ### 3 new, scoring 30 or above
 
-- **[State Coordinator, IDG, Nassarawa (Consultant)](https://apply.workable.com/j/F88B95DDF7)** (33) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[Scientist, Purification, RNA Process Development](https://jobrxiv.org/job/scientist-purification-rna-process-development/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Lecturer in Bioentrepreneurship](https://jobrxiv.org/job/lecturer-in-bioentrepreneurship/)** (30) `focus`  
+- **[Postdoc in System Dynamics Modelling and Adolescent Health](https://jobrxiv.org/job/postdoc-in-system-dynamics-modelling-and-adolescent-health/)** (51) `focus`  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
+- **[Postdoctoral Researcher in Biodiversity Science](https://jobrxiv.org/job/postdoctoral-researcher-in-biodiversity-science/)** (46) `focus`  
+  Jobfront Academia · Finland · RSS:jobRxiv postdoc
+- **[Professor or tenure track Assistant / Associate professor in Agricultural economics](https://jobrxiv.org/job/professor-or-tenure-track-assistant-associate-professor-in-agricultural-economics/)** (36) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ### Closing within 3 days
@@ -52,7 +52,7 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 
 ---
-502 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+505 open positions on the board, 3 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 

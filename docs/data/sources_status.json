@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-26T12:19:46+00:00",
-  "duration_seconds": 537.3,
+  "generated_at": "2026-09-26T16:18:57+00:00",
+  "duration_seconds": 532.5,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 608,
-    "unique_ids": 548,
+    "fetched": 612,
+    "unique_ids": 551,
     "carried_over": 0,
-    "delisted_by_source": 7,
+    "delisted_by_source": 4,
     "expired_dropped": 0,
     "aged_out_no_deadline": 17,
     "duplicates_collapsed": 29,
-    "published": 502,
-    "gate_rejected": 734,
+    "published": 505,
+    "gate_rejected": 730,
     "lmic_duty_station": 139,
     "lmic_focus": 296,
-    "with_location": 330,
+    "with_location": 333,
     "doctoral": {
-      "routes": 52,
+      "routes": 51,
       "fully_funded": 25,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 23,
         "stipend": 2,
-        "unstated": 27
+        "unstated": 26
       },
       "pinned": 14
     },
