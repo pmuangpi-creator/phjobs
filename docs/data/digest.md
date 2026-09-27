@@ -51,7 +51,7 @@
   Umeå universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Umea University
 
 ---
-492 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+490 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
