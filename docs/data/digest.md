@@ -25,16 +25,12 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 4 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Program Division Manager](https://ngojobsinafrica.com/job/program-division-manager/)** (40) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Project Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Colombia-Any/Project-Manager_Requisition-2026201064-1)** (34) `LMIC`  
-  FHI 360 · Colombia · Workday:FHI 360
-- **[Education Management Information System (EMIS) Technical Lead](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Education-Management-Information-System--EMIS--Technical-Lead_Requisition-2026200936)** (34) `LMIC`  
-  FHI 360 · Belize · Workday:FHI 360
-- **[Veterinary Technician](https://jobrxiv.org/job/veterinary-technician-3/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Consultant – Digital Health and AI, Digital Health, AI & Medtech](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Consultant---Digital-Health-and-AI--Digital-Health--AI---Medtech_JR2817)** (61) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Postdoctoral Fellow](https://jobrxiv.org/job/postdoctoral-fellow-68/)** (40) `focus`  
+  Jobfront Academia · Australia · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -62,7 +58,7 @@
   Umeå universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Umea University
 
 ---
-492 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+493 open positions on the board, 2 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
