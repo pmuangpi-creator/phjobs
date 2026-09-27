@@ -27,14 +27,14 @@
 
 ### 4 new, scoring 30 or above
 
-- **[Research Associate](https://jobrxiv.org/job/research-associate-81/)** (78) `focus`  
-  Jobfront Academia · United Kingdom, Canada · RSS:jobRxiv research assistant
-- **[Senior Director for Finance & Administration](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-Director-for-Finance---Administration_R5185)** (59) `LMIC/focus`  
-  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Research Fellow in Behavioural Epidemiology](https://jobrxiv.org/job/research-fellow-in-behavioural-epidemiology-2/)** (44) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-56/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Program Division Manager](https://ngojobsinafrica.com/job/program-division-manager/)** (40) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Project Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Colombia-Any/Project-Manager_Requisition-2026201064-1)** (34) `LMIC`  
+  FHI 360 · Colombia · Workday:FHI 360
+- **[Education Management Information System (EMIS) Technical Lead](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Belize-Any/Education-Management-Information-System--EMIS--Technical-Lead_Requisition-2026200936)** (34) `LMIC`  
+  FHI 360 · Belize · Workday:FHI 360
+- **[Veterinary Technician](https://jobrxiv.org/job/veterinary-technician-3/)** (30) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -52,9 +52,17 @@
   Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 - **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)** (37)  
   Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
+- **[Postdoctoral Researcher in in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:965346/type:job/where:4/apply:1)** (52)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-09-30 · Sitemap:Varbi Karolinska Institutet
+- **[Professor in Respiratory Medicine, Combined with a Position as Specialist Physician at Uppsala University Hospital](https://uu.varbi.com/se/what:job/jobID:888099/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Uppsala University
+- **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Uppsala University
+- **[Postdoctor in “The role of exported proteins during malaria infection”](https://umu.varbi.com/se/what:job/jobID:966121/type:job/where:4/apply:1)** (36) `focus`  
+  Umeå universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Umea University
 
 ---
-505 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+492 open positions on the board, 4 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
