@@ -25,13 +25,6 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 2 new, scoring 30 or above
-
-- **[Consultant – Digital Health and AI, Digital Health, AI & Medtech](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Consultant---Digital-Health-and-AI--Digital-Health--AI---Medtech_JR2817)** (61) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Postdoctoral Fellow](https://jobrxiv.org/job/postdoctoral-fellow-68/)** (40) `focus`  
-  Jobfront Academia · Australia · RSS:jobRxiv postdoc
-
 ### Closing within 3 days
 
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)** (38) `focus`  
@@ -58,7 +51,7 @@
   Umeå universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Umea University
 
 ---
-493 open positions on the board, 2 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+492 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
