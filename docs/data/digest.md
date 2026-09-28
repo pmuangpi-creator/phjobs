@@ -1,9 +1,7 @@
-### 2 new fully funded doctoral routes
+### 1 new fully funded doctoral route
 
-- **[PhD student in hydrology - wildfires effect on Arctic water cycle](https://uu.varbi.com/se/what:job/jobID:972009/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-30 · Salaried post
-- **[Post-doctoral fellow in Biology](https://lu.varbi.com/se/what:job/jobID:970629/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-11 · Salaried post
+- **[Doctoral student in Biomedical Engineering specializing in engineering acoustics](https://lu.varbi.com/se/what:job/jobID:963476/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-11-09 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -32,10 +30,40 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
-### 1 new, scoring 30 or above
+### 16 new, scoring 30 or above
 
-- **[PhD student in hydrology - wildfires effect on Arctic water cycle](https://uu.varbi.com/se/what:job/jobID:972009/type:job/where:4/apply:1)** (46) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
+- **[(Senior) Research Officer for Nigeria, Based in Dakar](https://ngojobsinafrica.com/job/senior-research-officer-for-nigeria-based-in-dakar/)** (109) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria, Senegal · RSS:NGO Jobs Africa Nigeria
+- **[Head of Programme Nigeria Abuja](https://ngojobsinafrica.com/job/head-of-programme-nigeria-abuja/)** (95) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[State Program Officer ( EAII Advisors)](https://apply.workable.com/j/929B0EC524)** (80) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Strategy & Business Development Coordinator, Strategy, Partnerships & Communications](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Strategy---Business-Development-Coordinator--Strategy--Partnerships---Communications_JR2818)** (61) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Director for Monitoring, Evaluation, Learning, and Innovation](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Director-for-Monitoring--Evaluation--Learning--and-Innovation_R5195)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Finance Director](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Finance-Director_R5193)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Senior Director Monitoring, Evaluation, Learning, and Innovation](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-Director-Monitoring--Evaluation--Learning--and-Innovation_R5194)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[HR Specilaist](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/HR-Specilaist_R5192)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Research Assistant (EPH-DPH-2026-06)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-DPH-2026-06)** (55) `focus`  
+  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
+- **[Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance](https://uu.varbi.com/se/what:job/jobID:970912/type:job/where:4/apply:1)** (45) `focus`  
+  Uppsala universitet · Sweden · closes 2026-11-09 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral researcher in Geriatric Pharmacoepidemiology](https://ki.varbi.com/se/what:job/jobID:972424/type:job/where:4/apply:1)** (41)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-26 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral Research Associate](https://jobrxiv.org/job/postdoctoral-research-associate-31/)** (40) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Doctoral student in Biomedical Engineering specializing in engineering acoustics](https://lu.varbi.com/se/what:job/jobID:963476/type:job/where:4/apply:1)** (38) `focus`  
+  Lunds universitet · Sweden · closes 2026-11-09 · Sitemap:Varbi Lund University
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
+- **[Principal Scientist, Parenteral ExM MS&T](https://jobrxiv.org/job/principal-scientist-parenteral-exm-mst/)** (34) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Operational Finance Advisor](https://ngojobsinafrica.com/job/operational-finance-advisor/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
 
 ### Closing within 3 days
 
@@ -69,8 +97,6 @@
   Uppsala universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Uppsala University
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)** (38) `focus`  
   Uppsala universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Uppsala University
-- **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://ki.varbi.com/se/what:job/jobID:966110/type:job/where:4/apply:1)** (37)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-01 · Sitemap:Varbi Karolinska Institutet
 - **[Two positions as Assistant Professor at the Faculty of Arts and Humanities](https://umu.varbi.com/se/what:job/jobID:949606/type:job/where:4/apply:1)** (36) `focus`  
   Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
 - **[Assistant professor in a subject of choice at the Faculty of Medicine, with combined clinical employment](https://umu.varbi.com/se/what:job/jobID:950042/type:job/where:4/apply:1)** (36) `focus`  
@@ -79,7 +105,7 @@
   Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
 
 ---
-486 open positions on the board, 1 of the new ones LMIC-related. 27 fully funded doctoral routes on the PhD page.
+497 open positions on the board, 15 of the new ones LMIC-related. 28 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
