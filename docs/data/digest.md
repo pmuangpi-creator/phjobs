@@ -1,3 +1,10 @@
+### 2 new fully funded doctoral routes
+
+- **[PhD student in hydrology - wildfires effect on Arctic water cycle](https://uu.varbi.com/se/what:job/jobID:972009/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Salaried post
+- **[Post-doctoral fellow in Biology](https://lu.varbi.com/se/what:job/jobID:970629/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-11 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)**  
@@ -25,6 +32,11 @@
 - **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-01 · Salaried post
 
+### 1 new, scoring 30 or above
+
+- **[PhD student in hydrology - wildfires effect on Arctic water cycle](https://uu.varbi.com/se/what:job/jobID:972009/type:job/where:4/apply:1)** (46) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
+
 ### Closing within 3 days
 
 - **[Doctoral student in Biology with a specialisation in Microbial Ecology](https://lu.varbi.com/se/what:job/jobID:953578/type:job/where:4/apply:1)** (38) `focus`  
@@ -49,9 +61,25 @@
   Uppsala universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Uppsala University
 - **[Postdoctor in “The role of exported proteins during malaria infection”](https://umu.varbi.com/se/what:job/jobID:966121/type:job/where:4/apply:1)** (36) `focus`  
   Umeå universitet · Sweden · closes 2026-09-30 · Sitemap:Varbi Umea University
+- **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)** (46) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Uppsala University
+- **[Are you a systems thinker interested in co-designing new models for health care delivery?](https://ki.varbi.com/se/what:job/jobID:962574/type:job/where:4/apply:1)** (42)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-01 · Sitemap:Varbi Karolinska Institutet
+- **[Doctoral (Phd) position in Real Time simulation for electrified flexible industry](https://uu.varbi.com/se/what:job/jobID:962041/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Uppsala University
+- **[Bioinformatician with focus on research support within image analysis](https://uu.varbi.com/se/what:job/jobID:965596/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://ki.varbi.com/se/what:job/jobID:966110/type:job/where:4/apply:1)** (37)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-01 · Sitemap:Varbi Karolinska Institutet
+- **[Two positions as Assistant Professor at the Faculty of Arts and Humanities](https://umu.varbi.com/se/what:job/jobID:949606/type:job/where:4/apply:1)** (36) `focus`  
+  Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
+- **[Assistant professor in a subject of choice at the Faculty of Medicine, with combined clinical employment](https://umu.varbi.com/se/what:job/jobID:950042/type:job/where:4/apply:1)** (36) `focus`  
+  Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
+- **[Assistant professor in a subject of choice at the Faculty of Medicine](https://umu.varbi.com/se/what:job/jobID:950044/type:job/where:4/apply:1)** (36) `focus`  
+  Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
 
 ---
-490 open positions on the board, 0 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+486 open positions on the board, 1 of the new ones LMIC-related. 27 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
