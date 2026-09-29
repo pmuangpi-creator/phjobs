@@ -1,3 +1,8 @@
+### 1 new fully funded doctoral route
+
+- **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-10-21 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)**  
@@ -25,20 +30,24 @@
 - **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 
-### 6 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Regional Research and Learning Coordinator, PlayMatters](https://ngojobsinafrica.com/job/regional-research-and-learning-coordinator-playmatters/)** (68) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[Consultant, Web Dashboard Developer-Government Data Integration (EAII Advisors)](https://apply.workable.com/j/020CED0DCF)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[EpiC Kyrgyz Republic Surveillance Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bishkek-Kyrgyzstan/EpiC-Kyrgyz-Republic-Surveillance-Advisor_Requisition-2026201329)** (63) `LMIC/focus`  
-  FHI 360 · Kyrgyz Republic · Workday:FHI 360
-- **[Research Officer (1 Post) - Dar Sep 29, 2026](https://ihi.or.tz/en/our-job-posts/job/356/details/)** (63) `LMIC/focus`  
-  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
-- **[EpiC Kyrgyz Republic Health Information Systems Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bishkek-Kyrgyzstan/EpiC-Kyrgyz-Republic-Health-Information-Systems-Advisor_Requisition-2026201328)** (57) `LMIC/focus`  
-  FHI 360 · Kyrgyz Republic · Workday:FHI 360
-- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Research Associate/Research Fellow, Research Institute for Cancer Prevention, Screening and Early Detection [LKCMedicine]](https://jobrxiv.org/job/research-associate-research-fellow-research-institute-for-cancer-prevention-screening-and-early-detection-lkcmedicine/)** (79) `focus`  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv postdoc
+- **[Quality Control Environmental Monitoring Scientist II](https://jobrxiv.org/job/quality-control-environmental-monitoring-scientist-ii/)** (63) `LMIC/focus`  
+  Jobfront Industry · Lebanon · RSS:jobRxiv scientist
+- **[Associate Director, Finance & Operations, India](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/Associate-Director--Finance---Operations--India_Requisition-2026201312)** (61) `LMIC/focus`  
+  FHI 360 · India · Workday:FHI 360
+- **[Research Associate (Bioinformatics and Cancer Genomics), LKCMedicine](https://jobrxiv.org/job/research-associate-bioinformatics-and-cancer-genomics-lkcmedicine/)** (58) `focus`  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv research assistant
+- **[Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance](https://jobrxiv.org/job/associate-senior-lecturer-scilifelab-fellow-in-antimicrobial-resistance/)** (45) `focus`  
+  Jobfront Academia · Sweden · RSS:jobRxiv postdoc
+- **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)** (38) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-21 · Sitemap:Varbi Uppsala University
+- **[Senior Clinical Research Scientist](https://jobrxiv.org/job/senior-clinical-research-scientist-4/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Postdoctoral researcher in Geriatric Pharmacoepidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-geriatric-pharmacoepidemiology/)** (35)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -74,7 +83,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
 
 ---
-498 open positions on the board, 6 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+495 open positions on the board, 7 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
