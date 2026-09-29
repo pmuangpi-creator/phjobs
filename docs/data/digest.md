@@ -25,52 +25,20 @@
 - **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 
-### 22 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Senior Technical Advisor - HIV](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Senior-Technical-Advisor---HIV_R5189)** (67) `LMIC/focus`  
-  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
-- **[Surveillance Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Guinea-Any/Surveillance-Specialist_Requisition-2026201310)** (63) `LMIC/focus`  
-  FHI 360 · Guinea · Workday:FHI 360
-- **[Senior Program Officer (SPO), EpiC Water Sanitation and Hygiene (WASH)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Program-Officer--SPO---EpiC-Water-Sanitation-and-Hygiene--WASH-_Requisition-2026201319)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Regional Clinical Services Coordinator -  Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Regional-Clinical-Services-Coordinator----Iringa_Requisition-2026201335)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Clinical Services - Morogoro](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Morogoro-Tanzania/Senior-Regional-Technical-Officer--Clinical-Services---Morogoro_Requisition-2026201341)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Clinical Services - Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Senior-Regional-Technical-Officer--Clinical-Services---Iringa_Requisition-2026201344)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Clinical Services - Mtwara](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mtwara-Tanzania/Senior-Regional-Technical-Officer--Clinical-Services---Mtwara_Requisition-2026201346)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Clinical Services - Njombe](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Njombe-Tanzania/Senior-Regional-Technical-Officer--Clinical-Services---Njombe_Requisition-2026201345)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Regional Clinical Services Coordinator -  Zanzibar](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Any/Regional-Clinical-Services-Coordinator----Zanzibar_Requisition-2026201339)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Regional Clinical Services Coordinator -  Ruvuma](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Ruvuma-F-Hanga-Bldg/Regional-Clinical-Services-Coordinator----Ruvuma_Requisition-2026201334)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Regional Clinical Services Coordinator -  Mtwara](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mtwara-Tanzania/Regional-Clinical-Services-Coordinator----Mtwara_Requisition-2026201337)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Regional Clinical Services Coordinator -  Lindi](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lindi-Tanzania/Regional-Clinical-Services-Coordinator----Lindi_Requisition-2026201338)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Clinical Services - Ruvuma](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Ruvuma-F-Hanga-Bldg/Senior-Regional-Technical-Officer--Clinical-Services---Ruvuma_Requisition-2026201343)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Regional Clinical Services Coordinator - Njombe](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Njombe-Tanzania/Regional-Clinical-Services-Coordinator---Njombe_Requisition-2026201336)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Monitoring & Evaluation Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Monitoring---Evaluation-Advisor_R5188)** (57) `LMIC/focus`  
-  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
-- **[Senior Technical Advisor - Malaria](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Senior-Technical-Advisor---Malaria_R5190)** (57) `LMIC/focus`  
-  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
-- **[Senior Associate, Syphillis Free Start](https://apply.workable.com/j/6B57F99E5F)** (53) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[PROVISION OF CLEANING INTERNAL, EXTERNAL FACILITIES AND TEA STEWARD SERVICE](https://ngojobsinafrica.com/job/provision-of-cleaning-internal-external-facilities-and-tea-steward-service/)** (53) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Research Technician/Senior Research Technician](https://jobrxiv.org/job/research-technician-senior-research-technician/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Research Fellow](https://jobrxiv.org/job/research-fellow-141/)** (35) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Manager, Partnerships & Development](https://lastmilehealth.applytojob.com/apply/wN5CpHca6J/Manager-Partnerships-Development)** (35) `focus`  
-  Last Mile Health · United States · Page:Last Mile Health
-- **[Seeking a Postdoctoral Researcher, Research Scientist, or Technical Staff I (26-1328)](https://jobrxiv.org/job/seeking-a-postdoctoral-researcher-research-scientist-or-technical-staff-i-26-1328/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Regional Research and Learning Coordinator, PlayMatters](https://ngojobsinafrica.com/job/regional-research-and-learning-coordinator-playmatters/)** (68) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
+- **[Consultant, Web Dashboard Developer-Government Data Integration (EAII Advisors)](https://apply.workable.com/j/020CED0DCF)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[EpiC Kyrgyz Republic Surveillance Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bishkek-Kyrgyzstan/EpiC-Kyrgyz-Republic-Surveillance-Advisor_Requisition-2026201329)** (63) `LMIC/focus`  
+  FHI 360 · Kyrgyz Republic · Workday:FHI 360
+- **[Research Officer (1 Post) - Dar Sep 29, 2026](https://ihi.or.tz/en/our-job-posts/job/356/details/)** (63) `LMIC/focus`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[EpiC Kyrgyz Republic Health Information Systems Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bishkek-Kyrgyzstan/EpiC-Kyrgyz-Republic-Health-Information-Systems-Advisor_Requisition-2026201328)** (57) `LMIC/focus`  
+  FHI 360 · Kyrgyz Republic · Workday:FHI 360
+- **[Senior Portfolio Manager, NTDs](https://ngojobsinafrica.com/job/senior-portfolio-manager-ntds/)** (36) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
 
 ### Closing within 3 days
 
@@ -102,9 +70,11 @@
   Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
 - **[Assistant professor in a subject of choice at the Faculty of Medicine](https://umu.varbi.com/se/what:job/jobID:950044/type:job/where:4/apply:1)** (36) `focus`  
   Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
+- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
 
 ---
-499 open positions on the board, 22 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+498 open positions on the board, 6 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
