@@ -1,14 +1,10 @@
 ### 1 new fully funded doctoral route
 
-- **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-21 · Salaried post
+- **[PhD student in Psychology](https://su.varbi.com/se/what:job/jobID:969959/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-11-02 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
-- **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-09-29 · Salaried post
 - **[PhD student in core optimisation using machine learning](https://uu.varbi.com/se/what:job/jobID:947191/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-09-30 · Salaried post
 - **[Doctoral student on carbon cycling of primary forests](https://lu.varbi.com/se/what:job/jobID:904656/type:job/where:4/apply:1)**  
@@ -29,34 +25,44 @@
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 - **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
+- **[PhD student in linguistics, focus on child language development](https://su.varbi.com/se/what:job/jobID:967606/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
+- **[PhD student in linguistics, focus on sign language](https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 
-### 8 new, scoring 30 or above
+### 14 new, scoring 30 or above
 
-- **[Research Associate/Research Fellow, Research Institute for Cancer Prevention, Screening and Early Detection [LKCMedicine]](https://jobrxiv.org/job/research-associate-research-fellow-research-institute-for-cancer-prevention-screening-and-early-detection-lkcmedicine/)** (79) `focus`  
-  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv postdoc
-- **[Quality Control Environmental Monitoring Scientist II](https://jobrxiv.org/job/quality-control-environmental-monitoring-scientist-ii/)** (63) `LMIC/focus`  
-  Jobfront Industry · Lebanon · RSS:jobRxiv scientist
-- **[Associate Director, Finance & Operations, India](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/Associate-Director--Finance---Operations--India_Requisition-2026201312)** (61) `LMIC/focus`  
-  FHI 360 · India · Workday:FHI 360
-- **[Research Associate (Bioinformatics and Cancer Genomics), LKCMedicine](https://jobrxiv.org/job/research-associate-bioinformatics-and-cancer-genomics-lkcmedicine/)** (58) `focus`  
-  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv research assistant
-- **[Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance](https://jobrxiv.org/job/associate-senior-lecturer-scilifelab-fellow-in-antimicrobial-resistance/)** (45) `focus`  
-  Jobfront Academia · Sweden · RSS:jobRxiv postdoc
-- **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)** (38) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-21 · Sitemap:Varbi Uppsala University
-- **[Senior Clinical Research Scientist](https://jobrxiv.org/job/senior-clinical-research-scientist-4/)** (38) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Postdoctoral researcher in Geriatric Pharmacoepidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-geriatric-pharmacoepidemiology/)** (35)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Provincial Technical Officer –Surveillance](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nampula-Mozambique/Provincial-Technical-Officer--Surveillance_Requisition-2026201356)** (65) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[District Technical Officer - GHS](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mozambique-Any/District-Technical-Officer---GHS_Requisition-2026201361)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Provincial Technical Officer- Outbreak Response](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nampula-Mozambique/Provincial-Technical-Officer--Outbreak-Response_Requisition-2026201355)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Technical Officer -Laboratory Systems](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Technical-Officer--Laboratory-Systems_Requisition-2026201352-1)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Technical Officer -Stock Pre Positioning](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Technical-Officer--Stock-Pre-Positioning_Requisition-2026201351)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Administrative Assistant/ Recepcionist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Administrative-Assistant--Recepcionist_Requisition-2026201350)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[District Technical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mozambique-Any/District-Technical-Officer_Requisition-2026201358)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Senior Advisor, Field Operations & Surge Management](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Abidjan-Cte-dIvoire/Senior-Advisor--Field-Operations---Surge-Management_Requisition-2026201332)** (57) `LMIC/focus`  
+  FHI 360 · Cote d'Ivoire · Workday:FHI 360
+- **[Postdoctoral Researcher in Dementia and Fall Prevention](https://ki.varbi.com/se/what:job/jobID:972601/type:job/where:4/apply:1)** (52) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-21 · Sitemap:Varbi Karolinska Institutet
+- **[Driver, Ethiopia, Malaria and Neglected Tropical Diseases, REACH Malaria](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Remote/Driver--Ethiopia--Malaria-and-Neglected-Tropical-Diseases--REACH-Malaria_JR2820)** (44) `LMIC/focus`  
+  PATH · Ethiopia · Workday:PATH
+- **[Postdoctoral Position – Discovery of Plasmodium Secreted Effectors in Liver](https://jobrxiv.org/job/university-of-georgia-the-center-for-tropical-and-emerging-global-diseases-ctegd-27778-postdoctoral-position-discovery-of-plasmodium-secreted-effectors-in-liver/)** (42) `LMIC`  
+  Alex Rozenberg · Georgia · RSS:jobRxiv postdoc
+- **[Resettlement Coordinator (PIR Program)- 2025889](https://jobs.lever.co/wr/88438239-e936-4d88-8500-6bc70af8863a)** (38) `focus`  
+  Wr · New Caledonia · Lever:wr
+- **[Assistant Professor of Register-based Psychiatric Epidemiology](https://jobrxiv.org/job/assistant-professor-of-register-based-psychiatric-epidemiology/)** (34)  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Doctoral student in Biomedical Engineering specializing in engineering acoustics](https://jobrxiv.org/job/doctoral-student-in-biomedical-engineering-specializing-in-engineering-acoustics/)** (32) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
 
 ### Closing within 3 days
 
-- **[Postdoctoral researcher in vascular cognitive impairment and dementia](https://ki.varbi.com/se/what:job/jobID:966777/type:job/where:4/apply:1)** (60) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-09-29 · Sitemap:Varbi Karolinska Institutet
-- **[PhD student in Medical Science, Gerontology, in Medical and Health Sciences](https://lu.varbi.com/se/what:job/jobID:964381/type:job/where:4/apply:1)** (43) `focus`  
-  Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
-- **[PhD position in Neuroscience](https://lu.varbi.com/se/what:job/jobID:966346/type:job/where:4/apply:1)** (37)  
-  Lunds universitet · Sweden · closes 2026-09-29 · Sitemap:Varbi Lund University
 - **[Postdoctoral Researcher in in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:965346/type:job/where:4/apply:1)** (52)  
   Karolinska Institutet (KI) · Sweden · closes 2026-09-30 · Sitemap:Varbi Karolinska Institutet
 - **[Professor in Respiratory Medicine, Combined with a Position as Specialist Physician at Uppsala University Hospital](https://uu.varbi.com/se/what:job/jobID:888099/type:job/where:4/apply:1)** (38) `focus`  
@@ -83,7 +89,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
 
 ---
-495 open positions on the board, 7 of the new ones LMIC-related. 25 fully funded doctoral routes on the PhD page.
+477 open positions on the board, 13 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
