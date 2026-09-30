@@ -30,6 +30,13 @@
 - **[PhD student in linguistics, focus on sign language](https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 
+### 2 new, scoring 30 or above
+
+- **[AI/ML Imaging Data Scientist – Personalized Healthcare (Medical Imaging)](https://jobrxiv.org/job/ai-ml-imaging-data-scientist-personalized-healthcare-medical-imaging/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Quality Control Microbiology Principal Scientist](https://jobrxiv.org/job/quality-control-microbiology-principal-scientist/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+
 ### Closing within 3 days
 
 - **[Postdoctoral Researcher in in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:965346/type:job/where:4/apply:1)** (52)  
@@ -58,7 +65,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
 
 ---
-468 open positions on the board, 0 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+470 open positions on the board, 2 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
