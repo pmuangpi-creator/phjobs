@@ -1,7 +1,7 @@
-### 1 new fully funded doctoral route
+### Your doctoral pipeline, next 21 days
 
-- **[PhD student in Psychology](https://su.varbi.com/se/what:job/jobID:969959/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-11-02 · Salaried post
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 21 days)  
+  Supervisor confirmation letter and the safety and ethics declaration have to be in hand before the deadline, so supervisor outreach is the critical path, not the application form.
 
 ### Funded doctoral routes closing within 21 days
 
@@ -30,36 +30,20 @@
 - **[PhD student in linguistics, focus on sign language](https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 
-### 14 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Provincial Technical Officer –Surveillance](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nampula-Mozambique/Provincial-Technical-Officer--Surveillance_Requisition-2026201356)** (65) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[District Technical Officer - GHS](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mozambique-Any/District-Technical-Officer---GHS_Requisition-2026201361)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Provincial Technical Officer- Outbreak Response](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nampula-Mozambique/Provincial-Technical-Officer--Outbreak-Response_Requisition-2026201355)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Technical Officer -Laboratory Systems](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Technical-Officer--Laboratory-Systems_Requisition-2026201352-1)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Technical Officer -Stock Pre Positioning](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Technical-Officer--Stock-Pre-Positioning_Requisition-2026201351)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Administrative Assistant/ Recepcionist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Administrative-Assistant--Recepcionist_Requisition-2026201350)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[District Technical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mozambique-Any/District-Technical-Officer_Requisition-2026201358)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Senior Advisor, Field Operations & Surge Management](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Abidjan-Cte-dIvoire/Senior-Advisor--Field-Operations---Surge-Management_Requisition-2026201332)** (57) `LMIC/focus`  
-  FHI 360 · Cote d'Ivoire · Workday:FHI 360
-- **[Postdoctoral Researcher in Dementia and Fall Prevention](https://ki.varbi.com/se/what:job/jobID:972601/type:job/where:4/apply:1)** (52) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-21 · Sitemap:Varbi Karolinska Institutet
-- **[Driver, Ethiopia, Malaria and Neglected Tropical Diseases, REACH Malaria](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Remote/Driver--Ethiopia--Malaria-and-Neglected-Tropical-Diseases--REACH-Malaria_JR2820)** (44) `LMIC/focus`  
-  PATH · Ethiopia · Workday:PATH
-- **[Postdoctoral Position – Discovery of Plasmodium Secreted Effectors in Liver](https://jobrxiv.org/job/university-of-georgia-the-center-for-tropical-and-emerging-global-diseases-ctegd-27778-postdoctoral-position-discovery-of-plasmodium-secreted-effectors-in-liver/)** (42) `LMIC`  
-  Alex Rozenberg · Georgia · RSS:jobRxiv postdoc
-- **[Resettlement Coordinator (PIR Program)- 2025889](https://jobs.lever.co/wr/88438239-e936-4d88-8500-6bc70af8863a)** (38) `focus`  
-  Wr · New Caledonia · Lever:wr
-- **[Assistant Professor of Register-based Psychiatric Epidemiology](https://jobrxiv.org/job/assistant-professor-of-register-based-psychiatric-epidemiology/)** (34)  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
-- **[Doctoral student in Biomedical Engineering specializing in engineering acoustics](https://jobrxiv.org/job/doctoral-student-in-biomedical-engineering-specializing-in-engineering-acoustics/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Clinical Fellow with Clinical and Diagnostic Services under the Office of Executive Director (Adv#135/2026).](https://career.icddrb.org/vacancy-preview/32293)** (77) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Statistical Data Analyst – Infectious Diseases](https://jobrxiv.org/?post_type=job_listing&p=154254)** (44) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Laboratory Strategic Planning Implementation Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Strategic-Planning-Implementation-Officer_Requisition-2026200822)** (39) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
+- **[Clinical Scientist Undergraduate](https://jobrxiv.org/job/clinical-scientist-undergraduate/)** (39) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Principal Scientist, Aseptic Control – MSAT Process](https://jobrxiv.org/job/principal-scientist-aseptic-control-msat-process/)** (34) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Associate Director / Principal Scientist I, Precision Medicine Immunology](https://jobrxiv.org/job/associate-director-principal-scientist-i-precision-medicine-immunology/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -89,7 +73,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
 
 ---
-477 open positions on the board, 13 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
+468 open positions on the board, 6 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
