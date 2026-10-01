@@ -3,6 +3,11 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 20 days)  
   Supervisor confirmation letter and the safety and ethics declaration have to be in hand before the deadline, so supervisor outreach is the critical path, not the application form.
 
+### 1 new fully funded doctoral route
+
+- **[Doktorand i resilienta elkraftsystem](https://uu.varbi.com/se/what:job/jobID:974190/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-11-12 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks](https://uu.varbi.com/se/what:job/jobID:960428/type:job/where:4/apply:1)**  
@@ -30,14 +35,34 @@
 - **[Doctoral student in traffic safety focusing on data analysis and traffic simulation](https://lu.varbi.com/se/what:job/jobID:970477/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-16 · Salaried post
 
-### 3 new, scoring 30 or above
+### 13 new, scoring 30 or above
 
-- **[Regional Research and Learning Coordinator, PlayMatters](https://ngojobsinafrica.com/job/regional-research-and-learning-coordinator-playmatters/)** (68) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[Senior Data Scientist](https://jobrxiv.org/job/senior-data-scientist-79/)** (67) `LMIC/focus`  
-  Jobfront Industry · India · RSS:jobRxiv scientist
-- **[Programmer II (Hybrid) – Infectious Diseases](https://jobrxiv.org/job/programmer-ii-hybrid-infectious-diseases/)** (35) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[MMC Consultancy on Sudan Displacement Data Analysis and Report Writing](https://ngojobsinafrica.com/job/mmc-consultancy-on-sudan-displacement-data-analysis-and-report-writing/)** (89) `LMIC/focus`  
+  Ngojobsinafrica · Sudan · RSS:NGO Jobs Africa Kenya
+- **[Project Coordinator (ITD-DIB-2026-14)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-14)** (85) `LMIC/focus`  
+  Professional Services · United Kingdom, Burkina Faso, Uganda · RSS:LSHTM infectious and tropical diseases
+- **[Senior Technical Advisor (STA), Public-Private Partnership & Governance, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Advisor--STA---Public-Private-Partnership---Governance--Dar-Es-Salaam_Requisition-2026201377)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Senior Technical Advisor (STA), Workforce Optimization, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Advisor--STA---Workforce-Optimization--Dar-Es-Salaam_Requisition-2026201379-1)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Associate Director, Hub Accounting](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Abidjan-Cte-dIvoire/Associate-Director--Hub-Accounting_Requisition-2026201318-1)** (57) `LMIC/focus`  
+  FHI 360 · Cote d'Ivoire · Workday:FHI 360
+- **[People and Culture Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dakar-Senegal/People-and-Culture-Officer_Requisition-2026201116)** (57) `LMIC/focus`  
+  FHI 360 · Senegal · Workday:FHI 360
+- **[Postdoctoral Researcher in Dementia and Fall Prevention](https://jobrxiv.org/job/postdoctoral-researcher-in-dementia-and-fall-prevention/)** (46) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Postdoctoral researcher in experimental robotics and AI for autonomous battery remanufacturing](https://uu.varbi.com/se/what:job/jobID:974043/type:job/where:4/apply:1)** (44) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-29 · Sitemap:Varbi Uppsala University
+- **[Third-Party Monitoring Experts for Disaster Response Audits in Eastern and Southern Africa](https://ngojobsinafrica.com/job/third-party-monitoring-experts-for-disaster-response-audits-in-eastern-and-southern-africa/)** (44) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Malawi
+- **[Principal Scientist – Translational Medicine, Oncology](https://jobrxiv.org/job/principal-scientist-translational-medicine-oncology/)** (38) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Bioinformatics Scientist](https://jobrxiv.org/job/senior-bioinformatics-scientist-20/)** (38) `focus`  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Manager, Safety Analysis Scientist](https://jobrxiv.org/job/manager-safety-analysis-scientist-3/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -55,11 +80,9 @@
   Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
 - **[Assistant professor in a subject of choice at the Faculty of Medicine](https://umu.varbi.com/se/what:job/jobID:950044/type:job/where:4/apply:1)** (36) `focus`  
   Umeå universitet · Sweden · closes 2026-10-01 · Sitemap:Varbi Umea University
-- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-02 · Sitemap:Varbi Karolinska Institutet
 
 ---
-461 open positions on the board, 3 of the new ones LMIC-related. 23 fully funded doctoral routes on the PhD page.
+460 open positions on the board, 13 of the new ones LMIC-related. 24 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
