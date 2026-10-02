@@ -28,25 +28,39 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 9 new, scoring 30 or above
+### 16 new, scoring 30 or above
 
-- **[Assistant Professor (EPH-DPH-2026-07)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-DPH-2026-07)** (99) `LMIC/focus`  
-  Academic · United Kingdom, Uganda · RSS:LSHTM epidemiology and population health
-- **[Regional Research and Learning Coordinator, PlayMatters](https://ngojobsinafrica.com/job/regional-research-and-learning-coordinator-playmatters/)** (68) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[Post doc position in Psychiatric Genomics and Data Science](https://ki.varbi.com/se/what:job/jobID:975216/type:job/where:4/apply:1)** (39)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Sitemap:Varbi Karolinska Institutet
-- **[Technical Officer (Third 95 Team)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Technical-Officer--Third-95-Team-_Requisition-2026201376)** (39) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
-- **[Histology Technician III – Developmental Biology](https://jobrxiv.org/job/histology-technician-iii-developmental-biology/)** (30) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Senior Scientist in Process Chemistry & Catalysis](https://jobrxiv.org/job/senior-scientist-in-process-chemistry-catalysis/)** (30) `focus`  
+- **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://ki.varbi.com/se/what:job/jobID:975007/type:job/where:4/apply:1)** (63) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral Researcher in Global Public Health, with a Focus on Tuberculosis: Diagnostics, Epidemiology and Treatment](https://ki.varbi.com/se/what:job/jobID:975202/type:job/where:4/apply:1)** (63) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
+- **[Clinical Officer (1 post) - Bagamoyo Oct 02, 2026](https://ihi.or.tz/en/our-job-posts/job/357/details/)** (63) `LMIC/focus`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[Director, Signal Detection Scientist](https://jobrxiv.org/job/director-signal-detection-scientist/)** (62) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Copy of Future Opportunities, Join our talent community for Sr Scientist II/Principal Scientist in Bioprocess Engineering](https://jobrxiv.org/job/copy-of-future-opportunities-join-our-talent-community-for-sr-scientist-ii-principal-scientist-in-bioprocess-engineering/)** (30) `focus`  
+- **[Office Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dushanbe-Tajikistan/Office-Assistant_Requisition-2026201285)** (57) `LMIC/focus`  
+  FHI 360 · Tajikistan · Workday:FHI 360
+- **[Principal Scientist, Translational Computational Biology](https://jobrxiv.org/job/principal-scientist-translational-computational-biology-2/)** (47) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Copy of Copy of Future Opportunities, Join our talent community for Sr Scientist II/Principal Scientist in Bioprocess Engineering](https://jobrxiv.org/job/copy-of-copy-of-future-opportunities-join-our-talent-community-for-sr-scientist-ii-principal-scientist-in-bioprocess-engineering/)** (30) `focus`  
+- **[Senior International Accountant, Global Accounting Operations](https://path.wd1.myworkdayjobs.com/External/job/DRC-Kinshasa-Country-Program-Office/Senior-International-Accountant--Senior-International-Accountant--Global-Accounting-Operations_JR2568)** (41) `LMIC/focus`  
+  PATH · Congo, Dem. Rep. · Workday:PATH
+- **[Principal Scientist, Translational Informatics and Predictive Sciences](https://jobrxiv.org/job/principal-scientist-translational-informatics-and-predictive-sciences/)** (39) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Future Opportunities, Join our talent community for Sr Scientist II/Principal Scientist in Bioprocess Engineering](https://jobrxiv.org/job/future-opportunities-join-our-talent-community-for-sr-scientist-ii-principal-scientist-in-bioprocess-engineering/)** (30) `focus`  
+- **[Postdoctoral researcher in experimental robotics and AI for autonomous battery remanufacturing](https://jobrxiv.org/job/postdoctoral-researcher-in-experimental-robotics-and-ai-for-autonomous-battery-remanufacturing/)** (38) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Doctoral student position in immunometabolism and functional HIV cure](https://jobrxiv.org/job/doctoral-student-position-in-immunometabolism-and-functional-hiv-cure/)** (37)  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Senior Compliance Officer](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Senior-Compliance-Officer_R5153)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Monitoring, Evaluation, Research, and Learning (MERL) Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Monitoring--Evaluation--Research--and-Learning--MERL--Technical-Advisor_R5140)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Technical Advisor, eHealth](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Advisor--eHealth_R5145-1)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Senior Scientist, Pharmacometrics](https://jobrxiv.org/job/senior-scientist-pharmacometrics-4/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[MSAT Downstream Process Scientist I](https://jobrxiv.org/job/msat-downstream-process-scientist-i/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Principal Scientist, Protein Purification, Team Lead](https://jobrxiv.org/job/principal-scientist-protein-purification-team-lead/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -55,7 +69,7 @@
   Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 
 ---
-452 open positions on the board, 8 of the new ones LMIC-related. 20 fully funded doctoral routes on the PhD page.
+471 open positions on the board, 15 of the new ones LMIC-related. 20 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
