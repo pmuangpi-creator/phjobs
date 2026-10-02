@@ -1,67 +1,70 @@
 ### Your doctoral pipeline, next 21 days
 
+- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (in 4 days)  
+  Decide whether to submit at all. Fit was scored 2 of 5 and KI approves no exception to its English 6 requirement, so this needs either an approved test or the medical-degree route, which turns on the WDOMS entry for University of Medicine Magway recording English as the only language of instruction and on the exact 2016 MBBS conferral date.
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 13 days)  
+  Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 17 days)  
+  Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 19 days)  
-  Supervisor confirmation letter and the safety and ethics declaration have to be in hand before the deadline, so supervisor outreach is the critical path, not the application form.
+  Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
+
+### 10 new fully funded doctoral routes
+
+- **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-04 · Salaried post
+- **[PhD position in Systemic Radiotherpy](https://lu.varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-09 · Salaried post
+- **[Doctoral student in Medical Science: Predicting eco-evolutionary dynamics in a polymicrobial urinary tract infection model](https://lu.varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-12 · Salaried post
+- **[PhD position in Dermatology](https://lu.varbi.com/se/what:job/jobID:972280/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-16 · Salaried post
+- **[PhD student position in Surgery](https://lu.varbi.com/se/what:job/jobID:968981/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-19 · Salaried post
+- **[Phd candidate in parkinsons disease ubiquitin control of neuronal survival](https://www.academictransfer.com/en/jobs/364168/phd-candidate-in-parkinsons-disease-ubiquitin-control-of-neuronal-survival/)**  
+  Institution not stated · Netherlands · Salaried post
+- **[Phd position in mechanisms of mixed neuropathologies in alzheimers disease](https://www.academictransfer.com/en/jobs/364276/phd-position-in-mechanisms-of-mixed-neuropathologies-in-alzheimers-disease/)**  
+  Institution not stated · Netherlands · Salaried post
+- **[Phd clinical study on bacteria targeted tracers for detection of infections](https://www.academictransfer.com/en/jobs/364303/phd-clinical-study-on-bacteria-targeted-tracers-for-detection-of-infections/)**  
+  Institution not stated · Netherlands · Salaried post
+- **[Phd position on biophysical origins of rna toxicity in huntingtons disease](https://www.academictransfer.com/en/jobs/364327/phd-position-on-biophysical-origins-of-rna-toxicity-in-huntingtons-disease/)**  
+  Institution not stated · Netherlands · Salaried post
+- **[Phd position in molecular imaging of microbial infections](https://www.academictransfer.com/en/jobs/364371/phd-position-in-molecular-imaging-of-microbial-infections/)**  
+  Institution not stated · Netherlands · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in Physical Geography focusing on Glacial Biogeochemistry](https://su.varbi.com/se/what:job/jobID:966321/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-10-06 · Salaried post
-- **[Post-doctoral fellow in Biology](https://lu.varbi.com/se/what:job/jobID:970629/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-11 · Salaried post
+- **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-04 · Salaried post
+- **[PhD position in Systemic Radiotherpy](https://lu.varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-09 · Salaried post
+- **[Doctoral student in Medical Science: Predicting eco-evolutionary dynamics in a polymicrobial urinary tract infection model](https://lu.varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-12 · Salaried post
 - **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 - **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
-- **[PhD student in linguistics, focus on child language development](https://su.varbi.com/se/what:job/jobID:967606/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
-- **[PhD student in linguistics, focus on sign language](https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 - **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-16 · Salaried post
-- **[Doctoral student in traffic safety focusing on data analysis and traffic simulation](https://lu.varbi.com/se/what:job/jobID:970477/type:job/where:4/apply:1)**  
+- **[PhD position in Dermatology](https://lu.varbi.com/se/what:job/jobID:972280/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-16 · Salaried post
-- **[Doktorand inom immunofysiologi](https://uu.varbi.com/se/what:job/jobID:971888/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-16 · Salaried post
+- **[PhD student position in Surgery](https://lu.varbi.com/se/what:job/jobID:968981/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-10-19 · Salaried post
 - **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-10-21 · Salaried post
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 16 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://ki.varbi.com/se/what:job/jobID:975007/type:job/where:4/apply:1)** (63) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
-- **[Postdoctoral Researcher in Global Public Health, with a Focus on Tuberculosis: Diagnostics, Epidemiology and Treatment](https://ki.varbi.com/se/what:job/jobID:975202/type:job/where:4/apply:1)** (63) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
-- **[Clinical Officer (1 post) - Bagamoyo Oct 02, 2026](https://ihi.or.tz/en/our-job-posts/job/357/details/)** (63) `LMIC/focus`  
-  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
-- **[Director, Signal Detection Scientist](https://jobrxiv.org/job/director-signal-detection-scientist/)** (62) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Office Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dushanbe-Tajikistan/Office-Assistant_Requisition-2026201285)** (57) `LMIC/focus`  
-  FHI 360 · Tajikistan · Workday:FHI 360
-- **[Principal Scientist, Translational Computational Biology](https://jobrxiv.org/job/principal-scientist-translational-computational-biology-2/)** (47) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior International Accountant, Global Accounting Operations](https://path.wd1.myworkdayjobs.com/External/job/DRC-Kinshasa-Country-Program-Office/Senior-International-Accountant--Senior-International-Accountant--Global-Accounting-Operations_JR2568)** (41) `LMIC/focus`  
-  PATH · Congo, Dem. Rep. · Workday:PATH
-- **[Principal Scientist, Translational Informatics and Predictive Sciences](https://jobrxiv.org/job/principal-scientist-translational-informatics-and-predictive-sciences/)** (39) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Postdoctoral researcher in experimental robotics and AI for autonomous battery remanufacturing](https://jobrxiv.org/job/postdoctoral-researcher-in-experimental-robotics-and-ai-for-autonomous-battery-remanufacturing/)** (38) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Doctoral student position in immunometabolism and functional HIV cure](https://jobrxiv.org/job/doctoral-student-position-in-immunometabolism-and-functional-hiv-cure/)** (37)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Senior Compliance Officer](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Senior-Compliance-Officer_R5153)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Monitoring, Evaluation, Research, and Learning (MERL) Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Monitoring--Evaluation--Research--and-Learning--MERL--Technical-Advisor_R5140)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Technical Advisor, eHealth](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Advisor--eHealth_R5145-1)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Senior Scientist, Pharmacometrics](https://jobrxiv.org/job/senior-scientist-pharmacometrics-4/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[MSAT Downstream Process Scientist I](https://jobrxiv.org/job/msat-downstream-process-scientist-i/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Principal Scientist, Protein Purification, Team Lead](https://jobrxiv.org/job/principal-scientist-protein-purification-team-lead/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Technical Officer for Evidence-Based Public Health Messaging and Community Engagement (EMCE/RCCE)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Technical-Officer-for-Evidence-Based-Public-Health-Messaging-and-Community-Engagement--EMCE-RCCE-_Requisition-2026201382)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Senior Technical Officer – Health Emergency Management](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---Health-Emergency-Management_Requisition-2026201383)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Postdoctoral researcher in global health economics beacon hd](https://www.academictransfer.com/en/jobs/363781/postdoctoral-researcher-in-global-health-economics-beacon-hd/)** (44) `focus`  
+   · Netherlands · Sitemap:AcademicTransfer Netherlands
+- **[Research Fellow [LKCMedicine]](https://jobrxiv.org/job/research-fellow-lkcmedicine-14/)** (32)  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -69,7 +72,7 @@
   Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 
 ---
-471 open positions on the board, 15 of the new ones LMIC-related. 20 fully funded doctoral routes on the PhD page.
+427 open positions on the board, 3 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
