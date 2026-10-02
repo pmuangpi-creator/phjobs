@@ -90,7 +90,10 @@ health_gate:
   - laborator
   - diagnostic
   - water sanitation
-  - wash
+  - " wash "          # padded like " tb ". Unpadded it matched washing,
+                      # Washington and dishwasher.
+  - wash programme
+  - wash sector
   - hygiene
   - environmental health
   - occupational health
@@ -100,6 +103,34 @@ health_gate:
   - infectious
   - medicine
   - medical
+
+# ---------------------------------------------------------------------------
+# WEAK: gate terms that are not enough on their own.
+#
+# Every word below is a real health word and has to stay in health_gate, or
+# genuine listings disappear. The trouble is that each one also turns up in
+# ordinary university prose that has nothing to do with health. A posting whose
+# ONLY gate matches come from this list is kept out unless an unambiguous health
+# phrase seconds it (the list is STRONG_HEALTH_PATTERNS in
+# pipeline/classify.py).
+#
+# WHY THIS EXISTS. Before it, the doctoral page led with a PhD in experimental
+# nuclear physics at Uppsala. It had passed the public health gate on the single
+# word "laborator", because the physics department sits in the Angstrom
+# laboratory. Twenty-three of forty-seven doctoral routes were junk on 2 October
+# 2026 and "laborator" alone accounted for eight of them, against zero genuine
+# listings that needed it.
+#
+# Adding a word here makes the gate stricter. If something you wanted goes
+# missing, take its word OUT of this list rather than adding more words to
+# health_gate.
+# ---------------------------------------------------------------------------
+weak_gate:
+  - laborator
+  - diagnostic
+  - medicine
+  - medical
+  - hygiene
 
 # ---------------------------------------------------------------------------
 # EXCLUDE: a posting matching one of these is rejected EVEN IF it passed the

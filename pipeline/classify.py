@@ -144,7 +144,22 @@ LMIC_FOCUS_PATTERNS = [
     r"\busaid\b",
     r"\bfcdo\b",
     r"\bunicef\b",
-    r"\bwho\b",
+    # WHO the agency, never "who" the pronoun.
+    #
+    # This line used to read r"\bwho\b" and it was the single worst bug on the
+    # board. The haystack is lowercased before matching, so every advert
+    # containing an ordinary English relative clause ("a candidate who holds a
+    # master's degree") was tagged LMIC-focused. That tag is worth 18 points, so
+    # 278 of 471 listings carried it and the ranking stopped meaning anything: a
+    # Swedish nuclear physics PhD was scoring 62 and leading the doctoral page.
+    # Match the agency by its full name, or by "WHO" standing next to something
+    # only the agency stands next to.
+    r"\bworld health organi[sz]ation\b",
+    r"\bwho\s+(guidelines?|recommend|consolidated|country office|regional office|"
+    r"collaborating cent|headquarters|classification|strategy|framework|"
+    r"afro|searo|emro|wpro|euro\b)",
+    r"\bwho[-/](unicef|afro|searo|emro|wpro|euro)\b",
+    r"\b(end tb|global tb|global malaria) (strategy|programme|report)\b",
     r"health systems strengthening",
     r"universal health coverage",
     r"\bsdg\b",
@@ -261,17 +276,28 @@ def _any(patterns: list[str], text: str) -> bool:
     return any(re.search(p, text, re.I) for p in patterns)
 
 
-def passes_gate(rec: dict, gate_terms: list[str], exclude_terms: list[str] | None = None) -> bool:
+def passes_gate(
+    rec: dict,
+    gate_terms: list[str],
+    exclude_terms: list[str] | None = None,
+    weak_terms: list[str] | None = None,
+) -> bool:
     """Is this public health work at all?
 
-    Generous by design, with one veto. The gate has to say yes to "medical",
-    "laboratory" and "infectious" or it drops half of what you want, and those
-    same words wave through bench science: a jobRxiv feed of cancer
-    bioinformatics and structural biology postdocs sailed straight past the
-    first version. exclude_terms is the answer. A posting matching one of them
-    is rejected UNLESS it also carries an unambiguous public health term, so a
-    genomic epidemiology post about TB transmission still gets through while a
-    protein crystallography post does not.
+    Generous by design, with two vetoes.
+
+    exclude_terms rejects a posting outright unless it also carries an
+    unambiguous public health term, so a genomic epidemiology post about TB
+    transmission gets through while a protein crystallography post does not.
+
+    weak_terms is the second veto, added after the Swedish university sitemaps
+    arrived. The gate has to accept "laboratory", "medical" and "medicine" or it
+    drops half of what you want. On an NGO board that costs nothing. On a board
+    that advertises every department of a university it costs everything: eight
+    of the twenty-three junk rows on the doctoral page got in on the word
+    "laborator" alone, because Uppsala's physics department sits in the Angstrom
+    laboratory and Stockholm's linguists have a phonetics laboratory. A weak
+    term now has to be seconded by a strong one before it counts.
     """
     if rec.get("assume_health"):
         return True
@@ -284,7 +310,14 @@ def passes_gate(rec: dict, gate_terms: list[str], exclude_terms: list[str] | Non
         if "health" in low or "nutrition" in low or "water sanitation" in low:
             return True
 
-    if not any(term.lower() in text for term in gate_terms):
+    weak = {str(t).lower() for t in (weak_terms or [])}
+    hits = [t.lower() for t in gate_terms if t.lower() in text]
+    if not hits:
+        return False
+
+    # Nothing but weak words. Let it in only if an unambiguous health phrase
+    # seconds them; a laboratory on its own is just a building.
+    if weak and all(h in weak for h in hits) and not _any(STRONG_HEALTH_PATTERNS, text):
         return False
 
     if exclude_terms:
@@ -324,6 +357,16 @@ STRONG_HEALTH_PATTERNS = [
     r"\bhealth promotion\b",
     r"\bprimary (health )?care\b",
     r"\bclinical trial\b",
+    # Added with the weak-term veto. "Infectious disease epidemiology" has to be
+    # able to second its own weak words, or narrowing the gate would throw out
+    # the listings the board exists for.
+    r"\binfectious diseases?\b",
+    r"\bcommunicable diseases?\b",
+    r"\bdisease (control|prevention|burden|transmission|surveillance|modelling|modeling)\b",
+    r"\bmedical (officer|coordinator|doctor|anthropolog|humanitarian)",
+    r"\bclinical (research|epidemiolog|guideline)",
+    r"\bdiagnostics? (for|access|network|pipeline|strengthening)\b",
+    r"\blaboratory (strengthening|network|systems|capacity)\b",
     r"\bnoncommunicable|non-communicable\b",
     r"\bone health\b",
     r"\blow[- ]and middle[- ]income\b",

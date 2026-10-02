@@ -429,6 +429,129 @@ def test_end_to_end() -> None:
     print(f"  wrote {out}")
 
 
+def test_regressions() -> None:
+    """The four defects found on 2 October 2026, each with the case that caught it.
+
+    All four were visible on one screen: the doctoral page opened with a PhD in
+    experimental nuclear physics at Uppsala, scoring 62, above every genuine
+    public health route on the board.
+    """
+    print("\nregressions, 2 October 2026")
+
+    # 1. "who" the pronoun was being read as WHO the agency. Every advert
+    #    containing an ordinary relative clause was tagged LMIC-focused, worth
+    #    18 points, and 278 of 471 listings carried it.
+    def lmic(text):
+        return classify._any(classify.LMIC_FOCUS_PATTERNS, text)
+
+    check("an ordinary relative clause is not the World Health Organization",
+          not lmic("we are looking for a candidate who holds a master's degree"))
+    check("neither is 'a supervisor who will support you'",
+          not lmic("you will join a group with a supervisor who will support you"))
+    check("WHO guidelines still count", lmic("in line with WHO guidelines on TB screening"))
+    check("the full name still counts",
+          lmic("seconded to the World Health Organization country office"))
+    check("WHO/UNICEF still counts", lmic("the WHO/UNICEF joint monitoring programme"))
+
+    # 2. A laboratory is a building. Eight of the twenty-three junk rows on the
+    #    doctoral page got in on the word "laborator" alone.
+    gate = PROFILE["health_gate"]
+    excl = PROFILE["exclude_terms"]
+    weak = PROFILE["weak_gate"]
+    check("the weak list is configured", bool(weak), str(weak))
+
+    physics = rec(
+        "PhD student in experimental nuclear physics",
+        "The Department of Physics and Astronomy is located in the Angstrom laboratory "
+        "and employs nearly 400 people, 100 of whom are doctoral students.",
+    )
+    check("nuclear physics passed the old gate on 'laborator' alone",
+          classify.passes_gate(physics, gate, excl) is True)
+    check("and does not pass the new one",
+          classify.passes_gate(physics, gate, excl, weak) is False)
+
+    tb = rec(
+        "PhD student in infectious disease epidemiology",
+        "The project concerns laboratory diagnosis of tuberculosis in high-burden settings.",
+    )
+    check("a TB listing with the same weak words still passes",
+          classify.passes_gate(tb, gate, excl, weak) is True)
+
+    idmod = rec(
+        "PhD position in infectious disease modelling",
+        "Modelling transmission of communicable disease in low-resource settings.",
+    )
+    check("infectious disease modelling is not collateral damage",
+          classify.passes_gate(idmod, gate, excl, weak) is True)
+
+    lab_strengthening = rec(
+        "Advisor, national laboratory strengthening",
+        "Support the ministry on laboratory network strengthening and diagnostics access.",
+    )
+    check("genuine laboratory-systems work still passes",
+          classify.passes_gate(lab_strengthening, gate, excl, weak) is True)
+
+    washing = rec("Facilities officer", "Duties include washing and cleaning the atrium.")
+    check("'washing' no longer reads as WASH",
+          classify.passes_gate(washing, gate, excl, weak) is False)
+
+    # 3. "post-doctoral" satisfied the veto and the positive test at once,
+    #    because the hyphen is a word boundary, so the two cancelled out.
+    def doc(title):
+        return doctoral.is_doctoral({"category": "phd", "title": title,
+                                     "summary": "", "_body": ""})
+
+    check("'Post-doctoral fellow in Biology' is not a doctoral route",
+          doc("Post-doctoral fellow in Biology") is False)
+    check("nor is the unhyphenated spelling", doc("Postdoctoral researcher") is False)
+    check("nor is 'Postdoc in global health'", doc("Postdoc in global health") is False)
+    check("a real PhD post is unaffected", doc("PhD student in Public Health Sciences") is True)
+    check("a studentship inside a fellowship title survives",
+          doc("Research Fellow (PhD studentship in TB epidemiology)") is True)
+
+    # 4. The pinned panel can now follow the PhD Board sheet, because a
+    #    hand-kept list is only as current as its last edit and this one went a
+    #    month without one.
+    rows = [
+        {"no.": "1", "study field": "TB and conflict", "university/institute": "Karolinska",
+         "department/research group": "Global Public Health", "country": "Sweden",
+         "supervisor/PI": "Knut Lonnroth", "closing date": "2026-11-30",
+         "status": "Emailed supervisor", "funding": "Salaried 4-year position",
+         "next action": "Follow up in 14 days", "link": "https://ki.se", "remarks": "x"},
+        {"no.": "2", "study field": "", "university/institute": "", "status": ""},
+        {"no.": "3", "study field": "Implementation research", "university/institute": "BIPS",
+         "country": "Germany", "status": "Rejected", "funding": "self-funded only",
+         "closing date": "", "next action": ""},
+    ]
+    entries = doctoral.pipeline_from_rows(rows)
+    check("blank template rows are skipped", len(entries) == 2, str(len(entries)))
+    first = entries[0]
+    check("the department is folded into the name",
+          "Global Public Health" in first["name"], first["name"])
+    check("'Emailed supervisor' maps to sent", first["status"] == "sent", first["status"])
+    check("'Salaried 4-year position' maps to salaried", first["funding"] == "salaried")
+    check("the closing date is parsed", first["deadline"] == "2026-11-30", str(first["deadline"]))
+    check("a date from your own sheet is confirmed, never inferred",
+          first["date_confidence"] == "confirmed")
+    check("the supervisor is carried through", first["supervisor"] == "Knut Lonnroth")
+    check("board rows are marked as such for the page", first["from_board"] is True)
+    check("'Rejected' maps to closed", entries[1]["status"] == "closed")
+    check("'self-funded only' maps to unfunded", entries[1]["funding"] == "unfunded")
+    check("an undated row is confidence 'none'", entries[1]["date_confidence"] == "none")
+
+    empty = doctoral.pipeline_from_rows([{"study field": "", "university/institute": ""}])
+    check("a sheet of blank rows yields nothing, so the YAML stays in charge", empty == [])
+
+    # The panel file itself, which is what actually went stale.
+    pinned = doctoral.pipeline_entries(PIPE)
+    overdue_action = [
+        e for e in pinned
+        if e["status"] == "action" and e.get("deadline") and e["deadline"] < date.today().isoformat()
+    ]
+    check("nothing in the panel is still marked 'needs you' after its deadline",
+          not overdue_action, "; ".join(e["name"][:40] for e in overdue_action))
+
+
 if __name__ == "__main__":
     test_sitemaps()
     test_funding()
@@ -436,6 +559,7 @@ if __name__ == "__main__":
     test_detection()
     test_pipeline()
     test_outputs()
+    test_regressions()
     test_end_to_end()
     print(f"\n{PASS} passed, {FAIL} failed")
     sys.exit(1 if FAIL else 0)

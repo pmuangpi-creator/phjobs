@@ -185,11 +185,7 @@ footer{margin-top:26px;color:var(--ink-2);font-size:12px;line-height:1.7;max-wid
     <button class="linkbtn" id="pipeWatch"></button>
     <button class="linkbtn" id="pipeClosed"></button>
   </div>
-  <p class="pipenote">
-    Hand-kept in <code>config/phd_pipeline.yaml</code>, not fetched. A date marked
-    <em>inferred</em> is a pattern from a previous cycle, not something the
-    institution has published; confirm it before you plan around it.
-  </p>
+  <p class="pipenote" id="pipenote"></p>
   <div class="pipegrid" id="pipegrid"></div>
 </section>
 
@@ -436,6 +432,22 @@ function renderPipeline(entries){
   }).length;
   $("pipesub").textContent = live.length + " open" + (due ? " · " + due + " with a date inside 45 days" : "");
 
+  var fromBoard = entries.some(function(e){ return e.from_board; });
+  var overdue = live.filter(function(e){
+    var n = daysUntil(e.deadline);
+    return e.status === "action" && n !== null && n < 0;
+  }).length;
+  $("pipenote").innerHTML =
+    (fromBoard
+      ? 'Read from your PhD Board sheet on every refresh. Edit the sheet, not this page. '
+      : 'Hand-kept in <code>config/phd_pipeline.yaml</code>, not fetched, so it is only as current as its last edit. ') +
+    'A date marked <em>inferred</em> is a pattern from a previous cycle rather than ' +
+    'something the institution has published; confirm it before you plan around it.' +
+    (overdue
+      ? ' <b>' + overdue + ' entr' + (overdue === 1 ? "y is" : "ies are") +
+        ' still marked as needing you after their deadline passed.</b>'
+      : "");
+
   var nWatch = entries.filter(function(e){ return e.status === "watching"; }).length;
   var nClosed = entries.filter(function(e){ return e.status === "closed"; }).length;
 
@@ -498,6 +510,7 @@ function pipeCard(e){
 
   var pills = [];
   pills.push('<span class="pill">' + esc(STATUS[e.status] || e.status || "") + "</span>");
+  if(e.supervisor) pills.push('<span class="pill">' + esc(e.supervisor) + "</span>");
   if(e.funding && FUNDING[e.funding]){
     var fcls = (e.funding === "salaried" || e.funding === "stipend") ? "fund" : "unclear";
     pills.push('<span class="pill ' + fcls + '">' + esc(FUNDING[e.funding]) + "</span>");

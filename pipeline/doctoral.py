@@ -94,7 +94,13 @@ DOCTORAL_TITLE = [
 # doctoral supervision as a matter of course.
 NOT_DOCTORAL_TITLE = [
     r"\bprofessor\b",
-    r"\bpost[- ]?doc",
+    # \w* on purpose, so the whole word is removed when the title is stripped
+    # below. With the old r"\bpost[- ]?doc" the veto matched "post-doctoral" but
+    # left the string "toral" behind, and "post-doctoral" ALSO satisfied
+    # \bdoctoral\b, because the hyphen is a word boundary. The two cancelled out
+    # and "Post-doctoral fellow in Biology" was published as a doctoral route.
+    r"\bpost[- ]?doc\w*",
+    r"\bdoctoral (supervisor|supervision|school committee)\b",
     r"\blecturer\b",
     r"\breader in\b",
     r"\bhead of\b",
@@ -143,9 +149,18 @@ def is_doctoral(rec: dict, extra_patterns=None) -> bool:
     # The title has the final say in both directions. A professorship that
     # supervises doctoral students is not a doctoral route; a post that calls
     # itself a PhD position is, whatever else the body says.
-    if _any(NOT_DOCTORAL_TITLE, title) and not _any(DOCTORAL_TITLE, title):
+    #
+    # The vetoed words are CUT OUT of the title before the positive test runs,
+    # rather than tested alongside it. Otherwise a word that contains its own
+    # contradiction wins both ways: "post-doctoral" matched the veto and then
+    # matched \bdoctoral\b in the same breath, and the post was published.
+    remainder = title
+    for pattern in NOT_DOCTORAL_TITLE:
+        remainder = re.sub(pattern, " ", remainder, flags=re.I)
+
+    if remainder != title and not _any(DOCTORAL_TITLE, remainder):
         return False
-    if _any(DOCTORAL_TITLE, title):
+    if _any(DOCTORAL_TITLE, remainder):
         return True
     if rec.get("category") == "phd":
         return True
@@ -241,6 +256,152 @@ def enrich(rec: dict, cfg: dict) -> dict:
     rec["openness"] = open_score
     rec.pop("assume_funding", None)
     return rec
+
+
+# ---------------------------------------------------------------------------
+# The pinned panel, read from the PhD Board sheet instead of the YAML
+#
+# The YAML version of this panel went a month without an edit and started
+# showing closed deadlines as live and a declined supervisor as an open lead. A
+# hand-kept list only stays true while somebody keeps it, and the PhD Board
+# sheet is already being kept. So the sheet can drive the panel directly: in
+# Google Sheets, File, Share, Publish to web, pick the tab, choose
+# comma-separated values, and put the URL in config/phd.yaml under
+# pipeline_source. Any failure falls back to the YAML rather than emptying the
+# panel.
+# ---------------------------------------------------------------------------
+
+STATUS_SYNONYMS = {
+    "action": ("to apply", "drafting", "draft", "in progress", "preparing", "action",
+               "to contact", "to email", "todo", "to do", "next"),
+    "sent": ("applied", "submitted", "sent", "emailed", "contacted", "awaiting",
+             "waiting", "under review", "interview"),
+    "watching": ("watching", "monitoring", "not open", "upcoming", "shortlist",
+                 "shortlisted", "identified", "researching", "blocked", "on hold"),
+    "closed": ("closed", "rejected", "declined", "withdrawn", "unsuccessful",
+               "ineligible", "lapsed", "expired", "done"),
+}
+
+# Order matters, and it is the same precedence funding_for uses: the vetoes run
+# first. "self-funded only" contains the word "funded", so a stipend-first pass
+# reads it as funded, which is the one mistake this field exists to prevent.
+FUNDING_SYNONYMS = {
+    "unfunded": ("self-fund", "self fund", "unfunded", "no funding", "none"),
+    "partial": ("partial", "fees only", "fee waiver", "tuition only", "not guaranteed"),
+    "salaried": ("salary", "salaried", "employment", "employed", "contract"),
+    "stipend": ("stipend", "scholarship", "fully funded", "fully-funded", "studentship",
+                "fellowship", "funded", "bursary", "grant"),
+}
+
+DEFAULT_COLUMN_MAP = {
+    "name": ["study field", "position", "project", "title"],
+    "institution": ["university/institute", "university", "institute", "institution"],
+    "department": ["department/research group", "department"],
+    "country": ["country"],
+    "supervisor": ["supervisor/pi", "supervisor", "pi"],
+    "deadline": ["closing date", "deadline"],
+    "status": ["status"],
+    "funding": ["funding", "funder/scholarship"],
+    "route": ["position type"],
+    "next_action": ["next action"],
+    "notes": ["remarks", "gaps/eligibility concerns"],
+    "url": ["link", "url"],
+}
+
+
+def _map_value(raw: str, synonyms: dict, default: str) -> str:
+    low = str(raw or "").strip().lower()
+    if not low:
+        return default
+    if low in synonyms:
+        return low
+    for canonical, words in synonyms.items():
+        if any(w in low for w in words):
+            return canonical
+    return default
+
+
+def pipeline_from_rows(rows: list[dict], column_map: dict | None = None) -> list[dict]:
+    """Turn PhD Board rows into panel entries. Pure, so it is testable offline."""
+    cmap = {**DEFAULT_COLUMN_MAP, **(column_map or {})}
+    out: list[dict] = []
+
+    for i, row in enumerate(rows):
+        lower = {str(k).strip().lower(): (v or "") for k, v in row.items() if k}
+
+        def pick(field: str) -> str:
+            for candidate in cmap.get(field, []):
+                value = lower.get(str(candidate).strip().lower())
+                if value and str(value).strip():
+                    return str(value).strip()
+            return ""
+
+        name = pick("name")
+        institution = pick("institution")
+        if not name and not institution:
+            continue                      # a blank template row
+        department = pick("department")
+        if department and department.lower() not in name.lower():
+            name = f"{name}, {department}" if name else department
+
+        status = _map_value(pick("status"), STATUS_SYNONYMS, "watching")
+        funding = _map_value(pick("funding"), FUNDING_SYNONYMS, "unstated")
+        deadline = _parse_sheet_date(pick("deadline"))
+
+        out.append({
+            "id": f"board-{i}",
+            "name": name or institution,
+            "institution": institution,
+            "country": pick("country"),
+            "supervisor": pick("supervisor"),
+            "route": "post",
+            "funding": funding,
+            "deadline": deadline,
+            # A date typed into your own sheet is a date you put there, so it is
+            # confirmed when present and "none" when the cell is empty. Nothing
+            # from the sheet is ever labelled inferred.
+            "date_confidence": "confirmed" if deadline else "none",
+            "status": status,
+            "affiliation": False,
+            "next_action": pick("next_action"),
+            "notes": pick("notes"),
+            "url": pick("url"),
+            "from_board": True,
+        })
+    return out
+
+
+def _parse_sheet_date(value: str) -> str:
+    from fetch.common import parse_date
+    return parse_date(value) or ""
+
+
+def pipeline_from_csv(url: str, column_map: dict | None = None) -> tuple[list[dict], str]:
+    """Fetch a published-to-web CSV of the PhD Board. Returns (entries, status)."""
+    import csv
+    import io
+
+    from fetch.common import get
+
+    try:
+        text = get(url).text
+    except Exception as exc:  # noqa: BLE001
+        return [], f"error: {exc}"
+
+    # A sheet that is not actually published to the web answers with Google's
+    # sign-in page, which parses as CSV perfectly happily and yields nonsense.
+    if "<html" in text[:400].lower():
+        return [], "error: got an HTML page, not CSV. Is the sheet published to the web?"
+
+    try:
+        rows = list(csv.DictReader(io.StringIO(text)))
+    except Exception as exc:  # noqa: BLE001
+        return [], f"error: could not parse the CSV ({exc})"
+
+    entries = pipeline_from_rows(rows, column_map)
+    if not entries:
+        return [], f"error: {len(rows)} rows read, none had a name or an institution"
+    return entries, f"ok: {len(entries)} rows from the PhD Board"
 
 
 def pipeline_entries(cfg: dict) -> list[dict]:

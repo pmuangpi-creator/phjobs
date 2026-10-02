@@ -188,6 +188,28 @@ nationality_terms:
 # What the doctoral page shows by default. Every one of these is a filter the
 # sidebar can switch off; none of them delete data from phd.json.
 # ---------------------------------------------------------------------------
+#
+# WHERE THE PINNED PANEL COMES FROM
+#
+# Off: the panel is config/phd_pipeline.yaml, hand-kept. That file went a month
+# without an edit and started showing closed deadlines as live, which is the
+# failure mode of every hand-kept list.
+#
+# On: the panel is the PhD Board sheet, which you already keep. In Google
+# Sheets: File, Share, Publish to web, pick the tab, choose comma-separated
+# values, publish, and paste the URL below. Anyone with the link can then read
+# that tab, so publish the PhD Board and not a sheet with anything private in
+# it. If the fetch fails for any reason the YAML panel is used instead, so the
+# panel gets older rather than disappearing.
+#
+# Column names are matched case-insensitively against the PhD Board's own
+# headers and the first one found wins. Override any of them under column_map
+# if you rename a column.
+pipeline_source:
+  enabled: false
+  url: ""
+  column_map: {}
+
 defaults:
   fully_funded_only: true      # the scope you set: salaried posts and
                                # stipend-plus-fees awards, nothing else

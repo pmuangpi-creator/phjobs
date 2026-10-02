@@ -8,6 +8,8 @@ later the board reflects your edit.
 | I want to... | Edit |
 |---|---|
 | change what counts as a public health job at all | `config/profile.yaml` → `health_gate` |
+| stop a generic word letting junk in | `config/profile.yaml` → `weak_gate` |
+| make the PhD panel follow the PhD Board sheet | `config/phd.yaml` → `pipeline_source` |
 | stop seeing a kind of job | `config/profile.yaml` → `exclude_terms` or `negative_weights` |
 | change what floats to the top | `config/profile.yaml` → `theme_weights`, `country_weights`, `lmic_weights` |
 | add or remove a job source | `config/sources.yaml` |
@@ -39,7 +41,29 @@ a board that silently swallows the job you wanted is worthless.
 
 ### 2. Something you keep seeing and do not want
 
-Two different tools, and picking the wrong one is the usual mistake.
+Three tools, and picking the wrong one is the usual mistake.
+
+**`weak_gate`** is the one to reach for when a generic word is letting a whole
+category of junk through. On 2 October 2026 the doctoral page was led by a PhD
+in experimental nuclear physics: it had passed the public health gate on the
+single word `laborator`, because Uppsala's physics department sits in the
+Ångström laboratory. Eight of the twenty-three junk rows that day got in the
+same way, against zero genuine listings that needed the word.
+
+```yaml
+weak_gate:
+  - laborator
+  - diagnostic
+  - medicine
+  - medical
+```
+
+A posting whose only gate matches come from this list is kept out unless it also
+matches an unambiguous health phrase (`STRONG_HEALTH_PATTERNS` in
+`pipeline/classify.py`). So "laboratory diagnosis of tuberculosis" still passes,
+on `tuberculosis`, and "Ångström laboratory" does not. If something you wanted
+goes missing after you add a word here, take the word back out rather than
+piling more words into `health_gate`.
 
 **`exclude_terms`** removes a posting entirely, unless it also carries an
 unambiguous public health term. Use it for whole fields you never want:
@@ -202,6 +226,33 @@ no deadline, a funding scheme, a supervisor you have written to.
 
 `status` drives both the ordering and what shows by default: `action` and `sent`
 are open on load, `watching` and `closed` are behind a link.
+
+### Or let the PhD Board sheet drive it
+
+The file above is only as current as its last edit, and that is its weakness: it
+sat untouched from 5 September to 2 October 2026 and spent most of that month
+showing two closed deadlines as live and a supervisor who had declined as an
+open lead. The PhD Board sheet is the list you actually keep, so point the panel
+at it instead. In Google Sheets: **File, Share, Publish to web**, pick the PhD
+Board tab, choose **comma-separated values**, publish, copy the URL.
+
+```yaml
+pipeline_source:
+  enabled: true
+  url: "https://docs.google.com/spreadsheets/d/e/…/pub?gid=0&single=true&output=csv"
+```
+
+Column names are matched case-insensitively against the Board's own headers, so
+*university/institute*, *closing date*, *status*, *funding*, *supervisor/PI*,
+*next action*, *link* and *remarks* are picked up with no configuration. Status
+and funding text is mapped onto the five values the page knows, so "Emailed
+supervisor" becomes *sent* and "Salaried 4-year position" becomes *salaried*.
+Anything it cannot read becomes *watching* rather than disappearing.
+
+Publishing to the web means anyone with that URL can read that tab. Publish the
+PhD Board, not a sheet with anything private in it. If the fetch fails for any
+reason the YAML panel is used instead and the source-health panel says so, so
+the worst case is an older panel rather than an empty one.
 
 `date_confidence` is not decoration. `inferred` means the date is a pattern from
 a previous cycle rather than something the institution has published, and the

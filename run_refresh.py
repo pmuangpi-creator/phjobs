@@ -193,10 +193,11 @@ def main() -> int:
     # --- gate, enrich ----------------------------------------------------
     gate_terms = profile.get("health_gate") or []
     exclude_terms = profile.get("exclude_terms") or []
+    weak_terms = profile.get("weak_gate") or []
     kept: list[dict] = []
     rejected = 0
     for rec in raw:
-        if classify.passes_gate(rec, gate_terms, exclude_terms):
+        if classify.passes_gate(rec, gate_terms, exclude_terms, weak_terms):
             kept.append(classify.enrich(rec, profile, classifier))
         else:
             rejected += 1
@@ -280,7 +281,21 @@ def main() -> int:
             r.get("deadline") or "9999-12-31",
         )
     )
+    # The panel comes from the PhD Board sheet when one is configured, and from
+    # config/phd_pipeline.yaml otherwise. The YAML is also the fallback whenever
+    # the sheet cannot be read, so a sharing setting changed by accident makes
+    # the panel older, never empty.
     pinned = doctoral.pipeline_entries(pipeline_cfg)
+    board = phd_cfg.get("pipeline_source") or {}
+    if board.get("enabled") and board.get("url"):
+        from_board, board_status = doctoral.pipeline_from_csv(
+            board["url"], board.get("column_map")
+        )
+        status["phd-board-sheet"] = board_status
+        if from_board:
+            pinned = from_board
+        else:
+            log.warning("PhD Board sheet unreadable (%s); using the YAML panel", board_status)
     funding_counts: dict[str, int] = {}
     for r in routes:
         funding_counts[r["funding"]] = funding_counts.get(r["funding"], 0) + 1

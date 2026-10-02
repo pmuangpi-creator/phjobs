@@ -1,10 +1,14 @@
 # The pinned panel at the top of the doctoral page: routes already being worked.
 #
-# Hand-kept on purpose. These are here because a decision was made about them,
-# not because a feed mentioned them, and several have no advert to fetch at all
-# (the Heidelberg central route publishes no vacancy; DAAD is a funding scheme,
-# not a post). Nothing in this file is fetched, scored or expired. Edit it when
-# something moves and the page follows on the next run.
+# Hand-kept on purpose. Nothing here is fetched, scored or expired, so it holds
+# routes with no advert to fetch: a central doctoral application with no
+# deadline, a funding scheme, a supervisor who has been written to.
+#
+# THIS FILE GOES STALE IF NOBODY EDITS IT. It did: between 5 September and
+# 2 October 2026 the panel still showed two 15 September deadlines as live and
+# still listed Denkinger as an open Heidelberg lead after she had declined. If
+# you would rather the panel followed the PhD Board sheet automatically, set
+# pipeline_source in config/phd.yaml and these rows become the fallback only.
 #
 # FIELDS
 #   status          action | sent | watching | closed
@@ -14,17 +18,39 @@
 #                     closed    finished, kept for the record
 #   deadline        YYYY-MM-DD, or blank where none is published
 #   date_confidence confirmed | inferred | none
-#                     inferred means the date is a pattern from a previous
-#                     cycle, not something the institution has published. The
-#                     page labels these so they are never mistaken for a fact.
 #   funding         salaried | stipend | partial | unfunded | unstated
 #   affiliation     true when the route needs an employer at home to release you
-#   next_action     the single next thing, in your words
+#   next_action     the single next thing
 #
-# The dates below were confirmed at the time they were entered. Confirm every
-# one on the institution's own page before you rely on it.
+# Last reviewed 2 October 2026. Confirm every date on the institution's own page
+# before planning around it.
 
 pipeline:
+
+  # -- due inside a month ---------------------------------------------------
+
+  - name: Doctoral post, commercial determinants of health
+    institution: Department of Public Health Sciences, Stockholm University
+    country: Sweden
+    route: post
+    funding: salaried
+    deadline: "2026-10-15"
+    date_confidence: confirmed
+    status: action
+    affiliation: false
+    url: https://www.su.se/english/about-the-university/work-at-su/available-jobs
+    next_action: >-
+      Send the Storbjork email and the one to director of studies Sara Brolin
+      Laftman. Both are drafted and unsent. Check the transcript for the credit
+      values of the Qualitative and Quantitative Research Methods modules first,
+      because the post requires at least 7.5 advanced-level methods credits.
+    notes: >-
+      Salaried four-year post, qualitative, main supervisor Jessica Storbjork
+      (SoRAD). Platsbanken ref 10087159. Concept note angle chosen: commercial
+      appropriation of the harm reduction frame in Swedish and EU nicotine
+      policy. No English test to submit, relying on the English-medium BRAC MPH.
+      Open question: degree conferral pending against "requirements met by the
+      deadline". Pack in OUTPUTS/StockholmU_PhD_CDH_2026-10.
 
   - name: DAAD Research Grants, Doctoral Programmes in Germany
     institution: DAAD, via the Regional Office in Hanoi
@@ -37,71 +63,141 @@ pipeline:
     affiliation: false
     url: https://www.daad.de/en/study-and-research-in-germany/scholarships/
     next_action: >-
-      Supervisor confirmation letter and the safety and ethics declaration have
-      to be in hand before the deadline, so supervisor outreach is the critical
-      path, not the application form.
+      Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft
+      the supervision and ethics letter for Mueller to sign, and cut the
+      proposal from nine pages to about seven so the previous-research section
+      fits the ten-page combined limit.
     notes: >-
-      Funding runs from October 2027. Two questions still open: whether a
-      Dr. sc. hum. from a medical faculty falls under DAAD's separate
-      human-medicine regulations, and whether Hanoi or DAAD Thailand owns the
-      file given Myanmar nationality with residence in Bangkok.
+      Funding runs from October 2027. DAAD excludes Dr. med., Dr. med. vet. and
+      Dr. med. dent. from funding and funds Dr. rer. nat., Dr. rer. medic. and
+      Dr. rer. med., so Mueller's suggestion that the Dr. med. is the easier
+      route would make the application ineligible. Verified document limits: CV
+      3 pages, motivation letter 1-2, proposal plus previous research 10 total,
+      agreed schedule, supervision letter, degree certificate with final grades,
+      one academic reference. Pending MPH conferral against the degree
+      certificate requirement is unresolved.
 
-  - name: Heidelberg Institute of Global Health, central doctoral route
-    institution: Heidelberg Institute of Global Health (HIGH)
+  - name: Doctoral post, heat, cold and air pollution in pregnancy
+    institution: Institute of Environmental Medicine, Karolinska Institutet
+    country: Sweden
+    route: post
+    funding: salaried
+    deadline: "2026-10-06"
+    date_confidence: confirmed
+    status: action
+    affiliation: false
+    url: https://ki.se/en/about/work-at-ki/vacancies
+    next_action: >-
+      Decide whether to submit at all. Fit was scored 2 of 5 and KI approves no
+      exception to its English 6 requirement, so this needs either an approved
+      test or the medical-degree route, which turns on the WDOMS entry for
+      University of Medicine Magway recording English as the only language of
+      instruction and on the exact 2016 MBBS conferral date.
+    notes: >-
+      Salaried four-year post, ref STOD 2-3766/2026, contact and likely main
+      supervisor Jeroen de Bont, Unit of Environmental Epidemiology. Clears the
+      stated epidemiology and biostatistics minimum but has no environmental
+      epidemiology, no R, none of the named methods and no publications. The R
+      gap is named openly in the pack with a transition plan. Pack in
+      OUTPUTS/KI_IMM_PhD_deBont_2026-10.
+
+  # -- with them, waiting ---------------------------------------------------
+
+  - name: Dr. sc. hum., supervision agreed with Olaf Mueller
+    institution: Heidelberg Institute of Global Health
     country: Germany
-    route: programme
+    route: post
     funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: action
+    affiliation: false
+    url: https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health
+    next_action: >-
+      Get an ECTS or credit-value statement from BRAC. It is the blocking
+      document for Heidelberg admission and it answers the Stockholm methods
+      credit question at the same time.
+    notes: >-
+      Mueller agreed to supervise and to sign the DAAD supervision and ethics
+      letter, on condition that Muang drafts it. Denkinger declined for lack of
+      capacity and that route is closed. Yesim Tozan would advise on the panel
+      component. Heidelberg's Dr. sc. hum. rules generally exclude a medical
+      degree alone and admit medical graduates holding a relevant non-clinical
+      Master's of at least 120 ECTS, with a conditional route at 60 ECTS plus 60
+      of extra coursework. The BRAC MPH states no credit values.
+
+  - name: Supervision enquiry, Knut Lonnroth
+    institution: Karolinska Institutet
+    country: Sweden
+    route: post
+    funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: action
+    affiliation: false
+    url: https://ki.se/en
+    next_action: >-
+      Send it. The email opens on his group's active case finding work, moves to
+      the conflict gap, asks the funding question directly and offers to build a
+      scholarship application around his supervision. CV plus the two-page
+      summary attached, not the full proposal.
+    notes: >-
+      Draft and the Karolinska two-page summary are in
+      OUTPUTS/PhD_Supervisor_Outreach_2026-09. Do not reuse
+      Muang_Research_Summary_TB_Conflict.docx from the DAAD folder: it still
+      carries the superseded continuity-of-services framing and the
+      pre-correction citation.
+
+  - name: PhD Epidemiology, Global Health stream
+    institution: School of Population and Global Health, McGill University
+    country: Canada
+    route: post
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: action
+    affiliation: false
+    url: https://www.mcgill.ca/epi-biostat-occh/
+    next_action: >-
+      Send the departmental enquiry and the Faiz Ahmad Khan email, both drafted.
+      The hook used is computer-assisted chest X-ray analysis.
+    notes: >-
+      Funding is not unguaranteed, correcting the 7 September row: the Faculty
+      of Medicine and Health Sciences publishes minimum packages and the School
+      follows them, CAD 47,251 total for international PhD years 1-4 in 2026-27,
+      covering living costs, tuition, fees and insurance. Main risk is M.Sc.
+      routing, since the admission page strongly recommends a simultaneous M.Sc.
+      application where epidemiology-specific training is absent and a general
+      MPH with no named concentration is that profile; it also asks for
+      undergraduate calculus. This is the one route where the English question
+      may not bite, since the requirement applies only to applicants without a
+      degree from an English-language institution. Other supervisor candidates
+      at the International TB Centre: Oxlade, Campbell, Menzies, with Joanne Liu
+      for the conflict side.
+
+  - name: Supervision enquiry, Emma McBryde
+    institution: AITHM, James Cook University
+    country: Australia
+    route: post
+    funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: action
+    affiliation: false
+    url: https://www.jcu.edu.au/aithm
+    next_action: Send the draft in OUTPUTS/PhD_Supervisor_Outreach_2026-09.
+
+  - name: Cambodia HIV and TB key populations
+    institution: NUS Saw Swee Hock School of Public Health
+    country: Singapore
+    route: post
+    funding: stipend
     deadline: ""
     date_confidence: none
     status: sent
     affiliation: false
-    url: https://www.klinikum.uni-heidelberg.de/heidelberger-institut-fuer-global-health
-    next_action: >-
-      Denkinger enquiry went out 31 August 2026. The Mueller, Deckert and Dureab
-      drafts are written and unsent; send them rather than waiting on one reply.
-    notes: >-
-      No deadline, reviewed quarterly. Three PDFs under 5MB total: cover letter
-      1 to 2 pages stating personal details, motivation, topics, preferred
-      supervisor, previous contact and funding status; CV with grades, teaching,
-      publications with hyperlinks and referee contacts; proposal of 1 to 2
-      pages. Pairs with the DAAD deadline above, which is where the money is.
-
-  - name: PhD scholarship, maternal RSV vaccination and child respiratory health
-    institution: UNSW Sydney
-    country: Australia
-    route: post
-    funding: stipend
-    deadline: "2026-09-15"
-    date_confidence: confirmed
-    status: action
-    affiliation: false
-    url: https://www.unsw.edu.au/research/hdr
-    next_action: >-
-      CV and transcripts by email to Dr Fekede Kumsa (f.kumsa@unsw.edu.au). Ask
-      in the same message whether a tuition fee scholarship exists for
-      international applicants alongside the AUD 40,000 stipend.
-    notes: >-
-      Analysis of large linked routinely collected health datasets. Two gaps to
-      name rather than hide: no experience with linked administrative data at
-      population scale, and Stata rather than R.
-
-  - name: Individual Sandwich PhD, ITM-DGD 2027 call
-    institution: Institute of Tropical Medicine Antwerp
-    country: Belgium
-    route: programme
-    funding: stipend
-    deadline: "2026-09-15"
-    date_confidence: confirmed
-    status: watching
-    affiliation: true
-    url: https://www.itg.be/en/education/phd
-    next_action: >-
-      Decide whether to spend the days before the deadline on this at all. The
-      scheme is built for ITM alumni embedded in a home institute, and the DGD
-      priority list names Cambodia and Vietnam, not Myanmar.
-    notes: >-
-      Requires a home-country employer granting study leave and supplying a
-      co-supervisor. That is the constraint, not the CV.
+    url: https://sph.nus.edu.sg/education/phd-programme/
+    next_action: Follow up with A/Prof Siyan Yi.
 
   - name: PhD studentship, implementation research and mental health prevention
     institution: BIPS, University of Bremen
@@ -113,23 +209,7 @@ pipeline:
     status: sent
     affiliation: false
     url: https://www.bips-institut.de/en/institute/careers.html
-    next_action: Follow up with Prof. Dr. Daniela Fuhr if no reply.
-    notes: Reference A26-20.
-
-  - name: Doctoral supervision enquiry, humanitarian studies
-    institution: International Institute of Social Studies, Erasmus University Rotterdam
-    country: Netherlands
-    route: post
-    funding: unstated
-    deadline: ""
-    date_confidence: none
-    status: action
-    affiliation: false
-    url: https://www.iss.nl/en/research/phd-programme
-    next_action: >-
-      Send the supervision enquiry to Prof. Dorothea Hilhorst with the TB and
-      armed conflict proposal.
-    notes: Priority Netherlands target.
+    next_action: Follow up with Prof. Dr. Daniela Fuhr if no reply. Reference A26-20.
 
   - name: PhD opportunity, Public Health and Population Health track
     institution: NTU HABITS, Nanyang Technological University
@@ -142,9 +222,75 @@ pipeline:
     affiliation: false
     url: https://www.ntu.edu.sg/
     next_action: Follow up with Dr. Rakhi Verma.
+
+  - name: Doctoral supervision enquiry, humanitarian studies
+    institution: International Institute of Social Studies, Erasmus University Rotterdam
+    country: Netherlands
+    route: post
+    funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: sent
+    affiliation: false
+    url: https://www.iss.nl/en/research/phd-programme
+    next_action: Follow up with Prof. Dorothea Hilhorst.
+
+  # -- blocked or waiting on something outside your control -----------------
+
+  - name: Supervision enquiry, Simon Reid
+    institution: School of Public Health, University of Queensland
+    country: Australia
+    route: post
+    funding: stipend
+    deadline: "2026-10-19"
+    date_confidence: confirmed
+    status: watching
+    affiliation: false
+    url: https://scholarships.uq.edu.au/scholarship/uq-graduate-research-scholarship
+    next_action: >-
+      Blocked. The Graduate Research School EOI requires English proficiency
+      documents at submission and there is no current IELTS, TOEIC or TOEFL
+      score, which closes the 19 October round. Book a test or let this round go.
+
+  - name: NIHR ARC North West Coast, Round 1
+    institution: University of Liverpool
+    country: United Kingdom
+    route: programme
+    funding: unstated
+    deadline: ""
+    date_confidence: none
+    status: watching
+    affiliation: false
+    url: https://arc-nwc.nihr.ac.uk/
+    next_action: >-
+      Ask ARC NWC directly whether non-UK applicants are eligible, and what the
+      Round 1 deadline and funding terms are. None of the three is published.
+      The directory also says applications without prior supervisor contact are
+      not considered, so eligibility has to be settled before any outreach.
     notes: >-
-      Letter of motivation anchored on NCD screening and management in
-      humanitarian settings.
+      Eleven of 76 projects scored 4 or 5, all at Liverpool: refs 036, 042, 057
+      and 076 at 5, and 003, 023, 024, 029, 055, 061, 075 at 4. Outreach drafts
+      in OUTPUTS/ARC_NWC_Round1_2026-09.
+
+  - name: Predoctoral grant
+    institution: Institute of Tropical Medicine Antwerp
+    country: Belgium
+    route: programme
+    funding: stipend
+    deadline: "2027-02-01"
+    date_confidence: confirmed
+    status: watching
+    affiliation: false
+    url: https://www.itg.be/en/education/phd
+    next_action: >-
+      This is the way into ITM, not the sandwich call. It confers alumnus status
+      after three months, which unlocks the later sandwich rounds.
+    notes: >-
+      The DGD Individual Sandwich call required ITM alumnus status or embedding
+      in a named partner institution plus a home-institution binding statement,
+      and neither applies. The other open routes are the salaried Junior
+      Researcher and Academic Assistant vacancies and the Light Review
+      registration route with external funding.
 
   - name: Hong Kong PhD Fellowship Scheme 2027/28
     institution: Hong Kong Research Grants Council
@@ -157,25 +303,10 @@ pipeline:
     affiliation: false
     url: https://cerg1.ugc.edu.hk/hkpfs/index.html
     next_action: >-
-      Check the RGC page for the published 2027/28 dates. The window above is a
-      pattern from the 2026/27 cycle, not a published date.
-    notes: >-
-      No home-institution requirement, which is why it stays on this list. It
-      selects heavily on publication record, so the thesis manuscript is the
-      real prerequisite.
-
-  - name: Doctoral outreach, cardiovascular and chronic disease prevention
-    institution: NUS Saw Swee Hock School of Public Health
-    country: Singapore
-    route: post
-    funding: stipend
-    deadline: "2026-11-30"
-    date_confidence: inferred
-    status: watching
-    affiliation: false
-    url: https://sph.nus.edu.sg/education/phd-programme/
-    next_action: Confirm the published November deadline on the school's own page.
-    notes: Family-based behavioural focus.
+      Check the RGC page for the published 2027/28 dates. The date above is a
+      pattern from the 2026/27 cycle, not a published one. No home-institution
+      requirement, which is why it stays on the list, but it selects heavily on
+      publication record.
 
   - name: BOF sandwich PhD
     institution: Ghent University
@@ -187,10 +318,7 @@ pipeline:
     status: watching
     affiliation: true
     url: https://www.ugent.be/en/research/funding/devcoop/phdgrants
-    next_action: Watch for the next call, expected around February 2027.
-    notes: >-
-      The partner institution has to fund 24 months. Same constraint as ITM
-      Antwerp, in a different shape.
+    next_action: Watch for the next call. The partner institution has to fund 24 months.
 
   - name: Implementation Research Leadership Fellowship
     institution: TDR at Universitas Gadjah Mada, Yogyakarta
@@ -203,10 +331,32 @@ pipeline:
     affiliation: true
     url: https://tdr.who.int/
     next_action: >-
-      Watch for the next call, expected around December 2026. Requires
-      employment plus study leave, and applicants must be under 40 at
-      application. Whether it awards a degree was never confirmed.
-    notes: The 2026/27 call closed 30 January 2026.
+      Watch for the next call. Requires employment plus study leave and
+      applicants under 40. Whether it awards a degree was never confirmed.
+
+  - name: CGM and type 2 diabetes
+    institution: University of Adelaide
+    country: Australia
+    route: post
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: watching
+    affiliation: false
+    url: https://www.adelaide.edu.au/graduatecentre/
+    next_action: Contact Dr Amy Hutchison. Carried over from the PhD Board.
+
+  - name: Graduate Research Scholarships / Australian RTP
+    institution: University of Melbourne
+    country: Australia
+    route: programme
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: watching
+    affiliation: false
+    url: https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships
+    next_action: Needs a supervisor agreement first. 2027 dates not published when checked.
 
   - name: Full scholarship for Myanmar nationals
     institution: Mahidol University, Faculty of Tropical Medicine
@@ -220,22 +370,65 @@ pipeline:
     url: https://www.tm.mahidol.ac.th/
     next_action: >-
       Decide whether a malaria and vivax topic is worth the change of subject.
-      Open with no closing date given.
-    notes: Restricted to Myanmar nationals, which for once is the right way round.
+      Open, with no closing date given.
 
-  - name: Graduate Research Scholarships / Australian RTP
-    institution: University of Melbourne
-    country: Australia
+  # -- closed ---------------------------------------------------------------
+
+  - name: PhD Epidemiology
+    institution: Rollins School of Public Health, Emory University
+    country: United States
+    route: post
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: closed
+    affiliation: false
+    url: https://www.sph.emory.edu/departments/epi/
+    next_action: >-
+      Carried on the PhD Board but outside the agreed geography, which excludes
+      the United States. Reopen only if that decision changes.
+
+  - name: Commonwealth PhD Scholarships
+    institution: Commonwealth Scholarship Commission
+    country: United Kingdom
     route: programme
     funding: stipend
     deadline: ""
     date_confidence: none
-    status: watching
+    status: closed
     affiliation: false
-    url: https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships
+    url: https://cscuk.fcdo.gov.uk/
     next_action: >-
-      Needs a supervisor agreement before anything else. 2027 commencement dates
-      were not published when this was checked.
+      Almost certainly ineligible. The scheme is restricted to Commonwealth
+      citizens and Myanmar is not a member state. Never confirmed with the
+      Commission, so confirm before spending anything on it.
+
+  - name: PhD scholarship, maternal RSV vaccination and child respiratory health
+    institution: UNSW Sydney
+    country: Australia
+    route: post
+    funding: stipend
+    deadline: "2026-09-15"
+    date_confidence: confirmed
+    status: closed
+    affiliation: false
+    url: https://www.unsw.edu.au/research/hdr
+    next_action: Deadline passed.
+
+  - name: Individual Sandwich PhD, ITM-DGD 2027 call
+    institution: Institute of Tropical Medicine Antwerp
+    country: Belgium
+    route: programme
+    funding: stipend
+    deadline: "2026-09-15"
+    date_confidence: confirmed
+    status: closed
+    affiliation: true
+    url: https://www.itg.be/en/education/phd
+    next_action: >-
+      Closed and he was never eligible: the call needs ITM alumnus status or a
+      named partner institution plus a home-institution binding statement. The
+      predoctoral grant above is the way in.
 
   - name: PhD candidate, Treatment Optimisation for Tuberculosis
     institution: Radboudumc, Department of Pulmonary Diseases
@@ -247,7 +440,5 @@ pipeline:
     status: closed
     affiliation: false
     url: https://www.radboudumc.nl/en/working-at/vacancies
-    next_action: Applied. Waiting.
-    notes: >-
-      PORT trial rifampicin dose optimisation, UNITE4TB consortium. First
-      contact with Radboudumc.
+    next_action: Applied, no reply.
+    notes: PORT trial rifampicin dose optimisation, UNITE4TB consortium.

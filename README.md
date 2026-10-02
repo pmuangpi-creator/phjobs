@@ -163,6 +163,14 @@ Two files. No code.
   irrelevant rows is a nuisance, a board that silently swallows the job you
   wanted is worthless. If something you wanted got dropped, add the word that
   would have caught it.
+- `weak_gate` is the counterweight, added in October 2026. Words like
+  `laborator`, `medical` and `medicine` have to stay in the gate or genuine
+  listings vanish, but each also turns up in ordinary university prose. A
+  posting whose only gate matches come from this list is kept out unless an
+  unambiguous health phrase seconds it. Before it existed, a PhD in experimental
+  nuclear physics was leading the doctoral page, having passed the gate on the
+  word `laborator`, because Uppsala's physics department sits in the Ångström
+  laboratory.
 - `theme_weights`, `country_weights`, `category_weights` add points.
   `negative_weights` subtracts them when matched in the title. Scores only sort;
   they never remove anything.

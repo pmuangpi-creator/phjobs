@@ -431,7 +431,15 @@ sitemaps:
       default_category: phd
       # English pages only; the /nl/ paths are the same vacancies in Dutch and
       # would double every row.
-      include_pattern: "/en/jobs/.*(phd|promovendus|doctoral|doctorate|onderzoeker-in-opleiding)"
+      # Two conditions, both read off the slug, because the slug is the ONLY
+      # text this source reliably gives. On 2 October 2026, 50 AcademicTransfer
+      # URLs were harvested, 48 of their description fetches failed, and the two
+      # that survived did so on the word "pharmacology" in the title. A listing
+      # whose body never arrives is judged on its slug or not at all, so the
+      # slug now has to carry a health word as well as a doctoral one. This also
+      # cuts the number of pages opened per run to a handful, which is the
+      # polite thing to do at a ten-second crawl delay.
+      include_pattern: "/en/jobs/.*(phd|promovendus|doctoral|doctorate|onderzoeker-in-opleiding).*(health|epidemiolog|public-health|global-health|medic|clinic|disease|infectio|tubercul|hiv|malaria|vaccin|immunol|nutrition|maternal|midwif|nurs|psychiatr|mental|implementation|health-system|health-polic|health-econom|one-health|pharmacoepi|biostat|humanitarian|tropical)"
       exclude_pattern: "/nl/jobs/"
       max_items: 50
       # A Dutch doctoral position is an employment contract with a salary scale.
