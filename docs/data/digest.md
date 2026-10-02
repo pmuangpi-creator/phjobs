@@ -9,29 +9,6 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 19 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
-### 10 new fully funded doctoral routes
-
-- **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-04 · Salaried post
-- **[PhD position in Systemic Radiotherpy](https://lu.varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-09 · Salaried post
-- **[Doctoral student in Medical Science: Predicting eco-evolutionary dynamics in a polymicrobial urinary tract infection model](https://lu.varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-12 · Salaried post
-- **[PhD position in Dermatology](https://lu.varbi.com/se/what:job/jobID:972280/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-16 · Salaried post
-- **[PhD student position in Surgery](https://lu.varbi.com/se/what:job/jobID:968981/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-19 · Salaried post
-- **[Phd candidate in parkinsons disease ubiquitin control of neuronal survival](https://www.academictransfer.com/en/jobs/364168/phd-candidate-in-parkinsons-disease-ubiquitin-control-of-neuronal-survival/)**  
-  Institution not stated · Netherlands · Salaried post
-- **[Phd position in mechanisms of mixed neuropathologies in alzheimers disease](https://www.academictransfer.com/en/jobs/364276/phd-position-in-mechanisms-of-mixed-neuropathologies-in-alzheimers-disease/)**  
-  Institution not stated · Netherlands · Salaried post
-- **[Phd clinical study on bacteria targeted tracers for detection of infections](https://www.academictransfer.com/en/jobs/364303/phd-clinical-study-on-bacteria-targeted-tracers-for-detection-of-infections/)**  
-  Institution not stated · Netherlands · Salaried post
-- **[Phd position on biophysical origins of rna toxicity in huntingtons disease](https://www.academictransfer.com/en/jobs/364327/phd-position-on-biophysical-origins-of-rna-toxicity-in-huntingtons-disease/)**  
-  Institution not stated · Netherlands · Salaried post
-- **[Phd position in molecular imaging of microbial infections](https://www.academictransfer.com/en/jobs/364371/phd-position-in-molecular-imaging-of-microbial-infections/)**  
-  Institution not stated · Netherlands · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
@@ -55,24 +32,13 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 4 new, scoring 30 or above
-
-- **[Technical Officer for Evidence-Based Public Health Messaging and Community Engagement (EMCE/RCCE)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Technical-Officer-for-Evidence-Based-Public-Health-Messaging-and-Community-Engagement--EMCE-RCCE-_Requisition-2026201382)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Senior Technical Officer – Health Emergency Management](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---Health-Emergency-Management_Requisition-2026201383)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Postdoctoral researcher in global health economics beacon hd](https://www.academictransfer.com/en/jobs/363781/postdoctoral-researcher-in-global-health-economics-beacon-hd/)** (44) `focus`  
-   · Netherlands · Sitemap:AcademicTransfer Netherlands
-- **[Research Fellow [LKCMedicine]](https://jobrxiv.org/job/research-fellow-lkcmedicine-14/)** (32)  
-  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv postdoc
-
 ### Closing within 3 days
 
 - **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
   Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 
 ---
-427 open positions on the board, 3 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+427 open positions on the board, 0 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 

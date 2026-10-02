@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T20:19:28+00:00",
-  "duration_seconds": 223.2,
+  "generated_at": "2026-10-02T20:23:09+00:00",
+  "duration_seconds": 153.6,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
@@ -9,7 +9,7 @@
     "fetched": 534,
     "unique_ids": 471,
     "carried_over": 0,
-    "delisted_by_source": 81,
+    "delisted_by_source": 0,
     "expired_dropped": 0,
     "aged_out_no_deadline": 15,
     "duplicates_collapsed": 29,
@@ -30,11 +30,11 @@
       },
       "pinned": 25
     },
-    "digest_items": 24
+    "digest_items": 15
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 2 descriptions fetched, 24 failed, 1244 skipped",
+    "full-descriptions": "ok: 1 descriptions fetched, 17 failed, 1252 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 3 postings",
     "greenhouse:resolvetosavelives": "ok: 1 postings",
