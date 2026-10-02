@@ -32,13 +32,18 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
+### 1 new, scoring 30 or above
+
+- **[Research Fellow in Climate Change and Public Health](https://jobrxiv.org/job/research-fellow-in-climate-change-and-public-health/)** (51) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+
 ### Closing within 3 days
 
 - **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
   Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 
 ---
-427 open positions on the board, 0 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+428 open positions on the board, 1 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
