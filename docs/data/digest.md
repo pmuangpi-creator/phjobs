@@ -1,12 +1,12 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (in 4 days)  
+- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (in 3 days)  
   Decide whether to submit at all. Fit was scored 2 of 5 and KI approves no exception to its English 6 requirement, so this needs either an approved test or the medical-degree route, which turns on the WDOMS entry for University of Medicine Magway recording English as the only language of instruction and on the exact 2016 MBBS conferral date.
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 13 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 12 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 17 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 16 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 19 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 18 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -32,18 +32,26 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 1 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Research Fellow in Climate Change and Public Health](https://jobrxiv.org/job/research-fellow-in-climate-change-and-public-health/)** (51) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[HIV Key and Priority Population ( KPP) and Digital Data Management Expert](https://ngojobsinafrica.com/job/hiv-key-and-priority-population-kpp-and-digital-data-management-expert/)** (98) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Technical Advisor, Surveillance, Data Use and Decision Science (Remote - Kinshasa, DRC)](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5442915008)** (91) `LMIC/focus`  
+  Resolvetosavelives · Congo, Dem. Rep. · Greenhouse:resolvetosavelives
+- **[Global Pharmacovigilance (PV) Scientist, Manager- Oncology](https://jobrxiv.org/job/global-pharmacovigilance-pv-scientist-manager-oncology/)** (35)  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Associate Scientist, Viral Vaccines](https://jobrxiv.org/job/senior-associate-scientist-viral-vaccines-4/)** (34) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
 - **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
   Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
+- **[Research assistant in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:969472/type:job/where:4/apply:1)** (40)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-428 open positions on the board, 1 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 3 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
