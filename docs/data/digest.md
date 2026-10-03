@@ -9,6 +9,11 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 18 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
+### 1 new fully funded doctoral route
+
+- **[PhD Scholarship Forgetting Secrecy? at the Department of Communication, Faculty of Humanities, University of Copenhagen (UCPH)](https://jobrxiv.org/job/phd-scholarship-forgetting-secrecy-at-the-department-of-communication-faculty-of-humanities-university-of-copenhagen-ucph/)**  
+  Jobfront Academia · Denmark · Stipend and fees
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
@@ -32,14 +37,10 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 3 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[23257 Chief Migration Health Officer (P)](https://ngojobsinafrica.com/job/23257-chief-migration-health-officer-p/)** (51) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
-- **[Humanitarian Access, Safety and Security Advisor](https://ngojobsinafrica.com/job/humanitarian-access-safety-and-security-advisor/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://jobrxiv.org/job/1-2-postdoctoral-researchers-in-psychiatric-genomics-and-data-science/)** (35)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Intake Case Specialist -  2025906](https://jobs.lever.co/wr/5bdaaaf9-f08e-44e1-9fc6-f168683a3993)** (38) `focus`  
+  Wr · Israel · Lever:wr
 
 ### Closing within 3 days
 
@@ -49,7 +50,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-436 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+436 open positions on the board, 1 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
