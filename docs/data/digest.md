@@ -9,11 +9,6 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 18 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
-### 1 new fully funded doctoral route
-
-- **[PhD Scholarship Forgetting Secrecy? at the Department of Communication, Faculty of Humanities, University of Copenhagen (UCPH)](https://jobrxiv.org/job/phd-scholarship-forgetting-secrecy-at-the-department-of-communication-faculty-of-humanities-university-of-copenhagen-ucph/)**  
-  Jobfront Academia · Denmark · Stipend and fees
-
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
@@ -39,8 +34,8 @@
 
 ### 1 new, scoring 30 or above
 
-- **[Intake Case Specialist -  2025906](https://jobs.lever.co/wr/5bdaaaf9-f08e-44e1-9fc6-f168683a3993)** (38) `focus`  
-  Wr · Israel · Lever:wr
+- **[Instructional Support Specialist, Public Health Program](https://jobrxiv.org/job/instructional-support-specialist-public-health-program-2/)** (48) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -50,7 +45,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-436 open positions on the board, 1 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+430 open positions on the board, 1 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
