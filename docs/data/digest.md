@@ -32,16 +32,14 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 4 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[HIV Key and Priority Population ( KPP) and Digital Data Management Expert](https://ngojobsinafrica.com/job/hiv-key-and-priority-population-kpp-and-digital-data-management-expert/)** (98) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Technical Advisor, Surveillance, Data Use and Decision Science (Remote - Kinshasa, DRC)](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5442915008)** (91) `LMIC/focus`  
-  Resolvetosavelives · Congo, Dem. Rep. · Greenhouse:resolvetosavelives
-- **[Global Pharmacovigilance (PV) Scientist, Manager- Oncology](https://jobrxiv.org/job/global-pharmacovigilance-pv-scientist-manager-oncology/)** (35)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Senior Associate Scientist, Viral Vaccines](https://jobrxiv.org/job/senior-associate-scientist-viral-vaccines-4/)** (34) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[23257 Chief Migration Health Officer (P)](https://ngojobsinafrica.com/job/23257-chief-migration-health-officer-p/)** (51) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Humanitarian Access, Safety and Security Advisor](https://ngojobsinafrica.com/job/humanitarian-access-safety-and-security-advisor/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://jobrxiv.org/job/1-2-postdoctoral-researchers-in-psychiatric-genomics-and-data-science/)** (35)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -51,7 +49,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-432 open positions on the board, 3 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+436 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
