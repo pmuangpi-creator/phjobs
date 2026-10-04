@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-03T22:08:24+00:00",
-  "duration_seconds": 162.9,
+  "generated_at": "2026-10-04T06:46:27+00:00",
+  "duration_seconds": 160.7,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 525,
-    "unique_ids": 467,
+    "fetched": 523,
+    "unique_ids": 464,
     "carried_over": 0,
-    "delisted_by_source": 10,
+    "delisted_by_source": 7,
     "expired_dropped": 0,
     "aged_out_no_deadline": 13,
-    "duplicates_collapsed": 24,
-    "published": 430,
-    "gate_rejected": 727,
-    "lmic_duty_station": 126,
+    "duplicates_collapsed": 25,
+    "published": 426,
+    "gate_rejected": 729,
+    "lmic_duty_station": 125,
     "lmic_focus": 166,
     "with_location": 275,
     "doctoral": {
@@ -30,11 +30,11 @@
       },
       "pinned": 25
     },
-    "digest_items": 17
+    "digest_items": 21
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 17 failed, 1235 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 18 failed, 1234 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 3 postings",
     "greenhouse:resolvetosavelives": "ok: 3 postings",

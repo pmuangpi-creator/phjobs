@@ -1,12 +1,12 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (in 3 days)  
+- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (in 2 days)  
   Decide whether to submit at all. Fit was scored 2 of 5 and KI approves no exception to its English 6 requirement, so this needs either an approved test or the medical-degree route, which turns on the WDOMS entry for University of Medicine Magway recording English as the only language of instruction and on the exact 2016 MBBS conferral date.
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 12 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 11 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 16 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 15 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 18 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 17 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -32,10 +32,12 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 1 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Instructional Support Specialist, Public Health Program](https://jobrxiv.org/job/instructional-support-specialist-public-health-program-2/)** (48) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Associate Director, Finance & Operations, India](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/Associate-Director--Finance---Operations--India_Requisition-2026201312)** (61) `LMIC/focus`  
+  FHI 360 · India · Workday:FHI 360
+- **[Research Fellow (Computational Microbiome Scientist)](https://jobrxiv.org/job/research-fellow-computational-microbiome-scientist/)** (48) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -43,9 +45,15 @@
   Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 - **[Research assistant in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:969472/type:job/where:4/apply:1)** (40)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral Fellow in Ice core chemistry](https://su.varbi.com/se/what:job/jobID:966951/type:job/where:4/apply:1)** (38)  
+  Stockholms universitet · Sweden · closes 2026-10-07 · Sitemap:Varbi Stockholm University
+- **[Senior Lecturer in Occupational and Environmental Medicine](https://ki.varbi.com/se/what:job/jobID:952545/type:job/where:4/apply:1)** (37)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
+- **[Undergraduate studies in Machine learning for early prediction of primary sclerosing cholangitis (scholarship)](https://ki.varbi.com/en/what:job/jobID:965150/type:job/where:4/apply:1)** (31)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
 
 ---
-430 open positions on the board, 1 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+426 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
