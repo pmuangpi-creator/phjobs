@@ -11,8 +11,6 @@
 
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in Chromatin & Genome Integrity](https://lu.varbi.com/se/what:job/jobID:965334/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-04 · Salaried post
 - **[PhD position in Systemic Radiotherpy](https://lu.varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-09 · Salaried post
 - **[Doctoral student in Medical Science: Predicting eco-evolutionary dynamics in a polymicrobial urinary tract infection model](https://lu.varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:1)**  
@@ -32,16 +30,38 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 4 new, scoring 30 or above
+### 15 new, scoring 30 or above
 
-- **[Postdoctoral Researcher in Global Public Health, with a Focus on Tuberculosis: Diagnostics, Epidemiology and Treatment](https://jobrxiv.org/job/postdoctoral-researcher-in-global-public-health-with-a-focus-on-tuberculosis-diagnostics-epidemiology-and-treatment/)** (57) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://jobrxiv.org/job/research-assistant-in-nutrition-and-reproductive-and-perinatal-epidemiology-hourly-employment/)** (55) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Director, Signal Detection Scientist](https://jobrxiv.org/job/director-signal-detection-scientist-2/)** (54) `focus`  
+- **[Monitoring, Evaluation, Learning (MEL) and Evidence Lead](https://ngojobsinafrica.com/job/monitoring-evaluation-learning-mel-and-evidence-lead/)** (99) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Deputy Programme Manager – Nutrition and Health](https://ngojobsinafrica.com/job/deputy-programme-manager-nutrition-and-health/)** (82) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Health Care Financing Technical Lead](https://ngojobsinafrica.com/job/health-care-financing-technical-lead/)** (76) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Senior Epidemiology and Surveillance Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Rabat-Morocco/Senior-Epidemiology-and-Surveillance-Officer_Requisition-2026200642-1)** (72) `LMIC/focus`  
+  FHI 360 · Morocco · Workday:FHI 360
+- **[Country Lead, Uganda Data-Activated Architecture for Resilient Transition (DART)](https://ngojobsinafrica.com/job/country-lead-uganda-data-activated-architecture-for-resilient-transition-dart/)** (72) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
+- **[Field Coordinator](https://ngojobsinafrica.com/job/field-coordinator-81/)** (70) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Surveillance Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Guinea-Any/Surveillance-Specialist_Requisition-2026201310)** (63) `LMIC/focus`  
+  FHI 360 · Guinea · Workday:FHI 360
+- **[Director, Signal Detection Scientist](https://jobrxiv.org/job/director-signal-detection-scientist/)** (62) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Research Associate (Paleoseismology & Neotectonics)/ Fault-Zone Analysis in Bedrock) and Research Engineer II (Seismology)](https://jobrxiv.org/job/research-associate-paleoseismology-neotectonics-fault-zone-analysis-in-bedrock-and-research-engineer-ii-seismology/)** (34)  
-  Jobfront Academia · Singapore · RSS:jobRxiv research assistant
+- **[Regional Security Advisor (RSA), South West](https://ngojobsinafrica.com/job/regional-security-advisor-rsa-south-west/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Regional  Security Advisor (RSA) – North West 3](https://ngojobsinafrica.com/job/regional-security-advisor-rsa-north-west-3/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Regional Security Advisor (RSA) – South East](https://ngojobsinafrica.com/job/336367/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Senior Program Officer (SPO), EpiC Water Sanitation and Hygiene (WASH)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Program-Officer--SPO---EpiC-Water-Sanitation-and-Hygiene--WASH-_Requisition-2026201319)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Nutrition and Health Assistant](https://ngojobsinafrica.com/job/nutrition-and-health-assistant-4/)** (43) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Mental Health Psychosocial Support and Protection (MHPSS-P) Specialist](https://ngojobsinafrica.com/job/mental-health-psychosocial-support-and-protection-mhpss-p-specialist/)** (43) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Research Assistant in Neurodivergent Women’s Reproductive Health](https://ki.varbi.com/se/what:job/jobID:970674/type:job/where:4/apply:1)** (41)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 
 ### Closing within 3 days
 
@@ -57,7 +77,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
 
 ---
-423 open positions on the board, 3 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+428 open positions on the board, 14 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
