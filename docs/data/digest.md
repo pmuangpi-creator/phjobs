@@ -32,12 +32,16 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 2 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Associate Director, Finance & Operations, India](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/Associate-Director--Finance---Operations--India_Requisition-2026201312)** (61) `LMIC/focus`  
-  FHI 360 · India · Workday:FHI 360
-- **[Research Fellow (Computational Microbiome Scientist)](https://jobrxiv.org/job/research-fellow-computational-microbiome-scientist/)** (48) `focus`  
+- **[Postdoctoral Researcher in Global Public Health, with a Focus on Tuberculosis: Diagnostics, Epidemiology and Treatment](https://jobrxiv.org/job/postdoctoral-researcher-in-global-public-health-with-a-focus-on-tuberculosis-diagnostics-epidemiology-and-treatment/)** (57) `focus`  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://jobrxiv.org/job/research-assistant-in-nutrition-and-reproductive-and-perinatal-epidemiology-hourly-employment/)** (55) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Director, Signal Detection Scientist](https://jobrxiv.org/job/director-signal-detection-scientist-2/)** (54) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Research Associate (Paleoseismology & Neotectonics)/ Fault-Zone Analysis in Bedrock) and Research Engineer II (Seismology)](https://jobrxiv.org/job/research-associate-paleoseismology-neotectonics-fault-zone-analysis-in-bedrock-and-research-engineer-ii-seismology/)** (34)  
+  Jobfront Academia · Singapore · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -53,7 +57,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
 
 ---
-426 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+423 open positions on the board, 3 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
