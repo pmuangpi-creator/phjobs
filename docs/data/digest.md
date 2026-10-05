@@ -9,11 +9,6 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 16 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
-### 1 new fully funded doctoral route
-
-- **[Fully funded PhD scholarship: Animal Behaviour & Evolutionary Ecology](https://jobrxiv.org/job/school-of-biological-sciences-monash-university-27778-fully-funded-phd-scholarship-animal-behaviour-evolutionary-ecology/)**  
-  matt piper · Australia · Stipend and fees
-
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD position in Systemic Radiotherpy](https://lu.varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:1)**  
@@ -35,19 +30,19 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 3 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Procurement and Operations Coordinator](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Phnom-Penh-Cambodia/Procurement-and-Operations-Coordinator_Requisition-2026201370)** (63) `LMIC/focus`  
-  FHI 360 · Cambodia · Workday:FHI 360
-- **[Laboratory Technician](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Phnom-Penh-Cambodia/Laboratory-Technician_Requisition-2026201374)** (63) `LMIC/focus`  
-  FHI 360 · Cambodia · Workday:FHI 360
-- **[Fully funded PhD scholarship: Animal Behaviour & Evolutionary Ecology](https://jobrxiv.org/job/school-of-biological-sciences-monash-university-27778-fully-funded-phd-scholarship-animal-behaviour-evolutionary-ecology/)** (30)  
-  matt piper · Australia · RSS:jobRxiv PhD
+- **[Regional Coordinator ( EAII Advisors)](https://apply.workable.com/j/E8D9721465)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Program Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kampala-Uganda/Program-Officer_Requisition-2026201388)** (59) `LMIC/focus`  
+  FHI 360 · Uganda · Workday:FHI 360
+- **[Technical Officer (First 95 Team)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Technical-Officer--First-95-Team-_Requisition-2026201375)** (39) `LMIC`  
+  FHI 360 · Indonesia · Workday:FHI 360
+- **[Procurement Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Procurement-Officer_Requisition-2026201369)** (39) `LMIC`  
+  FHI 360 · Indonesia · Workday:FHI 360
 
 ### Closing within 3 days
 
-- **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
-  Uppsala universitet · Sweden · closes 2026-10-05 · Sitemap:Varbi Uppsala University
 - **[Research assistant in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:969472/type:job/where:4/apply:1)** (40)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-06 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral Fellow in Ice core chemistry](https://su.varbi.com/se/what:job/jobID:966951/type:job/where:4/apply:1)** (38)  
@@ -58,7 +53,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
 
 ---
-426 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 4 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
