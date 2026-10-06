@@ -30,12 +30,28 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 2 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Programme Officer with Emerging and Re-emerging Infections under the Infectious Diseases Division (Adv#137/2026).](https://career.icddrb.org/vacancy-preview/32295)** (91) `LMIC/focus`  
+- **[Field Assistant with Emerging and Re-emerging Infections under the Infectious Diseases Division (Adv#138/2026).](https://career.icddrb.org/vacancy-preview/32296)** (91) `LMIC/focus`  
   icddr,b · Bangladesh · Page:icddr,b
-- **[Laboratory Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Specialist_Requisition-2026201200)** (39) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
+- **[Research Fellow (ITD-DIB-2026-13)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-13)** (86) `LMIC/focus`  
+  Academic · United Kingdom, Burkina Faso · RSS:LSHTM infectious and tropical diseases
+- **[Field Coordinator, Technical Assistance ( EAII Advisors )](https://apply.workable.com/j/C2723CCEAF)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Liberia Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Monrovia-Liberia/Liberia-Project-Director--AFGHS-FHI-360_Requisition-2026201385)** (59) `LMIC/focus`  
+  FHI 360 · Liberia · Workday:FHI 360
+- **[District Technical Officer – IPC/WASH in Health Facilities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mozambique-Any/District-Technical-Officer---IPC-WASH-in-Health-Facilities_Requisition-2026201408)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Laboratory & Diagnostic Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Rabat-Morocco/Laboratory---Diagnostic-Officer_Requisition-2026200933)** (57) `LMIC/focus`  
+  FHI 360 · Morocco · Workday:FHI 360
+- **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://jobrxiv.org/job/research-assistant-in-nutrition-and-reproductive-and-perinatal-epidemiology-hourly-employment/)** (55) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Program Assistant-PATH Integrated Health (HIV Work in Ukraine)](https://path.wd1.myworkdayjobs.com/External/job/Ukraine-Kyiv-Country-Program-Office/Program-Assistant-PATH-Integrated-Health--HIV-Work-in-Ukraine-_JR2828)** (44) `LMIC`  
+  PATH · Ukraine · Workday:PATH
+- **[Research Assistant in Neurodivergent Women’s Reproductive Health](https://jobrxiv.org/job/research-assistant-in-neurodivergent-womens-reproductive-health/)** (35)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Research Assistant for evaluating ‘sufficient clinical evidence’ in current regulatory practice of Medical Devices](https://jobrxiv.org/job/research-assistant-for-evaluating-sufficient-clinical-evidence-in-current-regulatory-practice-of-medical-devices/)** (31)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -51,7 +67,7 @@
   Uppsala universitet · Sweden · closes 2026-10-09 · Sitemap:Varbi Uppsala University
 
 ---
-432 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+438 open positions on the board, 8 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
