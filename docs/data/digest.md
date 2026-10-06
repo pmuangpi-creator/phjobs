@@ -1,12 +1,12 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (in 1 day)  
+- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (today)  
   Decide whether to submit at all. Fit was scored 2 of 5 and KI approves no exception to its English 6 requirement, so this needs either an approved test or the medical-degree route, which turns on the WDOMS entry for University of Medicine Magway recording English as the only language of instruction and on the exact 2016 MBBS conferral date.
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 10 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 9 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 14 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 13 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 16 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 15 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -30,16 +30,20 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 4 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Regional Coordinator ( EAII Advisors)](https://apply.workable.com/j/E8D9721465)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[Program Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kampala-Uganda/Program-Officer_Requisition-2026201388)** (59) `LMIC/focus`  
-  FHI 360 · Uganda · Workday:FHI 360
-- **[Technical Officer (First 95 Team)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Technical-Officer--First-95-Team-_Requisition-2026201375)** (39) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
-- **[Procurement Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Procurement-Officer_Requisition-2026201369)** (39) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
+- **[Associate Director, Finance & Operations, India](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/Associate-Director--Finance---Operations--India_Requisition-2026201312)** (61) `LMIC/focus`  
+  FHI 360 · India · Workday:FHI 360
+- **[Lead, Client Impact, BRAC International Microfinance (BI MF)](https://ngojobsinafrica.com/job/lead-client-impact-brac-international-microfinance-bi-mf/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Regional Clinical Services Coordinator -  Lindi](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lindi-Tanzania/Regional-Clinical-Services-Coordinator----Lindi_Requisition-2026201338)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Senior Regional Technical Officer, Clinical Services - Ruvuma](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Ruvuma-F-Hanga-Bldg/Senior-Regional-Technical-Officer--Clinical-Services---Ruvuma_Requisition-2026201343)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Clinical Services Coordinator - Njombe](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Njombe-Tanzania/Regional-Clinical-Services-Coordinator---Njombe_Requisition-2026201336)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Senior Manager, Program Finance](https://apply.workable.com/j/86C94B5F9B)** (38) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
 
 ### Closing within 3 days
 
@@ -51,9 +55,11 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
 - **[Undergraduate studies in Machine learning for early prediction of primary sclerosing cholangitis (scholarship)](https://ki.varbi.com/en/what:job/jobID:965150/type:job/where:4/apply:1)** (31)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
+- **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-09 · Sitemap:Varbi Uppsala University
 
 ---
-432 open positions on the board, 4 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 6 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
