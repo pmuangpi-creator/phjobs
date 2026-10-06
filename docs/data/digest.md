@@ -30,20 +30,12 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 6 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Associate Director, Finance & Operations, India](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/Associate-Director--Finance---Operations--India_Requisition-2026201312)** (61) `LMIC/focus`  
-  FHI 360 · India · Workday:FHI 360
-- **[Lead, Client Impact, BRAC International Microfinance (BI MF)](https://ngojobsinafrica.com/job/lead-client-impact-brac-international-microfinance-bi-mf/)** (61) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Regional Clinical Services Coordinator -  Lindi](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lindi-Tanzania/Regional-Clinical-Services-Coordinator----Lindi_Requisition-2026201338)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Clinical Services - Ruvuma](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Ruvuma-F-Hanga-Bldg/Senior-Regional-Technical-Officer--Clinical-Services---Ruvuma_Requisition-2026201343)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Regional Clinical Services Coordinator - Njombe](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Njombe-Tanzania/Regional-Clinical-Services-Coordinator---Njombe_Requisition-2026201336)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Manager, Program Finance](https://apply.workable.com/j/86C94B5F9B)** (38) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
+- **[Programme Officer with Emerging and Re-emerging Infections under the Infectious Diseases Division (Adv#137/2026).](https://career.icddrb.org/vacancy-preview/32295)** (91) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Laboratory Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Specialist_Requisition-2026201200)** (39) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
 
 ### Closing within 3 days
 
@@ -59,7 +51,7 @@
   Uppsala universitet · Sweden · closes 2026-10-09 · Sitemap:Varbi Uppsala University
 
 ---
-432 open positions on the board, 6 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 2 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
