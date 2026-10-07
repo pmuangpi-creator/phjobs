@@ -8,29 +8,8 @@ X-WR-CALDESC:Closing dates for funded doctoral routes
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f74df1e4ff3b2b0c16f1@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: PhD student in experimental nuclear physics with a focus 
- on neutron-induced reactions
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 62 | LMIC 
- focus | https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/a
- pply:1
-LOCATION:Uppsala\, Sweden
-URL:https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in experimental nuclear physics
-  with a focus on neutron-induced reactions
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:10874dbaaabfb7347353@phjobs
-DTSTAMP:20261002T135513Z
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Closes: PhD student in Information Society\, with focus on Agent-
@@ -50,15 +29,34 @@ DESCRIPTION:Closes in 3 days: PhD student in Information Society\, with f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:f74df1e4ff3b2b0c16f1@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Closes: PhD student in experimental nuclear physics with a focus 
+ on neutron-induced reactions
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 44 | https
+ ://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1
+LOCATION:Uppsala\, Sweden
+URL:https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD student in experimental nuclear physics
+  with a focus on neutron-induced reactions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:00b83dd7b439a040e690@phjobs
-DTSTAMP:20261002T135513Z
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Closes: PhD student in Machine Learning with a focus on mathemati
  cal and statistical methods for uncertainty quantification
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 47 | LMIC 
- focus | https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/a
- pply:1
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 29 | https
+ ://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1
 LOCATION:Uppsala\, Sweden
 URL:https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:
  1
@@ -71,152 +69,8 @@ DESCRIPTION:Closes in 3 days: PhD student in Machine Learning with a focu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ac12d2abc9849a369d7e@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: PhD student in hydrology - wildfires effect on Arctic wat
- er cycle
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 46 | LMIC 
- focus | https://uu.varbi.com/se/what:job/jobID:972009/type:job/where:4/a
- pply:1
-LOCATION:Uppsala\, Sweden
-URL:https://uu.varbi.com/se/what:job/jobID:972009/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in hydrology - wildfires effect
-  on Arctic water cycle
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4d5f40e4725120fa27cd@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Closes: PhD student in electrical engineering with focus on power
-  system adequacy
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 46 | LMIC 
- focus | https://uu.varbi.com/se/what:job/jobID:967690/type:job/where:4/a
- pply:1
-LOCATION:Uppsala\, Sweden
-URL:https://uu.varbi.com/se/what:job/jobID:967690/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in electrical engineering with 
- focus on power system adequacy
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:61418ac719b4d6b1d273@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Closes: PhD student in Public Health Sciences
-DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 43 | 
- LMIC focus | https://su.varbi.com/se/what:job/jobID:963985/type:job/wher
- e:4/apply:1
-LOCATION:Stockholm\, Sweden
-URL:https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in Public Health Sciences
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cad1a2dab85824495685@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Closes: PhD student in linguistics\, focus on child language deve
- lopment
-DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 38 | 
- LMIC focus | https://su.varbi.com/se/what:job/jobID:967606/type:job/wher
- e:4/apply:1
-LOCATION:Stockholm\, Sweden
-URL:https://su.varbi.com/se/what:job/jobID:967606/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in linguistics\, focus on child
-  language development
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bb969909cffb0e5ae021@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Closes: PhD student in linguistics\, focus on sign language
-DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 38 | 
- LMIC focus | https://su.varbi.com/se/what:job/jobID:967628/type:job/wher
- e:4/apply:1
-LOCATION:Stockholm\, Sweden
-URL:https://su.varbi.com/se/what:job/jobID:967628/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in linguistics\, focus on sign 
- language
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4bfd5d94c4f9f7d78608@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Closes: PhD position in patient preference research in amputation
- \, prosthetics and rehabilitation
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 38 | LMIC 
- focus | https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/a
- pply:1
-LOCATION:Uppsala\, Sweden
-URL:https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD position in patient preference research
-  in amputation\, prosthetics and rehabilitation
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:28a3ac8ed78708b2f7cd@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Closes: Doctoral student in Biomedical Engineering specializing i
- n engineering acoustics
-DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 38 | LMIC focus
-  | https://lu.varbi.com/se/what:job/jobID:963476/type:job/where:4/apply:
- 1
-LOCATION:Lund\, Sweden
-URL:https://lu.varbi.com/se/what:job/jobID:963476/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: Doctoral student in Biomedical Engineering 
- specializing in engineering acoustics
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:de256ac0a0000f863377@phjobs
-DTSTAMP:20261002T135513Z
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Closes: PhD student in Psychology
@@ -233,28 +87,8 @@ DESCRIPTION:Closes in 3 days: PhD student in Psychology
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:62e214714675e544ef1c@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Closes: PhD student in Physical Geography focusing on Glacial Bio
- geochemistry
-DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 28 | 
- https://su.varbi.com/se/what:job/jobID:966321/type:job/where:4/apply:1
-LOCATION:Stockholm\, Sweden
-URL:https://su.varbi.com/se/what:job/jobID:966321/type:job/where:4/apply:
- 1
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD student in Physical Geography focusing 
- on Glacial Biogeochemistry
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:b068f8b6930a6e96521d@phjobs
-DTSTAMP:20261002T135513Z
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Closes: Doctoral student in Electrical Engineering focusing on Ap
@@ -273,82 +107,141 @@ DESCRIPTION:Closes in 3 days: Doctoral student in Electrical Engineering
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dc1a8e2a7e84d94570b6@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Closes: Post-doctoral fellow in Biology
-DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 20 | https://lu
- .varbi.com/se/what:job/jobID:970629/type:job/where:4/apply:1
-LOCATION:Lund\, Sweden
-URL:https://lu.varbi.com/se/what:job/jobID:970629/type:job/where:4/apply:
+UID:61418ac719b4d6b1d273@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Closes: PhD student in Public Health Sciences
+DESCRIPTION:Stockholms universitet | Stockholm\, Sweden | relevance 25 | 
+ https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1
+LOCATION:Stockholm\, Sweden
+URL:https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:
  1
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: Post-doctoral fellow in Biology
+DESCRIPTION:Closes in 3 days: PhD student in Public Health Sciences
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9238dbfe9bba2f6ffe7b@phjobs
-DTSTAMP:20261002T135513Z
+UID:2d3a1e03334ccb047b4e@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Closes: PhD position in Systemic Radiotherpy
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 20 | https://lu
+ .varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:959446/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: PhD position in Systemic Radiotherpy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1796026c5ae4fd0dbcf7@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Closes: Doctoral student in Medical Science: Predicting eco-evolu
+ tionary dynamics in a polymicrobial urinary tract infection model
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 20 | https://lu
+ .varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:
+ 1
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral student in Medical Science: Predic
+ ting eco-evolutionary dynamics in a polymicrobial urinary tract infectio
+ n model
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:89e7ca711886168c54cb@phjobs
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Closes: Doctoral student in traffic safety focusing on data analy
- sis and traffic simulation
+SUMMARY:Closes: PhD position in Dermatology
 DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 20 | https://lu
- .varbi.com/se/what:job/jobID:970477/type:job/where:4/apply:1
+ .varbi.com/se/what:job/jobID:972280/type:job/where:4/apply:1
 LOCATION:Lund\, Sweden
-URL:https://lu.varbi.com/se/what:job/jobID:970477/type:job/where:4/apply:
+URL:https://lu.varbi.com/se/what:job/jobID:972280/type:job/where:4/apply:
  1
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: Doctoral student in traffic safety focusing
-  on data analysis and traffic simulation
+DESCRIPTION:Closes in 3 days: PhD position in Dermatology
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0d96bf79338150c6e2db@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Closes: Doktorand inom immunofysiologi
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 6 | https:
- //uu.varbi.com/se/what:job/jobID:971888/type:job/where:4/apply:1
-LOCATION:Uppsala\, Sweden
-URL:https://uu.varbi.com/se/what:job/jobID:971888/type:job/where:4/apply:
+UID:72735d3b12c030773dcf@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Closes: PhD student position in Surgery
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 20 | https://lu
+ .varbi.com/se/what:job/jobID:968981/type:job/where:4/apply:1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:968981/type:job/where:4/apply:
  1
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: Doktorand inom immunofysiologi
+DESCRIPTION:Closes in 3 days: PhD student position in Surgery
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4a2a243fe30e330d8de4@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Closes: Doktorand i resilienta elkraftsystem
-DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 6 | https:
- //uu.varbi.com/se/what:job/jobID:974190/type:job/where:4/apply:1
+UID:4bfd5d94c4f9f7d78608@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Closes: PhD position in patient preference research in amputation
+ \, prosthetics and rehabilitation
+DESCRIPTION:Uppsala universitet | Uppsala\, Sweden | relevance 20 | https
+ ://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1
 LOCATION:Uppsala\, Sweden
-URL:https://uu.varbi.com/se/what:job/jobID:974190/type:job/where:4/apply:
+URL:https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:
  1
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: Doktorand i resilienta elkraftsystem
+DESCRIPTION:Closes in 3 days: PhD position in patient preference research
+  in amputation\, prosthetics and rehabilitation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bacc884a087cceabcd34@phjobs
-DTSTAMP:20261002T135513Z
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Closes: Doctoral post\, commercial determinants of health
+DESCRIPTION:Department of Public Health Sciences\, Stockholm University |
+  Sweden | relevance 100 | https://www.su.se/english/about-the-university
+ /work-at-su/available-jobs
+LOCATION:Sweden
+URL:https://www.su.se/english/about-the-university/work-at-su/available-j
+ obs
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral post\, commercial determinants of 
+ health
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:167893b253e48e9b7a3b@phjobs
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Closes: DAAD Research Grants\, Doctoral Programmes in Germany
@@ -366,8 +259,63 @@ DESCRIPTION:Closes in 3 days: DAAD Research Grants\, Doctoral Programmes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6e9822114466eb22f9d0@phjobs
-DTSTAMP:20261002T135513Z
+UID:71e7437cdf383b16f7ff@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Closes: Doctoral post\, heat\, cold and air pollution in pregnanc
+ y
+DESCRIPTION:Institute of Environmental Medicine\, Karolinska Institutet |
+  Sweden | relevance 100 | https://ki.se/en/about/work-at-ki/vacancies
+LOCATION:Sweden
+URL:https://ki.se/en/about/work-at-ki/vacancies
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Doctoral post\, heat\, cold and air polluti
+ on in pregnancy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ac03b5ebaaaf3acf84da@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Closes: Supervision enquiry\, Simon Reid
+DESCRIPTION:School of Public Health\, University of Queensland | Australi
+ a | relevance 100 | https://scholarships.uq.edu.au/scholarship/uq-gradua
+ te-research-scholarship
+LOCATION:Australia
+URL:https://scholarships.uq.edu.au/scholarship/uq-graduate-research-schol
+ arship
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Supervision enquiry\, Simon Reid
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e29e2a573284b6fe2a9@phjobs
+DTSTAMP:20261006T230011Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Closes: Predoctoral grant
+DESCRIPTION:Institute of Tropical Medicine Antwerp | Belgium | relevance 
+ 100 | https://www.itg.be/en/education/phd
+LOCATION:Belgium
+URL:https://www.itg.be/en/education/phd
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Closes in 3 days: Predoctoral grant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:406489c1c627b2f7cac0@phjobs
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Hong Kong PhD Fellowship Scheme 2027/28 (inferred date\, 
@@ -385,27 +333,8 @@ DESCRIPTION:Closes in 3 days: Hong Kong PhD Fellowship Scheme 2027/28 (in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f5de842ecf2ccb5fbd63@phjobs
-DTSTAMP:20261002T135513Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: Doctoral outreach\, cardiovascular and chronic disease pr
- evention (inferred date\, confirm it)
-DESCRIPTION:NUS Saw Swee Hock School of Public Health | Singapore | relev
- ance 100 | https://sph.nus.edu.sg/education/phd-programme/
-LOCATION:Singapore
-URL:https://sph.nus.edu.sg/education/phd-programme/
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P3D
-ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: Doctoral outreach\, cardiovascular and chro
- nic disease prevention (inferred date\, confirm it)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9c47fad435a935ded8f7@phjobs
-DTSTAMP:20261002T135513Z
+UID:91b1ef9111fb83b165f4@phjobs
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Closes: BOF sandwich PhD (inferred date\, confirm it)
@@ -422,8 +351,8 @@ DESCRIPTION:Closes in 3 days: BOF sandwich PhD (inferred date\, confirm i
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8261f53d98b5c6e5ade1@phjobs
-DTSTAMP:20261002T135513Z
+UID:acf70da9c072d7191808@phjobs
+DTSTAMP:20261006T230011Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Closes: Implementation Research Leadership Fellowship (inferred d
