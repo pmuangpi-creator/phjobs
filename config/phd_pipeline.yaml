@@ -22,7 +22,8 @@
 #   affiliation     true when the route needs an employer at home to release you
 #   next_action     the single next thing
 #
-# Last reviewed 2 October 2026. Confirm every date on the institution's own page
+# Last reviewed 2 October 2026. Implementation research route added and the TDR
+# fellowship entry corrected on 6 October 2026. Confirm every date on the institution's own page
 # before planning around it.
 
 pipeline:
@@ -100,6 +101,37 @@ pipeline:
       epidemiology, no R, none of the named methods and no publications. The R
       gap is named openly in the pack with a transition plan. Pack in
       OUTPUTS/KI_IMM_PhD_deBont_2026-10.
+
+  # -- implementation research route (opened 6 October 2026) ---------------
+
+  - name: Implementation research route, supervisor-led
+    institution: Lead targets Sydney (Greg Fox), Burnet Institute via Monash (Myanmar Program), LSTM (Sally Theobald)
+    country: Australia, United Kingdom and others
+    route: post
+    funding: stipend
+    deadline: "2026-12-18"
+    date_confidence: confirmed
+    status: action
+    affiliation: false
+    url: https://claude.ai/artifact/UnvizKkA2TFxMnQoNFpaSN
+    next_action: >-
+      Book IELTS Academic. Then send three emails with the implementation
+      research statement attached: Greg Fox at Sydney (RTP International round
+      for Research Periods 3-4 closes 18 December), Kyu Kyu Than at Burnet's
+      Myanmar Program (Monash round 1 closes 28 February 2027), and Sally
+      Theobald at LSTM (no studentship attached, so ask the funding question).
+    notes: >-
+      Runs beside the TB-and-conflict route. The topic follows the
+      supervisor's funded project; the statement offers three directions (A
+      case finding under health system disruption, B integrated services for
+      people who use drugs, C acceptability and use of primary care in
+      climate-exposed settings). Eighteen targets scored on 6 October 2026,
+      rows 20-37 in PhD_Board_rows_IR_Route_2026-10-06.xlsx. Other dated
+      windows: NUS SSHSPH 1 November 2026 (choose Siyan Yi or Rayner Tan as the
+      named advisor), LMU CIH 31 January 2027, ITM predoctoral grant 1 February
+      2027 (Sara Van Belle as mentor), McMaster PhD Global Health 14 February
+      2027 (portal opens 15 November). The deadline shown is the Sydney round.
+      Pack in OUTPUTS/PhD_ImplementationResearch_Route_2026-10.
 
   # -- with them, waiting ---------------------------------------------------
 
@@ -320,19 +352,6 @@ pipeline:
     url: https://www.ugent.be/en/research/funding/devcoop/phdgrants
     next_action: Watch for the next call. The partner institution has to fund 24 months.
 
-  - name: Implementation Research Leadership Fellowship
-    institution: TDR at Universitas Gadjah Mada, Yogyakarta
-    country: Indonesia
-    route: fellowship
-    funding: stipend
-    deadline: "2026-12-31"
-    date_confidence: inferred
-    status: watching
-    affiliation: true
-    url: https://tdr.who.int/
-    next_action: >-
-      Watch for the next call. Requires employment plus study leave and
-      applicants under 40. Whether it awards a degree was never confirmed.
 
   - name: CGM and type 2 diabetes
     institution: University of Adelaide
@@ -442,3 +461,25 @@ pipeline:
     url: https://www.radboudumc.nl/en/working-at/vacancies
     next_action: Applied, no reply.
     notes: PORT trial rifampicin dose optimisation, UNITE4TB consortium.
+
+  - name: Implementation Research Leadership Fellowship
+    institution: TDR at Universitas Gadjah Mada, Yogyakarta
+    country: Indonesia
+    route: fellowship
+    funding: stipend
+    deadline: ""
+    date_confidence: none
+    status: closed
+    affiliation: true
+    url: https://tdr.who.int/docs/librariesprovider10/calls-for-applications/ir-leadership-fellowship-call-for-applications-december-2026.pdf
+    next_action: >-
+      Not a doctorate, and he is not eligible while unemployed. Reopen only if
+      he takes a post at an LMIC university, research institution, ministry of
+      health or public health institution that will grant study leave.
+    notes: >-
+      Checked against TDR's call document on 6 October 2026: a six-month
+      fellowship with 100% on-site participation at UGM (2026 cycle: call 17
+      December 2025, deadline 30 January 2026, on site 31 May to October 2026).
+      Applicants must be nationals and residents of an LMIC in the WHO SEARO,
+      WPRO or EMRO regions, employed by one of the institution types above,
+      under 40, with an employer study-leave letter.
