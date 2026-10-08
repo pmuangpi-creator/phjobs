@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T19:40:10+00:00",
-  "duration_seconds": 175.5,
+  "generated_at": "2026-10-08T19:46:43+00:00",
+  "duration_seconds": 142.9,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
@@ -9,15 +9,15 @@
     "fetched": 508,
     "unique_ids": 459,
     "carried_over": 0,
-    "delisted_by_source": 123,
+    "delisted_by_source": 0,
     "expired_dropped": 0,
     "aged_out_no_deadline": 13,
     "duplicates_collapsed": 17,
     "published": 429,
     "gate_rejected": 752,
-    "lmic_duty_station": 135,
-    "lmic_focus": 172,
-    "with_location": 285,
+    "lmic_duty_station": 134,
+    "lmic_focus": 169,
+    "with_location": 284,
     "doctoral": {
       "routes": 34,
       "fully_funded": 17,
@@ -33,11 +33,11 @@
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 78
+    "digest_items": 13
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 6 descriptions fetched, 59 failed, 1195 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 14 failed, 1246 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 3 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
