@@ -12,7 +12,7 @@ from __future__ import annotations
 import json
 import sys
 import tempfile
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -33,6 +33,23 @@ def check(name: str, cond: bool, detail: str = "") -> None:
     else:
         FAIL += 1
         print(f"  FAIL  {name}" + (f"  [{detail}]" if detail else ""))
+
+
+def note(name: str, detail: str = "") -> None:
+    """Housekeeping, printed but never counted as a failure.
+
+    THIS DISTINCTION COST SIX DAYS OF REFRESHES. An earlier version of this file
+    asserted that no panel entry was still marked "needs you" after its
+    deadline. It passed on 2 October and started failing on 7 October, because
+    the Karolinska deadline of 6 October went by, and since the suite runs
+    before the fetch in CI, that one assertion stopped the board updating
+    altogether and sent "All jobs have failed" every six hours.
+
+    A test that can fail because a date passed is not testing the code. Config
+    going out of date is a thing to be told about, not a build failure, so it
+    goes through here.
+    """
+    print(f"  note  {name}" + (f"  [{detail}]" if detail else ""))
 
 
 def d(offset: int) -> str:
@@ -542,14 +559,42 @@ def test_regressions() -> None:
     empty = doctoral.pipeline_from_rows([{"study field": "", "university/institute": ""}])
     check("a sheet of blank rows yields nothing, so the YAML stays in charge", empty == [])
 
-    # The panel file itself, which is what actually went stale.
+    # The panel file itself. What is asserted here is that the file is VALID:
+    # every status, confidence and funding value is one the page knows, and
+    # every date parses. Those are the mistakes a hand edit makes, and they are
+    # the same whatever day it is. Whether an entry has gone out of date is a
+    # note, never a failure. See note() above for what happened last time.
     pinned = doctoral.pipeline_entries(PIPE)
-    overdue_action = [
-        e for e in pinned
-        if e["status"] == "action" and e.get("deadline") and e["deadline"] < date.today().isoformat()
-    ]
-    check("nothing in the panel is still marked 'needs you' after its deadline",
-          not overdue_action, "; ".join(e["name"][:40] for e in overdue_action))
+    bad_status = [e["name"] for e in pinned
+                  if e["status"] not in {"action", "sent", "watching", "closed"}]
+    check("every panel status is one the page knows", not bad_status, "; ".join(bad_status))
+
+    bad_conf = [e["name"] for e in pinned
+                if e.get("date_confidence") not in {"confirmed", "inferred", "none"}]
+    check("every panel date carries a confidence the page knows",
+          not bad_conf, "; ".join(bad_conf))
+
+    bad_funding = [e["name"] for e in pinned if e.get("funding") and
+                   e["funding"] not in doctoral.FUNDING_LABELS]
+    check("every panel funding value is one the page knows",
+          not bad_funding, "; ".join(bad_funding))
+
+    bad_date = []
+    for e in pinned:
+        raw = str(e.get("deadline") or "")
+        if not raw:
+            continue
+        try:
+            datetime.strptime(raw, "%Y-%m-%d")
+        except ValueError:
+            bad_date.append(f'{e["name"][:30]}: {raw}')
+    check("every panel deadline is a real YYYY-MM-DD date", not bad_date, "; ".join(bad_date))
+
+    check("a dated entry never claims a confidence of none",
+          not [e for e in pinned if e.get("deadline") and e.get("date_confidence") == "none"])
+
+    for w in doctoral.panel_warnings(pinned):
+        note(w)
 
 
 if __name__ == "__main__":

@@ -404,6 +404,35 @@ def pipeline_from_csv(url: str, column_map: dict | None = None) -> tuple[list[di
     return entries, f"ok: {len(entries)} rows from the PhD Board"
 
 
+def panel_warnings(pinned: list[dict]) -> list[str]:
+    """Housekeeping on the pinned panel. Never raises, never blocks anything.
+
+    These are things worth telling someone about, not defects. Keeping that line
+    clear matters: an earlier version of this check lived in the test suite as a
+    hard assertion, the suite runs before the fetch in CI, and when one panel
+    deadline went by the whole board stopped refreshing for six days. Config
+    drift is a notice. Broken code is a failure. They do not share a channel.
+    """
+    from datetime import date
+
+    today = date.today().isoformat()
+    out: list[str] = []
+
+    for e in pinned or []:
+        name = str(e.get("name") or "")[:60]
+        deadline = e.get("deadline") or ""
+        if e.get("status") == "action" and deadline and deadline < today:
+            out.append(f"{name}: deadline {deadline} has passed but it is still marked 'needs you'")
+        elif e.get("status") in {"action", "sent", "watching"} and deadline and deadline < today:
+            out.append(f"{name}: deadline {deadline} has passed")
+        if deadline and e.get("date_confidence") == "inferred" and deadline < today:
+            out.append(f"{name}: the inferred date {deadline} is in the past, so confirm the real one")
+        if e.get("status") == "action" and not str(e.get("next_action") or "").strip():
+            out.append(f"{name}: marked 'needs you' with no next action written down")
+
+    return out
+
+
 def pipeline_entries(cfg: dict) -> list[dict]:
     """The hand-kept panel: routes already being worked, from config.
 

@@ -306,6 +306,7 @@ def main() -> int:
         "nationality_restricted": sum(1 for r in routes if r["nationality_restricted"]),
         "by_funding": funding_counts,
         "pinned": len(pinned),
+        "panel_warnings": doctoral.panel_warnings(pinned),
     }
     stats["doctoral"] = phd_stats
     log.info("doctoral: %s", phd_stats)

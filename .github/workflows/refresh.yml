@@ -41,10 +41,23 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Offline, seconds, no network. Runs before the fetch so that a broken
-      # classifier fails the run instead of publishing a board full of
-      # mislabelled funding.
+      # Offline, seconds, no network.
+      #
+      # continue-on-error, and the reason matters. These used to block the
+      # fetch, on the argument that a broken classifier should not publish a
+      # board of mislabelled funding. The argument was half right and the
+      # implementation was wrong: on 7 October 2026 a single assertion started
+      # failing because a deadline in config/phd_pipeline.yaml had passed, and
+      # the board stopped refreshing for six days while GitHub sent "All jobs
+      # have failed" every six hours.
+      #
+      # So the order is now: run the checks, fetch anyway, commit anyway, and
+      # fail the run at the very end if the checks failed. A red run still
+      # tells you something is wrong. It no longer stops you finding out what
+      # closed this week.
       - name: Check the pipeline logic
+        id: checks
+        continue-on-error: true
         run: |
           python selftest.py
           python tests_doctoral.py
@@ -59,6 +72,24 @@ jobs:
           echo '```json' >> $GITHUB_STEP_SUMMARY
           cat docs/data/sources_status.json >> $GITHUB_STEP_SUMMARY || echo "{}" >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
+
+      # Config going out of date is a notice, not a build failure. This is where
+      # it says so: entries in config/phd_pipeline.yaml whose deadline has
+      # passed, inferred dates that need confirming, anything marked as needing
+      # you with no next action written down.
+      - name: Report panel housekeeping in the run summary
+        if: always()
+        run: |
+          echo "## Your doctoral panel" >> $GITHUB_STEP_SUMMARY
+          python - <<'PY' >> $GITHUB_STEP_SUMMARY
+          import json, pathlib
+          p = pathlib.Path("docs/data/phd.json")
+          warnings = []
+          if p.exists():
+              warnings = (json.loads(p.read_text()).get("stats") or {}).get("panel_warnings") or []
+          print("\n".join("- " + w for w in warnings) if warnings
+                else "Nothing to tidy. Every pinned entry is current.")
+          PY
 
       - name: Commit the updated data
         run: |
@@ -111,3 +142,13 @@ jobs:
                             --body-file docs/data/digest.md \
                             --label jobs-digest
           fi
+
+      # Last, on purpose. The board has refreshed and committed by now, so a
+      # red run means "something in the code needs looking at", never "you got
+      # no listings today".
+      - name: Fail the run if the checks failed
+        if: steps.checks.outcome == 'failure'
+        run: |
+          echo "## Checks failed" >> $GITHUB_STEP_SUMMARY
+          echo "The listings still refreshed and committed. Open the **Check the pipeline logic** step above to see which assertion broke." >> $GITHUB_STEP_SUMMARY
+          exit 1
