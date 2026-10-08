@@ -1,13 +1,16 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, heat, cold and air pollution in pregnancy** — Institute of Environmental Medicine, Karolinska Institutet, closes 2026-10-06 (today)  
-  Decide whether to submit at all. Fit was scored 2 of 5 and KI approves no exception to its English 6 requirement, so this needs either an approved test or the medical-degree route, which turns on the WDOMS entry for University of Medicine Magway recording English as the only language of instruction and on the exact 2016 MBBS conferral date.
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 9 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 7 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 13 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 11 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 15 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 13 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
+
+### 1 new fully funded doctoral route
+
+- **[Phd position in modifying synapses to mitigate alzheimers disease](https://www.academictransfer.com/en/jobs/364602/phd-position-in-modifying-synapses-to-mitigate-alzheimers-disease/)**  
+  Institution not stated · Netherlands · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -30,28 +33,68 @@
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-23 · Salaried post
 
-### 3 new, scoring 30 or above
+### 64 new, scoring 30 or above
 
-- **[Assistant (e) Administratif (ve) et Financier (ère) - Louga, Saint-Louis, Matam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Senegal-Remote-PCO-NF-PartnerClient-Office/Assistant--e--Administratif--ve--et-Financier--re----Louga--Saint-Louis--Matam_Requisition-2026201401)** (57) `LMIC/focus`  
-  FHI 360 · Senegal · Workday:FHI 360
-- **[Assistant (e) Administratif (ve) et Financier (ère) - Tambacounda, Kédougou](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Senegal-Any/Assistant--e--Administratif--ve--et-Financier--re----Tambacounda--Kdougou_Requisition-2026201403)** (57) `LMIC/focus`  
-  FHI 360 · Senegal · Workday:FHI 360
-- **[Chauffeur](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dakar-Senegal/Chauffeur_Requisition-2026201404)** (57) `LMIC/focus`  
-  FHI 360 · Senegal · Workday:FHI 360
+- **[Research Fellow (Uganda) (EPH-DPH-2026-08)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-DPH-2026-08)** (91) `LMIC/focus`  
+  Academic · Uganda, United Kingdom · RSS:LSHTM epidemiology and population health
+- **[Research Officer with Emerging and Re-emerging Infections under the Infectious Diseases Division (Adv#139/2026).](https://career.icddrb.org/vacancy-preview/32297)** (91) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Consultancy service to conduct a programme baseline assessment](https://ngojobsinafrica.com/job/consultancy-service-to-conduct-a-programme-baseline-assessment/)** (87) `LMIC/focus`  
+  Ngojobsinafrica · Uganda, Kenya · RSS:NGO Jobs Africa Kenya
+- **[Regional Coordinator – Coast Region](https://ngojobsinafrica.com/job/regional-coordinator-coast-region/)** (80) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Field Officer, Kambia District](https://lastmilehealth.applytojob.com/apply/DjmWgfFgHc/Field-Officer-Kambia-District)** (76) `LMIC/focus`  
+  Last Mile Health · Sierra Leone, Liberia · Page:Last Mile Health
+- **[SYSTEMS INTEGRATION COORDINATOR](https://ngojobsinafrica.com/job/systems-integration-coordinator/)** (70) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Project Manager (Kenya Nationals Only)](https://ngojobsinafrica.com/job/project-manager-kenya-nationals-only/)** (70) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Regional Technical Officer (RTO), Community Engagement, HIV Mtwara](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mtwara-Tanzania/Regional-Technical-Officer--RTO---Community-Engagement--HIV-Mtwara_Requisition-2026201463)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer, Community Engagement TB , Njombe](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Njombe-Tanzania/Regional-Technical-Officer--Community-Engagement-TB---Njombe_Requisition-2026201462)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer (RTO), Community Engagement, HIV Lindi](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lindi-Tanzania/Regional-Technical-Officer--RTO---Community-Engagement--HIV-Lindi_Requisition-2026201465)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer, Community Engagement TB , Mtwara](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mtwara-Tanzania/Regional-Technical-Officer--Community-Engagement-TB---Mtwara_Requisition-2026201464)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer (RTO), Community Engagement, HIV  Njombe](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Njombe-Tanzania/Regional-Technical-Officer--RTO---Community-Engagement--HIV--Njombe_Requisition-2026201460)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer, Community Engagement TB , Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Regional-Technical-Officer--Community-Engagement-TB---Iringa_Requisition-2026201459)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer (RTO), Community Engagement, HIV  Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Regional-Technical-Officer--RTO---Community-Engagement--HIV--Iringa_Requisition-2026201458)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer (RTO), Community Engagement, HIV  Ruvuma](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Ruvuma-F-Hanga-Bldg/Regional-Technical-Officer--RTO---Community-Engagement--HIV--Ruvuma_Requisition-2026201456)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer, TB services  Morogoro](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Morogoro-Tanzania/Regional-Technical-Officer--TB-services--Morogoro_Requisition-2026201431)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer, Community Engagement TB , Morogoro](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Morogoro-Tanzania/Regional-Technical-Officer--Community-Engagement-TB---Morogoro_Requisition-2026201427)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Regional Technical Officer (RTO), Community Engagement, HIV  Morogoro](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Morogoro-Tanzania/Regional-Technical-Officer--RTO---Community-Engagement--HIV--Morogoro_Requisition-2026201426)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Field Coordinator, Technical Assistance ( EAII Advisors )](https://apply.workable.com/j/F9D915DA08)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Research Fellow (Implementation and Evaluation), Translational Medicine](https://jobrxiv.org/job/research-fellow-implementation-and-evaluation-translational-medicine/)** (65) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Request For Proposal Field Research Services for the Yegna Gize Impact Study Ethiopia October 2026](https://ngojobsinafrica.com/job/request-for-proposal-field-research-services-for-the-yegna-gize-impact-study-ethiopia-october-2026/)** (64) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Chargé (e) du Suivi et évaluation (S&E) / M&E Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lome-Togo/Charg--e--du-Suivi-et-valuation--S-E----M-E-Officer_Requisition-2026201434)** (63) `LMIC/focus`  
+  FHI 360 · Togo · Workday:FHI 360
+- **[Senior Research Assistant (Internal#140/2026).](https://career.icddrb.org/vacancy-preview/32298)** (63) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Cost & Pricing Officer, Financial Planning & Analysis, Business, Finance, and Operations](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Cost---Pricing-Officer--Financial-Planning---Analysis--Business--Finance--and-Operations_JR2833)** (61) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Research Associate/Research Fellow, Research Institute for Cancer Prevention, Screening and Early Detection [LKCMedicine]](https://jobrxiv.org/job/research-associate-research-fellow-research-institute-for-cancer-prevention-screening-and-early-detection-lkcmedicine/)** (61)  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv research assistant
+
+_and 39 more on the board._
 
 ### Closing within 3 days
 
-- **[Postdoctoral Fellow in Ice core chemistry](https://su.varbi.com/se/what:job/jobID:966951/type:job/where:4/apply:1)** (38)  
-  Stockholms universitet · Sweden · closes 2026-10-07 · Sitemap:Varbi Stockholm University
-- **[Senior Lecturer in Occupational and Environmental Medicine](https://ki.varbi.com/se/what:job/jobID:952545/type:job/where:4/apply:1)** (37)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
-- **[Undergraduate studies in Machine learning for early prediction of primary sclerosing cholangitis (scholarship)](https://ki.varbi.com/en/what:job/jobID:965150/type:job/where:4/apply:1)** (31)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-07 · Sitemap:Varbi Karolinska Institutet
 - **[Forskare i global hälsa med fokus på behandling av pediatrisk pneumoni i låginkomstländer](https://uu.varbi.com/se/what:job/jobID:971294/type:job/where:4/apply:1)** (33) `focus`  
   Uppsala universitet · Sweden · closes 2026-10-09 · Sitemap:Varbi Uppsala University
 
 ---
-434 open positions on the board, 3 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+429 open positions on the board, 58 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
