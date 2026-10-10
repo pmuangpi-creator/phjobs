@@ -1,10 +1,10 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 6 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 5 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 10 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 9 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 12 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 11 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -30,28 +30,28 @@
 - **[Research Specialist in Immuno Oncology](https://ki.varbi.com/en/what:job/jobID:977871/type:job/where:4/apply:1)**  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Salaried post
 
-### 6 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Manager, Business Development](https://livinggoods.applytojob.com/apply/wQzJMHH8f5/Manager-Business-Development)** (84) `LMIC/focus`  
-  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
-- **[Child Health Technical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Quelimane-Mozambique/Child-Health-Technical-Officer_Requisition-2026201473)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Senior Technical Officer – Infection Prevention and Control (IPC)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---Infection-Prevention-and-Control--IPC-_Requisition-2026201474)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[23266 Regional Migration Health Nurse Coordinator (P)](https://ngojobsinafrica.com/job/23266-regional-migration-health-nurse-coordinator-p/)** (54)  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[23396 Regional Programme Specialist (Regional Responses to Climate Displacement (RE2CLID)) (P)](https://ngojobsinafrica.com/job/23396-regional-programme-specialist-regional-responses-to-climate-displacement-re2clid-p/)** (51) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[23370 Regional Thematic Specialist (Humanitarian Response and Recovery) (P)](https://ngojobsinafrica.com/job/23370-regional-thematic-specialist-humanitarian-response-and-recovery-p/)** (43) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Finance Manager](https://ngojobsinafrica.com/job/finance-manager-319/)** (77) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Senior Data Scientist](https://jobrxiv.org/job/senior-data-scientist-81/)** (67) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+- **[Regional Advisor for Humanitarian Access & Risk – Africa](https://ngojobsinafrica.com/job/regional-advisor-for-humanitarian-access-risk-africa/)** (42) `focus`  
+  Ngojobsinafrica · France · RSS:NGO Jobs Africa Nigeria
+- **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Global Development Scientist, Clinical Development](https://jobrxiv.org/job/global-development-scientist-clinical-development/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
 - **[Senior Lecturer in medical anthropology](https://ki.varbi.com/se/what:job/jobID:962943/type:job/where:4/apply:1)** (56) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-12 · Sitemap:Varbi Karolinska Institutet
+- **[Assistant Professor in Geriatric Mental Health](https://ki.varbi.com/se/what:job/jobID:962396/type:job/where:4/apply:1)** (37)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-433 open positions on the board, 5 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+435 open positions on the board, 5 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
