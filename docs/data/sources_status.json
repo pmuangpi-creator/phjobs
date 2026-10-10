@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-10T13:33:38+00:00",
-  "duration_seconds": 152.4,
+  "generated_at": "2026-10-10T22:25:58+00:00",
+  "duration_seconds": 147.6,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 512,
-    "unique_ids": 472,
+    "fetched": 514,
+    "unique_ids": 476,
     "carried_over": 0,
-    "delisted_by_source": 6,
+    "delisted_by_source": 4,
     "expired_dropped": 0,
     "aged_out_no_deadline": 13,
-    "duplicates_collapsed": 19,
-    "published": 440,
-    "gate_rejected": 734,
-    "lmic_duty_station": 133,
+    "duplicates_collapsed": 20,
+    "published": 443,
+    "gate_rejected": 730,
+    "lmic_duty_station": 132,
     "lmic_focus": 166,
     "with_location": 284,
     "doctoral": {
@@ -33,11 +33,11 @@
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 17
+    "digest_items": 16
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 14 failed, 1232 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 14 failed, 1230 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -51,7 +51,7 @@
     "page:Last Mile Health": "ok: 13 candidate links",
     "page:Living Goods": "ok: 5 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
-    "page:icddr,b": "ok: 6 candidate links",
+    "page:icddr,b": "ok: 5 candidate links",
     "rss:KEMRI-Wellcome": "ok: 10 entries",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",
@@ -81,7 +81,7 @@
     "sitemap:AcademicTransfer Netherlands": "ok: 16 entries",
     "sitemap:Varbi Karolinska Institutet": "ok: 89 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
-    "sitemap:Varbi Lund University": "ok: 77 entries",
+    "sitemap:Varbi Lund University": "ok: 76 entries",
     "sitemap:Varbi Stockholm University": "ok: 60 entries",
     "sitemap:Varbi Umea University": "ok: 28 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",

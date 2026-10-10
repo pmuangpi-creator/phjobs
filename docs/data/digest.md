@@ -30,12 +30,10 @@
 - **[Research Specialist in Immuno Oncology](https://ki.varbi.com/en/what:job/jobID:977871/type:job/where:4/apply:1)**  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Salaried post
 
-### 2 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Doctoral (PhD) student position in Public health with a focus on de-implementation of low-value care](https://jobrxiv.org/job/doctoral-phd-student-position-in-public-health-with-a-focus-on-de-implementation-of-low-value-care/)** (43)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Senior R&D Scientist Surgical Vision](https://jobrxiv.org/job/senior-rd-scientist-surgical-vision/)** (30)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Senior Research Fellow in Climate Change and Health](https://jobrxiv.org/job/senior-research-fellow-in-climate-change-and-health/)** (51) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -45,7 +43,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-440 open positions on the board, 0 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+443 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
