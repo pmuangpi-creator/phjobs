@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-10T06:57:27+00:00",
-  "duration_seconds": 139.3,
-  "sources_ok": 40,
+  "generated_at": "2026-10-10T13:33:38+00:00",
+  "duration_seconds": 152.4,
+  "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 331,
-    "unique_ids": 463,
-    "carried_over": 173,
-    "delisted_by_source": 12,
+    "fetched": 512,
+    "unique_ids": 472,
+    "carried_over": 0,
+    "delisted_by_source": 6,
     "expired_dropped": 0,
     "aged_out_no_deadline": 13,
-    "duplicates_collapsed": 15,
-    "published": 435,
-    "gate_rejected": 473,
+    "duplicates_collapsed": 19,
+    "published": 440,
+    "gate_rejected": 734,
     "lmic_duty_station": 133,
     "lmic_focus": 166,
-    "with_location": 286,
+    "with_location": 284,
     "doctoral": {
-      "routes": 34,
+      "routes": 36,
       "fully_funded": 18,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 17,
         "stipend": 1,
-        "unstated": 16
+        "unstated": 18
       },
       "pinned": 26,
       "panel_warnings": [
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 20
+    "digest_items": 17
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 10 failed, 794 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 14 failed, 1232 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -78,19 +78,19 @@
     "rss:jobRxiv search global health": "disabled",
     "rss:jobRxiv search infectious disease": "disabled",
     "rss:jobRxiv search public health": "disabled",
-    "sitemap:AcademicTransfer Netherlands": "ok: 15 entries",
-    "sitemap:Varbi Karolinska Institutet": "error: not XML (mismatched tag: line 44, column 6)",
-    "sitemap:Varbi Linkoping University": "error: not XML (mismatched tag: line 44, column 6)",
-    "sitemap:Varbi Lund University": "error: not XML (mismatched tag: line 44, column 6)",
-    "sitemap:Varbi Stockholm University": "error: not XML (mismatched tag: line 44, column 6)",
-    "sitemap:Varbi Umea University": "error: not XML (mismatched tag: line 44, column 6)",
-    "sitemap:Varbi University of Gothenburg": "error: not XML (mismatched tag: line 44, column 6)",
-    "sitemap:Varbi Uppsala University": "error: not XML (mismatched tag: line 44, column 6)",
+    "sitemap:AcademicTransfer Netherlands": "ok: 16 entries",
+    "sitemap:Varbi Karolinska Institutet": "ok: 89 entries",
+    "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
+    "sitemap:Varbi Lund University": "ok: 77 entries",
+    "sitemap:Varbi Stockholm University": "ok: 60 entries",
+    "sitemap:Varbi Umea University": "ok: 28 entries",
+    "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
+    "sitemap:Varbi Uppsala University": "ok: 87 entries",
     "workable:evidence-action": "ok: 36 postings",
     "workable:villagereach": "ok: 0 postings",
-    "workday:FHI 360": "error: Expecting value: line 1 column 1 (char 0)",
+    "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 18 postings",
-    "workday:PATH": "error: Expecting value: line 1 column 1 (char 0)",
+    "workday:PATH": "ok: 60 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
