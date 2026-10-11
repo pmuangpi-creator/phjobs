@@ -30,11 +30,6 @@
 - **[Research Specialist in Immuno Oncology](https://ki.varbi.com/en/what:job/jobID:977871/type:job/where:4/apply:1)**  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Salaried post
 
-### 1 new, scoring 30 or above
-
-- **[Program Coordinator- Climate Health, HSS](https://path.wd1.myworkdayjobs.com/External/job/India-Mumbai-Sub-Office/Program-Coordinator--Climate-Health--HSS_JR2839)** (69) `LMIC/focus`  
-  PATH · India · Workday:PATH
-
 ### Closing within 3 days
 
 - **[Senior Lecturer in medical anthropology](https://ki.varbi.com/se/what:job/jobID:962943/type:job/where:4/apply:1)** (56) `focus`  
@@ -43,7 +38,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-452 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+451 open positions on the board, 0 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
