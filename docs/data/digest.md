@@ -32,8 +32,8 @@
 
 ### 1 new, scoring 30 or above
 
-- **[Senior Research Fellow – Evaluation Research Stream](https://jobrxiv.org/job/senior-research-fellow-evaluation-research-stream/)** (42)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Program Coordinator- Climate Health, HSS](https://path.wd1.myworkdayjobs.com/External/job/India-Mumbai-Sub-Office/Program-Coordinator--Climate-Health--HSS_JR2839)** (69) `LMIC/focus`  
+  PATH · India · Workday:PATH
 
 ### Closing within 3 days
 
@@ -43,7 +43,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-447 open positions on the board, 0 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+452 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
