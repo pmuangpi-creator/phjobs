@@ -1,10 +1,10 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 5 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 4 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 9 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 8 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 11 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 10 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -32,7 +32,7 @@
 
 ### 1 new, scoring 30 or above
 
-- **[Senior Research Fellow in Climate Change and Health](https://jobrxiv.org/job/senior-research-fellow-in-climate-change-and-health/)** (51) `focus`  
+- **[Senior Research Fellow – Evaluation Research Stream](https://jobrxiv.org/job/senior-research-fellow-evaluation-research-stream/)** (42)  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
@@ -43,7 +43,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-443 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+447 open positions on the board, 0 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
