@@ -32,10 +32,20 @@
 - **[PhD student in Psychology](https://su.varbi.com/se/what:job/jobID:969959/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-02 · Salaried post
 
-### 1 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Senior Major Gifts Officer](https://livinggoods.applytojob.com/apply/aNh6BQ7sjx/Senior-Major-Gifts-Officer)** (43) `focus`  
-  Living Goods · location not stated · Page:Living Goods
+- **[Senior Technical Officer, TB services - Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Officer--TB-services---Dar-Es-Salaam_Requisition-2026201226)** (67) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Project Manager, Field Implementation](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/Project-Manager--Field-Implementation_Requisition-2026201496)** (65) `LMIC/focus`  
+  FHI 360 · Bangladesh · Workday:FHI 360
+- **[Program Manager Knowledge Management and Partnership](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/Program-Manager-Knowledge-Management-and-Partnership_Requisition-2026201497)** (65) `LMIC/focus`  
+  FHI 360 · Bangladesh · Workday:FHI 360
+- **[DRC Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/DRC-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201417)** (59) `LMIC/focus`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Research Fellow (ITD-DIB-2026-16)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-16)** (42) `focus`  
+  Academic · United Kingdom · RSS:LSHTM infectious and tropical diseases
+- **[Office Manager](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Office-Manager_R5199-1)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
 
 ### Closing within 3 days
 
@@ -47,7 +57,7 @@
   Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
 
 ---
-452 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+451 open positions on the board, 6 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
