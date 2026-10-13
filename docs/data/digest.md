@@ -7,13 +7,6 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 8 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
-### 2 new fully funded doctoral routes
-
-- **[PhD student in Sustainability Science](https://su.varbi.com/se/what:job/jobID:966197/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
-- **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)**  
@@ -41,18 +34,24 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 5 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Head of Advocacy and Evidencing](https://ngojobsinafrica.com/job/head-of-advocacy-and-evidencing/)** (96) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia, India, Italy · RSS:NGO Jobs Africa Kenya
-- **[Program Manager I – Emergency Response](https://ngojobsinafrica.com/job/program-manager-i-emergency-response/)** (87) `LMIC/focus`  
-  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
-- **[ToR: Consultancy for a Podcast Production (Recording Support, Editing, English/French Subtitles, Upload/Publishing](https://ngojobsinafrica.com/job/tor-consultancy-for-a-podcast-production-recording-support-editing-english-french-subtitles-upload-publishing/)** (74) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Sr Data Scientist](https://jobrxiv.org/job/sr-data-scientist-24/)** (67) `LMIC/focus`  
-  Jobfront Industry · India · RSS:jobRxiv scientist
-- **[Online Training Facilitator for African Mental Health CSOs and OPDs: Project Management, Resource Mobilization, Financial Management, and M&E](https://ngojobsinafrica.com/job/online-training-facilitator-for-african-mental-health-csos-and-opds-project-management-resource-mobilization-financial-management-and-me/)** (41) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Technical Program Manager.](https://livinggoods.applytojob.com/apply/1v9Zuq8Qeu/Technical-Program-Manager)** (74) `LMIC/focus`  
+  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
+- **[Health Data Audits consultant Nigeria (Abuja – FCT and Nasarawa)](https://ngojobsinafrica.com/job/health-data-audits-consultant-nigeria-abuja-fct-and-nasarawa/)** (71) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Manager, Water Treatment Operations (EAII Advisors)](https://apply.workable.com/j/EC7D5A368A)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Senior Technical Officer – WASH in Health Facilities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---WASH-in-Health-Facilities_Requisition-2026201510)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Provincial Program Coordinator – Tete](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tete-Mozambique/Provincial-Program-Coordinator---Tete_Requisition-2026201511)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Biostatistician to the Clinical Memory Research group](https://lu.varbi.com/se/what:job/jobID:975207/type:job/where:4/apply:1)** (40)  
+  Lunds universitet · Sweden · closes 2026-11-03 · Sitemap:Varbi Lund University
+- **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
+- **[Postdoc for distributed coordination in swarm robotics for underwater anomaly detection](https://jobrxiv.org/job/postdoc-for-distributed-coordination-in-swarm-robotics-for-underwater-anomaly-detection/)** (31)  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -64,7 +63,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-441 open positions on the board, 5 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+438 open positions on the board, 6 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
