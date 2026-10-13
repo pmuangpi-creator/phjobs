@@ -1,16 +1,21 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 3 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 2 days)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 7 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 6 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 9 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 8 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
+
+### 2 new fully funded doctoral routes
+
+- **[PhD student in Sustainability Science](https://su.varbi.com/se/what:job/jobID:966197/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
+- **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
-- **[Doctoral student in Medical Science: Predicting eco-evolutionary dynamics in a polymicrobial urinary tract infection model](https://lu.varbi.com/se/what:job/jobID:971233/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-12 · Salaried post
 - **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-10-15 · Salaried post
 - **[PhD student in Public Health Sciences](https://su.varbi.com/se/what:job/jobID:963985/type:job/where:4/apply:1)**  
@@ -31,33 +36,35 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Salaried post
 - **[PhD student in Psychology](https://su.varbi.com/se/what:job/jobID:969959/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-02 · Salaried post
+- **[PhD student in Sustainability Science](https://su.varbi.com/se/what:job/jobID:966197/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
+- **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
+  Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 6 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Senior Technical Officer, TB services - Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Officer--TB-services---Dar-Es-Salaam_Requisition-2026201226)** (67) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Project Manager, Field Implementation](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/Project-Manager--Field-Implementation_Requisition-2026201496)** (65) `LMIC/focus`  
-  FHI 360 · Bangladesh · Workday:FHI 360
-- **[Program Manager Knowledge Management and Partnership](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/Program-Manager-Knowledge-Management-and-Partnership_Requisition-2026201497)** (65) `LMIC/focus`  
-  FHI 360 · Bangladesh · Workday:FHI 360
-- **[DRC Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/DRC-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201417)** (59) `LMIC/focus`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Research Fellow (ITD-DIB-2026-16)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-16)** (42) `focus`  
-  Academic · United Kingdom · RSS:LSHTM infectious and tropical diseases
-- **[Office Manager](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Office-Manager_R5199-1)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Head of Advocacy and Evidencing](https://ngojobsinafrica.com/job/head-of-advocacy-and-evidencing/)** (96) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia, India, Italy · RSS:NGO Jobs Africa Kenya
+- **[Program Manager I – Emergency Response](https://ngojobsinafrica.com/job/program-manager-i-emergency-response/)** (87) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
+- **[ToR: Consultancy for a Podcast Production (Recording Support, Editing, English/French Subtitles, Upload/Publishing](https://ngojobsinafrica.com/job/tor-consultancy-for-a-podcast-production-recording-support-editing-english-french-subtitles-upload-publishing/)** (74) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Sr Data Scientist](https://jobrxiv.org/job/sr-data-scientist-24/)** (67) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+- **[Online Training Facilitator for African Mental Health CSOs and OPDs: Project Management, Resource Mobilization, Financial Management, and M&E](https://ngojobsinafrica.com/job/online-training-facilitator-for-african-mental-health-csos-and-opds-project-management-resource-mobilization-financial-management-and-me/)** (41) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
 
 ### Closing within 3 days
 
-- **[Senior Lecturer in medical anthropology](https://ki.varbi.com/se/what:job/jobID:962943/type:job/where:4/apply:1)** (56) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-12 · Sitemap:Varbi Karolinska Institutet
 - **[Assistant Professor in Geriatric Mental Health](https://ki.varbi.com/se/what:job/jobID:962396/type:job/where:4/apply:1)** (37)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 - **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)** (58) `focus`  
   Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
+- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-451 open positions on the board, 6 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+441 open positions on the board, 5 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
