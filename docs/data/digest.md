@@ -34,24 +34,16 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 8 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Senior Program Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/Senior-Program-Officer_Requisition-2026201501)** (59) `LMIC/focus`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Asset & Facilities Management Associate](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Asset---Facilities-Management-Associate_R5203)** (59) `LMIC/focus`  
-  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Program Officer](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Program-Officer_R5204)** (59) `LMIC/focus`  
-  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Senior Lab Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Senior-Lab-Advisor_Requisition-2026201480)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Associate Director, Projects and Programs (Response Lead)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Associate-Director--Projects-and-Programs--Response-Lead-_Requisition-2026201503)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Finance Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kyiv-Ukraine/Finance-Manager_Requisition-2026201509)** (34) `LMIC`  
-  FHI 360 · Ukraine · Workday:FHI 360
-- **[Technical Officer, Pharmaceutical Financing](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Officer--Pharmaceutical-Financing_R5207)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
-- **[Technical Officer, Pharmaceutical Governance](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Officer--Pharmaceutical-Governance_R5208)** (34) `LMIC`  
-  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Postdoctoral Researcher in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:977187/type:job/where:4/apply:1)** (54)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-04 · Sitemap:Varbi Karolinska Institutet
+- **[Research Fellow](https://jobrxiv.org/job/research-fellow-153/)** (37)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Post-doctoral Research Fellow in Psychiatric Epidemiology (EPICare)](https://jobrxiv.org/job/post-doctoral-research-fellow-in-psychiatric-epidemiology-epicare/)** (34)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Lecturer or Associate Professor in Computational Humanities and Social Science](https://jobrxiv.org/job/lecturer-or-associate-professor-in-computational-humanities-and-social-science/)** (30)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv faculty
 
 ### Closing within 3 days
 
@@ -61,7 +53,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-456 open positions on the board, 8 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
