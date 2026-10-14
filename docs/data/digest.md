@@ -34,36 +34,24 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 14 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Consultancy service to conduct a programme baseline assessment](https://ngojobsinafrica.com/job/consultancy-service-to-conduct-a-programme-baseline-assessment/)** (87) `LMIC/focus`  
-  Ngojobsinafrica · Uganda, Kenya · RSS:NGO Jobs Africa Uganda
-- **[Country Director – Ethiopia](https://ngojobsinafrica.com/job/country-director-ethiopia-39/)** (75) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Communications and Content Officer, Infectious Disease – Tuberculosis](https://path.wd1.myworkdayjobs.com/External/job/India-Mumbai-Sub-Office/Communications-and-Content-Officer--Infectious-Disease---Tuberculosis_JR2845)** (73) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Head of HR, Africa Region](https://ngojobsinafrica.com/job/head-of-hr-africa-region/)** (71) `LMIC/focus`  
-  Ngojobsinafrica · Kenya, Ghana, Liberia · RSS:NGO Jobs Africa Kenya
-- **[Senior TB and TB Prevention Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-TB-and-TB-Prevention-Advisor_R5206)** (69) `LMIC/focus`  
+- **[Senior Program Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/Senior-Program-Officer_Requisition-2026201501)** (59) `LMIC/focus`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Asset & Facilities Management Associate](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Asset---Facilities-Management-Associate_R5203)** (59) `LMIC/focus`  
   Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Request for Proposal: Provision of Ground Transport Services October 2026 Kenya](https://ngojobsinafrica.com/job/request-for-proposal-provision-of-ground-transport-services-october-2026-kenya/)** (61) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Senior Procurement Officer](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-Procurement-Officer_R5202)** (59) `LMIC/focus`  
+- **[Program Officer](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Program-Officer_R5204)** (59) `LMIC/focus`  
   Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Sr. PMDT Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Sr-PMDT-Advisor_R5205)** (59) `LMIC/focus`  
-  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Regional Technical Officer, Community Engagement TB, Ruvuma](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tanzania-Ruvuma-F-Hanga-Bldg/Regional-Technical-Officer--Community-Engagement-TB--Ruvuma_Requisition-2026201457)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Intern-Strategy & Business Development, Strategy team](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Intern-Strategy---Business-Development--Strategy-team_JR2846)** (53) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Principal Scientist I](https://jobrxiv.org/job/principal-scientist-i-7/)** (53) `LMIC`  
-  Jobfront Industry · China · RSS:jobRxiv scientist
-- **[Accountant II](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Accountant-II_R5201)** (49) `LMIC/focus`  
-  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Global Social and Behaviour Change (SBC) Manager](https://ngojobsinafrica.com/job/global-social-and-behaviour-change-sbc-manager/)** (33) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Principal Scientist, Scientific Workflows & Agentic Cheminformatics – BE](https://jobrxiv.org/job/principal-scientist-scientific-workflows-agentic-cheminformatics-be/)** (30)  
-  Jobfront Industry · United Kingdom, Belgium · RSS:jobRxiv scientist
+- **[Senior Lab Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Senior-Lab-Advisor_Requisition-2026201480)** (41) `LMIC`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Associate Director, Projects and Programs (Response Lead)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Associate-Director--Projects-and-Programs--Response-Lead-_Requisition-2026201503)** (41) `LMIC`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Finance Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kyiv-Ukraine/Finance-Manager_Requisition-2026201509)** (34) `LMIC`  
+  FHI 360 · Ukraine · Workday:FHI 360
+- **[Technical Officer, Pharmaceutical Financing](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Officer--Pharmaceutical-Financing_R5207)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Technical Officer, Pharmaceutical Governance](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Technical-Officer--Pharmaceutical-Governance_R5208)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
 
 ### Closing within 3 days
 
@@ -73,7 +61,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-452 open positions on the board, 13 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 8 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
