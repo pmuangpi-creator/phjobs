@@ -1,10 +1,10 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 2 days)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 1 day)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 6 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 5 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 8 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 7 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -34,36 +34,26 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 8 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Technical Program Manager.](https://livinggoods.applytojob.com/apply/1v9Zuq8Qeu/Technical-Program-Manager)** (74) `LMIC/focus`  
-  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
-- **[Health Data Audits consultant Nigeria (Abuja – FCT and Nasarawa)](https://ngojobsinafrica.com/job/health-data-audits-consultant-nigeria-abuja-fct-and-nasarawa/)** (71) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Manager, Water Treatment Operations (EAII Advisors)](https://apply.workable.com/j/EC7D5A368A)** (65) `LMIC/focus`  
+- **[Senior Postdoctoral Research Scientist in AI for Outbreak Response](https://jobrxiv.org/job/senior-postdoctoral-research-scientist-in-ai-for-outbreak-response/)** (86) `LMIC/focus`  
+  Jobfront Academia · United Kingdom, Nigeria, Congo, Dem. Rep. · RSS:jobRxiv postdoc
+- **[Country Director, Ethiopia](https://ngojobsinafrica.com/job/country-director-ethiopia-37/)** (83) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Consultant, Web Dashboard Developer-Government Data Integration (EAII Advisors)](https://apply.workable.com/j/020CED0DCF)** (65) `LMIC/focus`  
   Evidence Action · India · Workable:evidence-action
-- **[Senior Technical Officer – WASH in Health Facilities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---WASH-in-Health-Facilities_Requisition-2026201510)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Provincial Program Coordinator – Tete](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tete-Mozambique/Provincial-Program-Coordinator---Tete_Requisition-2026201511)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Biostatistician to the Clinical Memory Research group](https://lu.varbi.com/se/what:job/jobID:975207/type:job/where:4/apply:1)** (40)  
-  Lunds universitet · Sweden · closes 2026-11-03 · Sitemap:Varbi Lund University
-- **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
-- **[Postdoc for distributed coordination in swarm robotics for underwater anomaly detection](https://jobrxiv.org/job/postdoc-for-distributed-coordination-in-swarm-robotics-for-underwater-anomaly-detection/)** (31)  
-  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
+- **[Project Officer, STRIDES Thailand](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bangkok-Thailand/Project-Officer--STRIDES-Thailand_Requisition-2026201498)** (46) `LMIC`  
+  FHI 360 · Thailand · Workday:FHI 360
 
 ### Closing within 3 days
 
-- **[Assistant Professor in Geriatric Mental Health](https://ki.varbi.com/se/what:job/jobID:962396/type:job/where:4/apply:1)** (37)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-13 · Sitemap:Varbi Karolinska Institutet
 - **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)** (58) `focus`  
   Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
 - **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-438 open positions on the board, 6 of the new ones LMIC-related. 19 fully funded doctoral routes on the PhD page.
+439 open positions on the board, 4 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
