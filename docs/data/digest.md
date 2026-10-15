@@ -1,10 +1,10 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (in 1 day)  
+- **Doctoral post, commercial determinants of health** — Department of Public Health Sciences, Stockholm University, closes 2026-10-15 (today)  
   Send the Storbjork email and the one to director of studies Sara Brolin Laftman. Both are drafted and unsent. Check the transcript for the credit values of the Qualitative and Quantitative Research Methods modules first, because the post requires at least 7.5 advanced-level methods credits.
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 5 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 4 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 7 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 6 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -34,16 +34,18 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 4 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Postdoctoral Researcher in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:977187/type:job/where:4/apply:1)** (54)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-04 · Sitemap:Varbi Karolinska Institutet
-- **[Research Fellow](https://jobrxiv.org/job/research-fellow-153/)** (37)  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Post-doctoral Research Fellow in Psychiatric Epidemiology (EPICare)](https://jobrxiv.org/job/post-doctoral-research-fellow-in-psychiatric-epidemiology-epicare/)** (34)  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Lecturer or Associate Professor in Computational Humanities and Social Science](https://jobrxiv.org/job/lecturer-or-associate-professor-in-computational-humanities-and-social-science/)** (30)  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv faculty
+- **[Research Fellow or Assistant Professor in Epidemiology (UK-PHRST) (EPH-EPED-2026-07)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPED-2026-07)** (56) `focus`  
+  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
+- **[Regional Advisor for Humanitarian Access & Risk – Africa](https://ngojobsinafrica.com/job/regional-advisor-for-humanitarian-access-risk-africa/)** (42) `focus`  
+  Ngojobsinafrica · France · RSS:NGO Jobs Africa Nigeria
+- **[Antibody Discovery Associate Scientist](https://jobrxiv.org/job/antibody-discovery-associate-scientist/)** (40) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Antibody Discovery Scientist](https://jobrxiv.org/job/antibody-discovery-scientist/)** (40) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Scientist I – Computational Biology, Systems Immunology](https://jobrxiv.org/job/scientist-i-computational-biology-systems-immunology/)** (33)  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -53,7 +55,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-456 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 4 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
