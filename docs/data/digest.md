@@ -36,22 +36,22 @@
 
 ### 8 new, scoring 30 or above
 
-- **[Nurse with Non-Communicable Diseases under the Nutrition Research Division (Adv#141/2026).](https://career.icddrb.org/vacancy-preview/32299)** (101) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Digital Health Systems Strengthening Officers](https://livinggoods.applytojob.com/apply/r6ciJsPErD/Digital-Health-Systems-Strengthening-Officers)** (74) `LMIC/focus`  
-  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
-- **[Technical Assistance (T.A ) - Performance Management](https://livinggoods.applytojob.com/apply/OoBGfjTzCI/Technical-Assistance-TA--Performance-Management)** (74) `LMIC/focus`  
-  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
-- **[Data Scientist I](https://jobrxiv.org/job/data-scientist-i-6/)** (72) `LMIC/focus`  
-  Jobfront Industry · India · RSS:jobRxiv scientist
-- **[Program Excellence Officer - (PEO)](https://livinggoods.applytojob.com/apply/o7NyeAHNLW/Program-Excellence-Officer-PEO)** (72) `LMIC/focus`  
-  Living Goods · Kenya · Page:Living Goods
-- **[Senior Technical Advisor, HIV Care and Treatment- PATH Kenya](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Nyamira-Sub-Office/Senior-Technical-Advisor--HIV-Care-and-Treatment_JR2851)** (71) `LMIC/focus`  
-  PATH · Kenya · Workday:PATH
-- **[Accountant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Guinea-Any/Accountant_Requisition-2026201517)** (47) `LMIC/focus`  
-  FHI 360 · Guinea · Workday:FHI 360
-- **[Postdoctoral studies in renal epidemiology (scholarship)](https://ki.varbi.com/en/what:job/jobID:979798/type:job/where:4/apply:1)** (40)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-05 · Sitemap:Varbi Karolinska Institutet
+- **[Finance Associate](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Madagascar-Any/Finance-Associate_Requisition-2026201512-1)** (59) `LMIC/focus`  
+  FHI 360 · Madagascar · Workday:FHI 360
+- **[Finance & Admin Associate](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Niger-State/Finance---Admin-Associate_R5211)** (59) `LMIC/focus`  
+  Management Sciences for Health · Nigeria, Niger · Workday:Management Sciences for Health
+- **[Finance & Admin Associate](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Kano/Finance---Admin-Associate_R5210-1)** (57) `LMIC/focus`  
+  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
+- **[Senior Monitoring, Evaluation, and Learning (MEL) Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Hanoi-Vietnam/Senior-Monitoring--Evaluation--and-Learning--MEL--Officer_Requisition-2026201518)** (44) `LMIC`  
+  FHI 360 · Viet Nam · Workday:FHI 360
+- **[(Sr.) QA Scientist](https://jobrxiv.org/job/sr-qa-scientist/)** (40) `LMIC`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Tenure track assistant professor/Associate professor positions in Veterinary medicine](https://jobrxiv.org/job/tenure-track-assistant-professor-associate-professor-positions-in-veterinary-medicine/)** (36)  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Postdoctoral position (m/f/d) | Oceanic Collective Intelligence](https://jobrxiv.org/job/postdoctoral-position-m-f-d-oceanic-collective-intelligence/)** (32)  
+  Jobfront Academia · Germany · RSS:jobRxiv postdoc
+- **[Postdoc / Research Scientist (m/f/d) | Kinship Inequalities Research Group](https://jobrxiv.org/job/postdoc-research-scientist-m-f-d-kinship-inequalities-research-group/)** (30)  
+  Jobfront Academia · Germany · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -59,7 +59,7 @@
   Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
 
 ---
-464 open positions on the board, 7 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+468 open positions on the board, 5 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
