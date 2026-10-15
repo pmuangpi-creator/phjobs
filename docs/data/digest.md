@@ -34,28 +34,32 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 5 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Research Fellow or Assistant Professor in Epidemiology (UK-PHRST) (EPH-EPED-2026-07)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPED-2026-07)** (56) `focus`  
-  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
-- **[Regional Advisor for Humanitarian Access & Risk – Africa](https://ngojobsinafrica.com/job/regional-advisor-for-humanitarian-access-risk-africa/)** (42) `focus`  
-  Ngojobsinafrica · France · RSS:NGO Jobs Africa Nigeria
-- **[Antibody Discovery Associate Scientist](https://jobrxiv.org/job/antibody-discovery-associate-scientist/)** (40) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Antibody Discovery Scientist](https://jobrxiv.org/job/antibody-discovery-scientist/)** (40) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist I – Computational Biology, Systems Immunology](https://jobrxiv.org/job/scientist-i-computational-biology-systems-immunology/)** (33)  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[Nurse with Non-Communicable Diseases under the Nutrition Research Division (Adv#141/2026).](https://career.icddrb.org/vacancy-preview/32299)** (101) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Digital Health Systems Strengthening Officers](https://livinggoods.applytojob.com/apply/r6ciJsPErD/Digital-Health-Systems-Strengthening-Officers)** (74) `LMIC/focus`  
+  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
+- **[Technical Assistance (T.A ) - Performance Management](https://livinggoods.applytojob.com/apply/OoBGfjTzCI/Technical-Assistance-TA--Performance-Management)** (74) `LMIC/focus`  
+  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
+- **[Data Scientist I](https://jobrxiv.org/job/data-scientist-i-6/)** (72) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+- **[Program Excellence Officer - (PEO)](https://livinggoods.applytojob.com/apply/o7NyeAHNLW/Program-Excellence-Officer-PEO)** (72) `LMIC/focus`  
+  Living Goods · Kenya · Page:Living Goods
+- **[Senior Technical Advisor, HIV Care and Treatment- PATH Kenya](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Nyamira-Sub-Office/Senior-Technical-Advisor--HIV-Care-and-Treatment_JR2851)** (71) `LMIC/focus`  
+  PATH · Kenya · Workday:PATH
+- **[Accountant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Guinea-Any/Accountant_Requisition-2026201517)** (47) `LMIC/focus`  
+  FHI 360 · Guinea · Workday:FHI 360
+- **[Postdoctoral studies in renal epidemiology (scholarship)](https://ki.varbi.com/en/what:job/jobID:979798/type:job/where:4/apply:1)** (40)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-05 · Sitemap:Varbi Karolinska Institutet
 
 ### Closing within 3 days
 
 - **[PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour](https://su.varbi.com/se/what:job/jobID:966253/type:job/where:4/apply:1)** (58) `focus`  
   Stockholms universitet · Sweden · closes 2026-10-15 · Sitemap:Varbi Stockholm University
-- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-16 · Sitemap:Varbi Karolinska Institutet
 
 ---
-456 open positions on the board, 4 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+464 open positions on the board, 7 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
