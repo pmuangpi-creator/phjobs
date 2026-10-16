@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-16T17:21:16+00:00",
-  "duration_seconds": 159.3,
+  "generated_at": "2026-10-16T22:01:21+00:00",
+  "duration_seconds": 151.9,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 551,
-    "unique_ids": 512,
+    "fetched": 560,
+    "unique_ids": 520,
     "carried_over": 0,
-    "delisted_by_source": 6,
+    "delisted_by_source": 8,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 27,
-    "published": 473,
-    "gate_rejected": 734,
-    "lmic_duty_station": 138,
-    "lmic_focus": 158,
-    "with_location": 317,
+    "duplicates_collapsed": 28,
+    "published": 480,
+    "gate_rejected": 728,
+    "lmic_duty_station": 137,
+    "lmic_focus": 159,
+    "with_location": 322,
     "doctoral": {
       "routes": 33,
       "fully_funded": 17,
@@ -34,11 +34,11 @@
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 20
+    "digest_items": 14
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 19 failed, 1266 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 17 failed, 1271 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 1 postings",
@@ -82,7 +82,7 @@
     "sitemap:AcademicTransfer Netherlands": "ok: 18 entries",
     "sitemap:Varbi Karolinska Institutet": "ok: 89 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
-    "sitemap:Varbi Lund University": "ok: 95 entries",
+    "sitemap:Varbi Lund University": "ok: 96 entries",
     "sitemap:Varbi Stockholm University": "ok: 61 entries",
     "sitemap:Varbi Umea University": "ok: 26 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
@@ -91,7 +91,7 @@
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 27 postings",
-    "workday:PATH": "ok: 67 postings",
+    "workday:PATH": "ok: 69 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
