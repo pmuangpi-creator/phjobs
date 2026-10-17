@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-17T16:20:03+00:00",
-  "duration_seconds": 144.9,
+  "generated_at": "2026-10-17T21:24:37+00:00",
+  "duration_seconds": 150.2,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 559,
-    "unique_ids": 514,
+    "fetched": 557,
+    "unique_ids": 512,
     "carried_over": 0,
-    "delisted_by_source": 8,
+    "delisted_by_source": 3,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
     "duplicates_collapsed": 27,
-    "published": 475,
-    "gate_rejected": 707,
-    "lmic_duty_station": 137,
-    "lmic_focus": 160,
-    "with_location": 318,
+    "published": 473,
+    "gate_rejected": 708,
+    "lmic_duty_station": 136,
+    "lmic_focus": 159,
+    "with_location": 316,
     "doctoral": {
       "routes": 31,
       "fully_funded": 15,
@@ -34,11 +34,11 @@
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 11
+    "digest_items": 10
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 13 failed, 1253 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 13 failed, 1252 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -91,7 +91,7 @@
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 27 postings",
-    "workday:PATH": "ok: 68 postings",
+    "workday:PATH": "ok: 67 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
