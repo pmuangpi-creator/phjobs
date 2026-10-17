@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-17T05:31:24+00:00",
-  "duration_seconds": 158.0,
+  "generated_at": "2026-10-17T11:34:32+00:00",
+  "duration_seconds": 145.9,
   "sources_ok": 48,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
     "fetched": 531,
-    "unique_ids": 517,
+    "unique_ids": 514,
     "carried_over": 27,
-    "delisted_by_source": 8,
+    "delisted_by_source": 2,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 28,
-    "published": 477,
-    "gate_rejected": 707,
+    "duplicates_collapsed": 27,
+    "published": 475,
+    "gate_rejected": 708,
     "lmic_duty_station": 137,
     "lmic_focus": 159,
     "with_location": 319,
@@ -34,11 +34,11 @@
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 12
+    "digest_items": 10
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 13 failed, 1225 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 13 failed, 1226 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -80,7 +80,7 @@
     "rss:jobRxiv search infectious disease": "disabled",
     "rss:jobRxiv search public health": "disabled",
     "sitemap:AcademicTransfer Netherlands": "ok: 17 entries",
-    "sitemap:Varbi Karolinska Institutet": "ok: 84 entries",
+    "sitemap:Varbi Karolinska Institutet": "ok: 85 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Lund University": "ok: 92 entries",
     "sitemap:Varbi Stockholm University": "ok: 61 entries",

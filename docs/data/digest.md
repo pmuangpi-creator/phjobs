@@ -24,15 +24,8 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 2 new, scoring 30 or above
-
-- **[Senior Technical Advisor, Data Use and Decision Science](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5455817008)** (90) `LMIC/focus`  
-  Resolvetosavelives · Congo, Dem. Rep. · Greenhouse:resolvetosavelives
-- **[Officer, People and Culture ( EAII Advisors)](https://apply.workable.com/j/048F5BCBFD)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-
 ---
-477 open positions on the board, 2 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+475 open positions on the board, 0 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
