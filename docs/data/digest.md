@@ -1,16 +1,12 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 3 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 2 days)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 5 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 4 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification](https://uu.varbi.com/se/what:job/jobID:972267/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-10-16 · Salaried post
-- **[PhD position in Dermatology](https://lu.varbi.com/se/what:job/jobID:972280/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-10-16 · Salaried post
 - **[PhD student position in Surgery](https://lu.varbi.com/se/what:job/jobID:968981/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-10-19 · Salaried post
 - **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)**  
@@ -30,13 +26,13 @@
 
 ### 2 new, scoring 30 or above
 
-- **[Senior Finance and Operations Director](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/Senior-Finance-and-Operations-Director_Requisition-2026201437)** (59) `LMIC/focus`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Department Chair, Obstetrics and Gynecology](https://jobrxiv.org/job/department-chair-obstetrics-and-gynecology/)** (31)  
-  Jobfront Academia · Canada · RSS:jobRxiv faculty
+- **[Senior Technical Advisor, Data Use and Decision Science](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5455817008)** (90) `LMIC/focus`  
+  Resolvetosavelives · Congo, Dem. Rep. · Greenhouse:resolvetosavelives
+- **[Officer, People and Culture ( EAII Advisors)](https://apply.workable.com/j/048F5BCBFD)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
 
 ---
-480 open positions on the board, 1 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+477 open positions on the board, 2 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
