@@ -24,8 +24,13 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
+### 1 new, scoring 30 or above
+
+- **[Scientist Pharmacometrics Support – Hyderabad](https://jobrxiv.org/job/scientist-pharmacometrics-support-hyderabad/)** (67) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+
 ---
-475 open positions on the board, 0 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+475 open positions on the board, 1 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
