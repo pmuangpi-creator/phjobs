@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-18T05:43:56+00:00",
-  "duration_seconds": 146.2,
-  "sources_ok": 49,
+  "generated_at": "2026-10-18T12:17:02+00:00",
+  "duration_seconds": 959.0,
+  "sources_ok": 42,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 557,
-    "unique_ids": 514,
-    "carried_over": 0,
-    "delisted_by_source": 6,
+    "fetched": 522,
+    "unique_ids": 500,
+    "carried_over": 21,
+    "delisted_by_source": 18,
     "expired_dropped": 0,
-    "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 24,
-    "published": 478,
-    "gate_rejected": 705,
-    "lmic_duty_station": 136,
-    "lmic_focus": 161,
-    "with_location": 315,
+    "aged_out_no_deadline": 10,
+    "duplicates_collapsed": 20,
+    "published": 470,
+    "gate_rejected": 681,
+    "lmic_duty_station": 137,
+    "lmic_focus": 156,
+    "with_location": 312,
     "doctoral": {
-      "routes": 31,
+      "routes": 32,
       "fully_funded": 15,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 14,
         "stipend": 1,
-        "unstated": 16
+        "unstated": 17
       },
       "pinned": 26,
       "panel_warnings": [
@@ -34,11 +34,11 @@
         "Doctoral post, heat, cold and air pollution in pregnancy: deadline 2026-10-06 has passed but it is still marked 'needs you'"
       ]
     },
-    "digest_items": 16
+    "digest_items": 17
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 13 failed, 1249 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1188 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -60,14 +60,14 @@
     "rss:LSHTM epidemiology and population health": "ok: 2 entries",
     "rss:LSHTM infectious and tropical diseases": "ok: 5 entries",
     "rss:LSHTM public health and policy": "ok: 1 entries",
-    "rss:NGO Jobs Africa Ethiopia": "ok: 10 entries",
-    "rss:NGO Jobs Africa Kenya": "ok: 10 entries",
-    "rss:NGO Jobs Africa Malawi": "ok: 8 entries",
-    "rss:NGO Jobs Africa Nigeria": "ok: 10 entries",
-    "rss:NGO Jobs Africa South Sudan": "ok: 4 entries",
-    "rss:NGO Jobs Africa Tanzania": "ok: 8 entries",
+    "rss:NGO Jobs Africa Ethiopia": "error: HTTPSConnectionPool(host='ngojobsinafrica.com', port=443): Read timed out. (read timeout=40)",
+    "rss:NGO Jobs Africa Kenya": "error: HTTPSConnectionPool(host='ngojobsinafrica.com', port=443): Read timed out. (read timeout=40)",
+    "rss:NGO Jobs Africa Malawi": "error: 522 Server Error: <none> for url: https://ngojobsinafrica.com/job-location/malawi/feed/",
+    "rss:NGO Jobs Africa Nigeria": "error: HTTPSConnectionPool(host='ngojobsinafrica.com', port=443): Read timed out. (read timeout=40)",
+    "rss:NGO Jobs Africa South Sudan": "error: HTTPSConnectionPool(host='ngojobsinafrica.com', port=443): Read timed out. (read timeout=40)",
+    "rss:NGO Jobs Africa Tanzania": "error: HTTPSConnectionPool(host='ngojobsinafrica.com', port=443): Read timed out. (read timeout=40)",
     "rss:NGO Jobs Africa Uganda": "ok: 10 entries",
-    "rss:NGO Jobs Africa Zambia": "ok: 9 entries",
+    "rss:NGO Jobs Africa Zambia": "error: HTTPSConnectionPool(host='ngojobsinafrica.com', port=443): Read timed out. (read timeout=40)",
     "rss:University of Leeds": "ok: 29 entries",
     "rss:University of Southampton": "ok: 35 entries",
     "rss:jobRxiv PhD": "ok: 100 entries",
@@ -87,11 +87,11 @@
     "sitemap:Varbi Umea University": "ok: 22 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Uppsala University": "ok: 88 entries",
-    "workable:evidence-action": "ok: 37 postings",
+    "workable:evidence-action": "ok: 36 postings",
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 27 postings",
-    "workday:PATH": "ok: 67 postings",
+    "workday:PATH": "ok: 68 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
