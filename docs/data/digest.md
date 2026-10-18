@@ -1,8 +1,8 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 2 days)  
+- **Supervision enquiry, Simon Reid** — School of Public Health, University of Queensland, closes 2026-10-19 (in 1 day)  
   Blocked. The Graduate Research School EOI requires English proficiency documents at submission and there is no current IELTS, TOEIC or TOEFL score, which closes the 19 October round. Book a test or let this round go.
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 4 days)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 3 days)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -24,8 +24,26 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
+### 4 new, scoring 30 or above
+
+- **[Warehouse Recording Officer](https://ngojobsinafrica.com/job/warehouse-recording-officer/)** (85) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Agriculture and Livelihood Expert](https://ngojobsinafrica.com/job/agriculture-and-livelihood-expert/)** (75) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Project Manager](https://ngojobsinafrica.com/job/project-manager-439/)** (62) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Optometrist](https://ngojobsinafrica.com/job/optometrist-2/)** (30) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+
+### Closing within 3 days
+
+- **[Postdoctoral position in gut microbiome epidemiology and cardiometabolic health](https://uu.varbi.com/se/what:job/jobID:976387/type:job/where:4/apply:1)** (34)  
+  Uppsala universitet · Sweden · closes 2026-10-21 · Sitemap:Varbi Uppsala University
+- **[Postdoctoral Researcher in Dementia and Fall Prevention](https://ki.varbi.com/se/what:job/jobID:972601/type:job/where:4/apply:1)** (34)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-21 · Sitemap:Varbi Karolinska Institutet
+
 ---
-473 open positions on the board, 0 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+478 open positions on the board, 4 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
