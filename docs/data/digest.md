@@ -24,18 +24,20 @@
 - **[PhD student in molecular biosciences](https://su.varbi.com/se/what:job/jobID:976392/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 
-### 5 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Intern- Digital Health, AI & MedTech](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Intern--Digital-Health--AI---MedTech_JR2858)** (53) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Research Statistician I – Data Scientist – Anesthesiology](https://jobrxiv.org/job/research-statistician-i-data-scientist-anesthesiology/)** (39)  
-  Jobfront Academia · United States · RSS:jobRxiv scientist
+- **[Field Coordinator -Afar](https://ngojobsinafrica.com/job/field-coordinator-afar/)** (110) `LMIC/focus`  
+  Ngojobsinafrica · France, Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Response Officer](https://ngojobsinafrica.com/job/response-officer/)** (108) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Prevention Officer](https://ngojobsinafrica.com/job/prevention-officer-3/)** (108) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Associate Director, Right-Fit Evidence Unit](https://ngojobsinafrica.com/job/associate-director-right-fit-evidence-unit/)** (43) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
 - **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[Senior Program Officer, China Program - China Program, AMEE](https://path.wd1.myworkdayjobs.com/External/job/China-Shanghai-Representative-Office/Senior-Program-Officer--China-Program---China-Program--AMEE_JR2857)** (34) `LMIC`  
-  PATH · China · Workday:PATH
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
 - **[Global Social and Behaviour Change (SBC) Manager](https://ngojobsinafrica.com/job/global-social-and-behaviour-change-sbc-manager/)** (33) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
 
 ### Closing within 3 days
 
@@ -45,7 +47,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-21 · Sitemap:Varbi Karolinska Institutet
 
 ---
-470 open positions on the board, 4 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+466 open positions on the board, 6 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
