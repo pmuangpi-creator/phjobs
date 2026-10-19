@@ -26,12 +26,32 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 2 new, scoring 30 or above
+### 12 new, scoring 30 or above
 
-- **[Associate Director, Projects and Programs](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Associate-Director--Projects-and-Programs_Requisition-2026201515)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Optometrist](https://ngojobsinafrica.com/job/optometrist-2/)** (30) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
+- **[Senior CDST and Sample Referral TB Laboratory Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-CDST-and-Sample-Referral-TB-Laboratory-Advisor_R5218-1)** (69) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Senior TB Laboratory Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-TB-Laboratory-Advisor_R5222)** (69) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Senior Technical Officer – WASH in Health Facilities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---WASH-in-Health-Facilities_Requisition-2026201538)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Knowledge Management Specilist](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Knowledge-Management-Specilist_R5220)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Knowledge Management and Communication Manager](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Knowledge-Management-and-Communication-Manager_R5215)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Communications Specilist](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Communications-Specilist_R5219)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Digital Systems and Analytics Specialist](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Digital-Systems-and-Analytics-Specialist_R5224)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Monitoring, Evaluation & Learning Specialist](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Monitoring--Evaluation---Learning-Specialist_R5221)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[MEL Manager](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/MEL-Manager_R5223)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Family Case Management Case Associate -  2025926](https://jobs.lever.co/wr/b46e607c-37a8-4be9-9a34-776829e5a54c)** (38) `focus`  
+  Wr · Israel · Lever:wr
+- **[Executive Assistant](https://msh.wd503.myworkdayjobs.com/External/job/Ukraine-Kyiv/Executive-Assistant_R5213-1)** (34) `LMIC`  
+  Management Sciences for Health · Ukraine · Workday:Management Sciences for Health
+- **[Assistant Professor in Nutritional Epidemiology with a Focus on Cognitive Health and APOE](https://ki.varbi.com/se/what:job/jobID:979352/type:job/where:4/apply:1)** (32)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
 
 ### Closing within 3 days
 
@@ -43,7 +63,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-22 · Sitemap:Varbi Karolinska Institutet
 
 ---
-472 open positions on the board, 2 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+483 open positions on the board, 11 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
