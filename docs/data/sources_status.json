@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-20T12:42:36+00:00",
-  "duration_seconds": 163.9,
+  "generated_at": "2026-10-20T17:56:07+00:00",
+  "duration_seconds": 160.7,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 575,
-    "unique_ids": 533,
+    "fetched": 578,
+    "unique_ids": 536,
     "carried_over": 0,
-    "delisted_by_source": 5,
+    "delisted_by_source": 8,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 23,
-    "published": 498,
-    "gate_rejected": 718,
-    "lmic_duty_station": 149,
+    "duplicates_collapsed": 24,
+    "published": 500,
+    "gate_rejected": 722,
+    "lmic_duty_station": 148,
     "lmic_focus": 177,
-    "with_location": 330,
+    "with_location": 333,
     "doctoral": {
       "routes": 32,
-      "fully_funded": 16,
+      "fully_funded": 17,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
-        "salaried": 15,
+        "salaried": 16,
         "stipend": 1,
-        "unstated": 16
+        "unstated": 15
       },
       "pinned": 26,
       "panel_warnings": [
@@ -35,16 +35,16 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 24
+    "digest_items": 21
   },
   "sources": {
     "bamboohr:idinsight": "ok: 1 postings",
-    "full-descriptions": "ok: 3 descriptions fetched, 17 failed, 1273 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 21 failed, 1279 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
     "lever:ghcorps": "ok: 0 postings",
-    "lever:wr": "ok: 37 postings",
+    "lever:wr": "ok: 39 postings",
     "page:APHRC": "disabled",
     "page:Aga Khan University": "ok: 2 candidate links",
     "page:DevNetJobsIndia": "error: no links looked like vacancies (page may have changed, or needs a link_pattern)",
@@ -80,18 +80,18 @@
     "rss:jobRxiv search global health": "disabled",
     "rss:jobRxiv search infectious disease": "disabled",
     "rss:jobRxiv search public health": "disabled",
-    "sitemap:AcademicTransfer Netherlands": "ok: 18 entries",
+    "sitemap:AcademicTransfer Netherlands": "ok: 19 entries",
     "sitemap:Varbi Karolinska Institutet": "ok: 82 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Lund University": "ok: 96 entries",
     "sitemap:Varbi Stockholm University": "ok: 60 entries",
     "sitemap:Varbi Umea University": "ok: 23 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
-    "sitemap:Varbi Uppsala University": "ok: 96 entries",
-    "workable:evidence-action": "ok: 37 postings",
+    "sitemap:Varbi Uppsala University": "ok: 98 entries",
+    "workable:evidence-action": "ok: 38 postings",
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
-    "workday:Management Sciences for Health": "ok: 35 postings",
+    "workday:Management Sciences for Health": "ok: 36 postings",
     "workday:PATH": "ok: 70 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }

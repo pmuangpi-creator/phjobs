@@ -5,7 +5,7 @@
 
 ### 1 new fully funded doctoral route
 
-- **[Phd candidate spatial multi omics and single cell analysis of human diseases](https://www.academictransfer.com/en/jobs/364898/phd-candidate-spatial-multi-omics-and-single-cell-analysis-of-human-diseases/)**  
+- **[Phd epidemiology of kidney replacement therapy in europe](https://www.academictransfer.com/en/jobs/364904/phd-epidemiology-of-kidney-replacement-therapy-in-europe/)**  
   Institution not stated · Netherlands · Salaried post
 
 ### Funded doctoral routes closing within 21 days
@@ -29,20 +29,16 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 6 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Clinician Consultant (Ethiopia)](https://lastmilehealth.applytojob.com/apply/AcPZuAA22X/Clinician-Consultant-Ethiopia)** (86) `LMIC/focus`  
-  Last Mile Health · Ethiopia, Liberia · Page:Last Mile Health
-- **[Field Program Coordinator (Ethiopia)](https://lastmilehealth.applytojob.com/apply/KTBcKaOK7S/Field-Program-Coordinator-Ethiopia)** (82) `LMIC/focus`  
-  Last Mile Health · Ethiopia, Liberia · Page:Last Mile Health
-- **[Regional Technical Officer, PMTCT Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Regional-Technical-Officer--PMTCT-Iringa_Requisition-2026201485)** (57) `LMIC/focus`  
+- **[Provincial Technical Officer – WASH](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tete-Mozambique/Provincial-Technical-Officer---WASH_Requisition-2026201560)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Senior Officer, Procurement & Logistic](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Officer--Procurement---Logistic_Requisition-2026201521)** (57) `LMIC/focus`  
   FHI 360 · Tanzania · Workday:FHI 360
-- **[Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis](https://jobrxiv.org/job/postdoctoral-researcher-in-real-world-evidence-for-knee-osteoarthritis/)** (36)  
-  Jobfront Industry · Denmark · RSS:jobRxiv postdoc
-- **[AMR Surveillance Assessment Consultant, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/AMR-Surveillance-Assessment-Consultant--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2733)** (34) `focus`  
-  PATH · location not stated · Workday:PATH
-- **[Consultant: One Health SOP Review and Harmonization for Zoonotic Disease Outbreak Investigation and Response, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/Consultant--One-Health-SOP-Review-and-Harmonization-for-Zoonotic-Disease-Outbreak-Investigation-and-Response--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2736)** (33) `focus`  
-  PATH · location not stated · Workday:PATH
+- **[Digital Systems Administrator](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Ukraine-Any/Digital-Systems-Administrator_Requisition-2026201540)** (34) `LMIC`  
+  FHI 360 · Ukraine · Workday:FHI 360
+- **[Phd epidemiology of kidney replacement therapy in europe](https://www.academictransfer.com/en/jobs/364904/phd-epidemiology-of-kidney-replacement-therapy-in-europe/)** (31)  
+   · Netherlands · Sitemap:AcademicTransfer Netherlands
 
 ### Closing within 3 days
 
@@ -62,7 +58,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-498 open positions on the board, 5 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
+500 open positions on the board, 3 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
