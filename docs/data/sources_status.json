@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-20T17:56:07+00:00",
-  "duration_seconds": 160.7,
+  "generated_at": "2026-10-20T22:15:03+00:00",
+  "duration_seconds": 149.3,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 578,
-    "unique_ids": 536,
+    "fetched": 567,
+    "unique_ids": 528,
     "carried_over": 0,
-    "delisted_by_source": 8,
+    "delisted_by_source": 16,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
     "duplicates_collapsed": 24,
-    "published": 500,
-    "gate_rejected": 722,
-    "lmic_duty_station": 148,
-    "lmic_focus": 177,
-    "with_location": 333,
+    "published": 492,
+    "gate_rejected": 713,
+    "lmic_duty_station": 144,
+    "lmic_focus": 174,
+    "with_location": 321,
     "doctoral": {
       "routes": 32,
-      "fully_funded": 17,
+      "fully_funded": 16,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
-        "salaried": 16,
+        "salaried": 15,
         "stipend": 1,
-        "unstated": 15
+        "unstated": 16
       },
       "pinned": 26,
       "panel_warnings": [
@@ -35,11 +35,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 21
+    "digest_items": 19
   },
   "sources": {
     "bamboohr:idinsight": "ok: 1 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 21 failed, 1279 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 16 failed, 1264 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -80,19 +80,19 @@
     "rss:jobRxiv search global health": "disabled",
     "rss:jobRxiv search infectious disease": "disabled",
     "rss:jobRxiv search public health": "disabled",
-    "sitemap:AcademicTransfer Netherlands": "ok: 19 entries",
-    "sitemap:Varbi Karolinska Institutet": "ok: 82 entries",
+    "sitemap:AcademicTransfer Netherlands": "ok: 18 entries",
+    "sitemap:Varbi Karolinska Institutet": "ok: 77 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
-    "sitemap:Varbi Lund University": "ok: 96 entries",
-    "sitemap:Varbi Stockholm University": "ok: 60 entries",
-    "sitemap:Varbi Umea University": "ok: 23 entries",
+    "sitemap:Varbi Lund University": "ok: 92 entries",
+    "sitemap:Varbi Stockholm University": "ok: 57 entries",
+    "sitemap:Varbi Umea University": "ok: 21 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
-    "sitemap:Varbi Uppsala University": "ok: 98 entries",
+    "sitemap:Varbi Uppsala University": "ok: 95 entries",
     "workable:evidence-action": "ok: 38 postings",
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 36 postings",
-    "workday:PATH": "ok: 70 postings",
+    "workday:PATH": "ok: 68 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }

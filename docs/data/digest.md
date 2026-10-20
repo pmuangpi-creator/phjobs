@@ -3,11 +3,6 @@
 - **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 1 day)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
-### 1 new fully funded doctoral route
-
-- **[Phd epidemiology of kidney replacement therapy in europe](https://www.academictransfer.com/en/jobs/364904/phd-epidemiology-of-kidney-replacement-therapy-in-europe/)**  
-  Institution not stated · Netherlands · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD position in patient preference research in amputation, prosthetics and rehabilitation](https://uu.varbi.com/se/what:job/jobID:971449/type:job/where:4/apply:1)**  
@@ -29,16 +24,12 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 4 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Provincial Technical Officer – WASH](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tete-Mozambique/Provincial-Technical-Officer---WASH_Requisition-2026201560)** (59) `LMIC/focus`  
+- **[Provincial Technical Officer – WASH](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Quelimane-Mozambique/Provincial-Technical-Officer---WASH_Requisition-2026201561)** (59) `LMIC/focus`  
   FHI 360 · Mozambique · Workday:FHI 360
-- **[Senior Officer, Procurement & Logistic](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Officer--Procurement---Logistic_Requisition-2026201521)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Digital Systems Administrator](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Ukraine-Any/Digital-Systems-Administrator_Requisition-2026201540)** (34) `LMIC`  
-  FHI 360 · Ukraine · Workday:FHI 360
-- **[Phd epidemiology of kidney replacement therapy in europe](https://www.academictransfer.com/en/jobs/364904/phd-epidemiology-of-kidney-replacement-therapy-in-europe/)** (31)  
-   · Netherlands · Sitemap:AcademicTransfer Netherlands
+- **[Learning Technologist](https://jobrxiv.org/job/learning-technologist/)** (34) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -58,7 +49,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-500 open positions on the board, 3 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+492 open positions on the board, 2 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
