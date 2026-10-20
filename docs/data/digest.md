@@ -5,8 +5,8 @@
 
 ### 1 new fully funded doctoral route
 
-- **[Project assistant at the Department of Process Engineering and Applied Life Sciences](https://lu.varbi.com/se/what:job/jobID:979843/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-11-03 · Salaried post
+- **[Phd candidate spatial multi omics and single cell analysis of human diseases](https://www.academictransfer.com/en/jobs/364898/phd-candidate-spatial-multi-omics-and-single-cell-analysis-of-human-diseases/)**  
+  Institution not stated · Netherlands · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -29,10 +29,20 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 1 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Regional Technical Officer, PMTCT Mtwara](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mtwara-Tanzania/Regional-Technical-Officer--PMTCT-Mtwara_Requisition-2026201491)** (57) `LMIC/focus`  
+- **[Clinician Consultant (Ethiopia)](https://lastmilehealth.applytojob.com/apply/AcPZuAA22X/Clinician-Consultant-Ethiopia)** (86) `LMIC/focus`  
+  Last Mile Health · Ethiopia, Liberia · Page:Last Mile Health
+- **[Field Program Coordinator (Ethiopia)](https://lastmilehealth.applytojob.com/apply/KTBcKaOK7S/Field-Program-Coordinator-Ethiopia)** (82) `LMIC/focus`  
+  Last Mile Health · Ethiopia, Liberia · Page:Last Mile Health
+- **[Regional Technical Officer, PMTCT Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Regional-Technical-Officer--PMTCT-Iringa_Requisition-2026201485)** (57) `LMIC/focus`  
   FHI 360 · Tanzania · Workday:FHI 360
+- **[Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis](https://jobrxiv.org/job/postdoctoral-researcher-in-real-world-evidence-for-knee-osteoarthritis/)** (36)  
+  Jobfront Industry · Denmark · RSS:jobRxiv postdoc
+- **[AMR Surveillance Assessment Consultant, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/AMR-Surveillance-Assessment-Consultant--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2733)** (34) `focus`  
+  PATH · location not stated · Workday:PATH
+- **[Consultant: One Health SOP Review and Harmonization for Zoonotic Disease Outbreak Investigation and Response, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/Consultant--One-Health-SOP-Review-and-Harmonization-for-Zoonotic-Disease-Outbreak-Investigation-and-Response--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2736)** (33) `focus`  
+  PATH · location not stated · Workday:PATH
 
 ### Closing within 3 days
 
@@ -42,8 +52,6 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-21 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://ki.varbi.com/se/what:job/jobID:966110/type:job/where:4/apply:1)** (37)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-22 · Sitemap:Varbi Karolinska Institutet
-- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://ki.varbi.com/se/what:job/jobID:975007/type:job/where:4/apply:1)** (63) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral Researcher in Global Public Health, with a Focus on Tuberculosis: Diagnostics, Epidemiology and Treatment](https://ki.varbi.com/se/what:job/jobID:975202/type:job/where:4/apply:1)** (63) `focus`  
@@ -54,7 +62,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-486 open positions on the board, 1 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+498 open positions on the board, 5 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
