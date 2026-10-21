@@ -24,14 +24,20 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 3 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Technical Specialist, HIV Above Site Activities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bangkok-Thailand/Technical-Specialist--HIV-Above-Site-Activities_Requisition-2026201537)** (56) `LMIC`  
-  FHI 360 · Thailand · Workday:FHI 360
-- **[Humanitarian Access, Safety and Security Advisor](https://ngojobsinafrica.com/job/humanitarian-access-safety-and-security-advisor-2/)** (37) `focus`  
+- **[Technical Assistant, Digital Health (Malawi)](https://lastmilehealth.applytojob.com/apply/W0o6dr29P4/Technical-Assistant-Digital-Health-Malawi)** (94) `LMIC/focus`  
+  Last Mile Health · Malawi, Liberia · Page:Last Mile Health
+- **[Burkina Faso Innovations Officer - Ziniare](https://livinggoods.applytojob.com/apply/37LdKA0DIJ/Burkina-Faso-Innovations-Officer-Ziniare)** (72) `LMIC/focus`  
+  Living Goods · Burkina Faso · Page:Living Goods
+- **[Laboratory Strategic Planning Implementation Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Strategic-Planning-Implementation-Officer_Requisition-2026200822)** (39) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
+- **[Senior Scientist – Anesthesiology](https://jobrxiv.org/job/senior-scientist-anesthesiology-2/)** (39)  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[State Coordinator, Kaduna (Consultant)](https://apply.workable.com/j/57D323D6B3)** (30) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Terms of Reference (TOR) Career Coach and Life Skills Consultancy, Jenga Ajira Project](https://ngojobsinafrica.com/job/terms-of-reference-tor-career-coach-and-life-skills-consultancy-jenga-ajira-project/)** (30) `focus`  
   Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Director, Global Real-World Evidence & Health Outcomes Scientist, Oncology](https://jobrxiv.org/job/director-global-real-world-evidence-health-outcomes-scientist-oncology-5/)** (31)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -51,7 +57,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-489 open positions on the board, 2 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
+499 open positions on the board, 5 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
