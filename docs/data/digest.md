@@ -24,20 +24,18 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 6 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Technical Assistant, Digital Health (Malawi)](https://lastmilehealth.applytojob.com/apply/W0o6dr29P4/Technical-Assistant-Digital-Health-Malawi)** (94) `LMIC/focus`  
-  Last Mile Health · Malawi, Liberia · Page:Last Mile Health
-- **[Burkina Faso Innovations Officer - Ziniare](https://livinggoods.applytojob.com/apply/37LdKA0DIJ/Burkina-Faso-Innovations-Officer-Ziniare)** (72) `LMIC/focus`  
-  Living Goods · Burkina Faso · Page:Living Goods
-- **[Laboratory Strategic Planning Implementation Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Strategic-Planning-Implementation-Officer_Requisition-2026200822)** (39) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
-- **[Senior Scientist – Anesthesiology](https://jobrxiv.org/job/senior-scientist-anesthesiology-2/)** (39)  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
-- **[State Coordinator, Kaduna (Consultant)](https://apply.workable.com/j/57D323D6B3)** (30) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[Terms of Reference (TOR) Career Coach and Life Skills Consultancy, Jenga Ajira Project](https://ngojobsinafrica.com/job/terms-of-reference-tor-career-coach-and-life-skills-consultancy-jenga-ajira-project/)** (30) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Director - Strategic Planning and Information Management (SPIM)](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5459776008)** (106) `LMIC/focus`  
+  Resolvetosavelives · Zambia · Greenhouse:resolvetosavelives
+- **[Outbreak Response Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dakar-Senegal/Outbreak-Response-Officer_Requisition-2026201565)** (57) `LMIC/focus`  
+  FHI 360 · Senegal · Workday:FHI 360
+- **[Program Assistant](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dakar-Senegal/Program-Assistant_Requisition-2026201564)** (57) `LMIC/focus`  
+  FHI 360 · Senegal · Workday:FHI 360
+- **[People and Culture Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lome-Togo/People-and-Culture-Officer_Requisition-2026201557)** (57) `LMIC/focus`  
+  FHI 360 · Togo · Workday:FHI 360
+- **[Children & Youth Coordinator – Limited Term (2025929)](https://jobs.lever.co/wr/5a435515-eca4-41f1-a27c-8afecff26f79)** (38) `focus`  
+  Wr · Israel · Lever:wr
 
 ### Closing within 3 days
 
@@ -57,7 +55,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-499 open positions on the board, 5 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
+501 open positions on the board, 5 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
