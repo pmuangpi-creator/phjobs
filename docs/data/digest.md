@@ -1,6 +1,6 @@
 ### Your doctoral pipeline, next 21 days
 
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (in 1 day)  
+- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (today)  
   Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
 
 ### Funded doctoral routes closing within 21 days
@@ -24,12 +24,14 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 2 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Provincial Technical Officer – WASH](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Quelimane-Mozambique/Provincial-Technical-Officer---WASH_Requisition-2026201561)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Learning Technologist](https://jobrxiv.org/job/learning-technologist/)** (34) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Technical Specialist, HIV Above Site Activities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bangkok-Thailand/Technical-Specialist--HIV-Above-Site-Activities_Requisition-2026201537)** (56) `LMIC`  
+  FHI 360 · Thailand · Workday:FHI 360
+- **[Humanitarian Access, Safety and Security Advisor](https://ngojobsinafrica.com/job/humanitarian-access-safety-and-security-advisor-2/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Director, Global Real-World Evidence & Health Outcomes Scientist, Oncology](https://jobrxiv.org/job/director-global-real-world-evidence-health-outcomes-scientist-oncology-5/)** (31)  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -49,7 +51,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-492 open positions on the board, 2 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
+489 open positions on the board, 2 of the new ones LMIC-related. 16 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
