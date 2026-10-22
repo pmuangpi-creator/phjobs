@@ -17,21 +17,13 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 4 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Call for Postdoctoral Fellowships (2027-29) | Collaborative research project “Connected Teams”](https://jobrxiv.org/job/call-for-postdoctoral-fellowships-2027-29-collaborative-research-project-connected-teams/)** (95) `LMIC/focus`  
-  Jobfront Academia · Italy, India, Germany · RSS:jobRxiv postdoc
-- **[Senior Technical Advisor (STA), Workforce Optimization, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Advisor--STA---Workforce-Optimization--Dar-Es-Salaam_Requisition-2026201379-1)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Program Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/Program-Manager_Requisition-2026201574)** (34) `LMIC`  
-  FHI 360 · Dominican Republic · Workday:FHI 360
-- **[Research assistant in Medical management](https://ki.varbi.com/se/what:job/jobID:982808/type:job/where:4/apply:1)** (33)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-13 · Sitemap:Varbi Karolinska Institutet
+- **[Research Assistant – VLP Vaccine Development](https://jobrxiv.org/job/research-assistant-vlp-vaccine-development/)** (42) `focus`  
+  Jobfront Academia · Isle of Man, United Kingdom · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
-- **[Postdoctoral Researcher in Clinical Epidemiology and Treatment Research](https://ki.varbi.com/se/what:job/jobID:966110/type:job/where:4/apply:1)** (37)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-22 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant in Nutrition and Reproductive and perinatal Epidemiology (Hourly employment)](https://ki.varbi.com/se/what:job/jobID:975007/type:job/where:4/apply:1)** (63) `focus`  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-23 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral Researcher in Global Public Health, with a Focus on Tuberculosis: Diagnostics, Epidemiology and Treatment](https://ki.varbi.com/se/what:job/jobID:975202/type:job/where:4/apply:1)** (63) `focus`  
@@ -42,7 +34,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-493 open positions on the board, 3 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+487 open positions on the board, 1 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
