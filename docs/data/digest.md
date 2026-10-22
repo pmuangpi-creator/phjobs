@@ -1,8 +1,3 @@
-### Your doctoral pipeline, next 21 days
-
-- **DAAD Research Grants, Doctoral Programmes in Germany** — DAAD, via the Regional Office in Hanoi, closes 2026-10-21 (today)  
-  Get DAAD to confirm in writing that the Dr. sc. hum. is fundable, draft the supervision and ethics letter for Mueller to sign, and cut the proposal from nine pages to about seven so the previous-research section fits the ten-page combined limit.
-
 ### Funded doctoral routes closing within 21 days
 
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
@@ -22,10 +17,14 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 1 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Receiving Supervisor](https://ngojobsinafrica.com/job/receiving-supervisor/)** (66) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Research Assistant (ITD-DIB-2026-17)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-17)** (42) `focus`  
+  Academic · United Kingdom · RSS:LSHTM infectious and tropical diseases
+- **[Philippines Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Philippines-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201524)** (39) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
+- **[Principal Scientist (m/f/d) Genomic Technologies, Human Genetics and Genomics](https://jobrxiv.org/job/principal-scientist-m-f-d-genomic-technologies-human-genetics-and-genomics/)** (36)  
+  Jobfront Industry · United Kingdom, Germany · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -41,7 +40,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-497 open positions on the board, 1 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+493 open positions on the board, 2 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
