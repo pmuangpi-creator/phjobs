@@ -17,14 +17,18 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 3 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Research Assistant (ITD-DIB-2026-17)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-17)** (42) `focus`  
-  Academic · United Kingdom · RSS:LSHTM infectious and tropical diseases
-- **[Philippines Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Philippines-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201524)** (39) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
-- **[Principal Scientist (m/f/d) Genomic Technologies, Human Genetics and Genomics](https://jobrxiv.org/job/principal-scientist-m-f-d-genomic-technologies-human-genetics-and-genomics/)** (36)  
-  Jobfront Industry · United Kingdom, Germany · RSS:jobRxiv scientist
+- **[Manager, Business Development Operations](https://livinggoods.applytojob.com/apply/GfSPpjExaA/Manager-Business-Development-Operations)** (78) `LMIC/focus`  
+  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
+- **[People & Culture Officer, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/People---Culture-Officer--Dar-Es-Salaam_Requisition-2026201568)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Postdoctoral researcher in liver disease epidemiology and biostatistics](https://ki.varbi.com/se/what:job/jobID:967378/type:job/where:4/apply:1)** (42)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
+- **[Operations Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Operations-Manager_Requisition-2026201531)** (41) `LMIC`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Sr Scientist Biostatistics](https://jobrxiv.org/job/sr-scientist-biostatistics-3/)** (38)  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -40,7 +44,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-493 open positions on the board, 2 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+491 open positions on the board, 3 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
