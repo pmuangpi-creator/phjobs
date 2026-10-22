@@ -17,18 +17,16 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 5 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Manager, Business Development Operations](https://livinggoods.applytojob.com/apply/GfSPpjExaA/Manager-Business-Development-Operations)** (78) `LMIC/focus`  
-  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
-- **[People & Culture Officer, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/People---Culture-Officer--Dar-Es-Salaam_Requisition-2026201568)** (57) `LMIC/focus`  
+- **[Call for Postdoctoral Fellowships (2027-29) | Collaborative research project “Connected Teams”](https://jobrxiv.org/job/call-for-postdoctoral-fellowships-2027-29-collaborative-research-project-connected-teams/)** (95) `LMIC/focus`  
+  Jobfront Academia · Italy, India, Germany · RSS:jobRxiv postdoc
+- **[Senior Technical Advisor (STA), Workforce Optimization, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Advisor--STA---Workforce-Optimization--Dar-Es-Salaam_Requisition-2026201379-1)** (57) `LMIC/focus`  
   FHI 360 · Tanzania · Workday:FHI 360
-- **[Postdoctoral researcher in liver disease epidemiology and biostatistics](https://ki.varbi.com/se/what:job/jobID:967378/type:job/where:4/apply:1)** (42)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
-- **[Operations Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Operations-Manager_Requisition-2026201531)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Sr Scientist Biostatistics](https://jobrxiv.org/job/sr-scientist-biostatistics-3/)** (38)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Program Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/Program-Manager_Requisition-2026201574)** (34) `LMIC`  
+  FHI 360 · Dominican Republic · Workday:FHI 360
+- **[Research assistant in Medical management](https://ki.varbi.com/se/what:job/jobID:982808/type:job/where:4/apply:1)** (33)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-13 · Sitemap:Varbi Karolinska Institutet
 
 ### Closing within 3 days
 
@@ -44,7 +42,7 @@
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
 
 ---
-491 open positions on the board, 3 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+493 open positions on the board, 3 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
