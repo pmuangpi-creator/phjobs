@@ -1,8 +1,3 @@
-### 1 new fully funded doctoral route
-
-- **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy](https://lu.varbi.com/se/what:job/jobID:968020/type:job/where:4/apply:1)**  
@@ -24,10 +19,21 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 1 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Digital Health and eLMIS Officer](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Digital-Health-and-eLMIS-Officer_R5162)** (57) `LMIC/focus`  
-  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
+- **[Responsable Technique Polio](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Guinea-Any/Responsable-Technique-Polio_Requisition-2026201580)** (57) `LMIC/focus`  
+  FHI 360 · Guinea · Workday:FHI 360
+- **[Conseiller Technique Polio](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Guinea-Any/Conseiller-Technique-Polio_Requisition-2026201579)** (57) `LMIC/focus`  
+  FHI 360 · Guinea · Workday:FHI 360
+- **[Medical Statistician / Statistical Programmer](https://jobrxiv.org/job/medical-statistician-statistical-programmer/)** (42)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv scientist
+- **[Postdoctoral Researcher in Immune-Metabolism and Multi-omics of Symptom 
+Dimensions](https://jobrxiv.org/job/postdoctoral-researcher-in-immune-metabolism-and-multi-omics-of-symptom-dimensions/)** (36)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Research Fellow or Senior Research Fellow, Indigenous Health Equity](https://jobrxiv.org/job/research-fellow-or-senior-research-fellow-indigenous-health-equity/)** (34)  
+  Jobfront Academia · Australia · RSS:jobRxiv postdoc
+- **[Research Fellow In Gravel Coast Science](https://jobrxiv.org/job/research-fellow-in-gravel-coast-science/)** (30)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -43,7 +49,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-26 · Sitemap:Varbi Karolinska Institutet
 
 ---
-476 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+474 open positions on the board, 2 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
