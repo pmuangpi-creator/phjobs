@@ -1,9 +1,7 @@
-### 2 new fully funded doctoral routes
+### 1 new fully funded doctoral route
 
-- **[Phd mechanisms of hiv induced neurodegeneration mcsa](https://www.academictransfer.com/en/jobs/365002/phd-mechanisms-of-hiv-induced-neurodegeneration-mcsa/)**  
-  Institution not stated · Netherlands · Salaried post
-- **[Phd role of mitochondrial dysfunction in enterovirus cns disease mcsa dc](https://www.academictransfer.com/en/jobs/365000/phd-role-of-mitochondrial-dysfunction-in-enterovirus-cns-disease-mcsa-dc/)**  
-  Institution not stated · Netherlands · Salaried post
+- **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
 ### Funded doctoral routes closing within 21 days
 
@@ -23,17 +21,13 @@
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
+- **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 4 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Senior Program Coordinator, Technical Support Unit (EAII Advisors)](https://apply.workable.com/j/67D14E2C0C)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[Regional Malaria Director, Malaria Control and Elimination Partnership in Africa (MACEPA)](https://path.wd1.myworkdayjobs.com/External/job/Mozambique-Maputo-Project-Office/Regional-Malaria-Director--Malaria-Control-and-Elimination-Partnership-in-Africa--MACEPA-_JR2803)** (59) `LMIC/focus`  
-  PATH · Mozambique · Workday:PATH
-- **[Postdoctoral researcher in liver disease epidemiology and biostatistics](https://jobrxiv.org/job/postdoctoral-researcher-in-liver-disease-epidemiology-and-biostatistics/)** (36)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Phd mechanisms of hiv induced neurodegeneration mcsa](https://www.academictransfer.com/en/jobs/365002/phd-mechanisms-of-hiv-induced-neurodegeneration-mcsa/)** (32)  
-   · Netherlands · Sitemap:AcademicTransfer Netherlands
+- **[Digital Health and eLMIS Officer](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Digital-Health-and-eLMIS-Officer_R5162)** (57) `LMIC/focus`  
+  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
 
 ### Closing within 3 days
 
@@ -49,7 +43,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-26 · Sitemap:Varbi Karolinska Institutet
 
 ---
-478 open positions on the board, 2 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+476 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
