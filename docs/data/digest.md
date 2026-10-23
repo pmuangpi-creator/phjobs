@@ -17,10 +17,14 @@
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-11-09 · Salaried post
 
-### 1 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Research Assistant – VLP Vaccine Development](https://jobrxiv.org/job/research-assistant-vlp-vaccine-development/)** (42) `focus`  
-  Jobfront Academia · Isle of Man, United Kingdom · RSS:jobRxiv research assistant
+- **[Finance and Operations Manager (Changsha, Hunan, China)](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5461879008)** (61) `LMIC/focus`  
+  Resolvetosavelives · China · Greenhouse:resolvetosavelives
+- **[Medical Laboratory Scientist](https://ngojobsinafrica.com/job/medical-laboratory-scientist-5/)** (61) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Health Data Scientist – Medical Evidence (Sweden) – Nordic Marketing Company](https://jobrxiv.org/job/health-data-scientist-medical-evidence-sweden-nordic-marketing-company/)** (37)  
+  Jobfront Industry · Sweden, Denmark, Norway · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -32,9 +36,11 @@
   Uppsala universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Uppsala University
 - **[Postdoctoral Fellow in Ice core chemistry](https://su.varbi.com/se/what:job/jobID:966951/type:job/where:4/apply:1)** (38)  
   Stockholms universitet · Sweden · closes 2026-10-23 · Sitemap:Varbi Stockholm University
+- **[Postdoctoral researcher in Geriatric Pharmacoepidemiology](https://ki.varbi.com/se/what:job/jobID:972424/type:job/where:4/apply:1)** (41)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-26 · Sitemap:Varbi Karolinska Institutet
 
 ---
-487 open positions on the board, 1 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+471 open positions on the board, 2 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
