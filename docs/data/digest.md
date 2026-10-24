@@ -17,11 +17,6 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 1 new, scoring 30 or above
-
-- **[Interdisciplinary Postdoctoral Fellow in Host-Directed Antimicrobial Research](https://jobrxiv.org/job/interdisciplinary-postdoctoral-fellow-in-host-directed-antimicrobial-research/)** (36) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-
 ### Closing within 3 days
 
 - **[Postdoctoral researcher in Geriatric Pharmacoepidemiology](https://ki.varbi.com/se/what:job/jobID:972424/type:job/where:4/apply:1)** (41)  
@@ -30,7 +25,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-27 · Sitemap:Varbi Karolinska Institutet
 
 ---
-458 open positions on the board, 1 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 0 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
