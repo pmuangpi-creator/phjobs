@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-24T11:59:37+00:00",
-  "duration_seconds": 197.5,
+  "generated_at": "2026-10-24T16:34:40+00:00",
+  "duration_seconds": 199.7,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 544,
-    "unique_ids": 495,
+    "fetched": 539,
+    "unique_ids": 493,
     "carried_over": 0,
-    "delisted_by_source": 10,
+    "delisted_by_source": 6,
     "expired_dropped": 0,
     "aged_out_no_deadline": 13,
     "duplicates_collapsed": 22,
-    "published": 460,
-    "gate_rejected": 760,
+    "published": 458,
+    "gate_rejected": 765,
     "lmic_duty_station": 134,
-    "lmic_focus": 152,
-    "with_location": 310,
+    "lmic_focus": 153,
+    "with_location": 311,
     "doctoral": {
-      "routes": 33,
+      "routes": 32,
       "fully_funded": 17,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 16,
         "stipend": 1,
-        "unstated": 16
+        "unstated": 15
       },
       "pinned": 26,
       "panel_warnings": [
@@ -36,11 +36,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 13
+    "digest_items": 11
   },
   "sources": {
     "bamboohr:idinsight": "ok: 1 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 19 failed, 1285 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 18 failed, 1286 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 3 postings",

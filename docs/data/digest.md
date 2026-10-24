@@ -17,14 +17,10 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 3 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact)](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Monitoring-and-Evaluation-Officer--South-Asia-Hub---Health-Systems--Learning-and-Impact-_JR2868)** (72) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Senior Research Technician – Ob/Gyn](https://jobrxiv.org/job/senior-research-technician-ob-gyn/)** (54) `LMIC`  
-  Jobfront Academia · Maldives · RSS:jobRxiv research assistant
-- **[Statistical Data Analyst MS (Part-Time) –  Biostatistics](https://jobrxiv.org/job/statistical-data-analyst-ms-part-time-biostatistics/)** (34)  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Interdisciplinary Postdoctoral Fellow in Host-Directed Antimicrobial Research](https://jobrxiv.org/job/interdisciplinary-postdoctoral-fellow-in-host-directed-antimicrobial-research/)** (36) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -34,7 +30,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-27 · Sitemap:Varbi Karolinska Institutet
 
 ---
-460 open positions on the board, 2 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+458 open positions on the board, 1 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
