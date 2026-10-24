@@ -17,28 +17,14 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 10 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[HEAD OF OFFICE (M/F/D), ETHIOPIA](https://ngojobsinafrica.com/job/head-of-office-m-f-d-ethiopia-2/)** (91) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Research Fellow (Trial Manager, Botswana) (ITD-CRD-2026-25)](https://jobs.lshtm.ac.uk//rss/click.aspx?ref=ITD-CRD-2026-25)** (87) `LMIC/focus`  
-  Academic · Botswana, United Kingdom, Malawi · RSS:LSHTM all vacancies
-- **[Program Quality, Evidence & Learning Director – Nigeria](https://ngojobsinafrica.com/job/program-quality-evidence-learning-director-nigeria/)** (85) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Consortium Manager South Sudan Juba](https://ngojobsinafrica.com/job/consortium-manager-south-sudan-juba/)** (85) `LMIC/focus`  
-  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Finance Manager](https://ngojobsinafrica.com/job/finance-manager-320/)** (81) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Senior Program Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/Senior-Program-Officer_Requisition-2026201501)** (59) `LMIC/focus`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Research Fellow or Assistant Professor in Epidemiology (UK-PHRST) (EPH-EPED-2026-07)](https://jobs.lshtm.ac.uk//rss/click.aspx?ref=EPH-EPED-2026-07)** (56) `focus`  
-  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
-- **[Research Fellow (PHP-PHES-2026-15-E)](https://jobs.lshtm.ac.uk//rss/click.aspx?ref=PHP-PHES-2026-15-E)** (42) `focus`  
-  Academic · United Kingdom · RSS:LSHTM public health and policy
-- **[Associate Director, Projects and Programs (Response Lead)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Associate-Director--Projects-and-Programs--Response-Lead-_Requisition-2026201503)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Finance Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kyiv-Ukraine/Finance-Manager_Requisition-2026201509)** (34) `LMIC`  
-  FHI 360 · Ukraine · Workday:FHI 360
+- **[Monitoring and Evaluation Officer, South Asia Hub – Health Systems (Learning and Impact)](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Monitoring-and-Evaluation-Officer--South-Asia-Hub---Health-Systems--Learning-and-Impact-_JR2868)** (72) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Senior Research Technician – Ob/Gyn](https://jobrxiv.org/job/senior-research-technician-ob-gyn/)** (54) `LMIC`  
+  Jobfront Academia · Maldives · RSS:jobRxiv research assistant
+- **[Statistical Data Analyst MS (Part-Time) –  Biostatistics](https://jobrxiv.org/job/statistical-data-analyst-ms-part-time-biostatistics/)** (34)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -48,7 +34,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-27 · Sitemap:Varbi Karolinska Institutet
 
 ---
-461 open positions on the board, 10 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+460 open positions on the board, 2 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
