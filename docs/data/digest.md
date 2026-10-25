@@ -17,12 +17,18 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 2 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Business Title: Regional Emergency Response Advisor (English-Speaking Africa)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nairobi-Kenya/Business-Title--Regional-Emergency-Response-Advisor--English-Speaking-Africa-_Requisition-2026201583)** (61) `LMIC/focus`  
-  FHI 360 · Kenya · Workday:FHI 360
-- **[Senior Expert Data Scientist, Human Genetics](https://jobrxiv.org/job/senior-expert-data-scientist-human-genetics/)** (37)  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
+- **[Economic Strengthening Specialist](https://ngojobsinafrica.com/job/economic-strengthening-specialist-6/)** (85) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Quality Improvement (QI) and Knowledge Management (KM) Specialist](https://ngojobsinafrica.com/job/quality-improvement-qi-and-knowledge-management-km-specialist/)** (84) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Capacity Building Specialist](https://ngojobsinafrica.com/job/capacity-building-specialist-8/)** (74) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Community Engagement Facilitator (CEF)](https://ngojobsinafrica.com/job/community-engagement-facilitator-cef/)** (69) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[GCR Advisor](https://ngojobsinafrica.com/job/gcr-advisor/)** (54) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Ethiopia
 
 ### Closing within 3 days
 
@@ -34,7 +40,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-28 · Sitemap:Varbi Karolinska Institutet
 
 ---
-458 open positions on the board, 1 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+459 open positions on the board, 5 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
