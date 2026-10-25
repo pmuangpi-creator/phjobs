@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-24T21:31:29+00:00",
-  "duration_seconds": 182.3,
+  "generated_at": "2026-10-25T05:56:09+00:00",
+  "duration_seconds": 184.8,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 537,
-    "unique_ids": 491,
+    "fetched": 535,
+    "unique_ids": 489,
     "carried_over": 0,
     "delisted_by_source": 7,
     "expired_dropped": 0,
     "aged_out_no_deadline": 13,
-    "duplicates_collapsed": 22,
-    "published": 456,
+    "duplicates_collapsed": 23,
+    "published": 453,
     "gate_rejected": 767,
     "lmic_duty_station": 134,
     "lmic_focus": 153,
-    "with_location": 306,
+    "with_location": 305,
     "doctoral": {
       "routes": 31,
       "fully_funded": 17,
@@ -36,11 +36,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 10
+    "digest_items": 15
   },
   "sources": {
     "bamboohr:idinsight": "ok: 1 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 18 failed, 1286 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 19 failed, 1283 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 3 postings",
@@ -85,7 +85,7 @@
     "sitemap:Varbi Karolinska Institutet": "ok: 79 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Lund University": "ok: 101 entries",
-    "sitemap:Varbi Stockholm University": "ok: 51 entries",
+    "sitemap:Varbi Stockholm University": "ok: 49 entries",
     "sitemap:Varbi Umea University": "ok: 23 entries",
     "sitemap:Varbi University of Gothenburg": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Uppsala University": "ok: 90 entries",
