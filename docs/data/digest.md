@@ -19,10 +19,10 @@
 
 ### 2 new, scoring 30 or above
 
-- **[Senior Research Fellow (Inflammation and Immunology)](https://jobrxiv.org/job/senior-research-fellow-inflammation-and-immunology/)** (43) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Fellow – Indigenous Oral Health](https://jobrxiv.org/job/research-fellow-indigenous-oral-health/)** (37)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Business Title: Regional Emergency Response Advisor (English-Speaking Africa)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nairobi-Kenya/Business-Title--Regional-Emergency-Response-Advisor--English-Speaking-Africa-_Requisition-2026201583)** (61) `LMIC/focus`  
+  FHI 360 · Kenya · Workday:FHI 360
+- **[Senior Expert Data Scientist, Human Genetics](https://jobrxiv.org/job/senior-expert-data-scientist-human-genetics/)** (37)  
+  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -34,7 +34,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-28 · Sitemap:Varbi Karolinska Institutet
 
 ---
-457 open positions on the board, 1 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+458 open positions on the board, 1 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
