@@ -17,42 +17,32 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 11 new, scoring 30 or above
+### 7 new, scoring 30 or above
 
-- **[SOUTH SUDAN – GRANTS MANAGER (M/F) – JUBA](https://ngojobsinafrica.com/job/south-sudan-grants-manager-m-f-juba-7/)** (83) `LMIC/focus`  
-  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Senior Software Engineer](https://livinggoods.applytojob.com/apply/XyIJuD0WNA/Senior-Software-Engineer)** (74) `LMIC/focus`  
-  Living Goods · Kenya, Uganda, Burkina Faso · Page:Living Goods
-- **[National Medicaid Program Specialist - 2025859](https://jobs.lever.co/wr/255aa91e-6c0a-44aa-98ed-0de66cc2b943)** (71) `LMIC/focus`  
-  Wr · Moldova · Lever:wr
-- **[Staff Nurse with SS of DED under the Support Services (Adv#144/2026).](https://career.icddrb.org/vacancy-preview/32302)** (71) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Rapid Response and Outbreak Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/Rapid-Response-and-Outbreak-Specialist_Requisition-2026201592)** (65) `LMIC/focus`  
-  FHI 360 · Bangladesh · Workday:FHI 360
-- **[Consultant, Web Dashboard Developer-Government Data Integration (EAII Advisors)](https://apply.workable.com/j/020CED0DCF)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[NIGERIA – FIELD COORDINATOR (M/F) – NORTH WEST](https://ngojobsinafrica.com/job/nigeria-field-coordinator-m-f-north-west/)** (65) `LMIC/focus`  
+- **[Development of a vector control training package for wash and health practitioners in the africa region.](https://ngojobsinafrica.com/job/development-of-a-vector-control-training-package-for-wash-and-health-practitioners-in-the-africa-region/)** (109) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia, South Sudan, Netherlands · RSS:NGO Jobs Africa Ethiopia
+- **[NIGERIA – GRANTS & PARTNERSHIP HEAD OF DEPARTMENT (M/F) – ABUDJA](https://ngojobsinafrica.com/job/nigeria-grants-partnership-head-of-department-m-f-abudja/)** (71) `LMIC/focus`  
   Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Senior Finance and Operations Director](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/Senior-Finance-and-Operations-Director_Requisition-2026201437)** (59) `LMIC/focus`  
+- **[Capitalisation de l'Expérience de Digitalisation des Services des ASBC-BF](https://livinggoods.applytojob.com/apply/D7K1GrFJus/Capitalisation-De-LExprience-De-Digitalisation-Des-Services-Des-ASBCBF)** (59) `LMIC/focus`  
+  Living Goods · Burkina Faso · Page:Living Goods
+- **[Monitoring & Evaluation Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Monitoring---Evaluation-Advisor_R5188)** (57) `LMIC/focus`  
+  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
+- **[Chargé d'Information Stratégique](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Charg-d-Information-Stratgique_Requisition-2026201569)** (41) `LMIC`  
   FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Directeur Adjoint Finances et Operations (Associate Director, Finance and Operations)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lome-Togo/Directeur-Adjoint-Finances-et-Operations--Associate-Director--Finance-and-Operations-_Requisition-2026201584)** (57) `LMIC/focus`  
-  FHI 360 · Togo · Workday:FHI 360
-- **[Associate Director, Right-Fit Evidence Unit](https://ngojobsinafrica.com/job/associate-director-right-fit-evidence-unit/)** (43) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
-- **[OCCUPATIONAL HEALTH OFFICER](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/OCCUPATIONAL-HEALTH-OFFICER_Requisition-2026201567)** (41) `LMIC`  
+- **[Laboratory (LIMS/QMS) Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Laboratory--LIMS-QMS--Officer--_Requisition-2026201551)** (41) `LMIC`  
   FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[DTT Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/DTT-Officer_Requisition-2026201573)** (34) `LMIC`  
+  FHI 360 · Dominican Republic · Workday:FHI 360
 
 ### Closing within 3 days
 
-- **[Postdoctoral researcher in Geriatric Pharmacoepidemiology](https://ki.varbi.com/se/what:job/jobID:972424/type:job/where:4/apply:1)** (41)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-26 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant for Pharmacoepidemiological Applications](https://ki.varbi.com/se/what:job/jobID:976546/type:job/where:4/apply:1)** (50)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-27 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant position – prediction modelling in cognitive disorders](https://ki.varbi.com/se/what:job/jobID:969347/type:job/where:4/apply:1)** (45)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-28 · Sitemap:Varbi Karolinska Institutet
 
 ---
-456 open positions on the board, 11 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+452 open positions on the board, 7 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
