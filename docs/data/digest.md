@@ -17,28 +17,16 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 10 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Innovations Officer](https://livinggoods.applytojob.com/apply/L5sM34pjvg/Innovations-Officer)** (74) `LMIC/focus`  
-  Living Goods · Kenya · Page:Living Goods
-- **[Senior Officer, Finance and Operations ( EAII Advisors )](https://apply.workable.com/j/8CA5235D73)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[Lead – Medical Device Highway- Integrated Innovation Highway (IIH) Project Ethiopia](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/Lead---Medical-Device-Highway--Integrated-Innovation-Highway--IIH--Project-Ethiopia_JR2871)** (59) `LMIC/focus`  
-  PATH · Ethiopia · Workday:PATH
-- **[Monitoring, Evaluation, Accountability, and Learning (MEAL) and Reserach Advisor- Integrated Innovation Highway (IIH) Project Ethiopia](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/Monitoring--Evaluation--Accountability--and-Learning--MEAL--and-Reserach-Advisor--Integrated-Innovation-Highway--IIH--Project-Ethiopia_JR2870)** (59) `LMIC/focus`  
-  PATH · Ethiopia · Workday:PATH
-- **[Project Director – Integrated Innovation Highway (IIH)](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/Project-Director---Integrated-Innovation-Highway--IIH-_JR2869)** (59) `LMIC/focus`  
-  PATH · Ethiopia · Workday:PATH
-- **[Cameroon Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Yaounde-Cameroon/Cameroon-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201586)** (57) `LMIC/focus`  
-  FHI 360 · Cameroon · Workday:FHI 360
-- **[POST-DOCTORAL POSITION IN BEHAVIOUR AND MICROBIAL ECOLOGY OF SHOREBIRDS](https://jobrxiv.org/job/university-of-debrecen-27778-post-doctoral-position-in-behaviour-and-microbial-ecology-of-shorebirds/)** (42)  
-  Narhulan Halimbekh · United Kingdom, Hungary · RSS:jobRxiv postdoc
-- **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-162/)** (35)  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Global Social and Behaviour Change (SBC) Manager](https://ngojobsinafrica.com/job/global-social-and-behaviour-change-sbc-manager/)** (33) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
+- **[Research Fellow (Trial Manager, Botswana) (ITD-CRD-2026-25)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-CRD-2026-25)** (87) `LMIC/focus`  
+  Academic · Botswana, United Kingdom, Malawi · RSS:LSHTM infectious and tropical diseases
+- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-64/)** (79)  
+  Jobfront Academia · Canada · RSS:jobRxiv postdoc
+- **[Wash and Shelter Project Manager Ethiopia North Amhara](https://ngojobsinafrica.com/job/wash-and-shelter-project-manager-ethiopia-north-amhara/)** (79) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Ghana Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Accra-Ghana/Ghana-Project-Director--AFGHS-FHI-360_Requisition-2026201590)** (57) `LMIC/focus`  
+  FHI 360 · Ghana · Workday:FHI 360
 
 ### Closing within 3 days
 
@@ -52,7 +40,7 @@
   Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
 
 ---
-456 open positions on the board, 8 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+457 open positions on the board, 3 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
