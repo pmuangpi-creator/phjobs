@@ -17,16 +17,28 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 4 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Consultant, Government Integration and Dashboard Development (EAII Advisors)](https://apply.workable.com/j/C752407EA8)** (65) `LMIC/focus`  
+- **[Innovations Officer](https://livinggoods.applytojob.com/apply/L5sM34pjvg/Innovations-Officer)** (74) `LMIC/focus`  
+  Living Goods · Kenya · Page:Living Goods
+- **[Senior Officer, Finance and Operations ( EAII Advisors )](https://apply.workable.com/j/8CA5235D73)** (65) `LMIC/focus`  
   Evidence Action · India · Workable:evidence-action
-- **[Cambodia Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Phnom-Penh-Cambodia/Cambodia-Project-Director--AFGHS-FHI-360_Requisition-2026201593)** (63) `LMIC/focus`  
-  FHI 360 · Cambodia · Workday:FHI 360
+- **[Lead – Medical Device Highway- Integrated Innovation Highway (IIH) Project Ethiopia](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/Lead---Medical-Device-Highway--Integrated-Innovation-Highway--IIH--Project-Ethiopia_JR2871)** (59) `LMIC/focus`  
+  PATH · Ethiopia · Workday:PATH
+- **[Monitoring, Evaluation, Accountability, and Learning (MEAL) and Reserach Advisor- Integrated Innovation Highway (IIH) Project Ethiopia](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/Monitoring--Evaluation--Accountability--and-Learning--MEAL--and-Reserach-Advisor--Integrated-Innovation-Highway--IIH--Project-Ethiopia_JR2870)** (59) `LMIC/focus`  
+  PATH · Ethiopia · Workday:PATH
+- **[Project Director – Integrated Innovation Highway (IIH)](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/Project-Director---Integrated-Innovation-Highway--IIH-_JR2869)** (59) `LMIC/focus`  
+  PATH · Ethiopia · Workday:PATH
+- **[Cameroon Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Yaounde-Cameroon/Cameroon-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201586)** (57) `LMIC/focus`  
+  FHI 360 · Cameroon · Workday:FHI 360
+- **[POST-DOCTORAL POSITION IN BEHAVIOUR AND MICROBIAL ECOLOGY OF SHOREBIRDS](https://jobrxiv.org/job/university-of-debrecen-27778-post-doctoral-position-in-behaviour-and-microbial-ecology-of-shorebirds/)** (42)  
+  Narhulan Halimbekh · United Kingdom, Hungary · RSS:jobRxiv postdoc
 - **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa South Sudan
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
+- **[Research Assistant](https://jobrxiv.org/job/research-assistant-162/)** (35)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 - **[Global Social and Behaviour Change (SBC) Manager](https://ngojobsinafrica.com/job/global-social-and-behaviour-change-sbc-manager/)** (33) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Tanzania
 
 ### Closing within 3 days
 
@@ -38,11 +50,9 @@
   Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
 - **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1)** (44)  
   Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
-- **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://ki.varbi.com/se/what:job/jobID:975216/type:job/where:4/apply:1)** (41)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Sitemap:Varbi Karolinska Institutet
 
 ---
-449 open positions on the board, 4 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 8 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
