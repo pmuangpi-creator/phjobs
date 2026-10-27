@@ -17,22 +17,16 @@
 - **[PHD student in Epigenetics and Chromatin Dynamics](https://lu.varbi.com/se/what:job/jobID:982964/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 
-### 7 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Development of a vector control training package for wash and health practitioners in the africa region.](https://ngojobsinafrica.com/job/development-of-a-vector-control-training-package-for-wash-and-health-practitioners-in-the-africa-region/)** (109) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia, South Sudan, Netherlands · RSS:NGO Jobs Africa Ethiopia
-- **[NIGERIA – GRANTS & PARTNERSHIP HEAD OF DEPARTMENT (M/F) – ABUDJA](https://ngojobsinafrica.com/job/nigeria-grants-partnership-head-of-department-m-f-abudja/)** (71) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Capitalisation de l'Expérience de Digitalisation des Services des ASBC-BF](https://livinggoods.applytojob.com/apply/D7K1GrFJus/Capitalisation-De-LExprience-De-Digitalisation-Des-Services-Des-ASBCBF)** (59) `LMIC/focus`  
-  Living Goods · Burkina Faso · Page:Living Goods
-- **[Monitoring & Evaluation Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Cameroon-Yaounde/Monitoring---Evaluation-Advisor_R5188)** (57) `LMIC/focus`  
-  Management Sciences for Health · Cameroon · Workday:Management Sciences for Health
-- **[Chargé d'Information Stratégique](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Charg-d-Information-Stratgique_Requisition-2026201569)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Laboratory (LIMS/QMS) Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Laboratory--LIMS-QMS--Officer--_Requisition-2026201551)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[DTT Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/DTT-Officer_Requisition-2026201573)** (34) `LMIC`  
-  FHI 360 · Dominican Republic · Workday:FHI 360
+- **[Consultant, Government Integration and Dashboard Development (EAII Advisors)](https://apply.workable.com/j/C752407EA8)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[Cambodia Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Phnom-Penh-Cambodia/Cambodia-Project-Director--AFGHS-FHI-360_Requisition-2026201593)** (63) `LMIC/focus`  
+  FHI 360 · Cambodia · Workday:FHI 360
+- **[Portfolio Manager, Inclusive Health Initiative (IHI) – French Speaking](https://ngojobsinafrica.com/job/portfolio-manager-inclusive-health-initiative-ihi-french-speaking/)** (38) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa South Sudan
+- **[Global Social and Behaviour Change (SBC) Manager](https://ngojobsinafrica.com/job/global-social-and-behaviour-change-sbc-manager/)** (33) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Uganda
 
 ### Closing within 3 days
 
@@ -40,9 +34,15 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-10-27 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant position – prediction modelling in cognitive disorders](https://ki.varbi.com/se/what:job/jobID:969347/type:job/where:4/apply:1)** (45)  
   Karolinska Institutet (KI) · Sweden · closes 2026-10-28 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral Researcher in Holocaust and Genocide Studies with a Specialization in Memory Studies and Transitional Justice in Ethiopia](https://uu.varbi.com/se/what:job/jobID:964799/type:job/where:4/apply:1)** (61) `focus`  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
+- **[PhD student in experimental nuclear physics with a focus on neutron-induced reactions](https://uu.varbi.com/se/what:job/jobID:971356/type:job/where:4/apply:1)** (44)  
+  Uppsala universitet · Sweden · closes 2026-10-30 · Sitemap:Varbi Uppsala University
+- **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://ki.varbi.com/se/what:job/jobID:975216/type:job/where:4/apply:1)** (41)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-10-30 · Sitemap:Varbi Karolinska Institutet
 
 ---
-452 open positions on the board, 7 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
+449 open positions on the board, 4 of the new ones LMIC-related. 17 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
