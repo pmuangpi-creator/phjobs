@@ -19,25 +19,15 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 9 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Physician with Matlab Hospital under Clinical and Diagnostic Services (Adv#145/2026).](https://career.icddrb.org/vacancy-preview/32303)** (102) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Field Attendant with Emerging & Re-emerging Infections under the Infectious Diseases Division (Adv#148/2026).](https://career.icddrb.org/vacancy-preview/32306)** (93) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Senior Technical Assistant (Adv#147/2026).](https://career.icddrb.org/vacancy-preview/32305)** (85) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Research Fellow or Assistant Professor (0.8 FTE) (PHP-GHD-2026-14)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-GHD-2026-14)** (75) `LMIC/focus`  
-  Academic · United Kingdom, Egypt, Arab Rep., Malaysia · RSS:LSHTM public health and policy
-- **[Capacity Building Specialist](https://ngojobsinafrica.com/job/capacity-building-specialist-8/)** (74) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Medical Laboratory Scientist](https://ngojobsinafrica.com/job/medical-laboratory-scientist-5/)** (61) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Method Development Scientist: Analytical method development for therapeutic proteins (all genders) (full-time or part-time, regular)](https://jobrxiv.org/job/method-development-scientist-analytical-method-development-for-therapeutic-proteins-all-genders-full-time-or-part-time-regular/)** (42) `focus`  
-  Jobfront Industry · Germany · RSS:jobRxiv scientist
-- **[Procurement Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Procurement-Officer_Requisition-2026201576)** (39) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
-- **[Postdoctoral Research Fellow – Plastic Chemicals and Human Health](https://jobrxiv.org/job/postdoctoral-research-fellow-plastic-chemicals-and-human-health/)** (34)  
+- **[Technical Officer, Surveillance](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Technical-Officer--Surveillance_Requisition-2026201605)** (45) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
+- **[Research Fellow [LKCMedicine]](https://jobrxiv.org/job/research-fellow-lkcmedicine-15/)** (40)  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv postdoc
+- **[Postdoctoral Researcher in Pharmacometrics](https://ki.varbi.com/se/what:job/jobID:981781/type:job/where:4/apply:1)** (38) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-26 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral researcher in liver disease epidemiology and biostatistics](https://jobrxiv.org/?post_type=job_listing&p=158252)** (36)  
   Jobfront Academia · location not stated · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
@@ -52,7 +42,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 
 ---
-462 open positions on the board, 8 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+457 open positions on the board, 2 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
