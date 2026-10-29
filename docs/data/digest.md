@@ -19,16 +19,25 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 4 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Technical Officer, Surveillance](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Technical-Officer--Surveillance_Requisition-2026201605)** (45) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
-- **[Research Fellow [LKCMedicine]](https://jobrxiv.org/job/research-fellow-lkcmedicine-15/)** (40)  
-  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv postdoc
-- **[Postdoctoral Researcher in Pharmacometrics](https://ki.varbi.com/se/what:job/jobID:981781/type:job/where:4/apply:1)** (38) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-26 · Sitemap:Varbi Karolinska Institutet
-- **[Postdoctoral researcher in liver disease epidemiology and biostatistics](https://jobrxiv.org/?post_type=job_listing&p=158252)** (36)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Strategic Information Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Strategic-Information-Advisor_Requisition-2026201610)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Senior Technical Advisor - Laboratory Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Senior-Technical-Advisor---Laboratory-Services_Requisition-2026201626)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Senior Technical Advisor Integrated Health Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Calabar-Nigeria/Senior-Technical-Advisor-Integrated-Health-Services_Requisition-2026201595)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Senior Technical Advisor GHS and Integrated Health Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Senior-Technical-Advisor-GHS-and-Integrated-Health-Services-_Requisition-2026201596)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Assistant/Associate/Full Professor, Division of Pediatric Neurology](https://jobrxiv.org/job/assistant-associate-full-professor-division-of-pediatric-neurology/)** (47) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Research Assistant – AI-Based Analysis Tool for Prostate Cancer](https://ki.varbi.com/se/what:job/jobID:973539/type:job/where:4/apply:1)** (39)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
+- **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobs.lever.co/wr/fa8cbba5-cd36-41a5-8b87-e3d8b7fef864)** (36) `focus`  
+  Wr · Canada · Lever:wr
+- **[Senior Epidemiologist and Science Team Lead
+UK Biobank Epidemiology Group](https://jobrxiv.org/job/senior-epidemiologist-and-science-team-leaduk-biobank-epidemiology-group/)** (34)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -42,7 +51,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 
 ---
-457 open positions on the board, 2 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+448 open positions on the board, 6 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
