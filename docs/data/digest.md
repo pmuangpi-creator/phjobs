@@ -21,26 +21,26 @@
 
 ### 10 new, scoring 30 or above
 
-- **[23705 Project Officer (Disaster Risk Management (DRM)) (P)](https://ngojobsinafrica.com/job/23705-project-officer-disaster-risk-management-drm-p/)** (96) `LMIC/focus`  
-  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
-- **[Statistical Data Analyst (Hybrid) – Infectious Diseases](https://jobrxiv.org/job/statistical-data-analyst-hybrid-infectious-diseases/)** (85) `focus`  
-  Jobfront Academia · United States · RSS:jobRxiv research assistant
-- **[RMNCH Officer, Afar](https://ngojobsinafrica.com/job/rmnch-officer-afar/)** (72) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Long Program](https://ihi.or.tz/en/our-training/)** (47) `LMIC`  
-  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
-- **[Group Savings and Loans, Business Planning and Income-Generating Activity Support Consultancy under the GROW Project, West Pokot County](https://ngojobsinafrica.com/job/group-savings-and-loans-business-planning-and-income-generating-activity-support-consultancy-under-the-grow-project-west-pokot-county/)** (46) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[DRC People Operations & Duty of Care Associate (Fixed-Term)](https://ngojobsinafrica.com/job/drc-people-operations-duty-of-care-associate-fixed-term/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Zambia
-- **[Business Development Officer (Enterprise Development)](https://ngojobsinafrica.com/job/business-development-officer-enterprise-development/)** (32) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Aquaculture & Feed Production Officer](https://ngojobsinafrica.com/job/aquaculture-feed-production-officer/)** (32) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Social Cohesion Officer – MMC, Jere and Maf](https://ngojobsinafrica.com/job/social-cohesion-officer-mmc-jere-and-maf/)** (32) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
-- **[Clinical Scientist (Oncology)](https://jobrxiv.org/job/clinical-scientist-oncology-11/)** (30)  
-  Jobfront Industry · Japan · RSS:jobRxiv scientist
+- **[Principal Data Scientist – DDSAI GD](https://jobrxiv.org/job/principal-data-scientist-ddsai-gd/)** (75) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+- **[Sr. Associate Scientist-1](https://jobrxiv.org/job/sr-associate-scientist-1/)** (67) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+- **[Senior Technical Officer – WASH in Health Facilities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---WASH-in-Health-Facilities_Requisition-2026201538)** (59) `LMIC/focus`  
+  FHI 360 · Mozambique · Workday:FHI 360
+- **[Technical Director](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Technical-Director_R5232)** (59) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Senior Technical Advisor - Laboratory Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Uyo-Nigeria/Senior-Technical-Advisor---Laboratory-Services_Requisition-2026201624)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Senior Technical Advisor Integrated Health Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Uyo-Nigeria/Senior-Technical-Advisor-Integrated-Health-Services_Requisition-2026201547)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Strategic Information Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Uyo-Nigeria/Strategic-Information-Advisor_Requisition-2026201608)** (57) `LMIC/focus`  
+  FHI 360 · Nigeria · Workday:FHI 360
+- **[Research Fellow (EPH-EPED-2026-09)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPED-2026-09)** (57) `focus`  
+  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
+- **[AMR Surveillance Assessment Consultant, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/AMR-Surveillance-Assessment-Consultant--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2733)** (34) `focus`  
+  PATH · location not stated · Workday:PATH
+- **[Consultant: One Health SOP Review and Harmonization for Zoonotic Disease Outbreak Investigation and Response, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/Consultant--One-Health-SOP-Review-and-Harmonization-for-Zoonotic-Disease-Outbreak-Investigation-and-Response--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2736)** (33) `focus`  
+  PATH · location not stated · Workday:PATH
 
 ### Closing within 3 days
 
@@ -54,7 +54,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 
 ---
-442 open positions on the board, 9 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 10 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
