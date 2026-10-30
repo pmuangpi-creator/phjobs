@@ -19,28 +19,16 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 10 new, scoring 30 or above
+### 4 new, scoring 30 or above
 
-- **[Principal Data Scientist – DDSAI GD](https://jobrxiv.org/job/principal-data-scientist-ddsai-gd/)** (75) `LMIC/focus`  
-  Jobfront Industry · India · RSS:jobRxiv scientist
-- **[Sr. Associate Scientist-1](https://jobrxiv.org/job/sr-associate-scientist-1/)** (67) `LMIC/focus`  
-  Jobfront Industry · India · RSS:jobRxiv scientist
-- **[Senior Technical Officer – WASH in Health Facilities](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maputo-Mozambique/Senior-Technical-Officer---WASH-in-Health-Facilities_Requisition-2026201538)** (59) `LMIC/focus`  
-  FHI 360 · Mozambique · Workday:FHI 360
-- **[Technical Director](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Technical-Director_R5232)** (59) `LMIC/focus`  
-  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Senior Technical Advisor - Laboratory Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Uyo-Nigeria/Senior-Technical-Advisor---Laboratory-Services_Requisition-2026201624)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Senior Technical Advisor Integrated Health Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Uyo-Nigeria/Senior-Technical-Advisor-Integrated-Health-Services_Requisition-2026201547)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Strategic Information Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Uyo-Nigeria/Strategic-Information-Advisor_Requisition-2026201608)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Research Fellow (EPH-EPED-2026-09)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-EPED-2026-09)** (57) `focus`  
-  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
-- **[AMR Surveillance Assessment Consultant, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/AMR-Surveillance-Assessment-Consultant--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2733)** (34) `focus`  
-  PATH · location not stated · Workday:PATH
-- **[Consultant: One Health SOP Review and Harmonization for Zoonotic Disease Outbreak Investigation and Response, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/Consultant--One-Health-SOP-Review-and-Harmonization-for-Zoonotic-Disease-Outbreak-Investigation-and-Response--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2736)** (33) `focus`  
-  PATH · location not stated · Workday:PATH
+- **[Postdoctoral Research Fellow](https://jobrxiv.org/job/postdoctoral-research-fellow-65/)** (40)  
+  Jobfront Academia · Seychelles, Canada · RSS:jobRxiv postdoc
+- **[Postdoctoral position in breast cancer epidemiology / clinical epidemiology](https://jobrxiv.org/job/postdoctoral-position-in-breast-cancer-epidemiology-clinical-epidemiology/)** (36)  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
+- **[Senior Postdoctoral Researcher: MARGINS](https://jobrxiv.org/job/senior-postdoctoral-researcher-margins/)** (36)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[M&E Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/M-E-Officer_Requisition-2026201587)** (34) `LMIC`  
+  FHI 360 · Dominican Republic · Workday:FHI 360
 
 ### Closing within 3 days
 
@@ -54,7 +42,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 
 ---
-456 open positions on the board, 10 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+453 open positions on the board, 1 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
