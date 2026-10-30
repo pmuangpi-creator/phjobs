@@ -19,25 +19,28 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 8 new, scoring 30 or above
+### 10 new, scoring 30 or above
 
-- **[Strategic Information Advisor](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Strategic-Information-Advisor_Requisition-2026201610)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Senior Technical Advisor - Laboratory Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Senior-Technical-Advisor---Laboratory-Services_Requisition-2026201626)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Senior Technical Advisor Integrated Health Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Calabar-Nigeria/Senior-Technical-Advisor-Integrated-Health-Services_Requisition-2026201595)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Senior Technical Advisor GHS and Integrated Health Services](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Senior-Technical-Advisor-GHS-and-Integrated-Health-Services-_Requisition-2026201596)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Assistant/Associate/Full Professor, Division of Pediatric Neurology](https://jobrxiv.org/job/assistant-associate-full-professor-division-of-pediatric-neurology/)** (47) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
-- **[Research Assistant – AI-Based Analysis Tool for Prostate Cancer](https://ki.varbi.com/se/what:job/jobID:973539/type:job/where:4/apply:1)** (39)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
-- **[Integration Support Intern, Dari/Pashto speaking- 2025852](https://jobs.lever.co/wr/fa8cbba5-cd36-41a5-8b87-e3d8b7fef864)** (36) `focus`  
-  Wr · Canada · Lever:wr
-- **[Senior Epidemiologist and Science Team Lead
-UK Biobank Epidemiology Group](https://jobrxiv.org/job/senior-epidemiologist-and-science-team-leaduk-biobank-epidemiology-group/)** (34)  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv scientist
+- **[23705 Project Officer (Disaster Risk Management (DRM)) (P)](https://ngojobsinafrica.com/job/23705-project-officer-disaster-risk-management-drm-p/)** (96) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
+- **[Statistical Data Analyst (Hybrid) – Infectious Diseases](https://jobrxiv.org/job/statistical-data-analyst-hybrid-infectious-diseases/)** (85) `focus`  
+  Jobfront Academia · United States · RSS:jobRxiv research assistant
+- **[RMNCH Officer, Afar](https://ngojobsinafrica.com/job/rmnch-officer-afar/)** (72) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Long Program](https://ihi.or.tz/en/our-training/)** (47) `LMIC`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[Group Savings and Loans, Business Planning and Income-Generating Activity Support Consultancy under the GROW Project, West Pokot County](https://ngojobsinafrica.com/job/group-savings-and-loans-business-planning-and-income-generating-activity-support-consultancy-under-the-grow-project-west-pokot-county/)** (46) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[DRC People Operations & Duty of Care Associate (Fixed-Term)](https://ngojobsinafrica.com/job/drc-people-operations-duty-of-care-associate-fixed-term/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Zambia
+- **[Business Development Officer (Enterprise Development)](https://ngojobsinafrica.com/job/business-development-officer-enterprise-development/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Aquaculture & Feed Production Officer](https://ngojobsinafrica.com/job/aquaculture-feed-production-officer/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Social Cohesion Officer – MMC, Jere and Maf](https://ngojobsinafrica.com/job/social-cohesion-officer-mmc-jere-and-maf/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Clinical Scientist (Oncology)](https://jobrxiv.org/job/clinical-scientist-oncology-11/)** (30)  
+  Jobfront Industry · Japan · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -51,7 +54,7 @@ UK Biobank Epidemiology Group](https://jobrxiv.org/job/senior-epidemiologist-and
   Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 
 ---
-448 open positions on the board, 6 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
+442 open positions on the board, 9 of the new ones LMIC-related. 18 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
