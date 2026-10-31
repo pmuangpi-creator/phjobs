@@ -15,11 +15,6 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 1 new, scoring 30 or above
-
-- **[Receiving Supervisor](https://ngojobsinafrica.com/job/receiving-supervisor/)** (66) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-
 ### Closing within 3 days
 
 - **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
@@ -30,7 +25,7 @@
   Lunds universitet · Sweden · closes 2026-11-03 · Sitemap:Varbi Lund University
 
 ---
-433 open positions on the board, 1 of the new ones LMIC-related. 13 fully funded doctoral routes on the PhD page.
+431 open positions on the board, 0 of the new ones LMIC-related. 13 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 

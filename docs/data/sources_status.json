@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-31T06:57:20+00:00",
-  "duration_seconds": 274.5,
-  "sources_ok": 46,
+  "generated_at": "2026-10-31T13:36:42+00:00",
+  "duration_seconds": 275.1,
+  "sources_ok": 48,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 396,
-    "unique_ids": 445,
-    "carried_over": 107,
-    "delisted_by_source": 23,
+    "fetched": 511,
+    "unique_ids": 453,
+    "carried_over": 0,
+    "delisted_by_source": 6,
     "expired_dropped": 0,
     "aged_out_no_deadline": 5,
-    "duplicates_collapsed": 7,
-    "published": 433,
-    "gate_rejected": 763,
+    "duplicates_collapsed": 17,
+    "published": 431,
+    "gate_rejected": 764,
     "lmic_duty_station": 133,
-    "lmic_focus": 149,
+    "lmic_focus": 148,
     "with_location": 301,
     "doctoral": {
       "routes": 24,
@@ -36,11 +36,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 11
+    "digest_items": 10
   },
   "sources": {
     "bamboohr:idinsight": "ok: 1 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 12 failed, 1147 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 23 failed, 1252 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -55,7 +55,7 @@
     "page:Living Goods": "ok: 9 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
     "page:icddr,b": "ok: 5 candidate links",
-    "rss:KEMRI-Wellcome": "error: HTTPSConnectionPool(host='jobs.kemri-wellcome.org', port=443): Max retries exceeded with url: /rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.kemri-wellcome.org', port=443) at 0x74b0237e5910>, 'Connection to jobs.kemri-wellcome.org timed out. (connect timeout=40)'))",
+    "rss:KEMRI-Wellcome": "error: HTTPSConnectionPool(host='jobs.kemri-wellcome.org', port=443): Max retries exceeded with url: /rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.kemri-wellcome.org', port=443) at 0x716a03f80aa0>, 'Connection to jobs.kemri-wellcome.org timed out. (connect timeout=40)'))",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM all vacancies": "ok: 14 entries",
@@ -91,9 +91,9 @@
     "sitemap:Varbi Uppsala University": "ok: 72 entries",
     "workable:evidence-action": "ok: 40 postings",
     "workable:villagereach": "ok: 0 postings",
-    "workday:FHI 360": "error: Expecting value: line 1 column 1 (char 0)",
+    "workday:FHI 360": "ok: 40 postings",
     "workday:Management Sciences for Health": "ok: 19 postings",
-    "workday:PATH": "error: Expecting value: line 1 column 1 (char 0)",
+    "workday:PATH": "ok: 76 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
