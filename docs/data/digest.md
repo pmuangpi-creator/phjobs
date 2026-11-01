@@ -15,12 +15,14 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 2 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Mobile Health and Nutrition Midwifery](https://ngojobsinafrica.com/job/mobile-health-and-nutrition-midwifery-4/)** (75) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Humanitarian Access, Safety and Security Advisor](https://ngojobsinafrica.com/job/humanitarian-access-safety-and-security-advisor-2/)** (37) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Field Research Supervisor (Internal#149/2026).](https://career.icddrb.org/vacancy-preview/32307)** (77) `LMIC/focus`  
+  icddr,b · Bangladesh · Page:icddr,b
+- **[Doctoral (PhD) student position in Colorectal Cancer](https://jobrxiv.org/job/doctoral-phd-student-position-in-colorectal-cancer/)** (36)  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
+- **[Senior HEOR Scientist](https://jobrxiv.org/job/senior-heor-scientist/)** (34)  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
@@ -34,7 +36,7 @@
   Lunds universitet · Sweden · closes 2026-11-04 · Sitemap:Varbi Lund University
 
 ---
-432 open positions on the board, 2 of the new ones LMIC-related. 12 fully funded doctoral routes on the PhD page.
+435 open positions on the board, 1 of the new ones LMIC-related. 12 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
