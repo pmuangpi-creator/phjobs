@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-01T18:27:24+00:00",
-  "duration_seconds": 345.6,
+  "generated_at": "2026-11-01T22:46:21+00:00",
+  "duration_seconds": 276.3,
   "sources_ok": 48,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 511,
-    "unique_ids": 458,
+    "fetched": 512,
+    "unique_ids": 459,
     "carried_over": 0,
-    "delisted_by_source": 7,
+    "delisted_by_source": 4,
     "expired_dropped": 0,
     "aged_out_no_deadline": 5,
     "duplicates_collapsed": 18,
-    "published": 435,
-    "gate_rejected": 749,
-    "lmic_duty_station": 134,
+    "published": 436,
+    "gate_rejected": 748,
+    "lmic_duty_station": 136,
     "lmic_focus": 152,
-    "with_location": 295,
+    "with_location": 297,
     "doctoral": {
-      "routes": 23,
+      "routes": 22,
       "fully_funded": 12,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 11,
         "stipend": 1,
-        "unstated": 11
+        "unstated": 10
       },
       "pinned": 26,
       "panel_warnings": [
@@ -36,11 +36,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 14
+    "digest_items": 16
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 1 descriptions fetched, 20 failed, 1239 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 20 failed, 1240 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -55,7 +55,7 @@
     "page:Living Goods": "ok: 9 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
     "page:icddr,b": "ok: 6 candidate links",
-    "rss:KEMRI-Wellcome": "error: HTTPSConnectionPool(host='jobs.kemri-wellcome.org', port=443): Max retries exceeded with url: /rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.kemri-wellcome.org', port=443) at 0x7e5e1de03a10>, 'Connection to jobs.kemri-wellcome.org timed out. (connect timeout=40)'))",
+    "rss:KEMRI-Wellcome": "error: HTTPSConnectionPool(host='jobs.kemri-wellcome.org', port=443): Max retries exceeded with url: /rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.kemri-wellcome.org', port=443) at 0x7697e611b860>, 'Connection to jobs.kemri-wellcome.org timed out. (connect timeout=40)'))",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM all vacancies": "ok: 13 entries",

@@ -15,14 +15,18 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 3 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Field Research Supervisor (Internal#149/2026).](https://career.icddrb.org/vacancy-preview/32307)** (77) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Doctoral (PhD) student position in Colorectal Cancer](https://jobrxiv.org/job/doctoral-phd-student-position-in-colorectal-cancer/)** (36)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Senior HEOR Scientist](https://jobrxiv.org/job/senior-heor-scientist/)** (34)  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Finance Manager](https://ngojobsinafrica.com/job/finance-manager-321/)** (81) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Social Cohesion Officer](https://ngojobsinafrica.com/job/social-cohesion-officer-2/)** (65) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Logistics and Supply Coordinator](https://ngojobsinafrica.com/job/logistics-and-supply-coordinator/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Aquaculture & Feed Production Officer](https://ngojobsinafrica.com/job/aquaculture-feed-production-officer-2/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Business Development Officer (Enterprise Development)](https://ngojobsinafrica.com/job/business-development-officer-enterprise-development-2/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
 
 ### Closing within 3 days
 
@@ -36,7 +40,7 @@
   Lunds universitet · Sweden · closes 2026-11-04 · Sitemap:Varbi Lund University
 
 ---
-435 open positions on the board, 1 of the new ones LMIC-related. 12 fully funded doctoral routes on the PhD page.
+436 open positions on the board, 5 of the new ones LMIC-related. 12 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
