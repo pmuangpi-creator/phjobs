@@ -15,34 +15,26 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 7 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Health Data Analyst](https://jobrxiv.org/job/health-data-analyst/)** (78) `LMIC/focus`  
-  Jobfront Academia · United Kingdom, Uganda · RSS:jobRxiv research assistant
-- **[Research Fellow in Outbreak Response](https://jobrxiv.org/job/research-fellow-in-outbreak-response/)** (50) `focus`  
-  Jobfront Academia · Congo, Dem. Rep. · RSS:jobRxiv postdoc
-- **[Senior Postdoctoral Research Scientist – Spatial Modelling Outbreak Response](https://jobrxiv.org/job/senior-postdoctoral-research-scientist-spatial-modelling-outbreak-response/)** (47) `focus`  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Operations Manager](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Operations-Manager_Requisition-2026201531)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Senior Postdoctoral Research Scientist – Climate Sensitive Infectious Diseases](https://jobrxiv.org/job/senior-postdoctoral-research-scientist-climate-sensitive-infectious-diseases/)** (37)  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
-- **[Laboratory Technician](https://jobrxiv.org/job/laboratory-technician-27/)** (34) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Post Doctoral Researcher](https://jobrxiv.org/job/post-doctoral-researcher/)** (32)  
-  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Mobile Health and Nutrition Midwifery](https://ngojobsinafrica.com/job/mobile-health-and-nutrition-midwifery-4/)** (75) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Humanitarian Access, Safety and Security Advisor](https://ngojobsinafrica.com/job/humanitarian-access-safety-and-security-advisor-2/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
 
 ### Closing within 3 days
 
-- **[Research assistant to the Department of Global Public Health](https://ki.varbi.com/se/what:job/jobID:967269/type:job/where:4/apply:1)** (66) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-10-31 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant in Neurodivergent Women’s Reproductive Health](https://ki.varbi.com/se/what:job/jobID:970674/type:job/where:4/apply:1)** (41)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-01 · Sitemap:Varbi Karolinska Institutet
 - **[Biostatistician to the Clinical Memory Research group](https://lu.varbi.com/se/what:job/jobID:975207/type:job/where:4/apply:1)** (40)  
   Lunds universitet · Sweden · closes 2026-11-03 · Sitemap:Varbi Lund University
+- **[Postdoctoral Researcher in environmental epidemiology](https://ki.varbi.com/se/what:job/jobID:977187/type:job/where:4/apply:1)** (54)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-04 · Sitemap:Varbi Karolinska Institutet
+- **[Senior Lecturer in technical GIS](https://lu.varbi.com/se/what:job/jobID:930481/type:job/where:4/apply:1)** (35)  
+  Lunds universitet · Sweden · closes 2026-11-04 · Sitemap:Varbi Lund University
 
 ---
-437 open positions on the board, 5 of the new ones LMIC-related. 13 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 2 of the new ones LMIC-related. 12 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
