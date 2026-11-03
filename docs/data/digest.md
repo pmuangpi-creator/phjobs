@@ -1,7 +1,5 @@
 ### Funded doctoral routes closing within 21 days
 
-- **[PhD student in Psychology](https://su.varbi.com/se/what:job/jobID:969959/type:job/where:4/apply:1)**  
-  Stockholms universitet · Sweden · closes 2026-11-02 · Salaried post
 - **[PhD student in Sustainability Science](https://su.varbi.com/se/what:job/jobID:966197/type:job/where:4/apply:1)**  
   Stockholms universitet · Sweden · closes 2026-11-03 · Salaried post
 - **[Project assistant at the Department of Process Engineering and Applied Life Sciences](https://lu.varbi.com/se/what:job/jobID:979843/type:job/where:4/apply:1)**  
@@ -15,31 +13,13 @@
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
 
-### 12 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Research Fellow (Maternity Cover) (ITD-DIB-2026-18)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-DIB-2026-18)** (77) `LMIC/focus`  
-  Academic · United Kingdom, Ethiopia, Madagascar · RSS:LSHTM infectious and tropical diseases
-- **[Program Manager, Syphilis Free Start](https://apply.workable.com/j/B5EF972447)** (57) `focus`  
-  Evidence Action · location not stated · Workable:evidence-action
-- **[Assistant Professor of Medical Education](https://ki.varbi.com/se/what:job/jobID:981656/type:job/where:4/apply:1)** (49) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-24 · Sitemap:Varbi Karolinska Institutet
-- **[Senior Program Officer](https://path.wd1.myworkdayjobs.com/External/job/Vietnam-Hanoi-Regional-Program-Office/Senior-Program-Officer_JR2896)** (44) `LMIC`  
-  PATH · Viet Nam · Workday:PATH
-- **[Postdoctoral Researcher in Dementia and Chronic Disease Research](https://jobrxiv.org/job/postdoctoral-researcher-in-dementia-and-chronic-disease-research/)** (41)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Doctoral student in equitable AI for breast cancer screening and risk prediction](https://jobrxiv.org/job/doctoral-student-in-equitable-ai-for-breast-cancer-screening-and-risk-prediction/)** (36)  
-  Jobfront Academia · location not stated · RSS:jobRxiv PhD
-- **[Postdoctoral Researcher in Human-AI Decision-Making in Healthcare](https://uu.varbi.com/se/what:job/jobID:985810/type:job/where:4/apply:1)** (34)  
-  Uppsala universitet · Sweden · closes 2026-12-04 · Sitemap:Varbi Uppsala University
-- **[Infectious Disease Surveillance Consultant, STRIDES, Global Health Programs (GHP)](https://path.wd1.myworkdayjobs.com/External/job/Infectious-Disease-Surveillance-Consultant--STRIDES--Global-Health-Programs--GHP-_JR2898)** (34) `focus`  
-  PATH · location not stated · Workday:PATH
-- **[Research Assistant – AI-Based Analysis Tool for Prostate Cancer](https://jobrxiv.org/job/research-assistant-ai-based-analysis-tool-for-prostate-cancer/)** (33)  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
-- **[Postdoctoral Researcher in Pharmacometrics](https://jobrxiv.org/job/postdoctoral-researcher-in-pharmacometrics-2/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Scientist-2](https://jobrxiv.org/job/scientist-2-8/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Sr. Associate Scientist- Quantitative Biomarker Sciences](https://jobrxiv.org/job/sr-associate-scientist-quantitative-biomarker-sciences/)** (30) `focus`  
+- **[Research Fellow (Maternity Cover) (PHP-HSRP-2026-21)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-HSRP-2026-21)** (44) `focus`  
+  Academic · location not stated · RSS:LSHTM public health and policy
+- **[Indonesia Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Indonesia-Project-Director--AFGHS-FHI-360_Requisition-2026201629)** (39) `LMIC`  
+  FHI 360 · Indonesia · Workday:FHI 360
+- **[Scientist/Engineer, Mixed Modality Technical Operations – Lilly Medicine Foundry](https://jobrxiv.org/job/scientist-engineer-mixed-modality-technical-operations-lilly-medicine-foundry/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -52,9 +32,13 @@
   Lunds universitet · Sweden · closes 2026-11-04 · Sitemap:Varbi Lund University
 - **[Postdoctoral studies in renal epidemiology (scholarship)](https://ki.varbi.com/en/what:job/jobID:979798/type:job/where:4/apply:1)** (40)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-05 · Sitemap:Varbi Karolinska Institutet
+- **[Research Assistant in Epidemiology of Dementia and Cardiometabolic Disease](https://ki.varbi.com/en/what:job/jobID:978417/type:job/where:4/apply:1)** (32)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral studies in microbiome and bacterial infections(scholarship)](https://ki.varbi.com/en/what:job/jobID:979906/type:job/where:4/apply:1)** (30)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-444 open positions on the board, 8 of the new ones LMIC-related. 13 fully funded doctoral routes on the PhD page.
+437 open positions on the board, 3 of the new ones LMIC-related. 11 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
