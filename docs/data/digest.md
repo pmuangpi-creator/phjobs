@@ -1,3 +1,8 @@
+### 1 new fully funded doctoral route
+
+- **[PhD student in biomarkers for neurodegenerative diseases](https://lu.varbi.com/se/what:job/jobID:986215/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-11-23 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD student in Sustainability Science](https://su.varbi.com/se/what:job/jobID:966197/type:job/where:4/apply:1)**  
@@ -12,15 +17,43 @@
   Lunds universitet · Sweden · closes 2026-11-13 · Salaried post
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)**  
   Umeå universitet · Sweden · closes 2026-11-19 · Salaried post
+- **[PhD student in biomarkers for neurodegenerative diseases](https://lu.varbi.com/se/what:job/jobID:986215/type:job/where:4/apply:1)**  
+  Lunds universitet · Sweden · closes 2026-11-23 · Salaried post
 
-### 3 new, scoring 30 or above
+### 16 new, scoring 30 or above
 
-- **[Research Fellow (Maternity Cover) (PHP-HSRP-2026-21)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-HSRP-2026-21)** (44) `focus`  
-  Academic · location not stated · RSS:LSHTM public health and policy
-- **[Indonesia Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Jakarta-Indonesia/Indonesia-Project-Director--AFGHS-FHI-360_Requisition-2026201629)** (39) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
-- **[Scientist/Engineer, Mixed Modality Technical Operations – Lilly Medicine Foundry](https://jobrxiv.org/job/scientist-engineer-mixed-modality-technical-operations-lilly-medicine-foundry/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Research Manager for Nigeria, based in Abuja](https://ngojobsinafrica.com/job/research-manager-for-nigeria-based-in-abuja-2/)** (102) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria, Switzerland · RSS:NGO Jobs Africa Nigeria
+- **[Senior Data Analyst for Ethiopia, based in Kampala](https://ngojobsinafrica.com/job/senior-data-analyst-for-ethiopia-based-in-kampala/)** (86) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia, Uganda · RSS:NGO Jobs Africa Uganda
+- **[Head of Product](https://livinggoods.applytojob.com/apply/qC1Q1fHJkA/Head-Of-Product)** (74) `LMIC/focus`  
+  Living Goods · Kenya, Burkina Faso, Uganda · Page:Living Goods
+- **[Request For Proposal Uganda Call Centre](https://ngojobsinafrica.com/job/request-for-proposal-uganda-call-centre/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Uganda · RSS:NGO Jobs Africa Uganda
+- **[Terms of Reference: Consultant - Solution Architect](https://livinggoods.applytojob.com/apply/WbUIJzHrk0/Terms-Of-Reference-Consultant-Solution-Architect)** (72) `LMIC/focus`  
+  Living Goods · Kenya · Page:Living Goods
+- **[Terms of Reference: Consultant – Project Liaison](https://livinggoods.applytojob.com/apply/V5xihiH3OU/Terms-Of-Reference-Consultant-Project-Liaison)** (72) `LMIC/focus`  
+  Living Goods · Kenya · Page:Living Goods
+- **[Terms of Reference: Consultant – Software Engineer](https://livinggoods.applytojob.com/apply/GRdaYF78j6/Terms-Of-Reference-Consultant-Software-Engineer)** (72) `LMIC/focus`  
+  Living Goods · Kenya · Page:Living Goods
+- **[Request For Proposal Kenya Call Centre](https://ngojobsinafrica.com/job/request-for-proposal-kenya-call-centre/)** (65) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Temporary- Grants and Contracts Officer](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Nairobi-Country-Program-Office/Temporary--Grants-and-Contracts-Officer_JR2899-1)** (61) `LMIC/focus`  
+  PATH · Kenya · Workday:PATH
+- **[AI and Digital Health Specialist – The Integrated Innovation Highway (IIH) Project Ethiopia](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa-Country-Program-Office/AI-and-Digital-Health-Specialist---The-Integrated-Innovation-Highway--IIH--Project-Ethiopia_JR2900)** (59) `LMIC/focus`  
+  PATH · Ethiopia · Workday:PATH
+- **[Philippines Project Director, AFGHS-FHI 360 Project](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Philippines-Project-Director--AFGHS-FHI-360-Project_Requisition-2026201524)** (39) `LMIC`  
+  FHI 360 · Philippines · Workday:FHI 360
+- **[Post-doctoral fellow in climate modelling of volcanic super-eruptions and epidemics](https://lu.varbi.com/se/what:job/jobID:983398/type:job/where:4/apply:1)** (37)  
+  Lunds universitet · Sweden · closes 2026-12-01 · Sitemap:Varbi Lund University
+- **[Call for Supplier Prequalification: Various Goods and Services (RFP-2026-EA-006)](https://ngojobsinafrica.com/job/call-for-supplier-prequalification-various-goods-and-services-rfp-2026-ea-006/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Temporary Senior Lecturer in Digital Humanities](https://uu.varbi.com/se/what:job/jobID:984571/type:job/where:4/apply:1)** (35)  
+  Uppsala universitet · Sweden · closes 2026-11-13 · Sitemap:Varbi Uppsala University
+- **[AMR Surveillance Assessment Consultant, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/AMR-Surveillance-Assessment-Consultant--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2733)** (34) `focus`  
+  PATH · location not stated · Workday:PATH
+- **[Consultant: One Health SOP Review and Harmonization for Zoonotic Disease Outbreak Investigation and Response, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/Consultant--One-Health-SOP-Review-and-Harmonization-for-Zoonotic-Disease-Outbreak-Investigation-and-Response--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2736)** (33) `focus`  
+  PATH · location not stated · Workday:PATH
 
 ### Closing within 3 days
 
@@ -38,7 +71,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-437 open positions on the board, 3 of the new ones LMIC-related. 11 fully funded doctoral routes on the PhD page.
+456 open positions on the board, 14 of the new ones LMIC-related. 12 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
