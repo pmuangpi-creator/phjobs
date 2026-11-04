@@ -11,22 +11,22 @@
 
 ### 8 new, scoring 30 or above
 
-- **[Consultant - TPT Clinic Manager, Infectious Disease – Tuberculosis](https://path.wd1.myworkdayjobs.com/External/job/India-Mumbai-Sub-Office/Consultant---TPT-Clinic-Manager--Infectious-Disease---Tuberculosis_JR2902)** (73) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[District Program Coordinator, Infectious Disease – Tuberculosis](https://path.wd1.myworkdayjobs.com/External/job/India-Mumbai-Sub-Office/District-Program-Coordinator--Infectious-Disease---Tuberculosis_JR2901)** (73) `LMIC/focus`  
-  PATH · India · Workday:PATH
-- **[Physician with Dhaka Hospital under Clinical and Diagnostic Services (Re-adv#151/2026).](https://career.icddrb.org/vacancy-preview/32309)** (71) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Assistant Medical Technologist under Clinical and Diagnostic Services (Adv#150/2026).](https://career.icddrb.org/vacancy-preview/32308)** (71) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[STRIDES Technical Director](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/STRIDES-Technical-Director_Requisition-2026200000)** (65) `LMIC/focus`  
-  FHI 360 · Bangladesh · Workday:FHI 360
-- **[Health Assistant (Internal#152/2026).](https://career.icddrb.org/vacancy-preview/32310)** (63) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Scientist, Systems Immunology](https://jobrxiv.org/job/scientist-systems-immunology-2/)** (33)  
-  Jobfront Industry · United Kingdom · RSS:jobRxiv scientist
-- **[Scientist/Engineer – Small Molecule Technical Operations – Lilly Medicine Foundry](https://jobrxiv.org/job/scientist-engineer-small-molecule-technical-operations-lilly-medicine-foundry/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[SOUTH SUDAN – DEPUTY HEAD OF FINANCE – JUBA](https://ngojobsinafrica.com/job/south-sudan-deputy-head-of-finance-juba/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
+- **[SOUTH SUDAN – GRANTS & PARTNERSHIPS HEAD OF DEPARTMENT (M/F) – JUBA](https://ngojobsinafrica.com/job/south-sudan-grants-partnerships-head-of-department-m-f-juba/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · South Sudan · RSS:NGO Jobs Africa South Sudan
+- **[Operation Officer – Kenya](https://ngojobsinafrica.com/job/operation-officer-kenya/)** (69) `LMIC/focus`  
+  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
+- **[Regional Technical Advisor – Integrated Innovation Highway- Oromia, Somali and Sidama Regions- Ethiopia](https://path.wd1.myworkdayjobs.com/External/job/Ethiopia-Remote/Regional-Technical-Advisor---Integrated-Innovation-Highway-Oromia-Region_JR2903)** (59) `LMIC/focus`  
+  PATH · Ethiopia · Workday:PATH
+- **[Finance Officer](https://msh.wd503.myworkdayjobs.com/External/job/Nigeria-Abuja/Finance-Officer_R5237)** (49) `LMIC/focus`  
+  Management Sciences for Health · Nigeria · Workday:Management Sciences for Health
+- **[Legal Associate](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5472903008)** (44) `focus`  
+  Resolvetosavelives · Remote - US or UK · Greenhouse:resolvetosavelives
+- **[Project Coordinator (0.8 FTE) (ITD-CRD-2026-21-R)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-CRD-2026-21-R)** (42) `focus`  
+  Professional Services · United Kingdom · RSS:LSHTM infectious and tropical diseases
+- **[Oficial Técnico Clínico III](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/Oficial-Tcnico-Clnico-III_Requisition-2026201638)** (34) `LMIC`  
+  FHI 360 · Dominican Republic · Workday:FHI 360
 
 ### Closing within 3 days
 
@@ -42,7 +42,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
 
 ---
-454 open positions on the board, 7 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
+462 open positions on the board, 8 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
