@@ -9,36 +9,50 @@
 - **[PhD student in biomarkers for neurodegenerative diseases](https://lu.varbi.com/se/what:job/jobID:986215/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-23 · Salaried post
 
-### 7 new, scoring 30 or above
+### 12 new, scoring 30 or above
 
-- **[Manager, Talent Development with Human Resources under the Central Management Services (Adv#156/2026).](https://career.icddrb.org/vacancy-preview/32314)** (71) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Eswatini Country Team Lead](https://msh.wd503.myworkdayjobs.com/External/job/Eswatini---Mbabane/Eswatini-Country-Team-Lead_R5238)** (57) `LMIC/focus`  
-  Management Sciences for Health · Eswatini · Workday:Management Sciences for Health
-- **[Postdoctoral Researcher in Digitalization, Lifestyle, and Health](https://ki.varbi.com/se/what:job/jobID:986790/type:job/where:4/apply:1)** (42)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-26 · Sitemap:Varbi Karolinska Institutet
-- **[Two Postdoctoral Researcher Positions in Coastal Marine Science](https://jobrxiv.org/job/two-postdoctoral-researcher-positions-in-coastal-marine-science/)** (34)  
-  Jobfront Academia · Finland, Sweden · RSS:jobRxiv postdoc
-- **[Data Scientist](https://jobrxiv.org/job/data-scientist-149/)** (34) `focus`  
-  Jobfront Industry · France · RSS:jobRxiv scientist
-- **[Postdoctoral position in epigenomic data analysis](https://uu.varbi.com/se/what:job/jobID:984839/type:job/where:4/apply:1)** (33)  
-  Uppsala universitet · Sweden · closes 2026-11-30 · Sitemap:Varbi Uppsala University
-- **[Postdoctoral Researcher in Pharmacometrics](https://jobrxiv.org/?post_type=job_listing&p=160297)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Director, Maternal & Reproductive Health](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5475073008)** (97) `LMIC/focus`  
+  Resolvetosavelives · India · Greenhouse:resolvetosavelives
+- **[Senior Technical Advisor, Clinical Services & Health Systems Transformation](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5475041008)** (91) `LMIC/focus`  
+  Resolvetosavelives · India · Greenhouse:resolvetosavelives
+- **[HR & Administration  Manager](https://ngojobsinafrica.com/job/hr-administration-manager-9/)** (77) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Human Resource Asssitant](https://ngojobsinafrica.com/job/human-resource-asssitant/)** (75) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Knowledge Management and Translation Specialist - Dar Nov 06, 2026](https://ihi.or.tz/en/our-job-posts/job/359/details/)** (72) `LMIC/focus`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[Senior Knowledge Management and Knowledge Translation (1 Post) -… Nov 06, 2026](https://ihi.or.tz/en/our-job-posts/job/338/details/)** (72) `LMIC/focus`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[Consultant for Documentation of Interministerial Consultations and Understanding of Prison Health Services in Mizoram and Punjab, HIV/HEP/ST](https://path.wd1.myworkdayjobs.com/External/job/India-New-Delhi-Country-Program-Office/Consultant-for-Documentation-of-Interministerial-Consultations-and-Understanding-of-Prison-Health-Services-in-Mizoram-and-Punjab--HIV-HEP-ST_JR2909)** (71) `LMIC/focus`  
+  PATH · India · Workday:PATH
+- **[Associate Global Development Scientist Director I](https://jobrxiv.org/job/associate-global-development-scientist-director-i/)** (67) `LMIC/focus`  
+  Jobfront Industry · India · RSS:jobRxiv scientist
+- **[Postdoctoral Researcher in Dementia Neuroepidemiology](https://ki.varbi.com/se/what:job/jobID:983228/type:job/where:4/apply:1)** (44)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-27 · Sitemap:Varbi Karolinska Institutet
+- **[Research Assistant in Dementia Epidemiology](https://ki.varbi.com/se/what:job/jobID:984143/type:job/where:4/apply:1)** (42)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-27 · Sitemap:Varbi Karolinska Institutet
+- **[TM China Associate Principal Scientist 2](https://jobrxiv.org/job/tm-china-associate-principal-scientist-2/)** (40) `LMIC`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Scientist/Engineer, Biologics Technical Operations – Lilly Medicine Foundry](https://jobrxiv.org/job/scientist-engineer-biologics-technical-operations-lilly-medicine-foundry-2/)** (30) `focus`  
+  Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
 
-- **[Postdoctoral studies in renal epidemiology (scholarship)](https://ki.varbi.com/en/what:job/jobID:979798/type:job/where:4/apply:1)** (40)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-05 · Sitemap:Varbi Karolinska Institutet
 - **[Research Assistant in Epidemiology of Dementia and Cardiometabolic Disease](https://ki.varbi.com/en/what:job/jobID:978417/type:job/where:4/apply:1)** (32)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
 - **[Postdoctoral studies in microbiome and bacterial infections(scholarship)](https://ki.varbi.com/en/what:job/jobID:979906/type:job/where:4/apply:1)** (30)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
 - **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://ki.varbi.com/se/what:job/jobID:975216/type:job/where:4/apply:1)** (41)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-08 · Sitemap:Varbi Karolinska Institutet
+- **[Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance](https://uu.varbi.com/se/what:job/jobID:970912/type:job/where:4/apply:1)** (45) `focus`  
+  Uppsala universitet · Sweden · closes 2026-11-09 · Sitemap:Varbi Uppsala University
+- **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)** (43)  
+  Uppsala universitet · Sweden · closes 2026-11-09 · Sitemap:Varbi Uppsala University
+- **[Assistant Professor in Nutritional Epidemiology with a Focus on Cognitive Health and APOE](https://ki.varbi.com/se/what:job/jobID:979352/type:job/where:4/apply:1)** (32)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
 
 ---
-467 open positions on the board, 4 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
+469 open positions on the board, 10 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
