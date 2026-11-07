@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-07T13:57:39+00:00",
-  "duration_seconds": 143.4,
+  "generated_at": "2026-11-07T22:40:34+00:00",
+  "duration_seconds": 146.1,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 545,
-    "unique_ids": 489,
+    "fetched": 543,
+    "unique_ids": 487,
     "carried_over": 0,
-    "delisted_by_source": 5,
+    "delisted_by_source": 15,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 12,
-    "published": 465,
+    "duplicates_collapsed": 13,
+    "published": 462,
     "gate_rejected": 717,
-    "lmic_duty_station": 141,
-    "lmic_focus": 156,
-    "with_location": 304,
+    "lmic_duty_station": 138,
+    "lmic_focus": 157,
+    "with_location": 303,
     "doctoral": {
-      "routes": 26,
-      "fully_funded": 10,
+      "routes": 25,
+      "fully_funded": 11,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
-        "salaried": 9,
+        "salaried": 10,
         "stipend": 1,
-        "unstated": 16
+        "unstated": 14
       },
       "pinned": 26,
       "panel_warnings": [
@@ -36,11 +36,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 11
+    "digest_items": 14
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1247 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1245 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 5 postings",
@@ -54,7 +54,7 @@
     "page:Last Mile Health": "ok: 12 candidate links",
     "page:Living Goods": "ok: 12 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
-    "page:icddr,b": "ok: 9 candidate links",
+    "page:icddr,b": "ok: 7 candidate links",
     "rss:KEMRI-Wellcome": "ok: 10 entries",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",
@@ -82,7 +82,7 @@
     "rss:jobRxiv search infectious disease": "disabled",
     "rss:jobRxiv search public health": "disabled",
     "sitemap:AcademicTransfer Netherlands": "ok: 13 entries",
-    "sitemap:Varbi Karolinska Institutet": "ok: 74 entries",
+    "sitemap:Varbi Karolinska Institutet": "ok: 75 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Lund University": "ok: 88 entries",
     "sitemap:Varbi Stockholm University": "ok: 30 entries",
@@ -91,7 +91,7 @@
     "sitemap:Varbi Uppsala University": "ok: 79 entries",
     "workable:evidence-action": "ok: 42 postings",
     "workable:villagereach": "ok: 0 postings",
-    "workday:FHI 360": "ok: 36 postings",
+    "workday:FHI 360": "ok: 35 postings",
     "workday:Management Sciences for Health": "ok: 22 postings",
     "workday:PATH": "ok: 70 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"

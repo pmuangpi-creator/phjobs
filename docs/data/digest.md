@@ -1,3 +1,8 @@
+### 1 new fully funded doctoral route
+
+- **[PhD fellowship in cerebral interoception at Center for Translational Neuromedicine](https://jobrxiv.org/job/phd-fellowship-in-cerebral-interoception-at-center-for-translational-neuromedicine/)**  
+  Jobfront Academia · location not stated · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
@@ -11,14 +16,18 @@
 - **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-27 · Salaried post
 
-### 3 new, scoring 30 or above
+### 5 new, scoring 30 or above
 
-- **[Postdoctoral Researcher in Dementia Neuroepidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-dementia-neuroepidemiology/)** (38)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Postdoctoral Researcher in Digitalization, Lifestyle, and Health](https://jobrxiv.org/job/postdoctoral-researcher-in-digitalization-lifestyle-and-health/)** (36)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Research Assistant in Dementia Epidemiology](https://jobrxiv.org/job/research-assistant-in-dementia-epidemiology/)** (36)  
-  Jobfront Academia · Finland · RSS:jobRxiv research assistant
+- **[Postdoctoral Research Fellow-1](https://jobrxiv.org/job/postdoctoral-research-fellow-1/)** (67)  
+  Jobfront Academia · Canada · RSS:jobRxiv postdoc
+- **[Postdoctoral Research Scientist](https://jobrxiv.org/job/postdoctoral-research-scientist-32/)** (57) `focus`  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Research Fellow in Outbreak Response](https://jobrxiv.org/?post_type=job_listing&p=159779)** (50) `focus`  
+  Jobfront Academia · Congo, Dem. Rep. · RSS:jobRxiv postdoc
+- **[Postdoctoral fellowship in wearable data science, multi-omics integration, and machine learning for precision cardiovascular health](https://jobrxiv.org/job/postdoctoral-fellowship-in-wearable-data-science-multi-omics-integration-and-machine-learning-for-precision-cardiovascular-health/)** (36)  
+  Jobfront Academia · Denmark · RSS:jobRxiv postdoc
+- **[Postdoctoral Researcher;  Neurotropic viruses in Alzheimer’s disease](https://jobrxiv.org/job/postdoctoral-researcher-neurotropic-viruses-in-alzheimers-disease/)** (31)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
 
 ### Closing within 3 days
 
@@ -32,7 +41,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
 
 ---
-465 open positions on the board, 0 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
+462 open positions on the board, 2 of the new ones LMIC-related. 11 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
