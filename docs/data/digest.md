@@ -13,12 +13,12 @@
 
 ### 3 new, scoring 30 or above
 
-- **[Technical Advisor, Subnational Data Use and Decision Science](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5476108008)** (97) `LMIC/focus`  
-  Resolvetosavelives · Nigeria · Greenhouse:resolvetosavelives
-- **[Group Savings and Loans, Business Planning and Income-Generating Activity Support Consultancy under the GROW Project, West Pokot County](https://ngojobsinafrica.com/job/group-savings-and-loans-business-planning-and-income-generating-activity-support-consultancy-under-the-grow-project-west-pokot-county/)** (46) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Research Assistant](https://jobrxiv.org/job/research-assistant-171/)** (34)  
-  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Postdoctoral Researcher in Dementia Neuroepidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-dementia-neuroepidemiology/)** (38)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Postdoctoral Researcher in Digitalization, Lifestyle, and Health](https://jobrxiv.org/job/postdoctoral-researcher-in-digitalization-lifestyle-and-health/)** (36)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Assistant in Dementia Epidemiology](https://jobrxiv.org/job/research-assistant-in-dementia-epidemiology/)** (36)  
+  Jobfront Academia · Finland · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -32,7 +32,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
 
 ---
-466 open positions on the board, 2 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
+465 open positions on the board, 0 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 

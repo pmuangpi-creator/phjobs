@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-07T07:01:36+00:00",
-  "duration_seconds": 135.3,
+  "generated_at": "2026-11-07T13:57:39+00:00",
+  "duration_seconds": 143.4,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 544,
-    "unique_ids": 490,
+    "fetched": 545,
+    "unique_ids": 489,
     "carried_over": 0,
-    "delisted_by_source": 22,
+    "delisted_by_source": 5,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
     "duplicates_collapsed": 12,
-    "published": 466,
+    "published": 465,
     "gate_rejected": 717,
     "lmic_duty_station": 141,
     "lmic_focus": 156,
     "with_location": 304,
     "doctoral": {
-      "routes": 27,
+      "routes": 26,
       "fully_funded": 10,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 9,
         "stipend": 1,
-        "unstated": 17
+        "unstated": 16
       },
       "pinned": 26,
       "panel_warnings": [
@@ -40,7 +40,7 @@
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 1 descriptions fetched, 16 failed, 1244 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1247 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 5 postings",
@@ -81,7 +81,7 @@
     "rss:jobRxiv search global health": "disabled",
     "rss:jobRxiv search infectious disease": "disabled",
     "rss:jobRxiv search public health": "disabled",
-    "sitemap:AcademicTransfer Netherlands": "ok: 12 entries",
+    "sitemap:AcademicTransfer Netherlands": "ok: 13 entries",
     "sitemap:Varbi Karolinska Institutet": "ok: 74 entries",
     "sitemap:Varbi Linkoping University": "ok: 0 entries (sitemap valid, nothing posted)",
     "sitemap:Varbi Lund University": "ok: 88 entries",
