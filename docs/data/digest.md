@@ -1,8 +1,3 @@
-### 1 new fully funded doctoral route
-
-- **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
-  Lunds universitet · Sweden · closes 2026-11-27 · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[2 PhD candidates within Peace and Conflict Research (DIViNE)](https://uu.varbi.com/se/what:job/jobID:975073/type:job/where:4/apply:1)**  
@@ -16,25 +11,17 @@
 - **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-27 · Salaried post
 
-### 5 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Technical Officer, Clinical](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Senegal-Any/Technical-Officer--Clinical_Requisition-2026201645)** (57) `LMIC/focus`  
-  FHI 360 · Senegal · Workday:FHI 360
-- **[Postdoctoral Researcher in Bacterial vaccines](https://ki.varbi.com/se/what:job/jobID:988072/type:job/where:4/apply:1)** (42) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-27 · Sitemap:Varbi Karolinska Institutet
-- **[Senior Principal Scientist, Biomarker Lead – Onco](https://jobrxiv.org/job/senior-principal-scientist-biomarker-lead-onco/)** (40) `LMIC`  
-  Jobfront Industry · China · RSS:jobRxiv scientist
-- **[Senior Specialist – Bioinformatics (Global Customer Support-Molecular Labs)](https://jobrxiv.org/job/senior-specialist-bioinformatics-global-customer-support-molecular-labs/)** (33)  
-  Jobfront Industry · location not stated · RSS:jobRxiv research assistant
-- **[Postdoctoral Researcher in Pharmacometrics](https://jobrxiv.org/job/postdoctoral-researcher-in-pharmacometrics-2/)** (32) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Technical Advisor, Subnational Data Use and Decision Science](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5476108008)** (97) `LMIC/focus`  
+  Resolvetosavelives · Nigeria · Greenhouse:resolvetosavelives
+- **[Group Savings and Loans, Business Planning and Income-Generating Activity Support Consultancy under the GROW Project, West Pokot County](https://ngojobsinafrica.com/job/group-savings-and-loans-business-planning-and-income-generating-activity-support-consultancy-under-the-grow-project-west-pokot-county/)** (46) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
+- **[Research Assistant](https://jobrxiv.org/job/research-assistant-171/)** (34)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
-- **[Research Assistant in Epidemiology of Dementia and Cardiometabolic Disease](https://ki.varbi.com/en/what:job/jobID:978417/type:job/where:4/apply:1)** (32)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
-- **[Postdoctoral studies in microbiome and bacterial infections(scholarship)](https://ki.varbi.com/en/what:job/jobID:979906/type:job/where:4/apply:1)** (30)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-06 · Sitemap:Varbi Karolinska Institutet
 - **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://ki.varbi.com/se/what:job/jobID:975216/type:job/where:4/apply:1)** (41)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-08 · Sitemap:Varbi Karolinska Institutet
 - **[Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance](https://uu.varbi.com/se/what:job/jobID:970912/type:job/where:4/apply:1)** (45) `focus`  
@@ -45,7 +32,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
 
 ---
-470 open positions on the board, 4 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
+466 open positions on the board, 2 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
