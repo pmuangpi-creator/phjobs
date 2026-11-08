@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-08T18:20:31+00:00",
-  "duration_seconds": 142.1,
+  "generated_at": "2026-11-08T22:47:31+00:00",
+  "duration_seconds": 144.9,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
     "fetched": 538,
-    "unique_ids": 478,
+    "unique_ids": 477,
     "carried_over": 0,
-    "delisted_by_source": 9,
+    "delisted_by_source": 2,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 13,
+    "duplicates_collapsed": 12,
     "published": 453,
     "gate_rejected": 719,
     "lmic_duty_station": 135,
-    "lmic_focus": 153,
+    "lmic_focus": 152,
     "with_location": 297,
     "doctoral": {
       "routes": 25,
@@ -36,7 +36,7 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 9
+    "digest_items": 8
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",

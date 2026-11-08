@@ -11,11 +11,6 @@
 - **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-27 · Salaried post
 
-### 1 new, scoring 30 or above
-
-- **[Research Associate [LKCMedicine]](https://jobrxiv.org/job/research-associate-lkcmedicine-9/)** (32)  
-  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv research assistant
-
 ### Closing within 3 days
 
 - **[1-2 Postdoctoral researchers in Psychiatric Genomics and Data Science](https://ki.varbi.com/se/what:job/jobID:975216/type:job/where:4/apply:1)** (41)  
