@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-07T22:40:34+00:00",
-  "duration_seconds": 146.1,
+  "generated_at": "2026-11-08T07:11:38+00:00",
+  "duration_seconds": 159.5,
   "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 543,
-    "unique_ids": 487,
+    "fetched": 538,
+    "unique_ids": 481,
     "carried_over": 0,
-    "delisted_by_source": 15,
+    "delisted_by_source": 14,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
     "duplicates_collapsed": 13,
-    "published": 462,
-    "gate_rejected": 717,
-    "lmic_duty_station": 138,
-    "lmic_focus": 157,
-    "with_location": 303,
+    "published": 456,
+    "gate_rejected": 720,
+    "lmic_duty_station": 136,
+    "lmic_focus": 153,
+    "with_location": 299,
     "doctoral": {
       "routes": 25,
       "fully_funded": 11,
@@ -36,11 +36,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 14
+    "digest_items": 10
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1245 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1243 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 1 postings",
     "greenhouse:resolvetosavelives": "ok: 5 postings",
@@ -66,7 +66,7 @@
     "rss:NGO Jobs Africa Kenya": "ok: 10 entries",
     "rss:NGO Jobs Africa Malawi": "ok: 4 entries",
     "rss:NGO Jobs Africa Nigeria": "ok: 10 entries",
-    "rss:NGO Jobs Africa South Sudan": "ok: 7 entries",
+    "rss:NGO Jobs Africa South Sudan": "ok: 6 entries",
     "rss:NGO Jobs Africa Tanzania": "ok: 6 entries",
     "rss:NGO Jobs Africa Uganda": "ok: 10 entries",
     "rss:NGO Jobs Africa Zambia": "ok: 6 entries",
@@ -91,7 +91,7 @@
     "sitemap:Varbi Uppsala University": "ok: 79 entries",
     "workable:evidence-action": "ok: 42 postings",
     "workable:villagereach": "ok: 0 postings",
-    "workday:FHI 360": "ok: 35 postings",
+    "workday:FHI 360": "ok: 34 postings",
     "workday:Management Sciences for Health": "ok: 22 postings",
     "workday:PATH": "ok: 70 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
