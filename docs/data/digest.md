@@ -11,12 +11,10 @@
 - **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-11-27 · Salaried post
 
-### 2 new, scoring 30 or above
+### 1 new, scoring 30 or above
 
-- **[CALL FOR TENDER: PROVISION OF STAFF MEDICAL COVER FROM 1ST JANUARY TO 31ST DECEMBER 2027](https://ngojobsinafrica.com/job/call-for-tender-provision-of-staff-medical-cover-from-1st-january-to-31st-december-2027/)** (34) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[Research Assistant (Sexual and Reproductive Health)](https://jobrxiv.org/job/research-assistant-sexual-and-reproductive-health/)** (33)  
-  Jobfront Academia · Australia · RSS:jobRxiv research assistant
+- **[Research Associate [LKCMedicine]](https://jobrxiv.org/job/research-associate-lkcmedicine-9/)** (32)  
+  Jobfront Academia · Singapore, United Kingdom · RSS:jobRxiv research assistant
 
 ### Closing within 3 days
 
@@ -30,7 +28,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-09 · Sitemap:Varbi Karolinska Institutet
 
 ---
-456 open positions on the board, 1 of the new ones LMIC-related. 11 fully funded doctoral routes on the PhD page.
+453 open positions on the board, 0 of the new ones LMIC-related. 11 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
