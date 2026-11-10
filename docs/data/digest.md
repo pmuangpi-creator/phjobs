@@ -16,22 +16,26 @@
 - **[Doctoral position in medical radiation physics](https://lu.varbi.com/se/what:job/jobID:983786/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-12-01 · Salaried post
 
-### 7 new, scoring 30 or above
+### 9 new, scoring 30 or above
 
-- **[Director, Maternal & Reproductive Health](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5477766008)** (97) `LMIC/focus`  
-  Resolvetosavelives · India · Greenhouse:resolvetosavelives
-- **[Public Health and Humanitarian Medicine Director](https://ngojobsinafrica.com/job/public-health-and-humanitarian-medicine-director-2/)** (81) `focus`  
-  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
-- **[PROGRAM CONSULTANT – RISE PROJECT](https://ngojobsinafrica.com/job/program-consultant-rise-project/)** (71) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Assistant Technician, Sub-station with Facilities Management under the Support Services (Adv#157/2026).](https://career.icddrb.org/vacancy-preview/32315)** (71) `LMIC/focus`  
-  icddr,b · Bangladesh · Page:icddr,b
-- **[Advisor, Human Health](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dhaka-Bangladesh/Advisor--Human-Health_Requisition-2026201655)** (65) `LMIC/focus`  
-  FHI 360 · Bangladesh · Workday:FHI 360
-- **[Laboratory Specialist](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Manila-Philippines/Laboratory-Specialist_Requisition-2026201654)** (39) `LMIC`  
-  FHI 360 · Philippines · Workday:FHI 360
-- **[Postdoctoral researcher in the Unit of Occupational Medicine, Institute of Environmental Medicine](https://ki.varbi.com/se/what:job/jobID:986046/type:job/where:4/apply:1)** (37)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-12-01 · Sitemap:Varbi Karolinska Institutet
+- **[Clinical Research Fellow - International Lead Clinician (Botswana) (ITD-CRD-2026-26)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=ITD-CRD-2026-26)** (79) `LMIC/focus`  
+  Academic · Botswana, United Kingdom, Malawi · RSS:LSHTM infectious and tropical diseases
+- **[Country Head of Programmes Tanzania](https://ngojobsinafrica.com/job/country-head-of-programmes-tanzania/)** (73) `LMIC/focus`  
+  Ngojobsinafrica · Tanzania · RSS:NGO Jobs Africa Tanzania
+- **[Zonal TB Project Coordinator](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Southwest/Zonal-TB-Project-Coordinator_R5257)** (69) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Senior Finance and Operations Director](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Kinshasa-DRC/Senior-Finance-and-Operations-Director_Requisition-2026201437)** (59) `LMIC/focus`  
+  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
+- **[Senior Regional Technical Officer, Supply Chain  Iringa](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Iringa-Tanzania/Senior-Regional-Technical-Officer--Supply-Chain--Iringa_Requisition-2026201445)** (57) `LMIC/focus`  
+  FHI 360 · Tanzania · Workday:FHI 360
+- **[Driver](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia/Driver_R5247)** (44) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Clinical Operations Sr. Specialist - 2025935](https://jobs.lever.co/wr/de42068d-5eeb-4f35-ac5e-28ea7de2a6d0)** (38) `focus`  
+  Wr · Israel · Lever:wr
+- **[Research Assistant – AI-Based Analysis Tool for Prostate Cancer](https://jobrxiv.org/job/research-assistant-ai-based-analysis-tool-for-prostate-cancer/)** (33)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Field Cook](https://ngojobsinafrica.com/job/field-cook/)** (32) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
 
 ### Closing within 3 days
 
@@ -45,7 +49,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-450 open positions on the board, 6 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
+451 open positions on the board, 8 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
