@@ -16,14 +16,24 @@
 - **[Doctoral position in medical radiation physics](https://lu.varbi.com/se/what:job/jobID:983786/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-12-01 · Salaried post
 
-### 3 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Regional Program Operations Director](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Regional-Program-Operations-Director_R5259)** (59) `LMIC/focus`  
+- **[Logistics Assistant (Local Nationals only)](https://ngojobsinafrica.com/job/logistics-assistant-local-nationals-only/)** (63) `LMIC/focus`  
+  Ngojobsinafrica · France, Kenya · RSS:NGO Jobs Africa Kenya
+- **[Finance Coordinator](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Finance-Coordinator_R5261)** (59) `LMIC/focus`  
   Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
-- **[Thailand Project Director, AFGHS-FHI 360](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bangkok-Thailand/Thailand-Project-Director--AFGHS-FHI-360_Requisition-2026201658)** (46) `LMIC`  
-  FHI 360 · Thailand · Workday:FHI 360
-- **[Research Fellow](https://jobrxiv.org/job/research-fellow-168/)** (34)  
+- **[Senior Teaching and Research Fellow in Statistics and Epidemiology](https://jobrxiv.org/job/senior-teaching-and-research-fellow-in-statistics-and-epidemiology/)** (51) `focus`  
   Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[Senior Accountant](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Addis-Ababa/Senior-Accountant_R5260)** (49) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Especialista en Epidemiología y Vigilancia](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Santo-Domingo-Dominican-Republic/Especialista-en-Epidemiologa-y-Vigilancia_Requisition-2026201664)** (43) `LMIC`  
+  FHI 360 · Dominican Republic · Workday:FHI 360
+- **[Postdoctoral Researcher in Machine Learning and Health Economics for Alzheimer’s Disease and Related dementias](https://ki.varbi.com/en/what:job/jobID:987373/type:job/where:4/apply:1)** (42)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-12-03 · Sitemap:Varbi Karolinska Institutet
+- **[Postdoctoral Molecular Epidemiologist](https://jobrxiv.org/job/postdoctoral-molecular-epidemiologist/)** (42)  
+  Jobfront Academia · United Kingdom · RSS:jobRxiv postdoc
+- **[TERMS OF REFERENCE (TOR) Regional Climate, Environmental & Anticipatory Action Modelling Consultant](https://ngojobsinafrica.com/job/terms-of-reference-tor-regional-climate-environmental-anticipatory-action-modelling-consultant/)** (40) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Kenya
 
 ### Closing within 3 days
 
@@ -37,7 +47,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-13 · Sitemap:Varbi Karolinska Institutet
 
 ---
-452 open positions on the board, 2 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
+444 open positions on the board, 6 of the new ones LMIC-related. 10 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
