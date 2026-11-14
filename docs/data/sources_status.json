@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-14T07:34:04+00:00",
-  "duration_seconds": 204.6,
-  "sources_ok": 47,
+  "generated_at": "2026-11-14T18:44:55+00:00",
+  "duration_seconds": 186.1,
+  "sources_ok": 49,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 429,
-    "unique_ids": 476,
-    "carried_over": 100,
-    "delisted_by_source": 12,
+    "fetched": 526,
+    "unique_ids": 477,
+    "carried_over": 0,
+    "delisted_by_source": 24,
     "expired_dropped": 0,
     "aged_out_no_deadline": 14,
-    "duplicates_collapsed": 15,
-    "published": 447,
-    "gate_rejected": 756,
-    "lmic_duty_station": 137,
+    "duplicates_collapsed": 20,
+    "published": 443,
+    "gate_rejected": 753,
+    "lmic_duty_station": 131,
     "lmic_focus": 166,
-    "with_location": 289,
+    "with_location": 280,
     "doctoral": {
       "routes": 22,
       "fully_funded": 8,
@@ -35,11 +35,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 8
+    "digest_items": 18
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 21 failed, 1164 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 25 failed, 1254 skipped",
     "greenhouse:dimagi": "ok: 0 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
     "greenhouse:resolvetosavelives": "ok: 5 postings",
@@ -53,7 +53,7 @@
     "page:Last Mile Health": "ok: 10 candidate links",
     "page:Living Goods": "ok: 9 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
-    "page:icddr,b": "ok: 6 candidate links",
+    "page:icddr,b": "ok: 4 candidate links",
     "rss:KEMRI-Wellcome": "ok: 10 entries",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",
@@ -65,7 +65,7 @@
     "rss:NGO Jobs Africa Kenya": "ok: 10 entries",
     "rss:NGO Jobs Africa Malawi": "ok: 6 entries",
     "rss:NGO Jobs Africa Nigeria": "ok: 10 entries",
-    "rss:NGO Jobs Africa South Sudan": "ok: 5 entries",
+    "rss:NGO Jobs Africa South Sudan": "ok: 6 entries",
     "rss:NGO Jobs Africa Tanzania": "ok: 4 entries",
     "rss:NGO Jobs Africa Uganda": "ok: 10 entries",
     "rss:NGO Jobs Africa Zambia": "ok: 6 entries",
@@ -90,9 +90,9 @@
     "sitemap:Varbi Uppsala University": "ok: 74 entries",
     "workable:evidence-action": "ok: 54 postings",
     "workable:villagereach": "ok: 0 postings",
-    "workday:FHI 360": "error: 521 Server Error: <none> for url: https://fhi.wd1.myworkdayjobs.com/wday/cxs/fhi/FHI_360_External_Career_Portal/jobs",
+    "workday:FHI 360": "ok: 34 postings",
     "workday:Management Sciences for Health": "ok: 30 postings",
-    "workday:PATH": "error: 521 Server Error: <none> for url: https://path.wd1.myworkdayjobs.com/wday/cxs/path/External/jobs",
+    "workday:PATH": "ok: 61 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
