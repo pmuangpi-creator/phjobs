@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-15T07:47:32+00:00",
-  "duration_seconds": 223.8,
+  "generated_at": "2026-11-15T19:22:53+00:00",
+  "duration_seconds": 218.1,
   "sources_ok": 48,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 521,
-    "unique_ids": 473,
+    "fetched": 514,
+    "unique_ids": 462,
     "carried_over": 0,
-    "delisted_by_source": 2,
+    "delisted_by_source": 20,
     "expired_dropped": 0,
     "aged_out_no_deadline": 7,
     "duplicates_collapsed": 22,
-    "published": 444,
-    "gate_rejected": 749,
-    "lmic_duty_station": 133,
-    "lmic_focus": 170,
-    "with_location": 282,
+    "published": 433,
+    "gate_rejected": 754,
+    "lmic_duty_station": 132,
+    "lmic_focus": 166,
+    "with_location": 277,
     "doctoral": {
-      "routes": 22,
+      "routes": 19,
       "fully_funded": 8,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
         "salaried": 8,
-        "unstated": 14
+        "unstated": 11
       },
       "pinned": 26,
       "panel_warnings": [
@@ -35,14 +35,14 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 11
+    "digest_items": 7
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 28 failed, 1242 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 25 failed, 1243 skipped",
     "greenhouse:dimagi": "ok: 0 postings",
     "greenhouse:onecampaign": "ok: 2 postings",
-    "greenhouse:resolvetosavelives": "ok: 5 postings",
+    "greenhouse:resolvetosavelives": "ok: 4 postings",
     "lever:ghcorps": "ok: 0 postings",
     "lever:wr": "ok: 39 postings",
     "page:APHRC": "disabled",
@@ -92,7 +92,7 @@
     "workable:villagereach": "ok: 0 postings",
     "workday:FHI 360": "ok: 35 postings",
     "workday:Management Sciences for Health": "ok: 29 postings",
-    "workday:PATH": "ok: 63 postings",
+    "workday:PATH": "ok: 62 postings",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
 }
