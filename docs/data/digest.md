@@ -1,6 +1,6 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 16 days) _(inferred date)_  
+- **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 15 days) _(inferred date)_  
   Check the RGC page for the published 2027/28 dates. The date above is a pattern from the 2026/27 cycle, not a published one. No home-institution requirement, which is why it stays on the list, but it selects heavily on publication record.
 
 ### Funded doctoral routes closing within 21 days
@@ -16,16 +16,18 @@
 
 ### 1 new, scoring 30 or above
 
-- **[Postdoctoral researcher in the Unit of Occupational Medicine, Institute of Environmental Medicine](https://jobrxiv.org/job/postdoctoral-researcher-in-the-unit-of-occupational-medicine-institute-of-environmental-medicine/)** (31)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Deputy Chief of Party / Technical Lead](https://ngojobsinafrica.com/job/deputy-chief-of-party-technical-lead-4/)** (59) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
 
 ### Closing within 3 days
 
 - **[Postdoctoral Researcher in Dementia and Chronic Disease Research](https://ki.varbi.com/se/what:job/jobID:983804/type:job/where:4/apply:1)** (47)  
   Karolinska Institutet (KI) · Sweden · closes 2026-11-17 · Sitemap:Varbi Karolinska Institutet
+- **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)** (45)  
+  Umeå universitet · Sweden · closes 2026-11-19 · Sitemap:Varbi Umea University
 
 ---
-433 open positions on the board, 0 of the new ones LMIC-related. 8 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 1 of the new ones LMIC-related. 7 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
