@@ -1,13 +1,13 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 15 days) _(inferred date)_  
+- **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 14 days) _(inferred date)_  
   Check the RGC page for the published 2027/28 dates. The date above is a pattern from the 2026/27 cycle, not a published one. No home-institution requirement, which is why it stays on the list, but it selects heavily on publication record.
 
 ### 2 new fully funded doctoral routes
 
-- **[PhD Position in Health Economics with a Focus on Precision Diagnostics and Personalized Healthcare](https://uu.varbi.com/se/what:job/jobID:990639/type:job/where:4/apply:1)**  
-  Uppsala universitet · Sweden · closes 2026-12-07 · Salaried post
-- **[Phd ai for early detection of cardiometabolic diseases using oral health data](https://www.academictransfer.com/en/jobs/365626/phd-ai-for-early-detection-of-cardiometabolic-diseases-using-oral-health-data/)**  
+- **[Msca dn phd position dc3 to study inter organelle crosstalk in viral infections](https://www.academictransfer.com/en/jobs/365629/msca-dn-phd-position-dc3-to-study-inter-organelle-crosstalk-in-viral-infections/)**  
+  Institution not stated · Netherlands · Salaried post
+- **[Msca dn phd position dc2 to study inter organelle crosstalk in viral infections](https://www.academictransfer.com/en/jobs/365630/msca-dn-phd-position-dc2-to-study-inter-organelle-crosstalk-in-viral-infections/)**  
   Institution not stated · Netherlands · Salaried post
 
 ### Funded doctoral routes closing within 21 days
@@ -23,22 +23,20 @@
 - **[PhD Position in Health Economics with a Focus on Precision Diagnostics and Personalized Healthcare](https://uu.varbi.com/se/what:job/jobID:990639/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-07 · Salaried post
 
-### 7 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Senior Manager, Early Childhood Development and Education](https://ngojobsinafrica.com/job/senior-manager-early-childhood-development-and-education-2/)** (75) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[HIV Data Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Senegal-Any/HIV-Data-Officer_Requisition-2026201672)** (67) `LMIC/focus`  
-  FHI 360 · Senegal · Workday:FHI 360
-- **[Senior Officer, Finance and Operations (EAII Advisors)](https://apply.workable.com/j/9739D2F62C)** (65) `LMIC/focus`  
+- **[NIGERIA – GRANTS & PARTNERSHIP HEAD OF DEPARTMENT (M/F) – ABUDJA](https://ngojobsinafrica.com/job/nigeria-grants-partnership-head-of-department-m-f-abudja/)** (71) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Manager, Government Scaling and Learning Management Operations (EAII Advisors)](https://apply.workable.com/j/B8CECC22B3)** (65) `LMIC/focus`  
   Evidence Action · India · Workable:evidence-action
-- **[Senior Technical Advisor (STA), Workforce Optimization, Dar Es Salaam](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Dar-es-Salaam-Tanzania/Senior-Technical-Advisor--STA---Workforce-Optimization--Dar-Es-Salaam_Requisition-2026201379-1)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Senior Regional Technical Officer, Supply Chain Tabora](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Tabora-Tanzania/Senior-Regional-Technical-Officer--Supply-Chain-Tabora_Requisition-2026201443)** (57) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Coordonnateur(trice) des équipes de reponse rapide-- RTT/Surge Coordinator](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Bunia-DRC/Coordonnateur-trice--des-quipes-de-reponse-rapide---RTT-Surge-Coordinator_Requisition-2026201663)** (41) `LMIC`  
-  FHI 360 · Congo, Dem. Rep. · Workday:FHI 360
-- **[Postdoc to the Clinical Memory Researchs unit](https://lu.varbi.com/se/what:job/jobID:988315/type:job/where:4/apply:1)** (32)  
-  Lunds universitet · Sweden · closes 2026-12-07 · Sitemap:Varbi Lund University
+- **[Research Coordinator – climate and health](https://ki.varbi.com/se/what:job/jobID:989911/type:job/where:4/apply:1)** (61) `focus`  
+  Karolinska Institutet (KI) · Sweden · closes 2026-12-08 · Sitemap:Varbi Karolinska Institutet
+- **[Deputy Chief of Party / Technical Lead](https://ngojobsinafrica.com/job/deputy-chief-of-party-technical-lead-4/)** (59) `LMIC/focus`  
+  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
+- **[Postdoctoral Research Fellow in Epidemiology and Population Health](https://jobrxiv.org/job/postdoctoral-research-fellow-in-epidemiology-and-population-health/)** (37)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[DRC People Operations & Duty of Care Associate (Fixed-Term)](https://ngojobsinafrica.com/job/drc-people-operations-duty-of-care-associate-fixed-term/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
 
 ### Closing within 3 days
 
@@ -46,9 +44,15 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-17 · Sitemap:Varbi Karolinska Institutet
 - **[PhD position in Molecular Biology in Data driven epidemiology and biology of infection](https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1)** (45)  
   Umeå universitet · Sweden · closes 2026-11-19 · Sitemap:Varbi Umea University
+- **[Postdoctoral researcher in liver disease epidemiology and biostatistics](https://ki.varbi.com/se/what:job/jobID:967378/type:job/where:4/apply:1)** (42)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
+- **[Research Assistant – AI-Based Analysis Tool for Prostate Cancer](https://ki.varbi.com/se/what:job/jobID:973539/type:job/where:4/apply:1)** (39)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
+- **[Senior Lecturer of Toxicology](https://ki.varbi.com/se/what:job/jobID:968825/type:job/where:4/apply:1)** (37)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-433 open positions on the board, 6 of the new ones LMIC-related. 9 fully funded doctoral routes on the PhD page.
+432 open positions on the board, 5 of the new ones LMIC-related. 11 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
