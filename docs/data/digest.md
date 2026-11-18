@@ -16,38 +16,24 @@
 - **[PhD Position in Health Economics with a Focus on Precision Diagnostics and Personalized Healthcare](https://uu.varbi.com/se/what:job/jobID:990639/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-07 · Salaried post
 
-### 15 new, scoring 30 or above
+### 8 new, scoring 30 or above
 
-- **[Gender and Safeguarding Manager -i work program](https://ngojobsinafrica.com/job/gender-and-safeguarding-manager-i-work-program/)** (67) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Technical Officer M&E/Accountability](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maiduguri-Nigeria/Technical-Officer-M-E-Accountability_Requisition-2026201702)** (63) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[People and Culture Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/New-Delhi-India/People-and-Culture-Officer_Requisition-2026201674)** (61) `LMIC/focus`  
-  FHI 360 · India · Workday:FHI 360
-- **[Assistant Technical Officer, Nutrition - CMAM (Banki)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Banki-Nigeria/Assistant-Technical-Officer--Nutrition---CMAM--Banki-_Requisition-2026201689)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Assistant Technical Officer, Nutrition - IYCF (Banki)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Banki-Nigeria/Assistant-Technical-Officer--Nutrition---IYCF--Banki-_Requisition-2026201688)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Assistant Technical Officer-Monitoring & Evaluation (Damasak)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Damasak-Nigeria/Assistant-Technical-Officer-Monitoring---Evaluation--Damasak-_Requisition-2026201703)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Assistant Technical Officer, Primary Health Care (Konduga)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Assistant-Technical-Officer--Primary-Health-Care--Konduga-_Requisition-2026201706)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Assistant Technical Officer, Primary Health Care (Damasak)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Damasak-Nigeria/Assistant-Technical-Officer--Primary-Health-Care--Damasak-_Requisition-2026201705)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Assistant Technical Officer, Primary Health Care (Ngala)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Gamboru-Ngala-Nigeria/Assistant-Technical-Officer--Primary-Health-Care--Ngala-_Requisition-2026201709)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Clinical Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Lome-Togo/Clinical-Officer_Requisition-2026201648)** (57) `LMIC/focus`  
-  FHI 360 · Togo · Workday:FHI 360
-- **[Principal Scientist, Machine Learning and Computational Biology](https://jobrxiv.org/job/principal-scientist-machine-learning-and-computational-biology/)** (41) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Scientist, Applied Modeling and Evaluation](https://jobrxiv.org/job/scientist-applied-modeling-and-evaluation/)** (41) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
-- **[Laboratory and Diagnostic Officer](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Indonesia-Any/Laboratory-and-Diagnostic-Officer_Requisition-2026201680-1)** (39) `LMIC`  
-  FHI 360 · Indonesia · Workday:FHI 360
-- **[Postdoctoral Research Associate – Neurology](https://jobrxiv.org/job/postdoctoral-research-associate-neurology-10/)** (30)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Principal Scientist – Formulations, Early Development](https://jobrxiv.org/job/principal-scientist-formulations-early-development/)** (30)  
-  Jobfront Industry · United States, United Kingdom · RSS:jobRxiv scientist
+- **[Senior Community Health Program Coordinator](https://lastmilehealth.applytojob.com/apply/ZDCUyrhFe1/Senior-Community-Health-Program-Coordinator)** (82) `LMIC/focus`  
+  Last Mile Health · Liberia · Page:Last Mile Health
+- **[HR Assistant – Maiduguri](https://ngojobsinafrica.com/job/hr-assistant-maiduguri/)** (75) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Postdoctoral researcher in women’s mental health and psychiatric epidemiology](https://ki.varbi.com/se/what:job/jobID:992413/type:job/where:4/apply:1)** (51)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-12-09 · Sitemap:Varbi Karolinska Institutet
+- **[Social Adjustment Service Program Specialist](https://jobs.lever.co/wr/525c951e-a51a-4dc0-a789-67c872715a70)** (43) `focus`  
+  Wr · TX · Lever:wr
+- **[Human Resources Officer](https://ngojobsinafrica.com/job/human-resources-officer-127/)** (42) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[Human Resources Manager](https://ngojobsinafrica.com/job/human-resources-manager-101/)** (42) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Nigeria
+- **[DRC People Operations & Duty of Care Associate (Fixed-Term)](https://ngojobsinafrica.com/job/drc-people-operations-duty-of-care-associate-fixed-term/)** (37) `focus`  
+  Ngojobsinafrica · location not stated · RSS:NGO Jobs Africa Zambia
+- **[PhD student in Indoor Climate and Climate Adaptation of Building Stocks](https://jobrxiv.org/job/phd-student-in-indoor-climate-and-climate-adaptation-of-building-stocks/)** (31)  
+  Jobfront Academia · location not stated · RSS:jobRxiv PhD
 
 ### Closing within 3 days
 
@@ -61,7 +47,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-20 · Sitemap:Varbi Karolinska Institutet
 
 ---
-446 open positions on the board, 13 of the new ones LMIC-related. 13 fully funded doctoral routes on the PhD page.
+449 open positions on the board, 6 of the new ones LMIC-related. 13 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
