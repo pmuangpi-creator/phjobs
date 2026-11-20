@@ -8,28 +8,31 @@ X-WR-CALDESC:Closing dates for funded doctoral routes
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:ae45df37c2ef623cad05@phjobs
-DTSTAMP:20261119T212506Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Closes: PhD position in Molecular Biology in Data driven epidemio
- logy and biology of infection
-DESCRIPTION:Umeå universitet | Umeå\, Sweden | relevance 45 | https://u
- mu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply:1
-LOCATION:Umeå\, Sweden
-URL:https://umu.varbi.com/se/what:job/jobID:979252/type:job/where:4/apply
- :1
+UID:0d359a3a013684fba9bf@phjobs
+DTSTAMP:20261120T082353Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Closes: Doctoral position in Systematic Theology or in Global Chr
+ istianity and Interreligious Relations\, with a thematic focus on Politi
+ cal Theology in Pluralist Societies
+DESCRIPTION:Lunds universitet | Lund\, Sweden | relevance 54 | LMIC focus
+  | https://lu.varbi.com/se/what:job/jobID:986946/type:job/where:4/apply:
+ 1
+LOCATION:Lund\, Sweden
+URL:https://lu.varbi.com/se/what:job/jobID:986946/type:job/where:4/apply:
+ 1
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Closes in 3 days: PhD position in Molecular Biology in Data d
- riven epidemiology and biology of infection
+DESCRIPTION:Closes in 3 days: Doctoral position in Systematic Theology or
+  in Global Christianity and Interreligious Relations\, with a thematic f
+ ocus on Political Theology in Pluralist Societies
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d4630709b8d245ba27f7@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Closes: PhD student in Indoor Climate and Climate Adaptation of B
@@ -49,7 +52,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:faec3735de024811288f@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: PhD student in Computational Science with focus on Simula
@@ -69,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bc504f7ee5da9a93e592@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: PhD student in biomarkers for neurodegenerative diseases
@@ -88,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e8d53f54a33d18ccbeaf@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Closes: PhD position in Neurosurgery\, with a Focus on Malignant 
@@ -108,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b515287d9d335f256d15@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Doctoral position in medical radiation physics
@@ -127,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:19dcf51c9955dad40f7b@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: PhD Position in Health Economics with a Focus on Precisio
@@ -147,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:195ef1a44cf59c627dc4@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Closes: PhD position/student in Diagnostic Radiology
@@ -166,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:06872f608d952cf62f17@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Closes: Implementation research route\, supervisor-led
@@ -186,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:406489c1c627b2f7cac0@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Closes: Predoctoral grant
@@ -203,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:91b1ef9111fb83b165f4@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Hong Kong PhD Fellowship Scheme 2027/28 (inferred date\, 
@@ -222,7 +225,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acf70da9c072d7191808@phjobs
-DTSTAMP:20261119T212506Z
+DTSTAMP:20261120T082353Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Closes: BOF sandwich PhD (inferred date\, confirm it)
