@@ -18,17 +18,11 @@
 - **[PhD student in Computational Science with focus on Simulation-based inference and Epidemiological Modeling](https://uu.varbi.com/se/what:job/jobID:989360/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-11 · Salaried post
 
-### 5 new, scoring 30 or above
+### 2 new, scoring 30 or above
 
-- **[Regional Implementation Consultant, IDSR in Private Health Facilities](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5491523008)** (73) `LMIC/focus`  
-  Resolvetosavelives · Ethiopia · Greenhouse:resolvetosavelives
-- **[Gender and Safeguarding Manager -i work program](https://ngojobsinafrica.com/job/gender-and-safeguarding-manager-i-work-program/)** (67) `LMIC/focus`  
-  Ngojobsinafrica · Ethiopia · RSS:NGO Jobs Africa Ethiopia
-- **[Data Scientist, Biologics (all genders) (full-time, permanent)](https://jobrxiv.org/job/data-scientist-biologics-all-genders-full-time-permanent/)** (42) `focus`  
-  Jobfront Industry · Germany · RSS:jobRxiv scientist
-- **[Postdoctoral Scientist — Neuroscience Genetics and Biomarkers](https://jobrxiv.org/job/postdoctoral-scientist-neuroscience-genetics-and-biomarkers/)** (34)  
-  Jobfront Industry · location not stated · RSS:jobRxiv postdoc
-- **[Principal Scientist, Virology Infectious Disease Research](https://jobrxiv.org/job/principal-scientist-virology-infectious-disease-research/)** (34) `focus`  
+- **[Postdoctoral researcher in the Unit of Occupational Medicine, Institute of Environmental Medicine](https://jobrxiv.org/job/postdoctoral-researcher-in-the-unit-of-occupational-medicine-institute-of-environmental-medicine/)** (31)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Sr Clinical Data Scientist](https://jobrxiv.org/job/sr-clinical-data-scientist-3/)** (30) `focus`  
   Jobfront Industry · location not stated · RSS:jobRxiv scientist
 
 ### Closing within 3 days
@@ -37,7 +31,7 @@
   Karolinska Institutet (KI) · Sweden · closes 2026-11-24 · Sitemap:Varbi Karolinska Institutet
 
 ---
-440 open positions on the board, 4 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
+436 open positions on the board, 1 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
