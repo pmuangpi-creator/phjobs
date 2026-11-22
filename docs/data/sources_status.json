@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T07:58:56+00:00",
-  "duration_seconds": 236.6,
+  "generated_at": "2026-11-22T20:20:33+00:00",
+  "duration_seconds": 238.7,
   "sources_ok": 48,
   "sources_total": 56,
   "wrote_data": true,
@@ -9,14 +9,14 @@
     "fetched": 450,
     "unique_ids": 462,
     "carried_over": 59,
-    "delisted_by_source": 13,
+    "delisted_by_source": 9,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
     "duplicates_collapsed": 16,
     "published": 434,
-    "gate_rejected": 785,
-    "lmic_duty_station": 132,
-    "lmic_focus": 181,
+    "gate_rejected": 787,
+    "lmic_duty_station": 133,
+    "lmic_focus": 182,
     "with_location": 286,
     "doctoral": {
       "routes": 25,
@@ -35,11 +35,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 13
+    "digest_items": 12
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1220 skipped",
+    "full-descriptions": "ok: 1 descriptions fetched, 14 failed, 1222 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 3 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -53,7 +53,7 @@
     "page:Last Mile Health": "ok: 11 candidate links",
     "page:Living Goods": "ok: 5 candidate links",
     "page:OUCRU": "ok: 2 candidate links",
-    "page:icddr,b": "ok: 1 candidate links",
+    "page:icddr,b": "ok: 2 candidate links",
     "rss:KEMRI-Wellcome": "ok: 10 entries",
     "rss:LSHTM MRC The Gambia": "ok: 0 entries (feed valid, nothing posted)",
     "rss:LSHTM MRC Uganda": "ok: 0 entries (feed valid, nothing posted)",
@@ -69,7 +69,7 @@
     "rss:NGO Jobs Africa Tanzania": "ok: 4 entries",
     "rss:NGO Jobs Africa Uganda": "ok: 10 entries",
     "rss:NGO Jobs Africa Zambia": "ok: 8 entries",
-    "rss:University of Leeds": "ok: 39 entries",
+    "rss:University of Leeds": "ok: 40 entries",
     "rss:University of Southampton": "ok: 45 entries",
     "rss:jobRxiv PhD": "ok: 100 entries",
     "rss:jobRxiv faculty": "ok: 100 entries",
