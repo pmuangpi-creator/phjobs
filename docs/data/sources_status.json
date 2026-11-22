@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-21T20:04:59+00:00",
-  "duration_seconds": 267.0,
-  "sources_ok": 46,
+  "generated_at": "2026-11-22T07:58:56+00:00",
+  "duration_seconds": 236.6,
+  "sources_ok": 48,
   "sources_total": 56,
   "wrote_data": true,
   "dry_run": false,
   "stats": {
-    "fetched": 396,
-    "unique_ids": 465,
-    "carried_over": 118,
-    "delisted_by_source": 9,
+    "fetched": 450,
+    "unique_ids": 462,
+    "carried_over": 59,
+    "delisted_by_source": 13,
     "expired_dropped": 0,
     "aged_out_no_deadline": 12,
-    "duplicates_collapsed": 17,
-    "published": 436,
-    "gate_rejected": 784,
-    "lmic_duty_station": 133,
+    "duplicates_collapsed": 16,
+    "published": 434,
+    "gate_rejected": 785,
+    "lmic_duty_station": 132,
     "lmic_focus": 181,
-    "with_location": 289,
+    "with_location": 286,
     "doctoral": {
-      "routes": 24,
-      "fully_funded": 14,
+      "routes": 25,
+      "fully_funded": 15,
       "needs_home_affiliation": 0,
       "nationality_restricted": 0,
       "by_funding": {
-        "salaried": 14,
+        "salaried": 15,
         "unstated": 10
       },
       "pinned": 26,
@@ -35,11 +35,11 @@
         "Supervision enquiry, Simon Reid: deadline 2026-10-19 has passed"
       ]
     },
-    "digest_items": 10
+    "digest_items": 13
   },
   "sources": {
     "bamboohr:idinsight": "ok: 0 postings",
-    "full-descriptions": "ok: 0 descriptions fetched, 14 failed, 1166 skipped",
+    "full-descriptions": "ok: 0 descriptions fetched, 15 failed, 1220 skipped",
     "greenhouse:dimagi": "ok: 1 postings",
     "greenhouse:onecampaign": "ok: 3 postings",
     "greenhouse:resolvetosavelives": "ok: 2 postings",
@@ -70,7 +70,7 @@
     "rss:NGO Jobs Africa Uganda": "ok: 10 entries",
     "rss:NGO Jobs Africa Zambia": "ok: 8 entries",
     "rss:University of Leeds": "ok: 39 entries",
-    "rss:University of Southampton": "ok: 48 entries",
+    "rss:University of Southampton": "ok: 45 entries",
     "rss:jobRxiv PhD": "ok: 100 entries",
     "rss:jobRxiv faculty": "ok: 100 entries",
     "rss:jobRxiv postdoc": "ok: 100 entries",
@@ -90,8 +90,8 @@
     "sitemap:Varbi Uppsala University": "ok: 76 entries",
     "workable:evidence-action": "ok: 61 postings",
     "workable:villagereach": "ok: 0 postings",
-    "workday:FHI 360": "error: 429 from https://fhi.wd1.myworkdayjobs.com/wday/cxs/fhi/FHI_360_External_Career_Portal/jobs",
-    "workday:Management Sciences for Health": "error: 429 from https://msh.wd503.myworkdayjobs.com/wday/cxs/msh/External/jobs",
+    "workday:FHI 360": "ok: 40 postings",
+    "workday:Management Sciences for Health": "ok: 18 postings",
     "workday:PATH": "error: 429 from https://path.wd1.myworkdayjobs.com/wday/cxs/path/External/jobs",
     "worldbank-income-groups": "ok: 217 economies from the World Bank"
   }
