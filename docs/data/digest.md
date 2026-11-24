@@ -3,11 +3,6 @@
 - **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 7 days) _(inferred date)_  
   Check the RGC page for the published 2027/28 dates. The date above is a pattern from the 2026/27 cycle, not a published one. No home-institution requirement, which is why it stays on the list, but it selects heavily on publication record.
 
-### 1 new fully funded doctoral route
-
-- **[PhD Scholarship – What is reproductive wellbeing?](https://jobrxiv.org/job/phd-scholarship-what-is-reproductive-wellbeing-3/)**  
-  Jobfront Academia · Australia · Salaried post
-
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
@@ -21,28 +16,20 @@
 - **[PhD student in Computational Science with focus on Simulation-based inference and Epidemiological Modeling](https://uu.varbi.com/se/what:job/jobID:989360/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-11 · Salaried post
 
-### 10 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Terms of reference for consultancy services to develop the rck strategic plan 2028–2032 call for consultants / consulting firm](https://ngojobsinafrica.com/job/terms-of-reference-for-consultancy-services-to-develop-the-rck-strategic-plan-2028-2032-call-for-consultants-consulting-firm/)** (94) `LMIC/focus`  
-  Ngojobsinafrica · Kenya · RSS:NGO Jobs Africa Kenya
-- **[Regional Technical Officer, TB services Mtwara](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Mtwara-Tanzania/Regional-Technical-Officer--TB-services-Mtwara_Requisition-2026201697)** (67) `LMIC/focus`  
-  FHI 360 · Tanzania · Workday:FHI 360
-- **[Assistant Technical Officer – WASH (Konduga)](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Nigeria-Any/Assistant-Technical-Officer---WASH--Konduga-_Requisition-2026201740)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[Technical Officer – Media and Communications](https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal/job/Maiduguri-Nigeria/Technical-Officer---Media-and-Communications_Requisition-2026201741)** (57) `LMIC/focus`  
-  FHI 360 · Nigeria · Workday:FHI 360
-- **[PhD Scholarship – What is reproductive wellbeing?](https://jobrxiv.org/job/phd-scholarship-what-is-reproductive-wellbeing-3/)** (48)  
-  Jobfront Academia · Australia · RSS:jobRxiv PhD
-- **[Postdoctoral researcher in women’s mental health and psychiatric epidemiology](https://jobrxiv.org/?post_type=job_listing&p=162751)** (45)  
-  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
-- **[Project Coordinator (PHP-PHES-2026-18)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=PHP-PHES-2026-18)** (42) `focus`  
-  Professional Services · United Kingdom · RSS:LSHTM public health and policy
-- **[AMR Surveillance Assessment Consultant, Epidemic Preparedness and Response, Global Health Programs](https://path.wd1.myworkdayjobs.com/External/job/AMR-Surveillance-Assessment-Consultant--Epidemic-Preparedness-and-Response--Global-Health-Programs_JR2733)** (34) `focus`  
-  PATH · location not stated · Workday:PATH
-- **[Postdoctoral Researcher in Defence-Related Medicine](https://ki.varbi.com/se/what:job/jobID:992654/type:job/where:4/apply:1)** (30)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-12-15 · Sitemap:Varbi Karolinska Institutet
-- **[Sr Clinical Data Scientist](https://jobrxiv.org/job/sr-clinical-data-scientist-3/)** (30) `focus`  
-  Jobfront Industry · location not stated · RSS:jobRxiv scientist
+- **[Pilot Implementation Consultant, Madagascar](https://apply.workable.com/j/98A85C9B28)** (69) `LMIC/focus`  
+  Evidence Action · Madagascar, Liberia, Zambia · Workable:evidence-action
+- **[Senior Epidemiologist –Genomic Epidemiology, Infectious Diseases (MDU PHL)](https://jobrxiv.org/job/senior-epidemiologist-genomic-epidemiology-infectious-diseases-mdu-phl/)** (43)  
+  Jobfront Academia · location not stated · RSS:jobRxiv scientist
+- **[(Sr.) QA Scientist](https://jobrxiv.org/job/sr-qa-scientist-2/)** (40) `LMIC`  
+  Jobfront Industry · China · RSS:jobRxiv scientist
+- **[Health & Wellness Coordinator -  2025953](https://jobs.lever.co/wr/c5f24d20-be9c-4de0-9fbe-210b162b2365)** (38) `focus`  
+  Wr · WA · Lever:wr
+- **[Postdoctoral Researcher on Health Inequalities](https://jobrxiv.org/job/postdoctoral-researcher-on-health-inequalities/)** (34)  
+  Jobfront Academia · Finland · RSS:jobRxiv postdoc
+- **[Tenure-Track Assistant Professor or Higher – Medical Geneticist](https://jobrxiv.org/job/tenure-track-assistant-professor-or-higher-medical-geneticist/)** (34) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ### Closing within 3 days
 
@@ -62,7 +49,7 @@
   Uppsala universitet · Sweden · closes 2026-11-27 · Sitemap:Varbi Uppsala University
 
 ---
-428 open positions on the board, 7 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
+433 open positions on the board, 4 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
