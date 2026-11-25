@@ -1,6 +1,6 @@
 ### Your doctoral pipeline, next 21 days
 
-- **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 7 days) _(inferred date)_  
+- **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 6 days) _(inferred date)_  
   Check the RGC page for the published 2027/28 dates. The date above is a pattern from the 2026/27 cycle, not a published one. No home-institution requirement, which is why it stays on the list, but it selects heavily on publication record.
 
 ### Funded doctoral routes closing within 21 days
@@ -16,25 +16,17 @@
 - **[PhD student in Computational Science with focus on Simulation-based inference and Epidemiological Modeling](https://uu.varbi.com/se/what:job/jobID:989360/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-11 · Salaried post
 
-### 6 new, scoring 30 or above
+### 3 new, scoring 30 or above
 
-- **[Pilot Implementation Consultant, Madagascar](https://apply.workable.com/j/98A85C9B28)** (69) `LMIC/focus`  
-  Evidence Action · Madagascar, Liberia, Zambia · Workable:evidence-action
-- **[Senior Epidemiologist –Genomic Epidemiology, Infectious Diseases (MDU PHL)](https://jobrxiv.org/job/senior-epidemiologist-genomic-epidemiology-infectious-diseases-mdu-phl/)** (43)  
-  Jobfront Academia · location not stated · RSS:jobRxiv scientist
-- **[(Sr.) QA Scientist](https://jobrxiv.org/job/sr-qa-scientist-2/)** (40) `LMIC`  
-  Jobfront Industry · China · RSS:jobRxiv scientist
-- **[Health & Wellness Coordinator -  2025953](https://jobs.lever.co/wr/c5f24d20-be9c-4de0-9fbe-210b162b2365)** (38) `focus`  
-  Wr · WA · Lever:wr
-- **[Postdoctoral Researcher on Health Inequalities](https://jobrxiv.org/job/postdoctoral-researcher-on-health-inequalities/)** (34)  
-  Jobfront Academia · Finland · RSS:jobRxiv postdoc
-- **[Tenure-Track Assistant Professor or Higher – Medical Geneticist](https://jobrxiv.org/job/tenure-track-assistant-professor-or-higher-medical-geneticist/)** (34) `focus`  
-  Jobfront Academia · location not stated · RSS:jobRxiv faculty
+- **[Field Coordinator, Technical Assistance ( EAII Advisors )](https://apply.workable.com/j/F9D915DA08)** (65) `LMIC/focus`  
+  Evidence Action · India · Workable:evidence-action
+- **[NIGERIA – FIELD COORDINATOR (M/F) – NORTH WEST](https://ngojobsinafrica.com/job/nigeria-field-coordinator-m-f-north-west/)** (65) `LMIC/focus`  
+  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
+- **[Postdoctoral researcher in Computational Biology](https://ki.varbi.com/se/what:job/jobID:993987/type:job/where:4/apply:1)** (42)  
+  Karolinska Institutet (KI) · Sweden · closes 2026-12-16 · Sitemap:Varbi Karolinska Institutet
 
 ### Closing within 3 days
 
-- **[Assistant Professor of Medical Education](https://ki.varbi.com/se/what:job/jobID:981656/type:job/where:4/apply:1)** (49) `focus`  
-  Karolinska Institutet (KI) · Sweden · closes 2026-11-24 · Sitemap:Varbi Karolinska Institutet
 - **[Assistant Researcher in Breathlessness and Chronic Respiratory Failure](https://lu.varbi.com/se/what:job/jobID:982402/type:job/where:4/apply:1)** (32)  
   Lunds universitet · Sweden · closes 2026-11-25 · Sitemap:Varbi Lund University
 - **[Postdoctoral Researcher in Pharmacometrics](https://ki.varbi.com/se/what:job/jobID:981781/type:job/where:4/apply:1)** (38) `focus`  
@@ -49,7 +41,7 @@
   Uppsala universitet · Sweden · closes 2026-11-27 · Sitemap:Varbi Uppsala University
 
 ---
-433 open positions on the board, 4 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
+429 open positions on the board, 2 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
