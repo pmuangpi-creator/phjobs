@@ -3,6 +3,11 @@
 - **Hong Kong PhD Fellowship Scheme 2027/28** — Hong Kong Research Grants Council, closes 2026-12-01 (in 6 days) _(inferred date)_  
   Check the RGC page for the published 2027/28 dates. The date above is a pattern from the 2026/27 cycle, not a published one. No home-institution requirement, which is why it stays on the list, but it selects heavily on publication record.
 
+### 1 new fully funded doctoral route
+
+- **[Teaching assistant in studying online service consumption](https://uu.varbi.com/se/what:job/jobID:994663/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-12-10 · Salaried post
+
 ### Funded doctoral routes closing within 21 days
 
 - **[PhD position in Neurosurgery, with a Focus on Malignant Brain Tumours](https://lu.varbi.com/se/what:job/jobID:981772/type:job/where:4/apply:1)**  
@@ -11,19 +16,27 @@
   Lunds universitet · Sweden · closes 2026-12-01 · Salaried post
 - **[PhD Position in Health Economics with a Focus on Precision Diagnostics and Personalized Healthcare](https://uu.varbi.com/se/what:job/jobID:990639/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-07 · Salaried post
+- **[Teaching assistant in studying online service consumption](https://uu.varbi.com/se/what:job/jobID:994663/type:job/where:4/apply:1)**  
+  Uppsala universitet · Sweden · closes 2026-12-10 · Salaried post
 - **[PhD position/student in Diagnostic Radiology](https://lu.varbi.com/en/what:job/jobID:987293/type:job/where:4/apply:1)**  
   Lunds universitet · Sweden · closes 2026-12-10 · Salaried post
 - **[PhD student in Computational Science with focus on Simulation-based inference and Epidemiological Modeling](https://uu.varbi.com/se/what:job/jobID:989360/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-11 · Salaried post
 
-### 3 new, scoring 30 or above
+### 6 new, scoring 30 or above
 
-- **[Field Coordinator, Technical Assistance ( EAII Advisors )](https://apply.workable.com/j/F9D915DA08)** (65) `LMIC/focus`  
-  Evidence Action · India · Workable:evidence-action
-- **[NIGERIA – FIELD COORDINATOR (M/F) – NORTH WEST](https://ngojobsinafrica.com/job/nigeria-field-coordinator-m-f-north-west/)** (65) `LMIC/focus`  
-  Ngojobsinafrica · Nigeria · RSS:NGO Jobs Africa Nigeria
-- **[Postdoctoral researcher in Computational Biology](https://ki.varbi.com/se/what:job/jobID:993987/type:job/where:4/apply:1)** (42)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-12-16 · Sitemap:Varbi Karolinska Institutet
+- **[Data Management Consultant, IDSR in Private Health Facilities](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5494191008)** (92) `LMIC/focus`  
+  Resolvetosavelives · Ethiopia · Greenhouse:resolvetosavelives
+- **[Regional TB Advisor](https://msh.wd503.myworkdayjobs.com/External/job/Ethiopia-Southwest/Regional-TB-Advisor_R5269)** (69) `LMIC/focus`  
+  Management Sciences for Health · Ethiopia · Workday:Management Sciences for Health
+- **[Assistant researcher to Social medicine and Global health](https://lu.varbi.com/se/what:job/jobID:992958/type:job/where:4/apply:1)** (54) `focus`  
+  Lunds universitet · Sweden · closes 2026-12-11 · Sitemap:Varbi Lund University
+- **[Associate, Field Monitoring, MLE, MMS](https://apply.workable.com/j/469013577F)** (48) `focus`  
+  Evidence Action · location not stated · Workable:evidence-action
+- **[Postdoctoral researcher in women’s mental health and psychiatric epidemiology](https://jobrxiv.org/job/postdoctoral-researcher-in-womens-mental-health-and-psychiatric-epidemiology/)** (45)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Teaching assistant in studying online service consumption](https://uu.varbi.com/se/what:job/jobID:994663/type:job/where:4/apply:1)** (30)  
+  Uppsala universitet · Sweden · closes 2026-12-10 · Sitemap:Varbi Uppsala University
 
 ### Closing within 3 days
 
@@ -41,7 +54,7 @@
   Uppsala universitet · Sweden · closes 2026-11-27 · Sitemap:Varbi Uppsala University
 
 ---
-429 open positions on the board, 2 of the new ones LMIC-related. 14 fully funded doctoral routes on the PhD page.
+438 open positions on the board, 4 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
