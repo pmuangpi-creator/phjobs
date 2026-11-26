@@ -18,18 +18,34 @@
 - **[PhD student in Computational Science with focus on Simulation-based inference and Epidemiological Modeling](https://uu.varbi.com/se/what:job/jobID:989360/type:job/where:4/apply:1)**  
   Uppsala universitet · Sweden · closes 2026-12-11 · Salaried post
 
-### 5 new, scoring 30 or above
+### 13 new, scoring 30 or above
 
-- **[Principal Data Scientist Engineer](https://jobrxiv.org/job/principal-data-scientist-engineer-3/)** (67) `LMIC/focus`  
-  Jobfront Industry · India · RSS:jobRxiv scientist
-- **[Regional Technical Lead, Maternal, Newborn and Child Health and Team Lead Mother Baby Friendly Initiative Plus, Primary Health Care](https://path.wd1.myworkdayjobs.com/External/job/Kenya-Nairobi-Country-Program-Office/Technical-Lead--Maternal-Newborn-and-Child-Health--Primary-Health-Care_JR2971)** (65) `LMIC/focus`  
-  PATH · Kenya · Workday:PATH
-- **[Research Assistant (EPH-DPH-2026-10)](https://jobs.lshtm.ac.uk/rss/click.aspx?ref=EPH-DPH-2026-10)** (50) `focus`  
-  Academic · United Kingdom · RSS:LSHTM epidemiology and population health
-- **[Assistant Professor in Dementia Epidemiology and Data Science](https://ki.varbi.com/se/what:job/jobID:982713/type:job/where:4/apply:1)** (43)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-12-17 · Sitemap:Varbi Karolinska Institutet
-- **[Senior Lecturer of Toxicology](https://ki.varbi.com/se/what:job/jobID:968825/type:job/where:4/apply:1)** (37)  
-  Karolinska Institutet (KI) · Sweden · closes 2026-12-11 · Sitemap:Varbi Karolinska Institutet
+- **[Advisor, Community Health Financing (Sierra Leone)](https://lastmilehealth.applytojob.com/apply/IWvuYAbdds/Advisor-Community-Health-Financing-Sierra-Leone)** (75) `LMIC/focus`  
+  Last Mile Health · Sierra Leone · Page:Last Mile Health
+- **[IT Coordinator](https://lastmilehealth.applytojob.com/apply/Ku9SqLMIC7/IT-Coordinator)** (70) `LMIC/focus`  
+  Last Mile Health · Liberia, Ethiopia · Page:Last Mile Health
+- **[Advisor, Health Financing (Malawi)](https://lastmilehealth.applytojob.com/apply/FQtgKgWx7h/Advisor-Health-Financing-Malawi)** (69) `LMIC/focus`  
+  Last Mile Health · Malawi · Page:Last Mile Health
+- **[Clinical Research Unit, Kenya](https://www.aku.edu/cru/Pages/home.aspx)** (67) `LMIC/focus`  
+  Aga Khan University · Kenya · Page:Aga Khan University
+- **[Project Management 10](https://ihi.or.tz/en/our-job-posts/?category=8)** (63) `LMIC/focus`  
+  Ifakara Health Institute · Tanzania · Page:Ifakara Health Institute
+- **[Clinical Trials Unit, Pakistan](https://www.aku.edu/ctu/pages/home.aspx)** (63) `LMIC/focus`  
+  Aga Khan University · Pakistan · Page:Aga Khan University
+- **[Postdoctoral Scholar – Computational Multi-Omics, Translational Oncology & Liquid Biopsy](https://jobrxiv.org/job/postdoctoral-scholar-computational-multi-omics-translational-oncology-liquid-biopsy/)** (39) `focus`  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Policy and Advocacy Manager](https://job-boards.greenhouse.io/onecampaign/jobs/6271905004)** (36) `focus`  
+  Onecampaign · United Kingdom · Greenhouse:onecampaign
+- **[Postdoctoral researcher in Computational Biology](https://jobrxiv.org/job/postdoctoral-researcher-in-computational-biology-3/)** (36)  
+  Jobfront Academia · location not stated · RSS:jobRxiv postdoc
+- **[Research Associate (Fault-Zone Analysis in Bedrock)](https://jobrxiv.org/job/research-associate-fault-zone-analysis-in-bedrock/)** (34)  
+  Jobfront Academia · Singapore · RSS:jobRxiv research assistant
+- **[Research Assistant/Associate, AI in Medicine](https://jobrxiv.org/job/research-assistant-associate-ai-in-medicine-3/)** (34)  
+  Jobfront Academia · location not stated · RSS:jobRxiv research assistant
+- **[Postdoc to the unit Clinical Memory Research](https://lu.varbi.com/se/what:job/jobID:995191/type:job/where:4/apply:1)** (32)  
+  Lunds universitet · Sweden · closes 2026-12-17 · Sitemap:Varbi Lund University
+- **[Occupational, Environmental and Climate Medicine – Academic Clinical Faculty](https://jobrxiv.org/job/occupational-environmental-and-climate-medicine-academic-clinical-faculty/)** (30)  
+  Jobfront Academia · location not stated · RSS:jobRxiv faculty
 
 ### Closing within 3 days
 
@@ -45,7 +61,7 @@
   Uppsala universitet · Sweden · closes 2026-11-27 · Sitemap:Varbi Uppsala University
 
 ---
-423 open positions on the board, 3 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
+435 open positions on the board, 8 of the new ones LMIC-related. 15 fully funded doctoral routes on the PhD page.
 
 [Open the board](https://pmuangpi-creator.github.io/phjobs/) · [Doctoral routes](https://pmuangpi-creator.github.io/phjobs/phd.html)
 
